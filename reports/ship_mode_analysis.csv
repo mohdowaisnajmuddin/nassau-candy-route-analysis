@@ -1,0 +1,5 @@
+Ship Mode,Order_Lines,Distinct_Orders,Mean_Estimated_Distance_KM,Median_Estimated_Distance_KM,Minimum_Estimated_Distance_KM,Maximum_Estimated_Distance_KM
+First Class,1548,1312,2016.96,1730.12,57.7,3869.35
+Same Day,547,442,1990.28,1718.06,63.96,3865.14
+Second Class,1979,1653,2013.1,1774.92,57.7,3900.32
+Standard Class,6120,5142,2008.0,1690.13,10.09,5138.32

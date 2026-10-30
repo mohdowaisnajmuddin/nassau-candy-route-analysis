@@ -1,0 +1,24 @@
+City,State/Province,Postal Code,Candidate_Count,Candidate_Number,Candidate_Latitude,Candidate_Longitude,Candidate_Display_Name,Candidate_Postcode,Candidate_City,Candidate_State,Search_Status
+Woodland,California,95695,1,1,38.6786109,-121.7733285,"Woodland, Yolo County, California, 95776, United States",95776,Woodland,California,Candidates_Returned
+Commerce City,Colorado,80022,2,1,39.8083196,-104.9338675,"Commerce City, Adams County, Colorado, 80640, United States",80640,Commerce City,Colorado,Candidates_Returned
+Commerce City,Colorado,80022,2,2,39.8513446,-104.8990056,"Commerce City, Adams County, Colorado, United States",,Commerce City,Colorado,Candidates_Returned
+Fairfield,Connecticut,6824,2,1,41.1412078,-73.2637258,"Fairfield, Greater Bridgeport Planning Region, Connecticut, United States",,Fairfield,Connecticut,Candidates_Returned
+Fairfield,Connecticut,6824,2,2,41.1394041,-73.2561590,"Fairfield, Greater Bridgeport Planning Region, Connecticut, United States",,Fairfield,Connecticut,Candidates_Returned
+Shelton,Connecticut,6484,2,1,41.3164856,-73.0931641,"Shelton, Naugatuck Valley Planning Region, Connecticut, 06484, United States",06484,Shelton,Connecticut,Candidates_Returned
+Shelton,Connecticut,6484,2,2,41.3546999,-73.1383092,"Shelton, Naugatuck Valley Planning Region, Connecticut, 06484, United States",06484,Shelton,Connecticut,Candidates_Returned
+Saint Charles,Illinois,60174,1,1,41.9563212,-88.3227623,"Reserve Of Saint Charles, St. Charles, St. Charles Township, Kane County, Illinois, 60177, United States",60177,St. Charles,Illinois,Candidates_Returned
+Greenwood,Indiana,46142,1,1,39.6136987,-86.1095429,"Greenwood, Johnson County, Indiana, 46143, United States",46143,Greenwood,Indiana,Candidates_Returned
+Monroe,Louisiana,71203,1,1,32.5025471,-92.1162190,"Monroe, Ouachita Parish, Louisiana, United States",,Monroe,Louisiana,Candidates_Returned
+Marlborough,Massachusetts,1752,1,1,42.3468589,-71.5525188,"Marlborough, Middlesex County, Massachusetts, 01752, United States",01752,Marlborough,Massachusetts,Candidates_Returned
+Westfield,New Jersey,7090,1,1,40.6517260,-74.3483059,"Westfield, Union County, New Jersey, 07090, United States",07090,Westfield,New Jersey,Candidates_Returned
+New York City,New York,10035,1,1,40.7127281,-74.0060152,"New York, United States",,New York,New York,Candidates_Returned
+Hamilton,Ohio,45011,1,1,39.3995067,-84.5613428,"Hamilton, Butler County, Ohio, United States",,Hamilton,Ohio,Candidates_Returned
+Tigard,Oregon,97224,1,1,45.4307473,-122.7719330,"Tigard, Washington County, Oregon, 97223, United States",97223,Tigard,Oregon,Candidates_Returned
+Warwick,Rhode Island,2886,1,1,41.6992717,-71.4586114,"Warwick, Kent County, Rhode Island, United States",,Warwick,Rhode Island,Candidates_Returned
+Lebanon,Tennessee,37087,1,1,36.2079779,-86.2910945,"Lebanon, Wilson County, Middle Tennessee, Tennessee, United States",,Lebanon,Tennessee,Candidates_Returned
+Smyrna,Tennessee,37167,1,1,35.9824598,-86.5199492,"Smyrna, Rutherford County, Middle Tennessee, Tennessee, United States",,Smyrna,Tennessee,Candidates_Returned
+Houston,Texas,77095,1,1,29.7589382,-95.3676974,"Houston, Harris County, Texas, United States",,Houston,Texas,Candidates_Returned
+Houston,Texas,77070,1,1,29.7589382,-95.3676974,"Houston, Harris County, Texas, United States",,Houston,Texas,Candidates_Returned
+Houston,Texas,77041,1,1,29.7589382,-95.3676974,"Houston, Harris County, Texas, United States",,Houston,Texas,Candidates_Returned
+Springfield,Virginia,22153,1,1,38.7791227,-77.1861196,"Springfield, Fairfax County, Virginia, 22150, United States",22150,Springfield,Virginia,Candidates_Returned
+Olympia,Washington,98502,1,1,47.0451022,-122.8950075,"Olympia, Thurston County, Washington, United States",,Olympia,Washington,Candidates_Returned

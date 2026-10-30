@@ -1,0 +1,656 @@
+Country/Region,State/Province,City,Postal Code,Latitude,Longitude,Lookup_Status,Match_Display_Name,Match_Count
+Canada,Alberta,Calgary,T2C,51.0456064,-114.057541,Found,"Calgary, Alberta, Canada",1
+Canada,Alberta,Calgary,T1Y,51.08166,-113.946545,Found_Canada_FSA,T1Y,1
+Canada,Alberta,Edmonton,T5A,53.593366,-113.408293,Found_Canada_FSA,T5A,1
+Canada,British Columbia,Vancouver,V6Z,49.275006,-123.119993,Found_Canada_FSA,V6Z,1
+Canada,British Columbia,Vancouver,V6G,49.298985,-123.140783,Found_Canada_FSA,V6G,1
+Canada,British Columbia,Vancouver,V6B,49.2608724,-123.113952,Found,"Vancouver, Metro Vancouver Regional District, British Columbia, Canada",1
+Canada,British Columbia,Vancouver,V5K,49.280764,-123.039539,Found_Canada_FSA,V5K,1
+Canada,British Columbia,Vancouver,V6E,49.283314,-123.129497,Found_Canada_FSA,V6E,1
+Canada,Manitoba,Winnipeg,R0H,50.480808,-98.731863,Found_Canada_FSA,R0H,1
+Canada,Manitoba,Winnipeg,R3R,49.854655,-97.287483,Found_Canada_FSA,R3R,1
+Canada,New Brunswick,Moncton,E1A,46.0985679,-64.8004265,Found,"City of Moncton, Westmorland County, New Brunswick / Nouveau-Brunswick, Canada",1
+Canada,Newfoundland and Labrador,St. John's,A0A,47.5646794,-52.7066964,Found,"St. John's, Newfoundland, Newfoundland and Labrador, Canada",1
+Canada,Nova Scotia,Halifax,B3H,44.648618,-63.5859487,Found,"Halifax, Halifax Regional Municipality, Halifax County, Nova Scotia, Canada",1
+Canada,Ontario,Toronto,M7A,43.6534817,-79.3839347,Found,"Toronto, Ontario, Canada",1
+Canada,Ontario,Toronto,M3C,43.723814,-79.341299,Found_Canada_FSA,M3C,1
+Canada,Ontario,Toronto,M5H,43.648586,-79.382147,Found_Canada_FSA,M5H,1
+Canada,Ontario,Toronto,M2N,43.767371,-79.411013,Found_Canada_FSA,M2N,1
+Canada,Prince Edward Island,Charlottetown,C0A,46.268973,-62.792818,Found_Canada_FSA,C0A,1
+Canada,Quebec,Montreal,H1A,45.5031824,-73.5698065,Found,"Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada",1
+Canada,Quebec,Montreal,H1B,45.5031824,-73.5698065,Found,"Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada",1
+Canada,Quebec,Montreal,H1C,45.5031824,-73.5698065,Found,"Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada",1
+Canada,Quebec,Quebec City,G1B,46.8137431,-71.2084061,Found,"Québec, Agglomération de Québec, Capitale-Nationale, Québec, Canada",1
+Canada,Saskatchewan,Regina,S0G,50.547251,-104.06142,Found_Canada_FSA,S0G,1
+United States,Alabama,Auburn,36830,32.6036176,-85.4758255,Found,"36830, Auburn, Lee County, Alabama, United States",1
+United States,Alabama,Decatur,35601,34.5896285,-86.9897429,Found,"35601, Decatur, Morgan County, Alabama, United States",1
+United States,Alabama,Florence,35630,34.8187306,-87.6633297,Found,"35630, Edgemont, Florence, Lauderdale County, Alabama, United States",1
+United States,Alabama,Hoover,35244,33.3591437,-86.8177312,Found,"35244, Hoover, Jefferson County, Alabama, United States",1
+United States,Alabama,Huntsville,35810,34.7791698,-86.6047201,Found,"35810, Huntsville, Madison County, Alabama, United States",1
+United States,Alabama,Mobile,36608,30.6929626,-88.1898863,Found,"36608, Mobile City Council District 7, Mobile, Mobile County, Alabama, United States",1
+United States,Alabama,Montgomery,36116,32.3184543,-86.2171831,Found,"36116, Montgomery, Montgomery County, Alabama, United States",1
+United States,Alabama,Tuscaloosa,35401,33.1977289,-87.5642586,Found,"35401, Tuscaloosa, Tuscaloosa County, Alabama, United States",1
+United States,Arizona,Avondale,85323,33.4327053,-112.319443,Found,"85323, Avondale, Maricopa County, Arizona, United States",1
+United States,Arizona,Bullhead City,86442,35.0908289,-114.6036115,Found,"86442, Bullhead City, Mohave County, Arizona, United States",1
+United States,Arizona,Chandler,85224,33.32558,-111.8753547,Found,"85224, Chandler, Maricopa County, Arizona, United States",1
+United States,Arizona,Gilbert,85234,33.3620094,-111.7369783,Found,"85234, Gilbert, Maricopa County, Arizona, United States",1
+United States,Arizona,Glendale,85301,33.5335737,-112.1746565,Found,"85301, Glendale, Maricopa County, Arizona, United States",1
+United States,Arizona,Mesa,85204,33.4005656,-111.7883352,Found,"85204, Mesa, Maricopa County, Arizona, United States",1
+United States,Arizona,Peoria,85345,33.5781427,-112.2396616,Found,"85345, Peoria, Maricopa County, Arizona, United States",1
+United States,Arizona,Phoenix,85023,33.6373012,-112.0939293,Found,"85023, Deer Valley, Phoenix, Maricopa County, Arizona, United States",1
+United States,Arizona,Scottsdale,85254,33.4942189,-111.926018,Found,"Scottsdale, Maricopa County, Arizona, United States",1
+United States,Arizona,Sierra Vista,85635,31.5439448,-110.2605431,Found,"85635, Sierra Vista, Cochise County, Arizona, United States",1
+United States,Arizona,Tempe,85281,33.4407074,-111.930685,Found,"85281, Tempe, Maricopa County, Arizona, United States",1
+United States,Arizona,Tucson,85705,32.2546545,-110.9782954,Found,"85705, Miracle Manor, Tucson, Pima County, Arizona, United States",1
+United States,Arizona,Yuma,85364,32.7000624,-114.6359614,Found,"85364, Yuma, Yuma County, Arizona, United States",1
+United States,Arkansas,Conway,72032,35.0842076,-92.4190495,Found,"72032, Conway, Faulkner County, Arkansas, United States",1
+United States,Arkansas,Fayetteville,72701,36.0490627,-94.1385494,Found,"72701, Fayetteville, Washington County, Arkansas, United States",1
+United States,Arkansas,Hot Springs,71901,34.502312,-93.0202518,Found,"71901, Hot Springs, Garland County, Arkansas, United States",1
+United States,Arkansas,Jonesboro,72401,35.8383164,-90.6882419,Found,"72401, Jonesboro, Craighead County, Arkansas, United States",1
+United States,Arkansas,Little Rock,72209,34.6766433,-92.351208,Found,"72209, Little Rock, Big Rock Township, Pulaski County, Arkansas, United States",1
+United States,Arkansas,Pine Bluff,71603,34.1805368,-92.0499448,Found,"71603, Pine Bluff, Jefferson County, Arkansas, United States",1
+United States,Arkansas,Rogers,72756,36.3437726,-94.0983147,Found,"72756, Rogers, Benton County, Arkansas, United States",1
+United States,Arkansas,Springdale,72762,36.1847692,-94.1926786,Found,"72762, Springdale, Washington County, Arkansas, United States",1
+United States,Arkansas,Texarkana,71854,33.4435496,-94.017333,Found,"71854, Texarkana, Miller County, Arkansas, United States",1
+United States,California,Anaheim,92804,33.8175708,-117.9747397,Found,"92804, Anaheim, Orange County, California, United States",1
+United States,California,Antioch,94509,38.0012736,-121.8057956,Found,"94509, Antioch, Contra Costa County, California, United States",1
+United States,California,Apple Valley,92307,34.5227373,-117.2306282,Found,"92307, Apple Valley, San Bernardino County, California, United States",1
+United States,California,Bakersfield,93309,35.3455919,-119.0587247,Found,"93309, Bakersfield, Kern County, California, United States",1
+United States,California,Brentwood,94513,37.9367051,-121.7124258,Found,"94513, Brentwood, Contra Costa County, California, United States",1
+United States,California,Burbank,91505,34.1687816,-118.342744,Found,"91505, Burbank, Los Angeles County, California, United States",1
+United States,California,Camarillo,93010,34.2203936,-119.0584429,Found,"93010, Camarillo, Ventura County, California, United States",1
+United States,California,Chico,95928,39.72228,-121.8337397,Found,"95928, Chico, Butte County, California, United States",1
+United States,California,Chula Vista,91911,32.6103671,-117.0489917,Found,"91911, Chula Vista, San Diego County, California, United States",1
+United States,California,Citrus Heights,95610,38.6768788,-121.2766044,Found,"95610, Citrus Heights, Sacramento County, California, United States",1
+United States,California,Coachella,92236,33.6806143,-116.1873388,Found,"92236, Coachella, Riverside County, California, United States",1
+United States,California,Concord,94521,37.9595004,-121.9856584,Found,"94521, Concord, Contra Costa County, California, United States",1
+United States,California,Costa Mesa,92627,33.6461365,-117.9177142,Found,"92627, Costa Mesa, Orange County, California, United States",1
+United States,California,Danville,94526,37.814654,-121.9910294,Found,"94526, Danville, Contra Costa County, California, United States",1
+United States,California,Davis,95616,38.5461793,-121.7481678,Found,"95616, Davis, Yolo County, California, United States",1
+United States,California,Dublin,94568,37.7187828,-121.8617697,Found,"94568, Dublin, Alameda County, California, United States",1
+United States,California,El Cajon,92020,32.7936483,-116.9721736,Found,"92020, El Cajon, San Diego County, California, United States",1
+United States,California,Encinitas,92024,33.0558312,-117.2695268,Found,"92024, Leucadia, Encinitas, San Diego County, California, United States",1
+United States,California,Escondido,92025,33.1066332,-117.0690017,Found,"92025, Escondido, San Diego County, California, United States",1
+United States,California,Fairfield,94533,38.272603,-122.0167204,Found,"94533, Fairfield, Solano County, California, United States",1
+United States,California,Fresno,93727,36.7356237,-119.713117,Found,"93727, Fresno, Fresno County, California, United States",1
+United States,California,Hesperia,92345,34.4259298,-117.3169466,Found,"92345, Hesperia, San Bernardino County, California, United States",1
+United States,California,Huntington Beach,92646,33.6686796,-117.9678469,Found,"92646, Huntington Beach, Orange County, California, United States",1
+United States,California,Inglewood,90301,33.9786413,-118.3679416,Found,"90301, Inglewood, Los Angeles County, California, United States",1
+United States,California,La Mesa,91941,32.7600926,-117.0070407,Found,"91941, La Mesa, San Diego County, California, United States",1
+United States,California,La Quinta,92253,33.6936542,-116.2988284,Found,"92253, La Quinta, Riverside County, California, United States",1
+United States,California,Laguna Niguel,92677,33.5297153,-117.7013312,Found,"92677, Laguna Niguel, Orange County, California, United States",1
+United States,California,Lake Elsinore,92530,33.6674074,-117.3514777,Found,"92530, Lake Elsinore, Riverside County, California, United States",1
+United States,California,Lake Forest,92630,33.641697,-117.6893708,Found,"92630, Lake Forest, Orange County, California, United States",1
+United States,California,Lakewood,90712,33.8518341,-118.1445205,Found,"90712, Lakewood, Los Angeles County, California, United States",1
+United States,California,Lancaster,93534,34.6892856,-118.1415542,Found,"93534, Lancaster, Los Angeles County, California, United States",1
+United States,California,Lodi,95240,38.1186847,-121.2669515,Found,"95240, Lodi, San Joaquin County, California, United States",1
+United States,California,Long Beach,90805,33.8647793,-118.1742651,Found,"90805, Long Beach, Los Angeles County, California, United States",1
+United States,California,Los Angeles,90049,34.0735363,-118.4698864,Found,"90049, Los Angeles, Los Angeles County, California, United States",1
+United States,California,Los Angeles,90036,34.0680369,-118.3543702,Found,"90036, Los Angeles, Los Angeles County, California, United States",1
+United States,California,Los Angeles,90008,34.0090951,-118.3301874,Found,"90008, Los Angeles, Los Angeles County, California, United States",1
+United States,California,Los Angeles,90004,34.0740255,-118.3007302,Found,"90004, Los Angeles, Los Angeles County, California, United States",1
+United States,California,Los Angeles,90045,33.9654123,-118.399037,Found,"90045, Los Angeles, Los Angeles County, California, United States",1
+United States,California,Los Angeles,90032,34.0698296,-118.1737595,Found,"90032, Los Angeles, Los Angeles County, California, United States",1
+United States,California,Manteca,95336,37.8187733,-121.2422135,Found,"95336, Manteca, San Joaquin County, California, United States",1
+United States,California,Mission Viejo,92691,33.6153314,-117.6651936,Found,"92691, Mission Viejo, Orange County, California, United States",1
+United States,California,Modesto,95351,37.6329495,-121.0084903,Found,"95351, Modesto, Stanislaus County, California, United States",1
+United States,California,Montebello,90640,34.010289,-118.1268318,Found,"90640, Montebello, Los Angeles County, California, United States",1
+United States,California,Moreno Valley,92553,33.934469,-117.244483,Found,"92553, Moreno Valley, Riverside County, California, United States",1
+United States,California,Morgan Hill,95037,37.1359295,-121.666883,Found,"95037, Morgan Hill, Santa Clara County, California, United States",1
+United States,California,Murrieta,92563,33.5740705,-117.1543234,Found,"92563, Murrieta, Riverside County, California, United States",1
+United States,California,Oakland,94601,37.7758967,-122.2218765,Found,"94601, Oakland, Alameda County, California, United States",1
+United States,California,Oceanside,92054,33.1924759,-117.3576604,Found,"92054, Oceanside, San Diego County, California, United States",1
+United States,California,Ontario,91761,34.032496,-117.638731,Found,"91761, Ontario, San Bernardino County, California, United States",1
+United States,California,Oxnard,93030,34.2043261,-119.1671051,Found,"93030, Oxnard, Ventura County, California, United States",1
+United States,California,Pasadena,91104,34.1651169,-118.1215219,Found,"91104, Pasadena Council District 2, Pasadena, Los Angeles County, California, United States",1
+United States,California,Pico Rivera,90660,33.9892473,-118.088497,Found,"90660, Pico Rivera, Los Angeles County, California, United States",1
+United States,California,Pomona,91767,34.0805957,-117.7390905,Found,"91767, Pomona, Los Angeles County, California, United States",1
+United States,California,Rancho Cucamonga,91730,34.1036146,-117.5898428,Found,"91730, Cucamonga, Rancho Cucamonga, San Bernardino County, California, United States",1
+United States,California,Redding,96003,40.6051615,-122.358433,Found,"96003, Redding, Shasta County, California, United States",1
+United States,California,Redlands,92374,34.066354,-117.1680545,Found,"92374, Redlands, San Bernardino County, California, United States",1
+United States,California,Redondo Beach,90278,33.8669342,-118.3758622,Found,"90278, Redondo Beach, Los Angeles County, California, United States",1
+United States,California,Redwood City,94061,37.4863239,-122.232523,Found,"Redwood City, San Mateo County, California, 94063, United States",1
+United States,California,Riverside,92503,33.8795851,-117.4400994,Found,"92503, Riverside County, California, United States",1
+United States,California,Roseville,95661,38.7486014,-121.2473117,Found,"95661, Roseville, Placer County, California, United States",1
+United States,California,Sacramento,95823,38.4770272,-121.434138,Found,"95823, Parkway, Sacramento, Sacramento County, California, United States",1
+United States,California,Salinas,93905,36.6913764,-121.6139645,Found,"93905, Salinas, Monterey County, California, United States",1
+United States,California,San Bernardino,92404,34.1392038,-117.2624208,Found,"92404, San Bernardino, San Bernardino County, California, United States",1
+United States,California,San Clemente,92672,33.4285006,-117.6132081,Found,"92672, San Clemente, Orange County, California, United States",1
+United States,California,San Diego,92037,32.8344879,-117.2578121,Found,"92037, San Diego, San Diego County, California, United States",1
+United States,California,San Diego,92024,33.0558312,-117.2695268,Found,"92024, Leucadia, Encinitas, San Diego County, California, United States",1
+United States,California,San Diego,92105,32.7393847,-117.0955351,Found,"92105, San Diego, San Diego County, California, United States",1
+United States,California,San Francisco,94109,37.7933026,-122.420177,Found,"94109, San Francisco, California, United States",1
+United States,California,San Francisco,94110,37.7533155,-122.4169991,Found,"94110, San Francisco, California, United States",1
+United States,California,San Francisco,94122,37.7610672,-122.4724119,Found,"94122, San Francisco, California, United States",1
+United States,California,San Gabriel,91776,34.089861,-118.0948872,Found,"91776, San Gabriel, Los Angeles County, California, United States",1
+United States,California,San Jose,95123,37.24537,-121.8256927,Found,"95123, San Jose, Santa Clara County, California, United States",1
+United States,California,San Luis Obispo,93405,35.2697271,-120.687557,Found,"93405, San Luis Obispo, San Luis Obispo County, California, United States",1
+United States,California,San Mateo,94403,37.5402284,-122.2971855,Found,"94403, San Mateo, San Mateo County, California, United States",1
+United States,California,Santa Ana,92704,33.724115,-117.9057189,Found,"92704, Santa Ana, Orange County, California, United States",1
+United States,California,Santa Barbara,93101,34.4201249,-119.7079519,Found,"93101, Santa Barbara, Santa Barbara County, California, United States",1
+United States,California,Santa Clara,95051,37.3486244,-121.9837282,Found,"95051, Santa Clara, Santa Clara County, California, United States",1
+United States,California,Santa Maria,93454,34.9473803,-120.4263848,Found,"93454, Santa Maria, Santa Barbara County, California, United States",1
+United States,California,Stockton,95207,37.9422616,-121.2813303,Found,"95207, Stockton, San Joaquin County, California, United States",1
+United States,California,Sunnyvale,94086,37.3728492,-122.0222288,Found,"94086, Sunnyvale, Santa Clara County, California, United States",1
+United States,California,Temecula,92592,33.4785624,-117.0763319,Found,"92592, California Reflections, Temecula, Riverside County, California, United States",1
+United States,California,Thousand Oaks,91360,34.1959842,-118.8780359,Found,"91360, Thousand Oaks, Ventura County, California, United States",1
+United States,California,Torrance,90503,33.8421618,-118.3587881,Found,"90503, Torrance, Los Angeles County, California, United States",1
+United States,California,Vacaville,95687,38.3493194,-121.9640246,Found,"95687, Vacaville, Solano County, California, United States",1
+United States,California,Vallejo,94591,38.1163766,-122.2167662,Found,"94591, Vallejo, Solano County, California, United States",1
+United States,California,Visalia,93277,36.3023155,-119.3356454,Found,"93277, Visalia, Tulare County, California, United States",1
+United States,California,Westminster,92683,33.7539194,-117.9950644,Found,"92683, Westminster, Orange County, California, United States",1
+United States,California,Whittier,90604,34.0431327,-118.0545157,Found,"South El Monte United States Army Reserve Center, 1200, North Potrero Avenue, Whittier Narrows, South El Monte, Los Angeles County, California, 91733, United States",1
+United States,California,Woodland,95695,38.6924348,-121.7993417,Review,"VFW Post, West Kentucky Avenue, Woodland, Yolo County, California, 95697, United States",2
+United States,California,Yucaipa,92399,34.038706,-117.0608977,Found,"92399, Yucaipa, San Bernardino County, California, United States",1
+United States,Colorado,Arvada,80004,39.8116593,-105.1085318,Found,"80004, Arvada, Jefferson County, Colorado, United States",1
+United States,Colorado,Aurora,80013,39.6578778,-104.7772976,Found,"80013, Aurora, Adams County, Colorado, United States",1
+United States,Colorado,Broomfield,80020,39.9246291,-105.0607859,Found,"80020, Broomfield, Colorado, United States",1
+United States,Colorado,Colorado Springs,80906,38.7900384,-104.8251385,Found,"80906, Colorado Springs, El Paso County, Colorado, United States",1
+United States,Colorado,Commerce City,80022,39.8083196,-104.9338675,Review,"Commerce City, Adams County, Colorado, 80640, United States",2
+United States,Colorado,Denver,80219,39.6955632,-105.0355196,Found,"80219, Mar Lee, Denver, Colorado, United States",1
+United States,Colorado,Englewood,80112,39.6482059,-104.9879641,Retry_Found,"Englewood, Arapahoe County, Colorado, 80110, United States",1
+United States,Colorado,Fort Collins,80525,40.545971,-105.0506954,Found,"80525, Fort Collins, Larimer County, Colorado, United States",1
+United States,Colorado,Greeley,80634,40.4100771,-104.7511691,Found,"80634, Greeley, Weld County, Colorado, United States",1
+United States,Colorado,Littleton,80122,39.613321,-105.016649,Found,"Littleton, Arapahoe County, Colorado, United States",1
+United States,Colorado,Longmont,80501,40.1777184,-105.0987426,Found,"80501, Longmont, Boulder County, Colorado, United States",1
+United States,Colorado,Louisville,80027,39.9608968,-105.1487436,Found,"80027, Louisville, Boulder County, Colorado, United States",1
+United States,Colorado,Loveland,80538,40.4456357,-105.1133204,Found,"80538, Loveland, Larimer County, Colorado, United States",1
+United States,Colorado,Parker,80134,39.5049492,-104.7875136,Found,"80134, Parker, Douglas County, Colorado, United States",1
+United States,Colorado,Pueblo,81001,38.2969803,-104.5640217,Found,"81001, Pueblo, Pueblo County, Colorado, United States",1
+United States,Colorado,Thornton,80229,39.8568198,-104.9711722,Found,"80229, Thornton, Adams County, Colorado, United States",1
+United States,Connecticut,Bristol,6010,41.6711752,-72.9430128,Found,"Bristol, Naugatuck Valley Planning Region, Connecticut, United States",1
+United States,Connecticut,Danbury,6810,41.394817,-73.4540111,Found,"Danbury, Western Connecticut Planning Region, Connecticut, United States",1
+United States,Connecticut,Fairfield,6824,41.1412078,-73.2637258,Review,"Fairfield, Greater Bridgeport Planning Region, Connecticut, United States",2
+United States,Connecticut,Manchester,6040,41.7834017,-72.5231973,Found,"Manchester, Capitol Planning Region, Connecticut, United States",1
+United States,Connecticut,Meriden,6450,41.5381882,-72.8026128,Found,"Meriden, South Central Connecticut Planning Region, Connecticut, United States",1
+United States,Connecticut,Middletown,6457,41.5623178,-72.6509061,Found,"Middletown, Lower Connecticut River Valley Planning Region, Connecticut, United States",1
+United States,Connecticut,Milford,6460,41.2222218,-73.0570603,Found,"Milford, South Central Connecticut Planning Region, Connecticut, United States",1
+United States,Connecticut,Norwich,6360,41.5243631,-72.0759134,Found,"Norwich, Southeastern Connecticut Planning Region, Connecticut, United States",1
+United States,Connecticut,Shelton,6484,41.3164856,-73.0931641,Review,"Shelton, Naugatuck Valley Planning Region, Connecticut, 06484, United States",2
+United States,Connecticut,Waterbury,6708,41.5541144,-73.0435615,Found,"Waterbury, Naugatuck Valley Planning Region, Connecticut, United States",1
+United States,Delaware,Dover,19901,39.1584049,-75.5145203,Found,"19901, Dover, Kent County, Delaware, United States",1
+United States,Delaware,Newark,19711,39.6947939,-75.7438359,Found,"19711, Newark, New Castle County, Delaware, United States",1
+United States,Delaware,Wilmington,19805,39.738331,-75.5527467,Found,"Wilmington, New Castle County, Delaware, United States",1
+United States,District of Columbia,Washington,20016,38.9388339,-77.082674,Found,"20016, Ward 3, Washington, District of Columbia, United States",1
+United States,Florida,Apopka,32712,28.7120686,-81.530603,Found,"32712, Apopka, Orange County, Florida, United States",1
+United States,Florida,Boca Raton,33433,26.3586885,-80.0830984,Found,"Boca Raton, Palm Beach County, Florida, United States",1
+United States,Florida,Boynton Beach,33437,26.5289139,-80.058141,Retry_Found,"Boynton Beach, Palm Beach County, Florida, United States",1
+United States,Florida,Coral Gables,33134,25.7556935,-80.2701882,Found,"33134, Coral Gables, Miami-Dade County, Florida, United States",1
+United States,Florida,Coral Springs,33065,26.2785952,-80.2486071,Found,"33065, Coral Springs, Broward County, Florida, United States",1
+United States,Florida,Daytona Beach,32114,29.2025895,-81.0396745,Found,"32114, Daytona Beach, Volusia County, Florida, United States",1
+United States,Florida,Delray Beach,33445,26.4555142,-80.1105806,Found,"33445, Delray Beach, Palm Beach County, Florida, United States",1
+United States,Florida,Deltona,32725,28.903015,-81.2455083,Found,"32725, Deltona, Volusia County, Florida, United States",1
+United States,Florida,Fort Lauderdale,33311,26.1223084,-80.1433786,Found,"Fort Lauderdale, Broward County, Florida, United States",1
+United States,Florida,Hialeah,33012,25.8653753,-80.3006765,Found,"33012, Hialeah, Miami-Dade County, Florida, United States",1
+United States,Florida,Hollywood,33021,26.0236524,-80.1867324,Found,"33021, Hollywood, Broward County, Florida, United States",1
+United States,Florida,Homestead,33030,25.4785246,-80.4874809,Found,"33030, Homestead, Miami-Dade County, Florida, United States",1
+United States,Florida,Jacksonville,32216,30.2846345,-81.5812584,Found,"32216, Jacksonville, Duval County, Florida, United States",1
+United States,Florida,Jupiter,33458,26.9289232,-80.1236438,Found,"33458, Jupiter, Palm Beach County, Florida, United States",1
+United States,Florida,Kissimmee,34741,28.3070766,-81.4226509,Found,"34741, Kissimmee, Osceola County, Florida, United States",1
+United States,Florida,Lakeland,33801,28.0394654,-81.9498042,Found,"Lakeland, Polk County, Florida, United States",1
+United States,Florida,Margate,33063,26.2485353,-80.1995081,Found,"33063, Margate, Broward County, Florida, United States",1
+United States,Florida,Melbourne,32935,28.1336945,-80.6578457,Found,"32935, Melbourne, Brevard County, Florida, United States",1
+United States,Florida,Miami,33180,25.9627825,-80.1444142,Found,"33180, Aventura, Miami-Dade County, Florida, United States",1
+United States,Florida,Miami,33178,25.8326489,-80.3701683,Found,"33178, Doral, Miami-Dade County, Florida, United States",1
+United States,Florida,Miami,33142,25.8130412,-80.2342852,Found,"33142, Brownsville, Miami-Dade County, Florida, United States",1
+United States,Florida,Miramar,33023,25.9905288,-80.2127107,Found,"33023, Miramar, Broward County, Florida, United States",1
+United States,Florida,North Miami,33161,25.8934998,-80.1824227,Found,"33161, North Miami, Miami-Dade County, Florida, United States",1
+United States,Florida,Orlando,32839,28.5421218,-81.379045,Found,"Orlando, Orange County, Florida, United States",1
+United States,Florida,Ormond Beach,32174,29.2920037,-81.1034491,Found,"32174, Ormond Beach, Volusia County, Florida, United States",1
+United States,Florida,Palm Coast,32137,29.57058,-81.2327107,Found,"32137, Palm Coast, Flagler County, Florida, United States",1
+United States,Florida,Pembroke Pines,33024,26.0226642,-80.2488735,Found,"33024, Pembroke Pines, Broward County, Florida, United States",1
+United States,Florida,Pensacola,32503,30.4578923,-87.2119757,Found,"32503, Pensacola, Escambia County, Florida, United States",1
+United States,Florida,Plantation,33317,26.1112677,-80.2246535,Found,"33317, Plantation, Broward County, Florida, United States",1
+United States,Florida,Pompano Beach,33068,26.2378597,-80.1247667,Found,"Pompano Beach, Broward County, Florida, United States",1
+United States,Florida,Port Orange,32127,29.112009,-80.9869708,Found,"32127, Port Orange, Volusia County, Florida, United States",1
+United States,Florida,Port Saint Lucie,34952,27.2897654,-80.298284,Found,"34952, Port Saint Lucie, Saint Lucie County, Florida, United States",1
+United States,Florida,Saint Petersburg,33710,27.7912888,-82.7064873,Found,"33710, Saint Petersburg, Pinellas County, Florida, United States",1
+United States,Florida,Sanford,32771,28.8117345,-81.2680223,Found,"Sanford, Seminole County, Florida, United States",1
+United States,Florida,Tallahassee,32303,30.4702733,-84.3010676,Found,"32303, Tallahassee, Leon County, Florida, United States",1
+United States,Florida,Tamarac,33319,26.1821374,-80.2229222,Found,"33319, Tamarac, Broward County, Florida, United States",1
+United States,Florida,Tampa,33614,27.9449854,-82.4583107,Found,"Tampa, Hillsborough County, Florida, United States",1
+United States,Florida,West Palm Beach,33407,26.7452212,-80.0747349,Found,"33407, West Palm Beach, Palm Beach County, Florida, United States",1
+United States,Georgia,Athens,30605,33.9258119,-83.342491,Found,"30605, Athens, Clarke County, Georgia, United States",1
+United States,Georgia,Atlanta,30318,33.7884492,-84.4449585,Found,"30318, Atlanta, Fulton County, Georgia, United States",1
+United States,Georgia,Columbus,31907,32.4815933,-84.9066373,Found,"31907, Columbus, Muscogee County, Georgia, United States",1
+United States,Georgia,East Point,30344,33.6784452,-84.4553965,Found,"30344, East Point, Fulton County, Georgia, United States",1
+United States,Georgia,Macon,31204,32.8444268,-83.6744691,Found,"31204, Macon, Bibb County, Georgia, United States",1
+United States,Georgia,Marietta,30062,33.952845,-84.5496054,Found,"Marietta, Cobb County, Georgia, United States",1
+United States,Georgia,Roswell,30076,34.0286984,-84.317262,Found,"30076, Roswell, Fulton County, Georgia, United States",1
+United States,Georgia,Sandy Springs,30328,33.9332439,-84.382731,Found,"30328, Sandy Springs, Fulton County, Georgia, United States",1
+United States,Georgia,Smyrna,30080,33.878678,-84.5051503,Found,"30080, Smyrna, Cobb County, Georgia, United States",1
+United States,Georgia,Warner Robins,31088,32.6200973,-83.606568,Found,"Warner Robins, Houston County, Georgia, United States",1
+United States,Georgia,Woodstock,30188,34.1014112,-84.5192192,Found,"Woodstock, Cherokee County, Georgia, United States",1
+United States,Idaho,Boise,83704,43.626094,-116.2850952,Found,"83704, West Bench Neighborhood Association, Boise, Ada County, Idaho, United States",1
+United States,Idaho,Caldwell,83605,43.6615572,-116.6679727,Found,"83605, Caldwell, Canyon County, Idaho, United States",1
+United States,Idaho,Lewiston,83501,46.3916893,-116.9817108,Found,"83501, Lewiston, Nez Perce County, Idaho, United States",1
+United States,Idaho,Meridian,83642,43.5875125,-116.3903555,Found,"83642, Meridian, Ada County, Idaho, United States",1
+United States,Idaho,Pocatello,83201,42.879284,-112.4317084,Found,"83201, Pocatello, Bannock County, Idaho, United States",1
+United States,Idaho,Twin Falls,83301,42.5645656,-114.4593062,Found,"83301, Twin Falls, Twin Falls County, Idaho, United States",1
+United States,Illinois,Arlington Heights,60004,42.1103786,-87.9776143,Found,"60004, Arlington Heights, Wheeling Township, Cook County, Illinois, United States",1
+United States,Illinois,Aurora,60505,41.7602735,-88.298043,Found,"60505, Aurora, Aurora Township, Kane County, Illinois, United States",1
+United States,Illinois,Bloomington,61701,40.4741515,-89.0018711,Found,"61701, Bloomington, McLean County, Illinois, United States",1
+United States,Illinois,Bolingbrook,60440,41.7047249,-88.073369,Found,"60440, Bolingbrook, Will County, Illinois, United States",1
+United States,Illinois,Buffalo Grove,60089,42.1544205,-87.9589621,Retry_Found,"Buffalo Grove, Lake County, Illinois, United States",1
+United States,Illinois,Carol Stream,60188,41.9187379,-88.1359621,Found,"60188, Carol Stream, Bloomingdale Township, DuPage County, Illinois, United States",1
+United States,Illinois,Champaign,61821,40.1006866,-88.2776696,Found,"61821, Champaign, Champaign County, Illinois, United States",1
+United States,Illinois,Chicago,60653,41.8197324,-87.6083582,Found,"60653, Grand Boulevard, Chicago, Hyde Park Township, Cook County, Illinois, United States",1
+United States,Illinois,Chicago,60610,41.9042632,-87.635644,Found,"60610, Near North Side, Chicago, North Chicago Township, Cook County, Illinois, United States",1
+United States,Illinois,Chicago,60623,41.8492098,-87.7176008,Found,"60623, South Lawndale, Chicago, West Chicago Township, Cook County, Illinois, United States",1
+United States,Illinois,Danville,61832,40.1359817,-87.6283972,Found,"61832, Danville, Vermilion County, Illinois, United States",1
+United States,Illinois,Decatur,62521,39.8281129,-88.9244119,Found,"62521, Decatur, Macon County, Illinois, United States",1
+United States,Illinois,Des Plaines,60016,42.0410306,-87.9031834,Found,"60016, Des Plaines, Maine Township, Cook County, Illinois, United States",1
+United States,Illinois,Elmhurst,60126,41.8952175,-87.9459586,Found,"60126, Elmhurst, DuPage County, Illinois, United States",1
+United States,Illinois,Evanston,60201,42.0567835,-87.7010164,Found,"60201, Evanston, Evanston Township, Cook County, Illinois, United States",1
+United States,Illinois,Frankfort,60423,41.4900751,-87.8604813,Found,"60423, Frankfort, Will County, Illinois, United States",1
+United States,Illinois,Freeport,61032,42.2995032,-89.6353123,Found,"61032, Freeport, Stephenson County, Illinois, United States",1
+United States,Illinois,Glenview,60025,42.0691144,-87.8142311,Found,"60025, Glenview, Northfield Township, Cook County, Illinois, United States",1
+United States,Illinois,Highland Park,60035,42.1812864,-87.7991403,Found,"60035, Highland Park, Lake County, Illinois, United States",1
+United States,Illinois,Naperville,60540,41.7671812,-88.161552,Found,"60540, Naperville, Naperville Township, DuPage County, Illinois, United States",1
+United States,Illinois,Normal,61761,40.510824,-88.9834927,Found,"61761, Normal, McLean County, Illinois, United States",1
+United States,Illinois,Oak Park,60302,41.8963349,-87.7875014,Found,"60302, Oak Park, Cook County, Illinois, United States",1
+United States,Illinois,Orland Park,60462,41.61672,-87.8373114,Found,"60462, Orland Park, Orland Township, Cook County, Illinois, United States",1
+United States,Illinois,Oswego,60543,41.6872031,-88.332214,Found,"60543, Oswego, Oswego Township, Kendall County, Illinois, United States",1
+United States,Illinois,Palatine,60067,42.1052431,-88.0551149,Found,"60067, Palatine, Palatine Township, Cook County, Illinois, United States",1
+United States,Illinois,Park Ridge,60068,42.0093896,-87.8362713,Found,"60068, Park Ridge, Maine Township, Cook County, Illinois, United States",1
+United States,Illinois,Peoria,61604,40.7093808,-89.6345134,Found,"61604, West Peoria, Peoria County, Illinois, United States",1
+United States,Illinois,Quincy,62301,39.9285605,-91.3754576,Found,"62301, Quincy, Adams County, Illinois, United States",1
+United States,Illinois,Rockford,61107,42.2801497,-89.0252609,Found,"61107, Rockford, Rockford Township, Winnebago County, Illinois, United States",1
+United States,Illinois,Romeoville,60441,41.6475306,-88.0895061,Found,"Romeoville, Will County, Illinois, 60446, United States",1
+United States,Illinois,Saint Charles,60174,41.8900173,-88.0106208,Review,"Lombard Post Office, 380, East Saint Charles Road, Lombard, DuPage County, Illinois, 60148, United States",2
+United States,Illinois,Skokie,60076,42.0364815,-87.7304243,Found,"60076, Skokie, Niles Township, Cook County, Illinois, United States",1
+United States,Illinois,Tinley Park,60477,41.5787235,-87.8022633,Found,"60477, Tinley Park, Bremen Township, Cook County, Illinois, United States",1
+United States,Illinois,Wheeling,60090,42.1351877,-87.9299877,Found,"60090, Wheeling, Wheeling Township, Cook County, Illinois, United States",1
+United States,Illinois,Woodstock,60098,42.3194821,-88.4343872,Found,"60098, Woodstock, McHenry County, Illinois, United States",1
+United States,Indiana,Bloomington,47401,39.1442091,-86.5040832,Found,"47401, Bloomington, Monroe County, Indiana, United States",1
+United States,Indiana,Columbus,47201,39.2014405,-85.9213796,Found,"Columbus, Bartholomew County, Indiana, United States",1
+United States,Indiana,Elkhart,46514,41.7142098,-85.9715989,Found,"46514, Elkhart, Elkhart County, Indiana, United States",1
+United States,Indiana,Greenwood,46142,39.6136987,-86.1095429,Review,"Greenwood, Johnson County, Indiana, 46143, United States",2
+United States,Indiana,Indianapolis,46203,39.7404004,-86.1133449,Found,"46203, Indianapolis, Center Township, Marion County, Indiana, United States",1
+United States,Indiana,La Porte,46350,41.6102923,-86.7239502,Found,"46350, La Porte, LaPorte County, Indiana, United States",1
+United States,Indiana,Lafayette,47905,40.4166855,-86.823388,Found,"47905, Lafayette, Tippecanoe County, Indiana, United States",1
+United States,Indiana,Lawrence,46226,39.8386516,-86.0252612,Found,"Lawrence, Lawrence Township, Marion County, Indiana, United States",1
+United States,Indiana,Mishawaka,46544,41.6611642,-86.1807031,Found,"Mishawaka, Saint Joseph County, Indiana, United States",1
+United States,Indiana,New Albany,47150,38.30529,-85.8180401,Found,"47150, New Albany, Floyd County, Indiana, United States",1
+United States,Indiana,New Castle,47362,39.9238083,-85.3695626,Found,"47362, New Castle, Henry County, Indiana, United States",1
+United States,Indiana,Noblesville,46060,40.0332562,-85.9852218,Found,"46060, Noblesville, Hamilton County, Indiana, United States",1
+United States,Indiana,Portage,46368,41.5773865,-87.1826576,Found,"46368, Portage, Porter County, Indiana, United States",1
+United States,Indiana,Richmond,47374,39.8290854,-84.8893467,Found,"47374, Richmond, Wayne County, Indiana, United States",1
+United States,Indiana,South Bend,46614,41.6332562,-86.2468397,Found,"46614, South Bend, Saint Joseph County, Indiana, United States",1
+United States,Iowa,Burlington,52601,40.8166896,-91.1204451,Found,"52601, Burlington, Burlington Township, Des Moines County, Iowa, United States",1
+United States,Iowa,Cedar Rapids,52402,42.0175367,-91.652471,Found,"52402, Cedar Rapids, Linn County, Iowa, United States",1
+United States,Iowa,Des Moines,50315,41.5486232,-93.6206721,Found,"50315, Des Moines, Polk County, Iowa, United States",1
+United States,Iowa,Dubuque,52001,42.510173,-90.6775168,Found,"52001, Dubuque, Dubuque Township, Dubuque County, Iowa, United States",1
+United States,Iowa,Iowa City,52240,41.6450611,-91.5132148,Found,"52240, Iowa City, Johnson County, Iowa, United States",1
+United States,Iowa,Marion,52302,42.0435104,-91.5909458,Found,"52302, Marion, Linn County, Iowa, United States",1
+United States,Iowa,Urbandale,50322,41.6352778,-93.7398581,Found,"50322, Urbandale, Polk County, Iowa, United States",1
+United States,Iowa,Waterloo,50701,42.4726395,-92.3645686,Found,"50701, Waterloo, Black Hawk County, Iowa, United States",1
+United States,Kansas,Garden City,67846,37.9867626,-100.8375019,Found,"67846, Garden City, Finney County, Kansas, United States",1
+United States,Kansas,Manhattan,66502,39.1940217,-96.5747842,Found,"66502, Manhattan, Riley County, Kansas, United States",1
+United States,Kansas,Olathe,66062,38.8694104,-94.7730162,Found,"66062, Olathe, Johnson County, Kansas, United States",1
+United States,Kansas,Overland Park,66212,38.9559796,-94.685519,Found,"66212, Overland Park, Johnson County, Kansas, United States",1
+United States,Kansas,Wichita,67212,37.7096074,-97.4503911,Found,"67212, Wichita, Sedgwick County, Kansas, United States",1
+United States,Kentucky,Bowling Green,42104,36.9929203,-86.4428677,Found,"Bowling Green, Warren County, Kentucky, 42101, United States",1
+United States,Kentucky,Florence,41042,38.9862303,-84.6525589,Found,"41042, Florence, Boone County, Kentucky, United States",1
+United States,Kentucky,Georgetown,40324,38.2245726,-84.5476655,Found,"40324, Georgetown, Scott County, Kentucky, United States",1
+United States,Kentucky,Henderson,42420,37.8211417,-87.5734205,Found,"42420, Henderson, Henderson County, Kentucky, United States",1
+United States,Kentucky,Louisville,40214,38.1574348,-85.7794426,Found,"40214, Louisville, Jefferson County, Kentucky, United States",1
+United States,Kentucky,Murray,42071,36.6106122,-88.3021092,Found,"Murray, Calloway County, Kentucky, United States",1
+United States,Kentucky,Owensboro,42301,37.7495804,-87.1455842,Found,"42301, Owensboro, Daviess County, Kentucky, United States",1
+United States,Kentucky,Richmond,40475,37.7567868,-84.3050242,Found,"40475, Richmond, Madison County, Kentucky, United States",1
+United States,Louisiana,Bossier City,71111,32.5435272,-93.7036213,Found,"71111, Bossier City, Bossier Parish, Louisiana, United States",1
+United States,Louisiana,Kenner,70065,30.0254526,-90.2534321,Found,"70065, Kenner, Jefferson Parish, Louisiana, United States",1
+United States,Louisiana,Lafayette,70506,30.2061783,-92.0659355,Found,"70506, Lafayette, Lafayette Parish, Louisiana, United States",1
+United States,Louisiana,Lake Charles,70601,30.2259528,-93.2058757,Found,"70601, Lake Charles, Calcasieu Parish, Louisiana, United States",1
+United States,Louisiana,Monroe,71203,32.5025471,-92.116219,Review,"Monroe, Ouachita Parish, Louisiana, United States",2
+United States,Maine,Bangor,4401,44.8016255,-68.7713289,Found,"Bangor, Penobscot County, Maine, 04401, United States",1
+United States,Maine,Lewiston,4240,44.0990717,-70.2177099,Found,"Lewiston, Androscoggin County, Maine, 04240, United States",1
+United States,Maryland,Baltimore,21215,39.3439447,-76.6790089,Found,"21215, Baltimore, Maryland, United States",1
+United States,Maryland,Clinton,20735,38.7651145,-76.8983059,Found,"Clinton, Prince George's County, Maryland, 20735, United States",1
+United States,Maryland,Columbia,21044,39.2156213,-76.8582049,Found,"Columbia, Howard County, Maryland, 21044, United States",1
+United States,Maryland,Gaithersburg,20877,39.1451512,-77.1805632,Found,"20877, Gaithersburg, Montgomery County, Maryland, United States",1
+United States,Maryland,Hagerstown,21740,39.6338362,-77.7373766,Found,"21740, Hagerstown, Washington County, Maryland, United States",1
+United States,Maryland,Laurel,20707,39.097095,-76.8741888,Found,"20707, Laurel, Prince George's County, Maryland, United States",1
+United States,Maryland,Rockville,20852,39.0817985,-77.1516844,Found,"Rockville, Montgomery County, Maryland, United States",1
+United States,Massachusetts,Andover,1810,42.65717,-71.1408776,Found,"Andover, Essex County, Massachusetts, United States",1
+United States,Massachusetts,Beverly,1915,42.5489744,-70.8781883,Found,"Beverly, Essex County, Massachusetts, United States",1
+United States,Massachusetts,Cambridge,2138,42.3656347,-71.1040018,Found,"Cambridge, Middlesex County, Massachusetts, United States",1
+United States,Massachusetts,Everett,2149,42.4085897,-71.0542002,Found,"Everett, Middlesex County, Massachusetts, 02149, United States",1
+United States,Massachusetts,Franklin,2038,42.0825801,-71.3971167,Found,"Franklin, Norfolk County, Massachusetts, 02038, United States",1
+United States,Massachusetts,Holyoke,1040,42.2071184,-72.6075851,Found,"Holyoke, Hampden County, Massachusetts, 01040, United States",1
+United States,Massachusetts,Lawrence,1841,42.7070354,-71.1631137,Found,"Lawrence, Essex County, Massachusetts, United States",1
+United States,Massachusetts,Leominster,1453,42.5267443,-71.7614891,Found,"Leominster, Worcester County, Massachusetts, 01453, United States",1
+United States,Massachusetts,Lowell,1852,42.6414437,-71.3085329,Found,"Lowell, Middlesex County, Massachusetts, United States",1
+United States,Massachusetts,Malden,2148,42.4268484,-71.0683741,Found,"Malden, Middlesex County, Massachusetts, United States",1
+United States,Massachusetts,Marlborough,1752,42.3468589,-71.5525188,Review,"Marlborough, Middlesex County, Massachusetts, 01752, United States",2
+United States,Massachusetts,New Bedford,2740,41.6362152,-70.934205,Found,"New Bedford, Bristol County, Massachusetts, United States",1
+United States,Massachusetts,Quincy,2169,42.2509914,-71.0037374,Found,"Quincy, Norfolk County, Massachusetts, United States",1
+United States,Massachusetts,Revere,2151,42.4084302,-71.0119948,Found,"Revere, Suffolk County, Massachusetts, 02151, United States",1
+United States,Michigan,Ann Arbor,48104,42.2662493,-83.7272453,Found,"48104, Ann Arbor, Washtenaw County, Michigan, United States",1
+United States,Michigan,Canton,48187,42.3294803,-83.4760419,Found,"48187, Canton Township, Wayne County, Michigan, United States",1
+United States,Michigan,Dearborn,48126,42.3262619,-83.1844998,Found,"48126, Dearborn, Wayne County, Michigan, United States",1
+United States,Michigan,Dearborn Heights,48127,42.3375069,-83.2567482,Found,"48127, Dearborn Heights, Wayne County, Michigan, United States",1
+United States,Michigan,Detroit,48234,42.4335223,-83.043829,Found,"48234, Detroit, Wayne County, Michigan, United States",1
+United States,Michigan,Detroit,48205,42.4336675,-82.9722356,Found,"48205, Detroit, Wayne County, Michigan, United States",1
+United States,Michigan,Detroit,48227,42.3870548,-83.1891448,Found,"48227, Detroit, Wayne County, Michigan, United States",1
+United States,Michigan,Grand Rapids,49505,42.9943539,-85.6443543,Found,"49505, Grand Rapids, Kent County, Michigan, United States",1
+United States,Michigan,Holland,49423,42.772112,-86.1058791,Found,"49423, Holland, Ottawa County, Michigan, United States",1
+United States,Michigan,Jackson,49201,42.232131,-84.3574959,Found,"49201, Leoni Township, Jackson County, Michigan, United States",1
+United States,Michigan,Lansing,48911,42.6767705,-84.5623107,Found,"48911, Lansing, Ingham County, Michigan, United States",1
+United States,Michigan,Lincoln Park,48146,42.2402851,-83.1801338,Found,"48146, Lincoln Park, Wayne County, Michigan, United States",1
+United States,Michigan,Midland,48640,43.619608,-84.2554003,Found,"48640, Midland, Midland County, Michigan, United States",1
+United States,Michigan,Mount Pleasant,48858,43.5944203,-84.7796199,Found,"48858, Mount Pleasant, Isabella County, Michigan, United States",1
+United States,Michigan,Oak Park,48237,42.4733745,-83.1736432,Found,"48237, Oak Park, Oakland County, Michigan, United States",1
+United States,Michigan,Rochester Hills,48307,42.6583661,-83.1499322,Found,"Rochester Hills, Oakland County, Michigan, 48309, United States",1
+United States,Michigan,Roseville,48066,42.5046467,-82.9361177,Found,"48066, Roseville, Macomb County, Michigan, United States",1
+United States,Michigan,Royal Oak,48073,42.5186614,-83.1683525,Found,"48073, Royal Oak, Oakland County, Michigan, United States",1
+United States,Michigan,Saginaw,48601,43.4260204,-83.942279,Found,"48601, Saginaw, Carrollton Township, Saginaw County, Michigan, United States",1
+United States,Michigan,Sterling Heights,48310,42.5554699,-83.0652687,Found,"48310, Sterling Heights, Macomb County, Michigan, United States",1
+United States,Michigan,Taylor,48180,42.2386343,-83.2620262,Found,"48180, Taylor, Wayne County, Michigan, United States",1
+United States,Michigan,Trenton,48183,42.1406958,-83.2114402,Found,"48183, Trenton, Wayne County, Michigan, United States",1
+United States,Michigan,Westland,48185,42.3327052,-83.3744615,Found,"48185, Westland, Wayne County, Michigan, United States",1
+United States,Minnesota,Apple Valley,55124,44.7441724,-93.2017143,Found,"55124, Apple Valley, Dakota County, Minnesota, United States",1
+United States,Minnesota,Coon Rapids,55433,45.1664145,-93.3174116,Found,"55433, Coon Rapids, Anoka County, Minnesota, United States",1
+United States,Minnesota,Cottage Grove,55016,44.8196116,-92.951946,Found,"55016, Cottage Grove, Washington County, Minnesota, United States",1
+United States,Minnesota,Eagan,55122,44.8017985,-93.194183,Found,"55122, Eagan, Dakota County, Minnesota, United States",1
+United States,Minnesota,Lakeville,55044,44.6803333,-93.2509654,Found,"55044, Lakeville, Dakota County, Minnesota, United States",1
+United States,Minnesota,Maple Grove,55369,45.1141319,-93.4375933,Found,"55369, Maple Grove, Hennepin County, Minnesota, United States",1
+United States,Minnesota,Minneapolis,55407,44.9371856,-93.253672,Found,"55407, Powderhorn, Minneapolis, Hennepin County, Minnesota, United States",1
+United States,Minnesota,Moorhead,56560,46.8369296,-96.7561018,Found,"56560, Moorhead, Clay County, Minnesota, United States",1
+United States,Minnesota,Rochester,55901,44.0569496,-92.4960398,Found,"55901, Rochester, Olmsted County, Minnesota, United States",1
+United States,Minnesota,Roseville,55113,45.0141573,-93.1525433,Found,"55113, Roseville, Ramsey County, Minnesota, United States",1
+United States,Minnesota,Saint Cloud,56301,45.5296742,-94.1835147,Found,"56301, Saint Cloud, Stearns County, Minnesota, United States",1
+United States,Minnesota,Saint Paul,55106,44.9619382,-93.0558247,Found,"55106, Dayton's Bluff, Saint Paul, Ramsey County, Minnesota, United States",1
+United States,Minnesota,Woodbury,55125,44.9099913,-92.9447658,Found,"55125, Woodbury, Washington County, Minnesota, United States",1
+United States,Mississippi,Gulfport,39503,30.4637188,-89.0954242,Found,"39503, Gulfport, Harrison County, Mississippi, United States",1
+United States,Mississippi,Hattiesburg,39401,31.2991365,-89.3011381,Found,"39401, Hattiesburg, Forrest County, Mississippi, United States",1
+United States,Mississippi,Jackson,39212,32.2471998,-90.2613103,Found,"39212, Jackson, Hinds County, Mississippi, United States",1
+United States,Mississippi,Southaven,38671,34.9688623,-89.9854598,Found,"38671, Southaven, DeSoto County, Mississippi, United States",1
+United States,Missouri,Columbia,65203,38.9322417,-92.367386,Found,"65203, Columbia, Columbia Township, Boone County, Missouri, United States",1
+United States,Missouri,Gladstone,64118,39.2141304,-94.5772653,Found,"64118, Gladstone, Clay County, Missouri, United States",1
+United States,Missouri,Independence,64055,39.0505057,-94.4014198,Found,"64055, Independence, Jackson County, Missouri, United States",1
+United States,Missouri,Jefferson City,65109,38.5744668,-92.2439154,Found,"65109, Jefferson City, Cole County, Missouri, United States",1
+United States,Missouri,Kirkwood,63122,38.5837968,-90.4120797,Found,"63122, Kirkwood, Saint Louis County, Missouri, United States",1
+United States,Missouri,Saint Charles,63301,38.8171818,-90.4987837,Found,"63301, Saint Charles, Saint Charles County, Missouri, United States",1
+United States,Missouri,Saint Louis,63116,38.5821908,-90.2626709,Found,"63116, Saint Louis, Missouri, United States",1
+United States,Missouri,Saint Peters,63376,38.7777609,-90.6234798,Found,"63376, Saint Peters, Saint Charles County, Missouri, United States",1
+United States,Missouri,Springfield,65807,37.1641733,-93.3009734,Found,"65807, Springfield, Greene County, Missouri, United States",1
+United States,Montana,Billings,59102,45.7875466,-108.5722757,Found,"59102, Billings, Yellowstone County, Montana, United States",1
+United States,Montana,Bozeman,59715,45.6842221,-111.0350296,Found,"59715, Bozeman, Gallatin County, Montana, United States",1
+United States,Montana,Great Falls,59405,47.4958373,-111.2650281,Found,"59405, Great Falls, Cascade County, Montana, United States",1
+United States,Montana,Helena,59601,46.5916614,-112.0390121,Found,"59601, Helena, Lewis and Clark County, Montana, United States",1
+United States,Montana,Missoula,59801,46.8545745,-113.9948511,Found,"59801, Missoula, Missoula County, Montana, United States",1
+United States,Nebraska,Fremont,68025,41.4352155,-96.4954254,Found,"68025, Fremont, Dodge County, Nebraska, United States",1
+United States,Nebraska,Grand Island,68801,40.9122466,-98.3414307,Found,"68801, Grand Island, Hall County, Nebraska, United States",1
+United States,Nebraska,Norfolk,68701,42.0221896,-97.3945539,Found,"68701, Norfolk, Madison County, Nebraska, United States",1
+United States,Nebraska,Omaha,68104,41.2856212,-96.0015427,Found,"68104, Benson, Omaha, Douglas County, Nebraska, United States",1
+United States,Nevada,Henderson,89015,36.0294469,-114.9727579,Found,"89015, Water Street District, Henderson, Clark County, Nevada, United States",1
+United States,Nevada,Las Vegas,89115,36.1674263,-115.1484131,Found,"Las Vegas, Clark County, Nevada, United States",1
+United States,Nevada,North Las Vegas,89031,36.2580602,-115.1543333,Found,"89031, Craig Ranch, North Las Vegas, Clark County, Nevada, United States",1
+United States,Nevada,Reno,89502,39.4981896,-119.7745558,Found,"89502, Reno, Washoe County, Nevada, United States",1
+United States,Nevada,Sparks,89431,39.5431437,-119.7545472,Found,"89431, Sparks, Washoe County, Nevada, United States",1
+United States,New Hampshire,Concord,3301,43.207178,-71.537476,Found,"Concord, Merrimack County, New Hampshire, United States",1
+United States,New Hampshire,Dover,3820,43.1981117,-70.8739761,Found,"Dover, Strafford County, New Hampshire, 03820, United States",1
+United States,New Hampshire,Nashua,3060,42.7656251,-71.4677032,Found,"Nashua, Hillsborough County, New Hampshire, United States",1
+United States,New Jersey,Atlantic City,8401,39.3642852,-74.4229351,Found,"Atlantic City, Atlantic County, New Jersey, United States",1
+United States,New Jersey,Bayonne,7002,40.6687141,-74.1143091,Found,"Bayonne, Hudson County, New Jersey, 07002, United States",1
+United States,New Jersey,Belleville,7109,40.7937116,-74.1501438,Found,"Belleville, Essex County, New Jersey, 07109, United States",1
+United States,New Jersey,Bridgeton,8302,39.4269659,-75.2341587,Found,"Bridgeton, Cumberland County, New Jersey, 08302, United States",1
+United States,New Jersey,Clifton,7011,40.8584328,-74.1637553,Found,"Clifton, Passaic County, New Jersey, United States",1
+United States,New Jersey,East Orange,7017,40.7642404,-74.215011,Found,"East Orange, Essex County, New Jersey, United States",1
+United States,New Jersey,Hackensack,7601,40.8870781,-74.0410667,Found,"Hackensack, Bergen County, New Jersey, 07601, United States",1
+United States,New Jersey,Lakewood,8701,40.0940995,-74.2149889,Found,"Lakewood Township, Ocean County, New Jersey, 08701, United States",1
+United States,New Jersey,Linden,7036,40.6220478,-74.2445902,Found,"Linden, Union County, New Jersey, United States",1
+United States,New Jersey,Morristown,7960,40.7970382,-74.4809868,Found,"Morristown, Morris County, New Jersey, United States",1
+United States,New Jersey,New Brunswick,8901,40.4936119,-74.4436416,Found,"New Brunswick, Middlesex County, New Jersey, United States",1
+United States,New Jersey,Orange,7050,40.7709499,-74.2264601,Found,"Orange, Essex County, New Jersey, United States",1
+United States,New Jersey,Passaic,7055,40.8566936,-74.1286298,Found,"Passaic, Passaic County, New Jersey, 07055, United States",1
+United States,New Jersey,Paterson,7501,40.9167654,-74.171811,Found,"Paterson, Passaic County, New Jersey, United States",1
+United States,New Jersey,Perth Amboy,8861,40.5133218,-74.2724241,Found,"Perth Amboy, Middlesex County, New Jersey, 08861, United States",1
+United States,New Jersey,Plainfield,7060,40.6201412,-74.4222416,Found,"Plainfield, Union County, New Jersey, United States",1
+United States,New Jersey,Vineland,8360,39.4862777,-75.0254256,Found,"Vineland, Cumberland County, New Jersey, United States",1
+United States,New Jersey,Westfield,7090,39.967841,-75.0492128,Review,"7090, Westfield Avenue, Morrisville, Pennsauken Township, Camden County, New Jersey, 08110, United States",2
+United States,New Mexico,Albuquerque,87105,35.0841034,-106.650985,Found,"Albuquerque, Bernalillo County, New Mexico, United States",1
+United States,New Mexico,Carlsbad,88220,32.4103734,-104.2241461,Found,"88220, Carlsbad, Eddy County, New Mexico, United States",1
+United States,New Mexico,Clovis,88101,34.4198373,-103.2056194,Found,"88101, Clovis, Curry County, New Mexico, United States",1
+United States,New Mexico,Farmington,87401,36.7422312,-108.1922194,Found,"87401, Farmington, San Juan County, New Mexico, United States",1
+United States,New Mexico,Las Cruces,88001,32.2882664,-106.7549385,Found,"88001, Las Cruces, Doña Ana County, New Mexico, United States",1
+United States,New Mexico,Rio Rancho,87124,35.2492542,-106.6722191,Found,"87124, Rio Rancho, Sandoval County, New Mexico, United States",1
+United States,New Mexico,Santa Fe,87505,35.6620697,-105.9571173,Found,"87505, Santa Fe, Santa Fe County, New Mexico, United States",1
+United States,New York,Auburn,13021,42.926913,-76.5607358,Found,"13021, City of Auburn, Cayuga County, New York, United States",1
+United States,New York,Buffalo,14215,42.9337971,-78.8110359,Found,"14215, Buffalo, Erie County, New York, United States",1
+United States,New York,Freeport,11520,40.6519485,-73.585937,Found,"11520, Village of Freeport, Town of Hempstead, Nassau County, New York, United States",1
+United States,New York,Hempstead,11550,40.7029443,-73.6179989,Found,"11550, Village of Hempstead, Town of Hempstead, Nassau County, New York, United States",1
+United States,New York,Jamestown,14701,42.0940943,-79.2446712,Found,"14701, Jamestown, Chautauqua County, New York, United States",1
+United States,New York,Lindenhurst,11757,40.6882239,-73.3737773,Found,"11757, Village of Lindenhurst, Town of Babylon, Suffolk County, New York, United States",1
+United States,New York,Long Beach,11561,40.5883147,-73.6665998,Found,"11561, City of Long Beach, Nassau County, New York, United States",1
+United States,New York,Mount Vernon,10550,40.9068453,-73.8366112,Found,"10550, City of Mount Vernon, Westchester County, New York, United States",1
+United States,New York,New Rochelle,10801,40.9115386,-73.7826363,Found,"New Rochelle, Westchester County, New York, 10801, United States",1
+United States,New York,New York City,10024,40.7862184,-73.975682,Found,"10024, Manhattan, New York County, New York, United States",1
+United States,New York,New York City,10035,40.8006372,-73.9369067,Review,"10035, Manhattan, New York County, New York, United States",2
+United States,New York,New York City,10009,40.7258321,-73.9809636,Found,"10009, Manhattan, New York County, New York, United States",1
+United States,New York,New York City,10011,40.7408934,-73.9995018,Found,"10011, Manhattan, New York County, New York, United States",1
+United States,New York,Niagara Falls,14304,43.0910268,-78.9611268,Found,"14304, City of Niagara Falls, Niagara County, New York, United States",1
+United States,New York,Oceanside,11572,40.6390936,-73.6399765,Found,"Oceanside, Town of Hempstead, Nassau County, New York, 11572, United States",1
+United States,New York,Rochester,14609,43.173596,-77.5624913,Found,"14609, City of Rochester, Monroe County, New York, United States",1
+United States,New York,Rome,13440,43.222779,-75.4513285,Found,"13440, City of Rome, Oneida County, New York, United States",1
+United States,New York,Troy,12180,42.7289389,-73.6618702,Found,"12180, City of Troy, Rensselaer County, New York, United States",1
+United States,New York,Utica,13501,43.0855881,-75.2328601,Found,"13501, City of Utica, Oneida County, New York, United States",1
+United States,New York,Watertown,13601,43.976794,-75.9098724,Found,"13601, City of Watertown, Jefferson County, New York, United States",1
+United States,New York,Yonkers,10701,40.9432282,-73.881822,Found,"10701, City of Yonkers, Westchester County, New York, United States",1
+United States,North Carolina,Asheville,28806,35.5651666,-82.5945522,Found,"28806, Asheville, Buncombe County, North Carolina, United States",1
+United States,North Carolina,Burlington,27217,36.0956918,-79.4377991,Found,"Burlington, Alamance County, North Carolina, United States",1
+United States,North Carolina,Cary,27511,35.7640677,-78.7771021,Found,"27511, Cary, Wake County, North Carolina, United States",1
+United States,North Carolina,Chapel Hill,27514,35.9440527,-79.0381507,Found,"27514, Chapel Hill, Orange County, North Carolina, United States",1
+United States,North Carolina,Charlotte,28205,35.2225509,-80.7887753,Found,"28205, Charlotte, Mecklenburg County, North Carolina, United States",1
+United States,North Carolina,Concord,28027,35.403419,-80.6669826,Found,"28027, Concord, Cabarrus County, North Carolina, United States",1
+United States,North Carolina,Durham,27707,35.9587966,-78.938697,Found,"27707, Durham, Durham County, North Carolina, United States",1
+United States,North Carolina,Fayetteville,28314,35.0585878,-79.004887,Found,"28314, Fayetteville, Cumberland County, North Carolina, United States",1
+United States,North Carolina,Gastonia,28052,35.2360468,-81.2116219,Found,"28052, Gastonia, Gaston County, North Carolina, United States",1
+United States,North Carolina,Goldsboro,27534,35.3772427,-77.9317829,Found,"27534, Goldsboro, Wayne County, North Carolina, United States",1
+United States,North Carolina,Greensboro,27405,36.1121336,-79.7475528,Found,"27405, Greensboro, Guilford County, North Carolina, United States",1
+United States,North Carolina,Greenville,27834,35.6116503,-77.406894,Found,"27834, Greenville, Pitt County, North Carolina, United States",1
+United States,North Carolina,Hickory,28601,35.7621081,-81.3333692,Found,"28601, Hickory, Catawba County, North Carolina, United States",1
+United States,North Carolina,Jacksonville,28540,34.7509962,-77.4309829,Found,"Jacksonville, Onslow County, North Carolina, United States",1
+United States,North Carolina,Monroe,28110,35.0254569,-80.6044375,Found,"28110, Monroe, Union County, North Carolina, United States",1
+United States,North Carolina,Raleigh,27604,35.8193631,-78.592075,Found,"27604, Raleigh, Wake County, North Carolina, United States",1
+United States,North Carolina,Thomasville,27360,35.8712867,-80.0921917,Found,"27360, Thomasville, Davidson County, North Carolina, United States",1
+United States,North Carolina,Wilmington,28403,34.2221544,-77.880703,Found,"28403, Wilmington, New Hanover County, North Carolina, United States",1
+United States,North Carolina,Wilson,27893,35.7042121,-77.962616,Found,"27893, Wilson, Wilson County, North Carolina, United States",1
+United States,North Dakota,Fargo,58103,46.8592048,-96.826427,Found,"58103, Fargo, Cass County, North Dakota, United States",1
+United States,Ohio,Akron,44312,41.083064,-81.518485,Found,"Akron, Summit County, Ohio, United States",1
+United States,Ohio,Bowling Green,43402,41.376173,-83.6479095,Found,"43402, Bowling Green, Wood County, Ohio, United States",1
+United States,Ohio,Cincinnati,45231,39.1012809,-84.5127405,Found,"Cincinnati, Hamilton County, Ohio, United States",1
+United States,Ohio,Cleveland,44105,41.4539643,-81.6291467,Found,"44105, Cleveland, Cuyahoga County, Ohio, United States",1
+United States,Ohio,Columbus,43229,40.0741603,-82.9708186,Found,"43229, Columbus, Franklin County, Ohio, United States",1
+United States,Ohio,Cuyahoga Falls,44221,41.133566,-81.4783199,Found,"44221, Cuyahoga Falls, Summit County, Ohio, United States",1
+United States,Ohio,Dublin,43017,40.0996009,-83.1135563,Found,"Dublin, Washington Township, Franklin County, Ohio, 43016, United States",1
+United States,Ohio,Elyria,44035,41.3715687,-82.0922402,Found,"44035, Elyria, Lorain County, Ohio, United States",1
+United States,Ohio,Fairfield,45014,39.3315351,-84.5449745,Found,"45014, Fairfield, Butler County, Ohio, United States",1
+United States,Ohio,Grove City,43123,39.8918501,-83.0794959,Found,"43123, Grove City, Jackson Township, Franklin County, Ohio, United States",1
+United States,Ohio,Hamilton,45011,41.2792395,-82.1940783,Review,"45011, East Hamilton Street, Oberlin, New Russia Township, Lorain County, Ohio, 44074, United States",2
+United States,Ohio,Kent,44240,41.1434045,-81.3565039,Found,"44240, Kent, Portage County, Ohio, United States",1
+United States,Ohio,Lakewood,44107,41.4812542,-81.7983629,Found,"44107, Lakewood, Cuyahoga County, Ohio, United States",1
+United States,Ohio,Lancaster,43130,39.7187669,-82.604857,Found,"43130, Lancaster, Fairfield County, Ohio, United States",1
+United States,Ohio,Lorain,44052,41.4593488,-82.1723537,Found,"44052, Lorain, Lorain County, Ohio, United States",1
+United States,Ohio,Marion,43302,40.5826592,-83.1168499,Found,"43302, Marion, Marion Township, Marion County, Ohio, United States",1
+United States,Ohio,Mason,45040,39.3391707,-84.3123506,Found,"45040, Mason, Warren County, Ohio, United States",1
+United States,Ohio,Medina,44256,41.1452945,-81.8466444,Found,"44256, Medina, Medina County, Ohio, United States",1
+United States,Ohio,Mentor,44060,41.6850631,-81.3333872,Found,"44060, Mentor, Lake County, Ohio, United States",1
+United States,Ohio,Newark,43055,40.070616,-82.4114089,Found,"43055, Newark, Licking County, Ohio, United States",1
+United States,Ohio,Parma,44134,41.4021398,-81.7038219,Found,"44134, Parma, Cuyahoga County, Ohio, United States",1
+United States,Ohio,Springfield,45503,39.951636,-83.7837655,Found,"45503, Springfield, Clark County, Ohio, United States",1
+United States,Ohio,Toledo,43615,41.6529143,-83.5378173,Found,"Toledo, Lucas County, Ohio, United States",1
+United States,Ohio,Troy,45373,40.0366315,-84.2125106,Found,"45373, Troy, Concord Township, Miami County, Ohio, United States",1
+United States,Oklahoma,Broken Arrow,74012,36.0458085,-95.8080484,Found,"74012, Broken Arrow, Tulsa, Oklahoma, United States",1
+United States,Oklahoma,Edmond,73034,35.6721197,-97.4473694,Found,"73034, Edmond, Oklahoma County, Oklahoma, United States",1
+United States,Oklahoma,Lawton,73505,34.6188069,-98.4623244,Found,"73505, Lawton, Comanche County, Oklahoma, United States",1
+United States,Oklahoma,Muskogee,74403,35.7478585,-95.3368566,Found,"74403, Muskogee, Muskogee County, Oklahoma, United States",1
+United States,Oklahoma,Norman,73071,35.2235107,-97.4124975,Found,"73071, Norman, Cleveland County, Oklahoma, United States",1
+United States,Oklahoma,Oklahoma City,73120,35.4729886,-97.5170536,Found,"Oklahoma City, Oklahoma County, Oklahoma, United States",1
+United States,Oklahoma,Tulsa,74133,36.0334134,-95.8788614,Found,"74133, Tulsa, Oklahoma, United States",1
+United States,Oregon,Eugene,97405,44.0156791,-123.1029849,Found,"97405, Eugene, Lane County, Oregon, United States",1
+United States,Oregon,Gresham,97030,45.5071595,-122.4306948,Found,"97030, Gresham, Multnomah County, Oregon, United States",1
+United States,Oregon,Hillsboro,97123,45.4983339,-122.9385569,Found,"97123, Hillsboro, Washington County, Oregon, United States",1
+United States,Oregon,Medford,97504,42.3352517,-122.8434066,Found,"97504, Medford, Jackson County, Oregon, United States",1
+United States,Oregon,Portland,97206,45.4833551,-122.5990767,Found,"97206, Mount Scott-Arleta, Portland, Multnomah County, Oregon, United States",1
+United States,Oregon,Redmond,97756,44.283063,-121.174774,Found,"Redmond Post Office, 618, Northwest Hemlock Avenue, Redmond, Deschutes County, Oregon, 97756, United States",1
+United States,Oregon,Salem,97301,44.948546,-123.0065238,Found,"97301, Salem, Marion County, Oregon, United States",1
+United States,Oregon,Springfield,97477,44.0628985,-123.0160207,Found,"97477, Springfield, Lane County, Oregon, United States",1
+United States,Oregon,Tigard,97224,45.4312594,-122.7689335,Review,"United States Post Office Tigard Branch, 12210, Southwest Main Street, Downtown Tigard, Tigard, Washington County, Oregon, 97223, United States",2
+United States,Pennsylvania,Allentown,18103,40.5783842,-75.4748302,Found,"18103, Allentown, Lehigh County, Pennsylvania, United States",1
+United States,Pennsylvania,Altoona,16602,40.5193586,-78.3968299,Found,"Altoona, Blair County, Pennsylvania, 16601, United States",1
+United States,Pennsylvania,Bethlehem,18018,40.6272715,-75.4012369,Found,"18018, Bethlehem, Northampton County, Pennsylvania, United States",1
+United States,Pennsylvania,Chester,19013,39.8489193,-75.37251,Found,"19013, Chester, Delaware County, Pennsylvania, United States",1
+United States,Pennsylvania,Lancaster,17602,40.0306181,-76.2570519,Found,"17602, East Lampeter Township, Lancaster County, Pennsylvania, United States",1
+United States,Pennsylvania,Philadelphia,19143,39.9437402,-75.2233443,Found,"19143, Southwest Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, United States",1
+United States,Pennsylvania,Philadelphia,19140,40.0091017,-75.145994,Found,"19140, North Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, United States",1
+United States,Pennsylvania,Philadelphia,19134,39.9925161,-75.1107999,Found,"19134, River Wards, Philadelphia, Philadelphia County, Pennsylvania, United States",1
+United States,Pennsylvania,Philadelphia,19120,40.028509,-75.1216161,Found,"19120, North Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, United States",1
+United States,Pennsylvania,Reading,19601,40.3505907,-75.9398343,Found,"19601, Reading, Berks County, Pennsylvania, United States",1
+United States,Pennsylvania,York,17403,39.9324816,-76.7103967,Found,"17403, York Township, York County, Pennsylvania, United States",1
+United States,Rhode Island,Cranston,2920,41.779588,-71.4366813,Found,"Cranston, Providence County, Rhode Island, United States",1
+United States,Rhode Island,Providence,2908,41.8239891,-71.4128343,Found,"Providence, Providence County, Rhode Island, United States",1
+United States,Rhode Island,Warwick,2886,41.7027785,-71.3875236,Review,"2886, Warwick Avenue, Kettle Corner, Warwick, Kent County, Rhode Island, 02889, United States",2
+United States,Rhode Island,Woonsocket,2895,42.0028761,-71.5147839,Found,"Woonsocket, Providence County, Rhode Island, 02895, United States",1
+United States,South Carolina,Columbia,29203,34.000754,-81.0352313,Found,"Columbia, Richland County, South Carolina, United States",1
+United States,South Carolina,Florence,29501,34.1974734,-79.8108966,Found,"29501, Florence County, South Carolina, United States",1
+United States,South Carolina,Mount Pleasant,29464,32.8091598,-79.8746932,Found,"29464, Mount Pleasant, Charleston County, South Carolina, United States",1
+United States,South Carolina,North Charleston,29406,32.9318203,-80.031695,Found,"29406, North Charleston, Charleston County, South Carolina, United States",1
+United States,South Carolina,Rock Hill,29730,34.9144893,-81.0001758,Found,"29730, Rock Hill, York County, South Carolina, United States",1
+United States,South Carolina,Summerville,29483,33.0350779,-80.1835475,Found,"29483, Summerville, Dorchester County, South Carolina, United States",1
+United States,South Dakota,Aberdeen,57401,45.4550133,-98.4720068,Found,"57401, Aberdeen, Aberdeen Township, Brown County, South Dakota, United States",1
+United States,South Dakota,Rapid City,57701,44.0805817,-103.2139067,Found,"57701, Rapid City, Pennington County, South Dakota, United States",1
+United States,South Dakota,Sioux Falls,57103,43.5357428,-96.6902563,Found,"57103, Sioux Falls, Sioux Falls Township, Minnehaha County, South Dakota, United States",1
+United States,Tennessee,Bartlett,38134,35.2045329,-89.8739753,Found,"Bartlett, Shelby County, West Tennessee, Tennessee, United States",1
+United States,Tennessee,Bristol,37620,36.5667431,-82.187891,Found,"37620, Bristol, Sullivan County, East Tennessee, Tennessee, United States",1
+United States,Tennessee,Chattanooga,37421,35.025776,-85.1491641,Found,"37421, Chattanooga, Hamilton County, East Tennessee, Tennessee, United States",1
+United States,Tennessee,Clarksville,37042,36.5735602,-87.4119828,Found,"37042, Clarksville, Montgomery County, Middle Tennessee, Tennessee, United States",1
+United States,Tennessee,Columbia,38401,35.6163005,-87.0354804,Found,"38401, Columbia, Maury County, Middle Tennessee, Tennessee, United States",1
+United States,Tennessee,Franklin,37064,35.9064121,-86.8677641,Found,"37064, Franklin, Williamson County, Middle Tennessee, Tennessee, United States",1
+United States,Tennessee,Hendersonville,37075,36.3150652,-86.6089537,Found,"37075, Hendersonville, Sumner County, Middle Tennessee, Tennessee, United States",1
+United States,Tennessee,Jackson,38301,35.6104822,-88.8194101,Found,"38301, Jackson, Madison County, West Tennessee, Tennessee, United States",1
+United States,Tennessee,Johnson City,37604,36.3333328,-82.393084,Found,"37604, Johnson City, Washington County, East Tennessee, Tennessee, United States",1
+United States,Tennessee,Knoxville,37918,36.0487226,-83.9265979,Found,"37918, Knoxville, Knox County, East Tennessee, Tennessee, United States",1
+United States,Tennessee,Lebanon,37087,36.2079779,-86.2910945,Review,"Lebanon, Wilson County, Middle Tennessee, Tennessee, United States",2
+United States,Tennessee,Memphis,38109,35.0765724,-90.0701392,Found,"38109, Memphis, Shelby County, West Tennessee, Tennessee, United States",1
+United States,Tennessee,Murfreesboro,37130,35.8588426,-86.3632185,Found,"37130, Murfreesboro, Rutherford County, Middle Tennessee, Tennessee, United States",1
+United States,Tennessee,Nashville,37211,36.0704283,-86.720433,Found,"37211, Nashville, Davidson County, Middle Tennessee, Tennessee, United States",1
+United States,Tennessee,Smyrna,37167,35.9824598,-86.5199492,Review,"Smyrna, Rutherford County, Middle Tennessee, Tennessee, United States",2
+United States,Texas,Abilene,79605,32.4300719,-99.7702359,Found,"79605, Abilene, Taylor County, Texas, United States",1
+United States,Texas,Allen,75002,33.1031744,-96.6705503,Retry_Found,"Allen, Collin County, Texas, United States",1
+United States,Texas,Amarillo,79109,35.1749846,-101.8696387,Found,"79109, Amarillo, Potter County, Texas, United States",1
+United States,Texas,Arlington,76017,32.6628942,-97.1614863,Found,"76017, Arlington, Tarrant County, Texas, United States",1
+United States,Texas,Austin,78745,30.2091201,-97.7920791,Found,"78745, Austin, Travis County, Texas, United States",1
+United States,Texas,Baytown,77520,29.751719,-94.9516678,Found,"77520, Baytown, Harris County, Texas, United States",1
+United States,Texas,Beaumont,77705,30.0260013,-94.1600604,Found,"77705, Beaumont, Jefferson County, Texas, United States",1
+United States,Texas,Bedford,76021,32.8526889,-97.1327055,Found,"76021, Bedford, Tarrant County, Texas, United States",1
+United States,Texas,Brownsville,78521,25.9394276,-97.4655283,Found,"78521, Brownsville, Cameron County, Texas, United States",1
+United States,Texas,Bryan,77803,30.6724707,-96.3795284,Found,"77803, Bryan, Brazos County, Texas, United States",1
+United States,Texas,Carrollton,75007,33.0064691,-96.8982415,Found,"75007, Carrollton, Dallas County, Texas, United States",1
+United States,Texas,Cedar Hill,75104,32.59585,-96.9453223,Found,"75104, Cedar Hill, Dallas County, Texas, United States",1
+United States,Texas,College Station,77840,30.6194486,-96.3435776,Found,"77840, College Station, Brazos County, Texas, United States",1
+United States,Texas,Conroe,77301,30.3231186,-95.4585591,Found,"77301, Conroe, Montgomery County, Texas, United States",1
+United States,Texas,Coppell,75019,32.976563,-96.9907961,Found,"75019, Coppell, Dallas County, Texas, United States",1
+United States,Texas,Corpus Christi,78415,27.7303242,-97.4162444,Found,"78415, Corpus Christi, Nueces County, Texas, United States",1
+United States,Texas,Dallas,75220,32.8684394,-96.8704195,Found,"75220, Dallas, Dallas County, Texas, United States",1
+United States,Texas,Dallas,75217,32.7216945,-96.6849885,Found,"75217, Dallas, Dallas County, Texas, United States",1
+United States,Texas,Dallas,75081,32.9464841,-96.7135902,Found,"75081, Richardson, Dallas County, Texas, United States",1
+United States,Texas,Deer Park,77536,29.6851568,-95.1184961,Found,"77536, Deer Park, Harris County, Texas, United States",1
+United States,Texas,Edinburg,78539,26.2801859,-98.1746942,Found,"78539, Edinburg, Hidalgo County, Texas, United States",1
+United States,Texas,El Paso,79907,31.6968844,-106.323891,Found,"79907, El Paso, El Paso County, Texas, United States",1
+United States,Texas,Fort Worth,76106,32.8006454,-97.3517193,Found,"76106, Fort Worth, Tarrant County, Texas, United States",1
+United States,Texas,Frisco,75034,33.1349369,-96.8364177,Found,"75034, Frisco, Collin County, Texas, United States",1
+United States,Texas,Garland,75043,32.8503419,-96.6049583,Found,"75043, Garland, Dallas County, Texas, United States",1
+United States,Texas,Grand Prairie,75051,32.7240338,-97.0088686,Found,"75051, Grand Prairie, Dallas County, Texas, United States",1
+United States,Texas,Grapevine,76051,32.9353951,-97.0869764,Found,"76051, Grapevine, Tarrant County, Texas, United States",1
+United States,Texas,Haltom City,76117,32.8057757,-97.2756665,Found,"76117, Haltom City, Tarrant County, Texas, United States",1
+United States,Texas,Harlingen,78550,26.2081316,-97.6919383,Found,"78550, Harlingen, Cameron County, Texas, United States",1
+United States,Texas,Houston,77095,29.7589382,-95.3676974,Review,"Houston, Harris County, Texas, United States",2
+United States,Texas,Houston,77036,29.7033202,-95.5344826,Found,"77036, Houston, Harris County, Texas, United States",1
+United States,Texas,Houston,77070,29.7576507,-95.3615081,Review,"United States Customhouse, San Jacinto Street, Downtown, Houston, Harris County, Texas, 77004, United States",2
+United States,Texas,Houston,77041,29.7589382,-95.3676974,Review,"Houston, Harris County, Texas, United States",2
+United States,Texas,Huntsville,77340,30.7055246,-95.5397676,Found,"77340, Huntsville, Walker County, Texas, United States",1
+United States,Texas,Irving,75061,32.8271924,-96.9635747,Found,"75061, Irving, Dallas County, Texas, United States",1
+United States,Texas,Keller,76248,32.9215495,-97.247778,Found,"76248, Keller, Tarrant County, Texas, United States",1
+United States,Texas,La Porte,77571,29.6743162,-95.0664824,Found,"77571, La Porte, Harris County, Texas, United States",1
+United States,Texas,Laredo,78041,27.5487725,-99.4868424,Found,"78041, Laredo, Webb County, Texas, United States",1
+United States,Texas,League City,77573,29.4986472,-95.0986918,Found,"77573, League City, Galveston County, Texas, United States",1
+United States,Texas,Lubbock,79424,33.5135782,-101.9278133,Found,"79424, Lubbock, Lubbock County, Texas, United States",1
+United States,Texas,Mansfield,76063,32.5701583,-97.1263473,Found,"76063, Mansfield, Tarrant County, Texas, United States",1
+United States,Texas,Mcallen,78501,26.2190354,-98.2399443,Found,"78501, McAllen, Hidalgo County, Texas, United States",1
+United States,Texas,Mesquite,75150,32.8133668,-96.6257442,Found,"75150, Mesquite, Dallas County, Texas, United States",1
+United States,Texas,Missouri City,77489,29.599414,-95.5133974,Found,"77489, Missouri City, Fort Bend County, Texas, United States",1
+United States,Texas,Odessa,79762,31.8903614,-102.3469413,Found,"79762, Odessa, Ector County, Texas, United States",1
+United States,Texas,Pasadena,77506,29.7029996,-95.2027841,Found,"77506, Pasadena, Harris County, Texas, United States",1
+United States,Texas,Pearland,77581,29.5605101,-95.2650553,Found,"77581, Whispering Winds, Pearland, Brazoria County, Texas, United States",1
+United States,Texas,Pharr,78577,26.1851951,-98.1877103,Found,"78577, Pharr, Hidalgo County, Texas, United States",1
+United States,Texas,Plano,75023,33.0579836,-96.7454826,Found,"75023, Plano, Collin County, Texas, United States",1
+United States,Texas,Port Arthur,77642,29.9139825,-93.9277464,Found,"77642, Port Arthur, Jefferson County, Texas, United States",1
+United States,Texas,Richardson,75080,32.9732401,-96.7408643,Found,"75080, Richardson, Dallas County, Texas, United States",1
+United States,Texas,Round Rock,78664,30.4868428,-97.6497518,Found,"78664, Round Rock, Williamson County, Texas, United States",1
+United States,Texas,San Angelo,76903,31.4703418,-100.4361801,Found,"76903, San Angelo, Tom Green County, Texas, United States",1
+United States,Texas,San Antonio,78207,29.4228864,-98.5238623,Found,"78207, San Antonio, Bexar County, Texas, United States",1
+United States,Texas,San Marcos,78666,29.8708872,-97.9522264,Found,"78666, San Marcos, Hays County, Texas, United States",1
+United States,Texas,Texas City,77590,29.3977982,-94.9295062,Found,"77590, Texas City, Galveston County, Texas, United States",1
+United States,Texas,The Colony,75056,33.0841582,-96.8833682,Found,"75056, The Colony, Denton County, Texas, United States",1
+United States,Texas,Tyler,75701,32.3213322,-95.29547,Found,"75701, Tyler, Smith County, Texas, United States",1
+United States,Texas,Waco,76706,31.5191413,-97.1220566,Found,"76706, Waco, McLennan County, Texas, United States",1
+United States,Utah,Draper,84020,40.5070912,-111.8654422,Found,"84020, Draper, Salt Lake County, Utah, United States",1
+United States,Utah,Layton,84041,41.0682299,-111.9828113,Found,"84041, Layton, Davis County, Utah, United States",1
+United States,Utah,Lehi,84043,40.4041619,-111.8771103,Found,"84043, Lehi, Utah County, Utah, United States",1
+United States,Utah,Logan,84321,41.7377655,-111.829043,Found,"84321, Logan, Cache County, Utah, United States",1
+United States,Utah,Murray,84107,40.655101,-111.8808043,Found,"84107, Murray, Salt Lake County, Utah, United States",1
+United States,Utah,Orem,84057,40.3169263,-111.7063654,Found,"84057, Orem, Utah County, Utah, United States",1
+United States,Utah,Pleasant Grove,84062,40.3792096,-111.7415029,Found,"84062, Pleasant Grove, Utah County, Utah, United States",1
+United States,Utah,Provo,84604,40.2653175,-111.6576194,Found,"84604, Provo, Utah County, Utah, United States",1
+United States,Utah,Salt Lake City,84106,40.7071317,-111.8562164,Found,"84106, Salt Lake City, Salt Lake County, Utah, United States",1
+United States,Utah,West Jordan,84084,40.6216255,-111.9567893,Found,"84084, West Jordan, Salt Lake County, Utah, United States",1
+United States,Vermont,Burlington,5401,44.4761601,-73.212906,Found,"Burlington, Chittenden County, Vermont, United States",1
+United States,Virginia,Alexandria,22304,38.8129809,-77.1109848,Found,"22304, Alexandria, Virginia, United States",1
+United States,Virginia,Arlington,22204,38.8609103,-77.0921024,Found,"22204, Arlington County, Virginia, United States",1
+United States,Virginia,Charlottesville,22901,38.029306,-78.4766781,Found,"Charlottesville, Virginia, United States",1
+United States,Virginia,Chesapeake,23320,36.7581306,-76.2368772,Found,"23320, Chesapeake, Virginia, United States",1
+United States,Virginia,Hampton,23666,37.0504257,-76.4125292,Found,"23666, Hampton, Virginia, United States",1
+United States,Virginia,Harrisonburg,22801,38.428564,-78.8710564,Found,"22801, Harrisonburg, Virginia, United States",1
+United States,Virginia,Newport News,23602,37.1139345,-76.5184264,Found,"23602, Newport News, Virginia, United States",1
+United States,Virginia,Richmond,23223,37.5385087,-77.43428,Found,"Richmond, Virginia, United States",1
+United States,Virginia,Salem,24153,37.2962706,-80.0745996,Found,"24153, Salem, Virginia, United States",1
+United States,Virginia,Springfield,22153,38.722389,-77.1700288,Review,"National Museum Of The United States Army, 1775, Liberty Drive, Village of Mount Air, Fort Belvoir, Fairfax County, Virginia, 22060, United States",2
+United States,Virginia,Suffolk,23434,36.7387605,-76.5945952,Found,"23434, Suffolk, Virginia, United States",1
+United States,Virginia,Virginia Beach,23464,36.7978844,-76.176856,Found,"23464, Virginia Beach, Virginia, United States",1
+United States,Virginia,Waynesboro,22980,38.0875299,-78.9193596,Found,"22980, Waynesboro, Virginia, United States",1
+United States,Washington,Auburn,98002,47.3068208,-122.2157689,Found,"98002, Auburn, King County, Washington, United States",1
+United States,Washington,Bellevue,98006,47.5586976,-122.1501327,Found,"98006, Bellevue, King County, Washington, United States",1
+United States,Washington,Bellingham,98226,48.7865774,-122.4688731,Found,"98226, Bellingham, Whatcom County, Washington, United States",1
+United States,Washington,Covington,98042,47.3640122,-122.1163946,Found,"98042, Covington, King County, Washington, United States",1
+United States,Washington,Des Moines,98198,47.3923289,-122.3135155,Found,"98198, Des Moines, King County, Washington, United States",1
+United States,Washington,Edmonds,98026,47.8101659,-122.3421884,Found,"98026, Edmonds, Snohomish County, Washington, United States",1
+United States,Washington,Everett,98208,47.9793437,-122.2127011,Retry_Found,"Everett, Snohomish County, Washington, United States",1
+United States,Washington,Kent,98031,47.4057414,-122.1925517,Found,"98031, Kent, King County, Washington, United States",1
+United States,Washington,Longview,98632,46.1581442,-122.9425737,Found,"98632, Longview, Cowlitz County, Washington, United States",1
+United States,Washington,Marysville,98270,48.0600235,-122.146392,Found,"98270, Marysville, Snohomish County, Washington, United States",1
+United States,Washington,Olympia,98502,47.0443623,-122.93983,Review,"United States Post Office, 400, Cooper Point Road Southwest, Olympia, Thurston County, Washington, 98502, United States",2
+United States,Washington,Pasco,99301,46.2409072,-119.105731,Found,"99301, Pasco, Franklin County, Washington, United States",1
+United States,Washington,Redmond,98052,47.6747208,-122.1222106,Found,"98052, Downtown Redmond, Redmond, King County, Washington, United States",1
+United States,Washington,Renton,98059,47.4941047,-122.1391503,Found,"98059, Renton, King County, Washington, United States",1
+United States,Washington,Seattle,98105,47.6645836,-122.299397,Found,"98105, Seattle, King County, Washington, United States",1
+United States,Washington,Seattle,98103,47.6735869,-122.3439708,Found,"98103, Seattle, King County, Washington, United States",1
+United States,Washington,Seattle,98115,47.6846584,-122.2999908,Found,"98115, Wedgwood, Seattle, King County, Washington, United States",1
+United States,Washington,Spokane,99207,47.6911168,-117.3962463,Found,"99207, Spokane, Spokane County, Washington, United States",1
+United States,Washington,Vancouver,98661,45.6470505,-122.6237145,Found,"98661, Bagley Downs, Vancouver, Clark County, Washington, United States",1
+United States,West Virginia,Wheeling,26003,40.0687174,-80.7072036,Found,"26003, Wheeling, Ohio County, West Virginia, United States",1
+United States,Wisconsin,Appleton,54915,44.2437494,-88.3801203,Found,"54915, Appleton, Outagamie County, Wisconsin, United States",1
+United States,Wisconsin,Eau Claire,54703,44.8308743,-91.5245024,Found,"54703, Eau Claire, Eau Claire County, Wisconsin, United States",1
+United States,Wisconsin,Franklin,53132,42.8994331,-88.0011125,Found,"53132, Franklin, Milwaukee County, Wisconsin, United States",1
+United States,Wisconsin,Green Bay,54302,44.5048568,-87.976148,Found,"54302, Green Bay, Brown County, Wisconsin, United States",1
+United States,Wisconsin,Kenosha,53142,42.5545214,-87.9326108,Found,"53142, Pleasant Prairie, Kenosha County, Wisconsin, United States",1
+United States,Wisconsin,La Crosse,54601,43.7985518,-91.2163652,Found,"54601, La Crosse, La Crosse County, Wisconsin, United States",1
+United States,Wisconsin,Madison,53711,43.07469,-89.3841663,Found,"Madison, Dane County, Wisconsin, United States",1
+United States,Wisconsin,Milwaukee,53209,43.1188072,-87.9476202,Found,"53209, Old North Milwaukee, Milwaukee, Milwaukee County, Wisconsin, United States",1
+United States,Wisconsin,Sheboygan,53081,43.7373888,-87.7302983,Found,"53081, Sheboygan, Sheboygan County, Wisconsin, United States",1
+United States,Wisconsin,Superior,54880,46.6982777,-92.0904127,Found,"54880, City of Superior, Douglas County, Wisconsin, United States",1
+United States,Wisconsin,Waukesha,53186,43.0147373,-88.2105324,Found,"53186, Waukesha, Waukesha County, Wisconsin, United States",1
+United States,Wisconsin,Wausau,54401,44.9637256,-89.6853325,Found,"54401, Wausau, Marathon County, Wisconsin, United States",1
+United States,Wisconsin,West Allis,53214,43.0192124,-88.0141416,Found,"53214, Wisconsin State Fair Park, West Allis, Milwaukee County, Wisconsin, United States",1
+United States,Wyoming,Cheyenne,82001,41.1431934,-104.78258,Found,"82001, Cheyenne, Laramie County, Wyoming, United States",1

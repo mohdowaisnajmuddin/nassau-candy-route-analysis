@@ -1,0 +1,656 @@
+City,State/Province,Postal Code,Latitude,Longitude,Lookup_Status,Coordinate_Range_Valid,Independent_Postal_Verification,Review_Reason
+Calgary,Alberta,T2C,51.0456064,-114.057541,Found,True,Not performed,Independent verification not performed
+Calgary,Alberta,T1Y,51.08166,-113.946545,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Edmonton,Alberta,T5A,53.593366,-113.408293,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Vancouver,British Columbia,V6Z,49.275006,-123.119993,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Vancouver,British Columbia,V6G,49.298985,-123.140783,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Vancouver,British Columbia,V6B,49.2608724,-123.113952,Found,True,Not performed,Independent verification not performed
+Vancouver,British Columbia,V5K,49.280764,-123.039539,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Vancouver,British Columbia,V6E,49.283314,-123.129497,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Winnipeg,Manitoba,R0H,50.480808,-98.731863,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Winnipeg,Manitoba,R3R,49.854655,-97.287483,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Moncton,New Brunswick,E1A,46.0985679,-64.8004265,Found,True,Not performed,Independent verification not performed
+St. John's,Newfoundland and Labrador,A0A,47.5646794,-52.7066964,Found,True,Not performed,Independent verification not performed
+Halifax,Nova Scotia,B3H,44.648618,-63.5859487,Found,True,Not performed,Independent verification not performed
+Toronto,Ontario,M7A,43.6534817,-79.3839347,Found,True,Not performed,Independent verification not performed
+Toronto,Ontario,M3C,43.723814,-79.341299,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Toronto,Ontario,M5H,43.648586,-79.382147,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Toronto,Ontario,M2N,43.767371,-79.411013,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Charlottetown,Prince Edward Island,C0A,46.268973,-62.792818,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Montreal,Quebec,H1A,45.5031824,-73.5698065,Found,True,Not performed,Independent verification not performed
+Montreal,Quebec,H1B,45.5031824,-73.5698065,Found,True,Not performed,Independent verification not performed
+Montreal,Quebec,H1C,45.5031824,-73.5698065,Found,True,Not performed,Independent verification not performed
+Quebec City,Quebec,G1B,46.8137431,-71.2084061,Found,True,Not performed,Independent verification not performed
+Regina,Saskatchewan,S0G,50.547251,-104.06142,Found_Canada_FSA,True,Not performed,Geocoding status requires review
+Auburn,Alabama,36830,32.6036176,-85.4758255,Found,True,Not performed,Independent verification not performed
+Decatur,Alabama,35601,34.5896285,-86.9897429,Found,True,Not performed,Independent verification not performed
+Florence,Alabama,35630,34.8187306,-87.6633297,Found,True,Not performed,Independent verification not performed
+Hoover,Alabama,35244,33.3591437,-86.8177312,Found,True,Not performed,Independent verification not performed
+Huntsville,Alabama,35810,34.7791698,-86.6047201,Found,True,Not performed,Independent verification not performed
+Mobile,Alabama,36608,30.6929626,-88.1898863,Found,True,Not performed,Independent verification not performed
+Montgomery,Alabama,36116,32.3184543,-86.2171831,Found,True,Not performed,Independent verification not performed
+Tuscaloosa,Alabama,35401,33.1977289,-87.5642586,Found,True,Not performed,Independent verification not performed
+Avondale,Arizona,85323,33.4327053,-112.319443,Found,True,Not performed,Independent verification not performed
+Bullhead City,Arizona,86442,35.0908289,-114.6036115,Found,True,Not performed,Independent verification not performed
+Chandler,Arizona,85224,33.32558,-111.8753547,Found,True,Not performed,Independent verification not performed
+Gilbert,Arizona,85234,33.3620094,-111.7369783,Found,True,Not performed,Independent verification not performed
+Glendale,Arizona,85301,33.5335737,-112.1746565,Found,True,Not performed,Independent verification not performed
+Mesa,Arizona,85204,33.4005656,-111.7883352,Found,True,Not performed,Independent verification not performed
+Peoria,Arizona,85345,33.5781427,-112.2396616,Found,True,Not performed,Independent verification not performed
+Phoenix,Arizona,85023,33.6373012,-112.0939293,Found,True,Not performed,Independent verification not performed
+Scottsdale,Arizona,85254,33.4942189,-111.926018,Found,True,Not performed,Independent verification not performed
+Sierra Vista,Arizona,85635,31.5439448,-110.2605431,Found,True,Not performed,Independent verification not performed
+Tempe,Arizona,85281,33.4407074,-111.930685,Found,True,Not performed,Independent verification not performed
+Tucson,Arizona,85705,32.2546545,-110.9782954,Found,True,Not performed,Independent verification not performed
+Yuma,Arizona,85364,32.7000624,-114.6359614,Found,True,Not performed,Independent verification not performed
+Conway,Arkansas,72032,35.0842076,-92.4190495,Found,True,Not performed,Independent verification not performed
+Fayetteville,Arkansas,72701,36.0490627,-94.1385494,Found,True,Not performed,Independent verification not performed
+Hot Springs,Arkansas,71901,34.502312,-93.0202518,Found,True,Not performed,Independent verification not performed
+Jonesboro,Arkansas,72401,35.8383164,-90.6882419,Found,True,Not performed,Independent verification not performed
+Little Rock,Arkansas,72209,34.6766433,-92.351208,Found,True,Not performed,Independent verification not performed
+Pine Bluff,Arkansas,71603,34.1805368,-92.0499448,Found,True,Not performed,Independent verification not performed
+Rogers,Arkansas,72756,36.3437726,-94.0983147,Found,True,Not performed,Independent verification not performed
+Springdale,Arkansas,72762,36.1847692,-94.1926786,Found,True,Not performed,Independent verification not performed
+Texarkana,Arkansas,71854,33.4435496,-94.017333,Found,True,Not performed,Independent verification not performed
+Anaheim,California,92804,33.8175708,-117.9747397,Found,True,Not performed,Independent verification not performed
+Antioch,California,94509,38.0012736,-121.8057956,Found,True,Not performed,Independent verification not performed
+Apple Valley,California,92307,34.5227373,-117.2306282,Found,True,Not performed,Independent verification not performed
+Bakersfield,California,93309,35.3455919,-119.0587247,Found,True,Not performed,Independent verification not performed
+Brentwood,California,94513,37.9367051,-121.7124258,Found,True,Not performed,Independent verification not performed
+Burbank,California,91505,34.1687816,-118.342744,Found,True,Not performed,Independent verification not performed
+Camarillo,California,93010,34.2203936,-119.0584429,Found,True,Not performed,Independent verification not performed
+Chico,California,95928,39.72228,-121.8337397,Found,True,Not performed,Independent verification not performed
+Chula Vista,California,91911,32.6103671,-117.0489917,Found,True,Not performed,Independent verification not performed
+Citrus Heights,California,95610,38.6768788,-121.2766044,Found,True,Not performed,Independent verification not performed
+Coachella,California,92236,33.6806143,-116.1873388,Found,True,Not performed,Independent verification not performed
+Concord,California,94521,37.9595004,-121.9856584,Found,True,Not performed,Independent verification not performed
+Costa Mesa,California,92627,33.6461365,-117.9177142,Found,True,Not performed,Independent verification not performed
+Danville,California,94526,37.814654,-121.9910294,Found,True,Not performed,Independent verification not performed
+Davis,California,95616,38.5461793,-121.7481678,Found,True,Not performed,Independent verification not performed
+Dublin,California,94568,37.7187828,-121.8617697,Found,True,Not performed,Independent verification not performed
+El Cajon,California,92020,32.7936483,-116.9721736,Found,True,Not performed,Independent verification not performed
+Encinitas,California,92024,33.0558312,-117.2695268,Found,True,Not performed,Independent verification not performed
+Escondido,California,92025,33.1066332,-117.0690017,Found,True,Not performed,Independent verification not performed
+Fairfield,California,94533,38.272603,-122.0167204,Found,True,Not performed,Independent verification not performed
+Fresno,California,93727,36.7356237,-119.713117,Found,True,Not performed,Independent verification not performed
+Hesperia,California,92345,34.4259298,-117.3169466,Found,True,Not performed,Independent verification not performed
+Huntington Beach,California,92646,33.6686796,-117.9678469,Found,True,Not performed,Independent verification not performed
+Inglewood,California,90301,33.9786413,-118.3679416,Found,True,Not performed,Independent verification not performed
+La Mesa,California,91941,32.7600926,-117.0070407,Found,True,Not performed,Independent verification not performed
+La Quinta,California,92253,33.6936542,-116.2988284,Found,True,Not performed,Independent verification not performed
+Laguna Niguel,California,92677,33.5297153,-117.7013312,Found,True,Not performed,Independent verification not performed
+Lake Elsinore,California,92530,33.6674074,-117.3514777,Found,True,Not performed,Independent verification not performed
+Lake Forest,California,92630,33.641697,-117.6893708,Found,True,Not performed,Independent verification not performed
+Lakewood,California,90712,33.8518341,-118.1445205,Found,True,Not performed,Independent verification not performed
+Lancaster,California,93534,34.6892856,-118.1415542,Found,True,Not performed,Independent verification not performed
+Lodi,California,95240,38.1186847,-121.2669515,Found,True,Not performed,Independent verification not performed
+Long Beach,California,90805,33.8647793,-118.1742651,Found,True,Not performed,Independent verification not performed
+Los Angeles,California,90049,34.0735363,-118.4698864,Found,True,Not performed,Independent verification not performed
+Los Angeles,California,90036,34.0680369,-118.3543702,Found,True,Not performed,Independent verification not performed
+Los Angeles,California,90008,34.0090951,-118.3301874,Found,True,Not performed,Independent verification not performed
+Los Angeles,California,90004,34.0740255,-118.3007302,Found,True,Not performed,Independent verification not performed
+Los Angeles,California,90045,33.9654123,-118.399037,Found,True,Not performed,Independent verification not performed
+Los Angeles,California,90032,34.0698296,-118.1737595,Found,True,Not performed,Independent verification not performed
+Manteca,California,95336,37.8187733,-121.2422135,Found,True,Not performed,Independent verification not performed
+Mission Viejo,California,92691,33.6153314,-117.6651936,Found,True,Not performed,Independent verification not performed
+Modesto,California,95351,37.6329495,-121.0084903,Found,True,Not performed,Independent verification not performed
+Montebello,California,90640,34.010289,-118.1268318,Found,True,Not performed,Independent verification not performed
+Moreno Valley,California,92553,33.934469,-117.244483,Found,True,Not performed,Independent verification not performed
+Morgan Hill,California,95037,37.1359295,-121.666883,Found,True,Not performed,Independent verification not performed
+Murrieta,California,92563,33.5740705,-117.1543234,Found,True,Not performed,Independent verification not performed
+Oakland,California,94601,37.7758967,-122.2218765,Found,True,Not performed,Independent verification not performed
+Oceanside,California,92054,33.1924759,-117.3576604,Found,True,Not performed,Independent verification not performed
+Ontario,California,91761,34.032496,-117.638731,Found,True,Not performed,Independent verification not performed
+Oxnard,California,93030,34.2043261,-119.1671051,Found,True,Not performed,Independent verification not performed
+Pasadena,California,91104,34.1651169,-118.1215219,Found,True,Not performed,Independent verification not performed
+Pico Rivera,California,90660,33.9892473,-118.088497,Found,True,Not performed,Independent verification not performed
+Pomona,California,91767,34.0805957,-117.7390905,Found,True,Not performed,Independent verification not performed
+Rancho Cucamonga,California,91730,34.1036146,-117.5898428,Found,True,Not performed,Independent verification not performed
+Redding,California,96003,40.6051615,-122.358433,Found,True,Not performed,Independent verification not performed
+Redlands,California,92374,34.066354,-117.1680545,Found,True,Not performed,Independent verification not performed
+Redondo Beach,California,90278,33.8669342,-118.3758622,Found,True,Not performed,Independent verification not performed
+Redwood City,California,94061,37.4863239,-122.232523,Found,True,Not performed,Independent verification not performed
+Riverside,California,92503,33.8795851,-117.4400994,Found,True,Not performed,Independent verification not performed
+Roseville,California,95661,38.7486014,-121.2473117,Found,True,Not performed,Independent verification not performed
+Sacramento,California,95823,38.4770272,-121.434138,Found,True,Not performed,Independent verification not performed
+Salinas,California,93905,36.6913764,-121.6139645,Found,True,Not performed,Independent verification not performed
+San Bernardino,California,92404,34.1392038,-117.2624208,Found,True,Not performed,Independent verification not performed
+San Clemente,California,92672,33.4285006,-117.6132081,Found,True,Not performed,Independent verification not performed
+San Diego,California,92037,32.8344879,-117.2578121,Found,True,Not performed,Independent verification not performed
+San Diego,California,92024,33.0558312,-117.2695268,Found,True,Not performed,Independent verification not performed
+San Diego,California,92105,32.7393847,-117.0955351,Found,True,Not performed,Independent verification not performed
+San Francisco,California,94109,37.7933026,-122.420177,Found,True,Not performed,Independent verification not performed
+San Francisco,California,94110,37.7533155,-122.4169991,Found,True,Not performed,Independent verification not performed
+San Francisco,California,94122,37.7610672,-122.4724119,Found,True,Not performed,Independent verification not performed
+San Gabriel,California,91776,34.089861,-118.0948872,Found,True,Not performed,Independent verification not performed
+San Jose,California,95123,37.24537,-121.8256927,Found,True,Not performed,Independent verification not performed
+San Luis Obispo,California,93405,35.2697271,-120.687557,Found,True,Not performed,Independent verification not performed
+San Mateo,California,94403,37.5402284,-122.2971855,Found,True,Not performed,Independent verification not performed
+Santa Ana,California,92704,33.724115,-117.9057189,Found,True,Not performed,Independent verification not performed
+Santa Barbara,California,93101,34.4201249,-119.7079519,Found,True,Not performed,Independent verification not performed
+Santa Clara,California,95051,37.3486244,-121.9837282,Found,True,Not performed,Independent verification not performed
+Santa Maria,California,93454,34.9473803,-120.4263848,Found,True,Not performed,Independent verification not performed
+Stockton,California,95207,37.9422616,-121.2813303,Found,True,Not performed,Independent verification not performed
+Sunnyvale,California,94086,37.3728492,-122.0222288,Found,True,Not performed,Independent verification not performed
+Temecula,California,92592,33.4785624,-117.0763319,Found,True,Not performed,Independent verification not performed
+Thousand Oaks,California,91360,34.1959842,-118.8780359,Found,True,Not performed,Independent verification not performed
+Torrance,California,90503,33.8421618,-118.3587881,Found,True,Not performed,Independent verification not performed
+Vacaville,California,95687,38.3493194,-121.9640246,Found,True,Not performed,Independent verification not performed
+Vallejo,California,94591,38.1163766,-122.2167662,Found,True,Not performed,Independent verification not performed
+Visalia,California,93277,36.3023155,-119.3356454,Found,True,Not performed,Independent verification not performed
+Westminster,California,92683,33.7539194,-117.9950644,Found,True,Not performed,Independent verification not performed
+Whittier,California,90604,34.0431327,-118.0545157,Found,True,Not performed,Independent verification not performed
+Woodland,California,95695,38.6924348,-121.7993417,Review,True,Not performed,Geocoding status requires review
+Yucaipa,California,92399,34.038706,-117.0608977,Found,True,Not performed,Independent verification not performed
+Arvada,Colorado,80004,39.8116593,-105.1085318,Found,True,Not performed,Independent verification not performed
+Aurora,Colorado,80013,39.6578778,-104.7772976,Found,True,Not performed,Independent verification not performed
+Broomfield,Colorado,80020,39.9246291,-105.0607859,Found,True,Not performed,Independent verification not performed
+Colorado Springs,Colorado,80906,38.7900384,-104.8251385,Found,True,Not performed,Independent verification not performed
+Commerce City,Colorado,80022,39.8083196,-104.9338675,Review,True,Not performed,Geocoding status requires review
+Denver,Colorado,80219,39.6955632,-105.0355196,Found,True,Not performed,Independent verification not performed
+Englewood,Colorado,80112,39.6482059,-104.9879641,Retry_Found,True,Not performed,Geocoding status requires review
+Fort Collins,Colorado,80525,40.545971,-105.0506954,Found,True,Not performed,Independent verification not performed
+Greeley,Colorado,80634,40.4100771,-104.7511691,Found,True,Not performed,Independent verification not performed
+Littleton,Colorado,80122,39.613321,-105.016649,Found,True,Not performed,Independent verification not performed
+Longmont,Colorado,80501,40.1777184,-105.0987426,Found,True,Not performed,Independent verification not performed
+Louisville,Colorado,80027,39.9608968,-105.1487436,Found,True,Not performed,Independent verification not performed
+Loveland,Colorado,80538,40.4456357,-105.1133204,Found,True,Not performed,Independent verification not performed
+Parker,Colorado,80134,39.5049492,-104.7875136,Found,True,Not performed,Independent verification not performed
+Pueblo,Colorado,81001,38.2969803,-104.5640217,Found,True,Not performed,Independent verification not performed
+Thornton,Colorado,80229,39.8568198,-104.9711722,Found,True,Not performed,Independent verification not performed
+Bristol,Connecticut,6010,41.6711752,-72.9430128,Found,True,Not performed,Independent verification not performed
+Danbury,Connecticut,6810,41.394817,-73.4540111,Found,True,Not performed,Independent verification not performed
+Fairfield,Connecticut,6824,41.1412078,-73.2637258,Review,True,Not performed,Geocoding status requires review
+Manchester,Connecticut,6040,41.7834017,-72.5231973,Found,True,Not performed,Independent verification not performed
+Meriden,Connecticut,6450,41.5381882,-72.8026128,Found,True,Not performed,Independent verification not performed
+Middletown,Connecticut,6457,41.5623178,-72.6509061,Found,True,Not performed,Independent verification not performed
+Milford,Connecticut,6460,41.2222218,-73.0570603,Found,True,Not performed,Independent verification not performed
+Norwich,Connecticut,6360,41.5243631,-72.0759134,Found,True,Not performed,Independent verification not performed
+Shelton,Connecticut,6484,41.3164856,-73.0931641,Review,True,Not performed,Geocoding status requires review
+Waterbury,Connecticut,6708,41.5541144,-73.0435615,Found,True,Not performed,Independent verification not performed
+Dover,Delaware,19901,39.1584049,-75.5145203,Found,True,Not performed,Independent verification not performed
+Newark,Delaware,19711,39.6947939,-75.7438359,Found,True,Not performed,Independent verification not performed
+Wilmington,Delaware,19805,39.738331,-75.5527467,Found,True,Not performed,Independent verification not performed
+Washington,District of Columbia,20016,38.9388339,-77.082674,Found,True,Not performed,Independent verification not performed
+Apopka,Florida,32712,28.7120686,-81.530603,Found,True,Not performed,Independent verification not performed
+Boca Raton,Florida,33433,26.3586885,-80.0830984,Found,True,Not performed,Independent verification not performed
+Boynton Beach,Florida,33437,26.5289139,-80.058141,Retry_Found,True,Not performed,Geocoding status requires review
+Coral Gables,Florida,33134,25.7556935,-80.2701882,Found,True,Not performed,Independent verification not performed
+Coral Springs,Florida,33065,26.2785952,-80.2486071,Found,True,Not performed,Independent verification not performed
+Daytona Beach,Florida,32114,29.2025895,-81.0396745,Found,True,Not performed,Independent verification not performed
+Delray Beach,Florida,33445,26.4555142,-80.1105806,Found,True,Not performed,Independent verification not performed
+Deltona,Florida,32725,28.903015,-81.2455083,Found,True,Not performed,Independent verification not performed
+Fort Lauderdale,Florida,33311,26.1223084,-80.1433786,Found,True,Not performed,Independent verification not performed
+Hialeah,Florida,33012,25.8653753,-80.3006765,Found,True,Not performed,Independent verification not performed
+Hollywood,Florida,33021,26.0236524,-80.1867324,Found,True,Not performed,Independent verification not performed
+Homestead,Florida,33030,25.4785246,-80.4874809,Found,True,Not performed,Independent verification not performed
+Jacksonville,Florida,32216,30.2846345,-81.5812584,Found,True,Not performed,Independent verification not performed
+Jupiter,Florida,33458,26.9289232,-80.1236438,Found,True,Not performed,Independent verification not performed
+Kissimmee,Florida,34741,28.3070766,-81.4226509,Found,True,Not performed,Independent verification not performed
+Lakeland,Florida,33801,28.0394654,-81.9498042,Found,True,Not performed,Independent verification not performed
+Margate,Florida,33063,26.2485353,-80.1995081,Found,True,Not performed,Independent verification not performed
+Melbourne,Florida,32935,28.1336945,-80.6578457,Found,True,Not performed,Independent verification not performed
+Miami,Florida,33180,25.9627825,-80.1444142,Found,True,Not performed,Independent verification not performed
+Miami,Florida,33178,25.8326489,-80.3701683,Found,True,Not performed,Independent verification not performed
+Miami,Florida,33142,25.8130412,-80.2342852,Found,True,Not performed,Independent verification not performed
+Miramar,Florida,33023,25.9905288,-80.2127107,Found,True,Not performed,Independent verification not performed
+North Miami,Florida,33161,25.8934998,-80.1824227,Found,True,Not performed,Independent verification not performed
+Orlando,Florida,32839,28.5421218,-81.379045,Found,True,Not performed,Independent verification not performed
+Ormond Beach,Florida,32174,29.2920037,-81.1034491,Found,True,Not performed,Independent verification not performed
+Palm Coast,Florida,32137,29.57058,-81.2327107,Found,True,Not performed,Independent verification not performed
+Pembroke Pines,Florida,33024,26.0226642,-80.2488735,Found,True,Not performed,Independent verification not performed
+Pensacola,Florida,32503,30.4578923,-87.2119757,Found,True,Not performed,Independent verification not performed
+Plantation,Florida,33317,26.1112677,-80.2246535,Found,True,Not performed,Independent verification not performed
+Pompano Beach,Florida,33068,26.2378597,-80.1247667,Found,True,Not performed,Independent verification not performed
+Port Orange,Florida,32127,29.112009,-80.9869708,Found,True,Not performed,Independent verification not performed
+Port Saint Lucie,Florida,34952,27.2897654,-80.298284,Found,True,Not performed,Independent verification not performed
+Saint Petersburg,Florida,33710,27.7912888,-82.7064873,Found,True,Not performed,Independent verification not performed
+Sanford,Florida,32771,28.8117345,-81.2680223,Found,True,Not performed,Independent verification not performed
+Tallahassee,Florida,32303,30.4702733,-84.3010676,Found,True,Not performed,Independent verification not performed
+Tamarac,Florida,33319,26.1821374,-80.2229222,Found,True,Not performed,Independent verification not performed
+Tampa,Florida,33614,27.9449854,-82.4583107,Found,True,Not performed,Independent verification not performed
+West Palm Beach,Florida,33407,26.7452212,-80.0747349,Found,True,Not performed,Independent verification not performed
+Athens,Georgia,30605,33.9258119,-83.342491,Found,True,Not performed,Independent verification not performed
+Atlanta,Georgia,30318,33.7884492,-84.4449585,Found,True,Not performed,Independent verification not performed
+Columbus,Georgia,31907,32.4815933,-84.9066373,Found,True,Not performed,Independent verification not performed
+East Point,Georgia,30344,33.6784452,-84.4553965,Found,True,Not performed,Independent verification not performed
+Macon,Georgia,31204,32.8444268,-83.6744691,Found,True,Not performed,Independent verification not performed
+Marietta,Georgia,30062,33.952845,-84.5496054,Found,True,Not performed,Independent verification not performed
+Roswell,Georgia,30076,34.0286984,-84.317262,Found,True,Not performed,Independent verification not performed
+Sandy Springs,Georgia,30328,33.9332439,-84.382731,Found,True,Not performed,Independent verification not performed
+Smyrna,Georgia,30080,33.878678,-84.5051503,Found,True,Not performed,Independent verification not performed
+Warner Robins,Georgia,31088,32.6200973,-83.606568,Found,True,Not performed,Independent verification not performed
+Woodstock,Georgia,30188,34.1014112,-84.5192192,Found,True,Not performed,Independent verification not performed
+Boise,Idaho,83704,43.626094,-116.2850952,Found,True,Not performed,Independent verification not performed
+Caldwell,Idaho,83605,43.6615572,-116.6679727,Found,True,Not performed,Independent verification not performed
+Lewiston,Idaho,83501,46.3916893,-116.9817108,Found,True,Not performed,Independent verification not performed
+Meridian,Idaho,83642,43.5875125,-116.3903555,Found,True,Not performed,Independent verification not performed
+Pocatello,Idaho,83201,42.879284,-112.4317084,Found,True,Not performed,Independent verification not performed
+Twin Falls,Idaho,83301,42.5645656,-114.4593062,Found,True,Not performed,Independent verification not performed
+Arlington Heights,Illinois,60004,42.1103786,-87.9776143,Found,True,Not performed,Independent verification not performed
+Aurora,Illinois,60505,41.7602735,-88.298043,Found,True,Not performed,Independent verification not performed
+Bloomington,Illinois,61701,40.4741515,-89.0018711,Found,True,Not performed,Independent verification not performed
+Bolingbrook,Illinois,60440,41.7047249,-88.073369,Found,True,Not performed,Independent verification not performed
+Buffalo Grove,Illinois,60089,42.1544205,-87.9589621,Retry_Found,True,Not performed,Geocoding status requires review
+Carol Stream,Illinois,60188,41.9187379,-88.1359621,Found,True,Not performed,Independent verification not performed
+Champaign,Illinois,61821,40.1006866,-88.2776696,Found,True,Not performed,Independent verification not performed
+Chicago,Illinois,60653,41.8197324,-87.6083582,Found,True,Not performed,Independent verification not performed
+Chicago,Illinois,60610,41.9042632,-87.635644,Found,True,Not performed,Independent verification not performed
+Chicago,Illinois,60623,41.8492098,-87.7176008,Found,True,Not performed,Independent verification not performed
+Danville,Illinois,61832,40.1359817,-87.6283972,Found,True,Not performed,Independent verification not performed
+Decatur,Illinois,62521,39.8281129,-88.9244119,Found,True,Not performed,Independent verification not performed
+Des Plaines,Illinois,60016,42.0410306,-87.9031834,Found,True,Not performed,Independent verification not performed
+Elmhurst,Illinois,60126,41.8952175,-87.9459586,Found,True,Not performed,Independent verification not performed
+Evanston,Illinois,60201,42.0567835,-87.7010164,Found,True,Not performed,Independent verification not performed
+Frankfort,Illinois,60423,41.4900751,-87.8604813,Found,True,Not performed,Independent verification not performed
+Freeport,Illinois,61032,42.2995032,-89.6353123,Found,True,Not performed,Independent verification not performed
+Glenview,Illinois,60025,42.0691144,-87.8142311,Found,True,Not performed,Independent verification not performed
+Highland Park,Illinois,60035,42.1812864,-87.7991403,Found,True,Not performed,Independent verification not performed
+Naperville,Illinois,60540,41.7671812,-88.161552,Found,True,Not performed,Independent verification not performed
+Normal,Illinois,61761,40.510824,-88.9834927,Found,True,Not performed,Independent verification not performed
+Oak Park,Illinois,60302,41.8963349,-87.7875014,Found,True,Not performed,Independent verification not performed
+Orland Park,Illinois,60462,41.61672,-87.8373114,Found,True,Not performed,Independent verification not performed
+Oswego,Illinois,60543,41.6872031,-88.332214,Found,True,Not performed,Independent verification not performed
+Palatine,Illinois,60067,42.1052431,-88.0551149,Found,True,Not performed,Independent verification not performed
+Park Ridge,Illinois,60068,42.0093896,-87.8362713,Found,True,Not performed,Independent verification not performed
+Peoria,Illinois,61604,40.7093808,-89.6345134,Found,True,Not performed,Independent verification not performed
+Quincy,Illinois,62301,39.9285605,-91.3754576,Found,True,Not performed,Independent verification not performed
+Rockford,Illinois,61107,42.2801497,-89.0252609,Found,True,Not performed,Independent verification not performed
+Romeoville,Illinois,60441,41.6475306,-88.0895061,Found,True,Not performed,Independent verification not performed
+Saint Charles,Illinois,60174,41.8900173,-88.0106208,Review,True,Not performed,Geocoding status requires review
+Skokie,Illinois,60076,42.0364815,-87.7304243,Found,True,Not performed,Independent verification not performed
+Tinley Park,Illinois,60477,41.5787235,-87.8022633,Found,True,Not performed,Independent verification not performed
+Wheeling,Illinois,60090,42.1351877,-87.9299877,Found,True,Not performed,Independent verification not performed
+Woodstock,Illinois,60098,42.3194821,-88.4343872,Found,True,Not performed,Independent verification not performed
+Bloomington,Indiana,47401,39.1442091,-86.5040832,Found,True,Not performed,Independent verification not performed
+Columbus,Indiana,47201,39.2014405,-85.9213796,Found,True,Not performed,Independent verification not performed
+Elkhart,Indiana,46514,41.7142098,-85.9715989,Found,True,Not performed,Independent verification not performed
+Greenwood,Indiana,46142,39.6136987,-86.1095429,Review,True,Not performed,Geocoding status requires review
+Indianapolis,Indiana,46203,39.7404004,-86.1133449,Found,True,Not performed,Independent verification not performed
+La Porte,Indiana,46350,41.6102923,-86.7239502,Found,True,Not performed,Independent verification not performed
+Lafayette,Indiana,47905,40.4166855,-86.823388,Found,True,Not performed,Independent verification not performed
+Lawrence,Indiana,46226,39.8386516,-86.0252612,Found,True,Not performed,Independent verification not performed
+Mishawaka,Indiana,46544,41.6611642,-86.1807031,Found,True,Not performed,Independent verification not performed
+New Albany,Indiana,47150,38.30529,-85.8180401,Found,True,Not performed,Independent verification not performed
+New Castle,Indiana,47362,39.9238083,-85.3695626,Found,True,Not performed,Independent verification not performed
+Noblesville,Indiana,46060,40.0332562,-85.9852218,Found,True,Not performed,Independent verification not performed
+Portage,Indiana,46368,41.5773865,-87.1826576,Found,True,Not performed,Independent verification not performed
+Richmond,Indiana,47374,39.8290854,-84.8893467,Found,True,Not performed,Independent verification not performed
+South Bend,Indiana,46614,41.6332562,-86.2468397,Found,True,Not performed,Independent verification not performed
+Burlington,Iowa,52601,40.8166896,-91.1204451,Found,True,Not performed,Independent verification not performed
+Cedar Rapids,Iowa,52402,42.0175367,-91.652471,Found,True,Not performed,Independent verification not performed
+Des Moines,Iowa,50315,41.5486232,-93.6206721,Found,True,Not performed,Independent verification not performed
+Dubuque,Iowa,52001,42.510173,-90.6775168,Found,True,Not performed,Independent verification not performed
+Iowa City,Iowa,52240,41.6450611,-91.5132148,Found,True,Not performed,Independent verification not performed
+Marion,Iowa,52302,42.0435104,-91.5909458,Found,True,Not performed,Independent verification not performed
+Urbandale,Iowa,50322,41.6352778,-93.7398581,Found,True,Not performed,Independent verification not performed
+Waterloo,Iowa,50701,42.4726395,-92.3645686,Found,True,Not performed,Independent verification not performed
+Garden City,Kansas,67846,37.9867626,-100.8375019,Found,True,Not performed,Independent verification not performed
+Manhattan,Kansas,66502,39.1940217,-96.5747842,Found,True,Not performed,Independent verification not performed
+Olathe,Kansas,66062,38.8694104,-94.7730162,Found,True,Not performed,Independent verification not performed
+Overland Park,Kansas,66212,38.9559796,-94.685519,Found,True,Not performed,Independent verification not performed
+Wichita,Kansas,67212,37.7096074,-97.4503911,Found,True,Not performed,Independent verification not performed
+Bowling Green,Kentucky,42104,36.9929203,-86.4428677,Found,True,Not performed,Independent verification not performed
+Florence,Kentucky,41042,38.9862303,-84.6525589,Found,True,Not performed,Independent verification not performed
+Georgetown,Kentucky,40324,38.2245726,-84.5476655,Found,True,Not performed,Independent verification not performed
+Henderson,Kentucky,42420,37.8211417,-87.5734205,Found,True,Not performed,Independent verification not performed
+Louisville,Kentucky,40214,38.1574348,-85.7794426,Found,True,Not performed,Independent verification not performed
+Murray,Kentucky,42071,36.6106122,-88.3021092,Found,True,Not performed,Independent verification not performed
+Owensboro,Kentucky,42301,37.7495804,-87.1455842,Found,True,Not performed,Independent verification not performed
+Richmond,Kentucky,40475,37.7567868,-84.3050242,Found,True,Not performed,Independent verification not performed
+Bossier City,Louisiana,71111,32.5435272,-93.7036213,Found,True,Not performed,Independent verification not performed
+Kenner,Louisiana,70065,30.0254526,-90.2534321,Found,True,Not performed,Independent verification not performed
+Lafayette,Louisiana,70506,30.2061783,-92.0659355,Found,True,Not performed,Independent verification not performed
+Lake Charles,Louisiana,70601,30.2259528,-93.2058757,Found,True,Not performed,Independent verification not performed
+Monroe,Louisiana,71203,32.5025471,-92.116219,Review,True,Not performed,Geocoding status requires review
+Bangor,Maine,4401,44.8016255,-68.7713289,Found,True,Not performed,Independent verification not performed
+Lewiston,Maine,4240,44.0990717,-70.2177099,Found,True,Not performed,Independent verification not performed
+Baltimore,Maryland,21215,39.3439447,-76.6790089,Found,True,Not performed,Independent verification not performed
+Clinton,Maryland,20735,38.7651145,-76.8983059,Found,True,Not performed,Independent verification not performed
+Columbia,Maryland,21044,39.2156213,-76.8582049,Found,True,Not performed,Independent verification not performed
+Gaithersburg,Maryland,20877,39.1451512,-77.1805632,Found,True,Not performed,Independent verification not performed
+Hagerstown,Maryland,21740,39.6338362,-77.7373766,Found,True,Not performed,Independent verification not performed
+Laurel,Maryland,20707,39.097095,-76.8741888,Found,True,Not performed,Independent verification not performed
+Rockville,Maryland,20852,39.0817985,-77.1516844,Found,True,Not performed,Independent verification not performed
+Andover,Massachusetts,1810,42.65717,-71.1408776,Found,True,Not performed,Independent verification not performed
+Beverly,Massachusetts,1915,42.5489744,-70.8781883,Found,True,Not performed,Independent verification not performed
+Cambridge,Massachusetts,2138,42.3656347,-71.1040018,Found,True,Not performed,Independent verification not performed
+Everett,Massachusetts,2149,42.4085897,-71.0542002,Found,True,Not performed,Independent verification not performed
+Franklin,Massachusetts,2038,42.0825801,-71.3971167,Found,True,Not performed,Independent verification not performed
+Holyoke,Massachusetts,1040,42.2071184,-72.6075851,Found,True,Not performed,Independent verification not performed
+Lawrence,Massachusetts,1841,42.7070354,-71.1631137,Found,True,Not performed,Independent verification not performed
+Leominster,Massachusetts,1453,42.5267443,-71.7614891,Found,True,Not performed,Independent verification not performed
+Lowell,Massachusetts,1852,42.6414437,-71.3085329,Found,True,Not performed,Independent verification not performed
+Malden,Massachusetts,2148,42.4268484,-71.0683741,Found,True,Not performed,Independent verification not performed
+Marlborough,Massachusetts,1752,42.3468589,-71.5525188,Review,True,Not performed,Geocoding status requires review
+New Bedford,Massachusetts,2740,41.6362152,-70.934205,Found,True,Not performed,Independent verification not performed
+Quincy,Massachusetts,2169,42.2509914,-71.0037374,Found,True,Not performed,Independent verification not performed
+Revere,Massachusetts,2151,42.4084302,-71.0119948,Found,True,Not performed,Independent verification not performed
+Ann Arbor,Michigan,48104,42.2662493,-83.7272453,Found,True,Not performed,Independent verification not performed
+Canton,Michigan,48187,42.3294803,-83.4760419,Found,True,Not performed,Independent verification not performed
+Dearborn,Michigan,48126,42.3262619,-83.1844998,Found,True,Not performed,Independent verification not performed
+Dearborn Heights,Michigan,48127,42.3375069,-83.2567482,Found,True,Not performed,Independent verification not performed
+Detroit,Michigan,48234,42.4335223,-83.043829,Found,True,Not performed,Independent verification not performed
+Detroit,Michigan,48205,42.4336675,-82.9722356,Found,True,Not performed,Independent verification not performed
+Detroit,Michigan,48227,42.3870548,-83.1891448,Found,True,Not performed,Independent verification not performed
+Grand Rapids,Michigan,49505,42.9943539,-85.6443543,Found,True,Not performed,Independent verification not performed
+Holland,Michigan,49423,42.772112,-86.1058791,Found,True,Not performed,Independent verification not performed
+Jackson,Michigan,49201,42.232131,-84.3574959,Found,True,Not performed,Independent verification not performed
+Lansing,Michigan,48911,42.6767705,-84.5623107,Found,True,Not performed,Independent verification not performed
+Lincoln Park,Michigan,48146,42.2402851,-83.1801338,Found,True,Not performed,Independent verification not performed
+Midland,Michigan,48640,43.619608,-84.2554003,Found,True,Not performed,Independent verification not performed
+Mount Pleasant,Michigan,48858,43.5944203,-84.7796199,Found,True,Not performed,Independent verification not performed
+Oak Park,Michigan,48237,42.4733745,-83.1736432,Found,True,Not performed,Independent verification not performed
+Rochester Hills,Michigan,48307,42.6583661,-83.1499322,Found,True,Not performed,Independent verification not performed
+Roseville,Michigan,48066,42.5046467,-82.9361177,Found,True,Not performed,Independent verification not performed
+Royal Oak,Michigan,48073,42.5186614,-83.1683525,Found,True,Not performed,Independent verification not performed
+Saginaw,Michigan,48601,43.4260204,-83.942279,Found,True,Not performed,Independent verification not performed
+Sterling Heights,Michigan,48310,42.5554699,-83.0652687,Found,True,Not performed,Independent verification not performed
+Taylor,Michigan,48180,42.2386343,-83.2620262,Found,True,Not performed,Independent verification not performed
+Trenton,Michigan,48183,42.1406958,-83.2114402,Found,True,Not performed,Independent verification not performed
+Westland,Michigan,48185,42.3327052,-83.3744615,Found,True,Not performed,Independent verification not performed
+Apple Valley,Minnesota,55124,44.7441724,-93.2017143,Found,True,Not performed,Independent verification not performed
+Coon Rapids,Minnesota,55433,45.1664145,-93.3174116,Found,True,Not performed,Independent verification not performed
+Cottage Grove,Minnesota,55016,44.8196116,-92.951946,Found,True,Not performed,Independent verification not performed
+Eagan,Minnesota,55122,44.8017985,-93.194183,Found,True,Not performed,Independent verification not performed
+Lakeville,Minnesota,55044,44.6803333,-93.2509654,Found,True,Not performed,Independent verification not performed
+Maple Grove,Minnesota,55369,45.1141319,-93.4375933,Found,True,Not performed,Independent verification not performed
+Minneapolis,Minnesota,55407,44.9371856,-93.253672,Found,True,Not performed,Independent verification not performed
+Moorhead,Minnesota,56560,46.8369296,-96.7561018,Found,True,Not performed,Independent verification not performed
+Rochester,Minnesota,55901,44.0569496,-92.4960398,Found,True,Not performed,Independent verification not performed
+Roseville,Minnesota,55113,45.0141573,-93.1525433,Found,True,Not performed,Independent verification not performed
+Saint Cloud,Minnesota,56301,45.5296742,-94.1835147,Found,True,Not performed,Independent verification not performed
+Saint Paul,Minnesota,55106,44.9619382,-93.0558247,Found,True,Not performed,Independent verification not performed
+Woodbury,Minnesota,55125,44.9099913,-92.9447658,Found,True,Not performed,Independent verification not performed
+Gulfport,Mississippi,39503,30.4637188,-89.0954242,Found,True,Not performed,Independent verification not performed
+Hattiesburg,Mississippi,39401,31.2991365,-89.3011381,Found,True,Not performed,Independent verification not performed
+Jackson,Mississippi,39212,32.2471998,-90.2613103,Found,True,Not performed,Independent verification not performed
+Southaven,Mississippi,38671,34.9688623,-89.9854598,Found,True,Not performed,Independent verification not performed
+Columbia,Missouri,65203,38.9322417,-92.367386,Found,True,Not performed,Independent verification not performed
+Gladstone,Missouri,64118,39.2141304,-94.5772653,Found,True,Not performed,Independent verification not performed
+Independence,Missouri,64055,39.0505057,-94.4014198,Found,True,Not performed,Independent verification not performed
+Jefferson City,Missouri,65109,38.5744668,-92.2439154,Found,True,Not performed,Independent verification not performed
+Kirkwood,Missouri,63122,38.5837968,-90.4120797,Found,True,Not performed,Independent verification not performed
+Saint Charles,Missouri,63301,38.8171818,-90.4987837,Found,True,Not performed,Independent verification not performed
+Saint Louis,Missouri,63116,38.5821908,-90.2626709,Found,True,Not performed,Independent verification not performed
+Saint Peters,Missouri,63376,38.7777609,-90.6234798,Found,True,Not performed,Independent verification not performed
+Springfield,Missouri,65807,37.1641733,-93.3009734,Found,True,Not performed,Independent verification not performed
+Billings,Montana,59102,45.7875466,-108.5722757,Found,True,Not performed,Independent verification not performed
+Bozeman,Montana,59715,45.6842221,-111.0350296,Found,True,Not performed,Independent verification not performed
+Great Falls,Montana,59405,47.4958373,-111.2650281,Found,True,Not performed,Independent verification not performed
+Helena,Montana,59601,46.5916614,-112.0390121,Found,True,Not performed,Independent verification not performed
+Missoula,Montana,59801,46.8545745,-113.9948511,Found,True,Not performed,Independent verification not performed
+Fremont,Nebraska,68025,41.4352155,-96.4954254,Found,True,Not performed,Independent verification not performed
+Grand Island,Nebraska,68801,40.9122466,-98.3414307,Found,True,Not performed,Independent verification not performed
+Norfolk,Nebraska,68701,42.0221896,-97.3945539,Found,True,Not performed,Independent verification not performed
+Omaha,Nebraska,68104,41.2856212,-96.0015427,Found,True,Not performed,Independent verification not performed
+Henderson,Nevada,89015,36.0294469,-114.9727579,Found,True,Not performed,Independent verification not performed
+Las Vegas,Nevada,89115,36.1674263,-115.1484131,Found,True,Not performed,Independent verification not performed
+North Las Vegas,Nevada,89031,36.2580602,-115.1543333,Found,True,Not performed,Independent verification not performed
+Reno,Nevada,89502,39.4981896,-119.7745558,Found,True,Not performed,Independent verification not performed
+Sparks,Nevada,89431,39.5431437,-119.7545472,Found,True,Not performed,Independent verification not performed
+Concord,New Hampshire,3301,43.207178,-71.537476,Found,True,Not performed,Independent verification not performed
+Dover,New Hampshire,3820,43.1981117,-70.8739761,Found,True,Not performed,Independent verification not performed
+Nashua,New Hampshire,3060,42.7656251,-71.4677032,Found,True,Not performed,Independent verification not performed
+Atlantic City,New Jersey,8401,39.3642852,-74.4229351,Found,True,Not performed,Independent verification not performed
+Bayonne,New Jersey,7002,40.6687141,-74.1143091,Found,True,Not performed,Independent verification not performed
+Belleville,New Jersey,7109,40.7937116,-74.1501438,Found,True,Not performed,Independent verification not performed
+Bridgeton,New Jersey,8302,39.4269659,-75.2341587,Found,True,Not performed,Independent verification not performed
+Clifton,New Jersey,7011,40.8584328,-74.1637553,Found,True,Not performed,Independent verification not performed
+East Orange,New Jersey,7017,40.7642404,-74.215011,Found,True,Not performed,Independent verification not performed
+Hackensack,New Jersey,7601,40.8870781,-74.0410667,Found,True,Not performed,Independent verification not performed
+Lakewood,New Jersey,8701,40.0940995,-74.2149889,Found,True,Not performed,Independent verification not performed
+Linden,New Jersey,7036,40.6220478,-74.2445902,Found,True,Not performed,Independent verification not performed
+Morristown,New Jersey,7960,40.7970382,-74.4809868,Found,True,Not performed,Independent verification not performed
+New Brunswick,New Jersey,8901,40.4936119,-74.4436416,Found,True,Not performed,Independent verification not performed
+Orange,New Jersey,7050,40.7709499,-74.2264601,Found,True,Not performed,Independent verification not performed
+Passaic,New Jersey,7055,40.8566936,-74.1286298,Found,True,Not performed,Independent verification not performed
+Paterson,New Jersey,7501,40.9167654,-74.171811,Found,True,Not performed,Independent verification not performed
+Perth Amboy,New Jersey,8861,40.5133218,-74.2724241,Found,True,Not performed,Independent verification not performed
+Plainfield,New Jersey,7060,40.6201412,-74.4222416,Found,True,Not performed,Independent verification not performed
+Vineland,New Jersey,8360,39.4862777,-75.0254256,Found,True,Not performed,Independent verification not performed
+Westfield,New Jersey,7090,39.967841,-75.0492128,Review,True,Not performed,Geocoding status requires review
+Albuquerque,New Mexico,87105,35.0841034,-106.650985,Found,True,Not performed,Independent verification not performed
+Carlsbad,New Mexico,88220,32.4103734,-104.2241461,Found,True,Not performed,Independent verification not performed
+Clovis,New Mexico,88101,34.4198373,-103.2056194,Found,True,Not performed,Independent verification not performed
+Farmington,New Mexico,87401,36.7422312,-108.1922194,Found,True,Not performed,Independent verification not performed
+Las Cruces,New Mexico,88001,32.2882664,-106.7549385,Found,True,Not performed,Independent verification not performed
+Rio Rancho,New Mexico,87124,35.2492542,-106.6722191,Found,True,Not performed,Independent verification not performed
+Santa Fe,New Mexico,87505,35.6620697,-105.9571173,Found,True,Not performed,Independent verification not performed
+Auburn,New York,13021,42.926913,-76.5607358,Found,True,Not performed,Independent verification not performed
+Buffalo,New York,14215,42.9337971,-78.8110359,Found,True,Not performed,Independent verification not performed
+Freeport,New York,11520,40.6519485,-73.585937,Found,True,Not performed,Independent verification not performed
+Hempstead,New York,11550,40.7029443,-73.6179989,Found,True,Not performed,Independent verification not performed
+Jamestown,New York,14701,42.0940943,-79.2446712,Found,True,Not performed,Independent verification not performed
+Lindenhurst,New York,11757,40.6882239,-73.3737773,Found,True,Not performed,Independent verification not performed
+Long Beach,New York,11561,40.5883147,-73.6665998,Found,True,Not performed,Independent verification not performed
+Mount Vernon,New York,10550,40.9068453,-73.8366112,Found,True,Not performed,Independent verification not performed
+New Rochelle,New York,10801,40.9115386,-73.7826363,Found,True,Not performed,Independent verification not performed
+New York City,New York,10024,40.7862184,-73.975682,Found,True,Not performed,Independent verification not performed
+New York City,New York,10035,40.8006372,-73.9369067,Review,True,Not performed,Geocoding status requires review
+New York City,New York,10009,40.7258321,-73.9809636,Found,True,Not performed,Independent verification not performed
+New York City,New York,10011,40.7408934,-73.9995018,Found,True,Not performed,Independent verification not performed
+Niagara Falls,New York,14304,43.0910268,-78.9611268,Found,True,Not performed,Independent verification not performed
+Oceanside,New York,11572,40.6390936,-73.6399765,Found,True,Not performed,Independent verification not performed
+Rochester,New York,14609,43.173596,-77.5624913,Found,True,Not performed,Independent verification not performed
+Rome,New York,13440,43.222779,-75.4513285,Found,True,Not performed,Independent verification not performed
+Troy,New York,12180,42.7289389,-73.6618702,Found,True,Not performed,Independent verification not performed
+Utica,New York,13501,43.0855881,-75.2328601,Found,True,Not performed,Independent verification not performed
+Watertown,New York,13601,43.976794,-75.9098724,Found,True,Not performed,Independent verification not performed
+Yonkers,New York,10701,40.9432282,-73.881822,Found,True,Not performed,Independent verification not performed
+Asheville,North Carolina,28806,35.5651666,-82.5945522,Found,True,Not performed,Independent verification not performed
+Burlington,North Carolina,27217,36.0956918,-79.4377991,Found,True,Not performed,Independent verification not performed
+Cary,North Carolina,27511,35.7640677,-78.7771021,Found,True,Not performed,Independent verification not performed
+Chapel Hill,North Carolina,27514,35.9440527,-79.0381507,Found,True,Not performed,Independent verification not performed
+Charlotte,North Carolina,28205,35.2225509,-80.7887753,Found,True,Not performed,Independent verification not performed
+Concord,North Carolina,28027,35.403419,-80.6669826,Found,True,Not performed,Independent verification not performed
+Durham,North Carolina,27707,35.9587966,-78.938697,Found,True,Not performed,Independent verification not performed
+Fayetteville,North Carolina,28314,35.0585878,-79.004887,Found,True,Not performed,Independent verification not performed
+Gastonia,North Carolina,28052,35.2360468,-81.2116219,Found,True,Not performed,Independent verification not performed
+Goldsboro,North Carolina,27534,35.3772427,-77.9317829,Found,True,Not performed,Independent verification not performed
+Greensboro,North Carolina,27405,36.1121336,-79.7475528,Found,True,Not performed,Independent verification not performed
+Greenville,North Carolina,27834,35.6116503,-77.406894,Found,True,Not performed,Independent verification not performed
+Hickory,North Carolina,28601,35.7621081,-81.3333692,Found,True,Not performed,Independent verification not performed
+Jacksonville,North Carolina,28540,34.7509962,-77.4309829,Found,True,Not performed,Independent verification not performed
+Monroe,North Carolina,28110,35.0254569,-80.6044375,Found,True,Not performed,Independent verification not performed
+Raleigh,North Carolina,27604,35.8193631,-78.592075,Found,True,Not performed,Independent verification not performed
+Thomasville,North Carolina,27360,35.8712867,-80.0921917,Found,True,Not performed,Independent verification not performed
+Wilmington,North Carolina,28403,34.2221544,-77.880703,Found,True,Not performed,Independent verification not performed
+Wilson,North Carolina,27893,35.7042121,-77.962616,Found,True,Not performed,Independent verification not performed
+Fargo,North Dakota,58103,46.8592048,-96.826427,Found,True,Not performed,Independent verification not performed
+Akron,Ohio,44312,41.083064,-81.518485,Found,True,Not performed,Independent verification not performed
+Bowling Green,Ohio,43402,41.376173,-83.6479095,Found,True,Not performed,Independent verification not performed
+Cincinnati,Ohio,45231,39.1012809,-84.5127405,Found,True,Not performed,Independent verification not performed
+Cleveland,Ohio,44105,41.4539643,-81.6291467,Found,True,Not performed,Independent verification not performed
+Columbus,Ohio,43229,40.0741603,-82.9708186,Found,True,Not performed,Independent verification not performed
+Cuyahoga Falls,Ohio,44221,41.133566,-81.4783199,Found,True,Not performed,Independent verification not performed
+Dublin,Ohio,43017,40.0996009,-83.1135563,Found,True,Not performed,Independent verification not performed
+Elyria,Ohio,44035,41.3715687,-82.0922402,Found,True,Not performed,Independent verification not performed
+Fairfield,Ohio,45014,39.3315351,-84.5449745,Found,True,Not performed,Independent verification not performed
+Grove City,Ohio,43123,39.8918501,-83.0794959,Found,True,Not performed,Independent verification not performed
+Hamilton,Ohio,45011,41.2792395,-82.1940783,Review,True,Not performed,Geocoding status requires review
+Kent,Ohio,44240,41.1434045,-81.3565039,Found,True,Not performed,Independent verification not performed
+Lakewood,Ohio,44107,41.4812542,-81.7983629,Found,True,Not performed,Independent verification not performed
+Lancaster,Ohio,43130,39.7187669,-82.604857,Found,True,Not performed,Independent verification not performed
+Lorain,Ohio,44052,41.4593488,-82.1723537,Found,True,Not performed,Independent verification not performed
+Marion,Ohio,43302,40.5826592,-83.1168499,Found,True,Not performed,Independent verification not performed
+Mason,Ohio,45040,39.3391707,-84.3123506,Found,True,Not performed,Independent verification not performed
+Medina,Ohio,44256,41.1452945,-81.8466444,Found,True,Not performed,Independent verification not performed
+Mentor,Ohio,44060,41.6850631,-81.3333872,Found,True,Not performed,Independent verification not performed
+Newark,Ohio,43055,40.070616,-82.4114089,Found,True,Not performed,Independent verification not performed
+Parma,Ohio,44134,41.4021398,-81.7038219,Found,True,Not performed,Independent verification not performed
+Springfield,Ohio,45503,39.951636,-83.7837655,Found,True,Not performed,Independent verification not performed
+Toledo,Ohio,43615,41.6529143,-83.5378173,Found,True,Not performed,Independent verification not performed
+Troy,Ohio,45373,40.0366315,-84.2125106,Found,True,Not performed,Independent verification not performed
+Broken Arrow,Oklahoma,74012,36.0458085,-95.8080484,Found,True,Not performed,Independent verification not performed
+Edmond,Oklahoma,73034,35.6721197,-97.4473694,Found,True,Not performed,Independent verification not performed
+Lawton,Oklahoma,73505,34.6188069,-98.4623244,Found,True,Not performed,Independent verification not performed
+Muskogee,Oklahoma,74403,35.7478585,-95.3368566,Found,True,Not performed,Independent verification not performed
+Norman,Oklahoma,73071,35.2235107,-97.4124975,Found,True,Not performed,Independent verification not performed
+Oklahoma City,Oklahoma,73120,35.4729886,-97.5170536,Found,True,Not performed,Independent verification not performed
+Tulsa,Oklahoma,74133,36.0334134,-95.8788614,Found,True,Not performed,Independent verification not performed
+Eugene,Oregon,97405,44.0156791,-123.1029849,Found,True,Not performed,Independent verification not performed
+Gresham,Oregon,97030,45.5071595,-122.4306948,Found,True,Not performed,Independent verification not performed
+Hillsboro,Oregon,97123,45.4983339,-122.9385569,Found,True,Not performed,Independent verification not performed
+Medford,Oregon,97504,42.3352517,-122.8434066,Found,True,Not performed,Independent verification not performed
+Portland,Oregon,97206,45.4833551,-122.5990767,Found,True,Not performed,Independent verification not performed
+Redmond,Oregon,97756,44.283063,-121.174774,Found,True,Not performed,Independent verification not performed
+Salem,Oregon,97301,44.948546,-123.0065238,Found,True,Not performed,Independent verification not performed
+Springfield,Oregon,97477,44.0628985,-123.0160207,Found,True,Not performed,Independent verification not performed
+Tigard,Oregon,97224,45.4312594,-122.7689335,Review,True,Not performed,Geocoding status requires review
+Allentown,Pennsylvania,18103,40.5783842,-75.4748302,Found,True,Not performed,Independent verification not performed
+Altoona,Pennsylvania,16602,40.5193586,-78.3968299,Found,True,Not performed,Independent verification not performed
+Bethlehem,Pennsylvania,18018,40.6272715,-75.4012369,Found,True,Not performed,Independent verification not performed
+Chester,Pennsylvania,19013,39.8489193,-75.37251,Found,True,Not performed,Independent verification not performed
+Lancaster,Pennsylvania,17602,40.0306181,-76.2570519,Found,True,Not performed,Independent verification not performed
+Philadelphia,Pennsylvania,19143,39.9437402,-75.2233443,Found,True,Not performed,Independent verification not performed
+Philadelphia,Pennsylvania,19140,40.0091017,-75.145994,Found,True,Not performed,Independent verification not performed
+Philadelphia,Pennsylvania,19134,39.9925161,-75.1107999,Found,True,Not performed,Independent verification not performed
+Philadelphia,Pennsylvania,19120,40.028509,-75.1216161,Found,True,Not performed,Independent verification not performed
+Reading,Pennsylvania,19601,40.3505907,-75.9398343,Found,True,Not performed,Independent verification not performed
+York,Pennsylvania,17403,39.9324816,-76.7103967,Found,True,Not performed,Independent verification not performed
+Cranston,Rhode Island,2920,41.779588,-71.4366813,Found,True,Not performed,Independent verification not performed
+Providence,Rhode Island,2908,41.8239891,-71.4128343,Found,True,Not performed,Independent verification not performed
+Warwick,Rhode Island,2886,41.7027785,-71.3875236,Review,True,Not performed,Geocoding status requires review
+Woonsocket,Rhode Island,2895,42.0028761,-71.5147839,Found,True,Not performed,Independent verification not performed
+Columbia,South Carolina,29203,34.000754,-81.0352313,Found,True,Not performed,Independent verification not performed
+Florence,South Carolina,29501,34.1974734,-79.8108966,Found,True,Not performed,Independent verification not performed
+Mount Pleasant,South Carolina,29464,32.8091598,-79.8746932,Found,True,Not performed,Independent verification not performed
+North Charleston,South Carolina,29406,32.9318203,-80.031695,Found,True,Not performed,Independent verification not performed
+Rock Hill,South Carolina,29730,34.9144893,-81.0001758,Found,True,Not performed,Independent verification not performed
+Summerville,South Carolina,29483,33.0350779,-80.1835475,Found,True,Not performed,Independent verification not performed
+Aberdeen,South Dakota,57401,45.4550133,-98.4720068,Found,True,Not performed,Independent verification not performed
+Rapid City,South Dakota,57701,44.0805817,-103.2139067,Found,True,Not performed,Independent verification not performed
+Sioux Falls,South Dakota,57103,43.5357428,-96.6902563,Found,True,Not performed,Independent verification not performed
+Bartlett,Tennessee,38134,35.2045329,-89.8739753,Found,True,Not performed,Independent verification not performed
+Bristol,Tennessee,37620,36.5667431,-82.187891,Found,True,Not performed,Independent verification not performed
+Chattanooga,Tennessee,37421,35.025776,-85.1491641,Found,True,Not performed,Independent verification not performed
+Clarksville,Tennessee,37042,36.5735602,-87.4119828,Found,True,Not performed,Independent verification not performed
+Columbia,Tennessee,38401,35.6163005,-87.0354804,Found,True,Not performed,Independent verification not performed
+Franklin,Tennessee,37064,35.9064121,-86.8677641,Found,True,Not performed,Independent verification not performed
+Hendersonville,Tennessee,37075,36.3150652,-86.6089537,Found,True,Not performed,Independent verification not performed
+Jackson,Tennessee,38301,35.6104822,-88.8194101,Found,True,Not performed,Independent verification not performed
+Johnson City,Tennessee,37604,36.3333328,-82.393084,Found,True,Not performed,Independent verification not performed
+Knoxville,Tennessee,37918,36.0487226,-83.9265979,Found,True,Not performed,Independent verification not performed
+Lebanon,Tennessee,37087,36.2079779,-86.2910945,Review,True,Not performed,Geocoding status requires review
+Memphis,Tennessee,38109,35.0765724,-90.0701392,Found,True,Not performed,Independent verification not performed
+Murfreesboro,Tennessee,37130,35.8588426,-86.3632185,Found,True,Not performed,Independent verification not performed
+Nashville,Tennessee,37211,36.0704283,-86.720433,Found,True,Not performed,Independent verification not performed
+Smyrna,Tennessee,37167,35.9824598,-86.5199492,Review,True,Not performed,Geocoding status requires review
+Abilene,Texas,79605,32.4300719,-99.7702359,Found,True,Not performed,Independent verification not performed
+Allen,Texas,75002,33.1031744,-96.6705503,Retry_Found,True,Not performed,Geocoding status requires review
+Amarillo,Texas,79109,35.1749846,-101.8696387,Found,True,Not performed,Independent verification not performed
+Arlington,Texas,76017,32.6628942,-97.1614863,Found,True,Not performed,Independent verification not performed
+Austin,Texas,78745,30.2091201,-97.7920791,Found,True,Not performed,Independent verification not performed
+Baytown,Texas,77520,29.751719,-94.9516678,Found,True,Not performed,Independent verification not performed
+Beaumont,Texas,77705,30.0260013,-94.1600604,Found,True,Not performed,Independent verification not performed
+Bedford,Texas,76021,32.8526889,-97.1327055,Found,True,Not performed,Independent verification not performed
+Brownsville,Texas,78521,25.9394276,-97.4655283,Found,True,Not performed,Independent verification not performed
+Bryan,Texas,77803,30.6724707,-96.3795284,Found,True,Not performed,Independent verification not performed
+Carrollton,Texas,75007,33.0064691,-96.8982415,Found,True,Not performed,Independent verification not performed
+Cedar Hill,Texas,75104,32.59585,-96.9453223,Found,True,Not performed,Independent verification not performed
+College Station,Texas,77840,30.6194486,-96.3435776,Found,True,Not performed,Independent verification not performed
+Conroe,Texas,77301,30.3231186,-95.4585591,Found,True,Not performed,Independent verification not performed
+Coppell,Texas,75019,32.976563,-96.9907961,Found,True,Not performed,Independent verification not performed
+Corpus Christi,Texas,78415,27.7303242,-97.4162444,Found,True,Not performed,Independent verification not performed
+Dallas,Texas,75220,32.8684394,-96.8704195,Found,True,Not performed,Independent verification not performed
+Dallas,Texas,75217,32.7216945,-96.6849885,Found,True,Not performed,Independent verification not performed
+Dallas,Texas,75081,32.9464841,-96.7135902,Found,True,Not performed,Independent verification not performed
+Deer Park,Texas,77536,29.6851568,-95.1184961,Found,True,Not performed,Independent verification not performed
+Edinburg,Texas,78539,26.2801859,-98.1746942,Found,True,Not performed,Independent verification not performed
+El Paso,Texas,79907,31.6968844,-106.323891,Found,True,Not performed,Independent verification not performed
+Fort Worth,Texas,76106,32.8006454,-97.3517193,Found,True,Not performed,Independent verification not performed
+Frisco,Texas,75034,33.1349369,-96.8364177,Found,True,Not performed,Independent verification not performed
+Garland,Texas,75043,32.8503419,-96.6049583,Found,True,Not performed,Independent verification not performed
+Grand Prairie,Texas,75051,32.7240338,-97.0088686,Found,True,Not performed,Independent verification not performed
+Grapevine,Texas,76051,32.9353951,-97.0869764,Found,True,Not performed,Independent verification not performed
+Haltom City,Texas,76117,32.8057757,-97.2756665,Found,True,Not performed,Independent verification not performed
+Harlingen,Texas,78550,26.2081316,-97.6919383,Found,True,Not performed,Independent verification not performed
+Houston,Texas,77095,29.7589382,-95.3676974,Review,True,Not performed,Geocoding status requires review
+Houston,Texas,77036,29.7033202,-95.5344826,Found,True,Not performed,Independent verification not performed
+Houston,Texas,77070,29.7576507,-95.3615081,Review,True,Not performed,Geocoding status requires review
+Houston,Texas,77041,29.7589382,-95.3676974,Review,True,Not performed,Geocoding status requires review
+Huntsville,Texas,77340,30.7055246,-95.5397676,Found,True,Not performed,Independent verification not performed
+Irving,Texas,75061,32.8271924,-96.9635747,Found,True,Not performed,Independent verification not performed
+Keller,Texas,76248,32.9215495,-97.247778,Found,True,Not performed,Independent verification not performed
+La Porte,Texas,77571,29.6743162,-95.0664824,Found,True,Not performed,Independent verification not performed
+Laredo,Texas,78041,27.5487725,-99.4868424,Found,True,Not performed,Independent verification not performed
+League City,Texas,77573,29.4986472,-95.0986918,Found,True,Not performed,Independent verification not performed
+Lubbock,Texas,79424,33.5135782,-101.9278133,Found,True,Not performed,Independent verification not performed
+Mansfield,Texas,76063,32.5701583,-97.1263473,Found,True,Not performed,Independent verification not performed
+Mcallen,Texas,78501,26.2190354,-98.2399443,Found,True,Not performed,Independent verification not performed
+Mesquite,Texas,75150,32.8133668,-96.6257442,Found,True,Not performed,Independent verification not performed
+Missouri City,Texas,77489,29.599414,-95.5133974,Found,True,Not performed,Independent verification not performed
+Odessa,Texas,79762,31.8903614,-102.3469413,Found,True,Not performed,Independent verification not performed
+Pasadena,Texas,77506,29.7029996,-95.2027841,Found,True,Not performed,Independent verification not performed
+Pearland,Texas,77581,29.5605101,-95.2650553,Found,True,Not performed,Independent verification not performed
+Pharr,Texas,78577,26.1851951,-98.1877103,Found,True,Not performed,Independent verification not performed
+Plano,Texas,75023,33.0579836,-96.7454826,Found,True,Not performed,Independent verification not performed
+Port Arthur,Texas,77642,29.9139825,-93.9277464,Found,True,Not performed,Independent verification not performed
+Richardson,Texas,75080,32.9732401,-96.7408643,Found,True,Not performed,Independent verification not performed
+Round Rock,Texas,78664,30.4868428,-97.6497518,Found,True,Not performed,Independent verification not performed
+San Angelo,Texas,76903,31.4703418,-100.4361801,Found,True,Not performed,Independent verification not performed
+San Antonio,Texas,78207,29.4228864,-98.5238623,Found,True,Not performed,Independent verification not performed
+San Marcos,Texas,78666,29.8708872,-97.9522264,Found,True,Not performed,Independent verification not performed
+Texas City,Texas,77590,29.3977982,-94.9295062,Found,True,Not performed,Independent verification not performed
+The Colony,Texas,75056,33.0841582,-96.8833682,Found,True,Not performed,Independent verification not performed
+Tyler,Texas,75701,32.3213322,-95.29547,Found,True,Not performed,Independent verification not performed
+Waco,Texas,76706,31.5191413,-97.1220566,Found,True,Not performed,Independent verification not performed
+Draper,Utah,84020,40.5070912,-111.8654422,Found,True,Not performed,Independent verification not performed
+Layton,Utah,84041,41.0682299,-111.9828113,Found,True,Not performed,Independent verification not performed
+Lehi,Utah,84043,40.4041619,-111.8771103,Found,True,Not performed,Independent verification not performed
+Logan,Utah,84321,41.7377655,-111.829043,Found,True,Not performed,Independent verification not performed
+Murray,Utah,84107,40.655101,-111.8808043,Found,True,Not performed,Independent verification not performed
+Orem,Utah,84057,40.3169263,-111.7063654,Found,True,Not performed,Independent verification not performed
+Pleasant Grove,Utah,84062,40.3792096,-111.7415029,Found,True,Not performed,Independent verification not performed
+Provo,Utah,84604,40.2653175,-111.6576194,Found,True,Not performed,Independent verification not performed
+Salt Lake City,Utah,84106,40.7071317,-111.8562164,Found,True,Not performed,Independent verification not performed
+West Jordan,Utah,84084,40.6216255,-111.9567893,Found,True,Not performed,Independent verification not performed
+Burlington,Vermont,5401,44.4761601,-73.212906,Found,True,Not performed,Independent verification not performed
+Alexandria,Virginia,22304,38.8129809,-77.1109848,Found,True,Not performed,Independent verification not performed
+Arlington,Virginia,22204,38.8609103,-77.0921024,Found,True,Not performed,Independent verification not performed
+Charlottesville,Virginia,22901,38.029306,-78.4766781,Found,True,Not performed,Independent verification not performed
+Chesapeake,Virginia,23320,36.7581306,-76.2368772,Found,True,Not performed,Independent verification not performed
+Hampton,Virginia,23666,37.0504257,-76.4125292,Found,True,Not performed,Independent verification not performed
+Harrisonburg,Virginia,22801,38.428564,-78.8710564,Found,True,Not performed,Independent verification not performed
+Newport News,Virginia,23602,37.1139345,-76.5184264,Found,True,Not performed,Independent verification not performed
+Richmond,Virginia,23223,37.5385087,-77.43428,Found,True,Not performed,Independent verification not performed
+Salem,Virginia,24153,37.2962706,-80.0745996,Found,True,Not performed,Independent verification not performed
+Springfield,Virginia,22153,38.722389,-77.1700288,Review,True,Not performed,Geocoding status requires review
+Suffolk,Virginia,23434,36.7387605,-76.5945952,Found,True,Not performed,Independent verification not performed
+Virginia Beach,Virginia,23464,36.7978844,-76.176856,Found,True,Not performed,Independent verification not performed
+Waynesboro,Virginia,22980,38.0875299,-78.9193596,Found,True,Not performed,Independent verification not performed
+Auburn,Washington,98002,47.3068208,-122.2157689,Found,True,Not performed,Independent verification not performed
+Bellevue,Washington,98006,47.5586976,-122.1501327,Found,True,Not performed,Independent verification not performed
+Bellingham,Washington,98226,48.7865774,-122.4688731,Found,True,Not performed,Independent verification not performed
+Covington,Washington,98042,47.3640122,-122.1163946,Found,True,Not performed,Independent verification not performed
+Des Moines,Washington,98198,47.3923289,-122.3135155,Found,True,Not performed,Independent verification not performed
+Edmonds,Washington,98026,47.8101659,-122.3421884,Found,True,Not performed,Independent verification not performed
+Everett,Washington,98208,47.9793437,-122.2127011,Retry_Found,True,Not performed,Geocoding status requires review
+Kent,Washington,98031,47.4057414,-122.1925517,Found,True,Not performed,Independent verification not performed
+Longview,Washington,98632,46.1581442,-122.9425737,Found,True,Not performed,Independent verification not performed
+Marysville,Washington,98270,48.0600235,-122.146392,Found,True,Not performed,Independent verification not performed
+Olympia,Washington,98502,47.0443623,-122.93983,Review,True,Not performed,Geocoding status requires review
+Pasco,Washington,99301,46.2409072,-119.105731,Found,True,Not performed,Independent verification not performed
+Redmond,Washington,98052,47.6747208,-122.1222106,Found,True,Not performed,Independent verification not performed
+Renton,Washington,98059,47.4941047,-122.1391503,Found,True,Not performed,Independent verification not performed
+Seattle,Washington,98105,47.6645836,-122.299397,Found,True,Not performed,Independent verification not performed
+Seattle,Washington,98103,47.6735869,-122.3439708,Found,True,Not performed,Independent verification not performed
+Seattle,Washington,98115,47.6846584,-122.2999908,Found,True,Not performed,Independent verification not performed
+Spokane,Washington,99207,47.6911168,-117.3962463,Found,True,Not performed,Independent verification not performed
+Vancouver,Washington,98661,45.6470505,-122.6237145,Found,True,Not performed,Independent verification not performed
+Wheeling,West Virginia,26003,40.0687174,-80.7072036,Found,True,Not performed,Independent verification not performed
+Appleton,Wisconsin,54915,44.2437494,-88.3801203,Found,True,Not performed,Independent verification not performed
+Eau Claire,Wisconsin,54703,44.8308743,-91.5245024,Found,True,Not performed,Independent verification not performed
+Franklin,Wisconsin,53132,42.8994331,-88.0011125,Found,True,Not performed,Independent verification not performed
+Green Bay,Wisconsin,54302,44.5048568,-87.976148,Found,True,Not performed,Independent verification not performed
+Kenosha,Wisconsin,53142,42.5545214,-87.9326108,Found,True,Not performed,Independent verification not performed
+La Crosse,Wisconsin,54601,43.7985518,-91.2163652,Found,True,Not performed,Independent verification not performed
+Madison,Wisconsin,53711,43.07469,-89.3841663,Found,True,Not performed,Independent verification not performed
+Milwaukee,Wisconsin,53209,43.1188072,-87.9476202,Found,True,Not performed,Independent verification not performed
+Sheboygan,Wisconsin,53081,43.7373888,-87.7302983,Found,True,Not performed,Independent verification not performed
+Superior,Wisconsin,54880,46.6982777,-92.0904127,Found,True,Not performed,Independent verification not performed
+Waukesha,Wisconsin,53186,43.0147373,-88.2105324,Found,True,Not performed,Independent verification not performed
+Wausau,Wisconsin,54401,44.9637256,-89.6853325,Found,True,Not performed,Independent verification not performed
+West Allis,Wisconsin,53214,43.0192124,-88.0141416,Found,True,Not performed,Independent verification not performed
+Cheyenne,Wyoming,82001,41.1431934,-104.78258,Found,True,Not performed,Independent verification not performed

@@ -1,0 +1,1387 @@
+Country/Region,State/Province,City,Postal Code,Factory,Lookup_Status,Order_Lines,Distinct_Orders,Mean_Straight_Line_KM,Median_Straight_Line_KM,Maximum_Straight_Line_KM
+Canada,Newfoundland and Labrador,St. John's,A0A,Lot's O' Nuts,Found,6,5,5138.32,5138.32,5138.32
+Canada,Prince Edward Island,Charlottetown,C0A,Lot's O' Nuts,Found_Canada_FSA,6,6,4374.89,4374.89,4374.89
+Canada,New Brunswick,Moncton,E1A,Lot's O' Nuts,Found,4,4,4219.6,4219.6,4219.6
+Canada,British Columbia,Vancouver,V6E,Wicked Choccy's,Found_Canada_FSA,2,2,3959.62,3959.62,3959.62
+Canada,British Columbia,Vancouver,V6Z,Wicked Choccy's,Found_Canada_FSA,2,2,3958.74,3958.74,3958.74
+United States,Maine,Bangor,4401,Lot's O' Nuts,Found,3,3,3900.38,3900.38,3900.38
+United States,Washington,Bellingham,98226,Wicked Choccy's,Found,2,2,3900.32,3900.32,3900.32
+United States,Washington,Olympia,98502,Wicked Choccy's,Review,2,2,3896.18,3896.18,3896.18
+United States,Washington,Longview,98632,Wicked Choccy's,Found,2,2,3880.27,3880.27,3880.27
+United States,Oregon,Hillsboro,97123,Wicked Choccy's,Found,1,1,3869.35,3869.35,3869.35
+United States,Washington,Edmonds,98026,Wicked Choccy's,Found,9,5,3868.06,3868.06,3868.06
+United States,Oregon,Salem,97301,Wicked Choccy's,Found,12,9,3866.73,3866.73,3866.73
+United States,Washington,Seattle,98103,Wicked Choccy's,Found,66,54,3865.14,3865.14,3865.14
+United States,Oregon,Eugene,97405,Wicked Choccy's,Found,1,1,3862.95,3862.95,3862.95
+United States,Washington,Seattle,98115,Wicked Choccy's,Found,47,42,3862.16,3862.16,3862.16
+United States,Washington,Seattle,98105,Wicked Choccy's,Found,67,57,3861.67,3861.67,3861.67
+United States,Washington,Marysville,98270,Wicked Choccy's,Found,1,1,3859.53,3859.53,3859.53
+United States,Washington,Des Moines,98198,Wicked Choccy's,Found,3,2,3856.78,3856.78,3856.78
+United States,Oregon,Springfield,97477,Wicked Choccy's,Found,11,10,3856.55,3856.55,3856.55
+United States,Oregon,Tigard,97224,Wicked Choccy's,Review,2,2,3855.23,3855.23,3855.23
+United States,Washington,Redmond,98052,Wicked Choccy's,Found,1,1,3848.9,3848.9,3848.9
+United States,Washington,Bellevue,98006,Wicked Choccy's,Found,2,2,3848.36,3848.36,3848.36
+United States,Washington,Kent,98031,Wicked Choccy's,Found,5,3,3848.14,3848.14,3848.14
+United States,Washington,Vancouver,98661,Wicked Choccy's,Found,3,3,3847.42,3847.42,3847.42
+United States,Washington,Renton,98059,Wicked Choccy's,Found,2,2,3846.13,3846.13,3846.13
+United States,Oregon,Portland,97206,Wicked Choccy's,Found,11,11,3842.92,3842.92,3842.92
+United States,Washington,Covington,98042,Wicked Choccy's,Found,2,2,3841.61,3841.61,3841.61
+United States,Oregon,Gresham,97030,Wicked Choccy's,Found,2,2,3830.3,3830.3,3830.3
+United States,Oregon,Medford,97504,Wicked Choccy's,Found,1,1,3827.36,3827.36,3827.36
+United States,California,San Francisco,94122,Wicked Choccy's,Found,81,68,3794.62,3794.62,3794.62
+United States,California,San Francisco,94109,Wicked Choccy's,Found,69,58,3789.84,3789.84,3789.84
+United States,California,San Francisco,94110,Wicked Choccy's,Found,61,47,3789.8,3789.8,3789.8
+United States,Maine,Lewiston,4240,Lot's O' Nuts,Found,3,2,3779.41,3779.41,3779.41
+United States,California,Redding,96003,Wicked Choccy's,Found,1,1,3779.38,3779.38,3779.38
+United States,California,Redwood City,94061,Wicked Choccy's,Found,1,1,3775.26,3775.26,3775.26
+United States,California,Oakland,94601,Wicked Choccy's,Found,10,9,3772.54,3772.54,3772.54
+United States,California,Vallejo,94591,Wicked Choccy's,Found,1,1,3770.3,3770.3,3770.3
+United States,California,Sunnyvale,94086,Wicked Choccy's,Found,1,1,3757.47,3757.47,3757.47
+United States,California,Santa Clara,95051,Wicked Choccy's,Found,3,2,3754.24,3754.24,3754.24
+United States,California,Fairfield,94533,Wicked Choccy's,Found,4,3,3752.15,3752.15,3752.15
+United States,California,Danville,94526,Wicked Choccy's,Found,2,2,3752.06,3752.06,3752.06
+United States,California,Concord,94521,Wicked Choccy's,Found,3,3,3750.84,3750.84,3750.84
+United States,California,Vacaville,95687,Wicked Choccy's,Found,1,1,3747.25,3747.25,3747.25
+United States,California,Dublin,94568,Wicked Choccy's,Found,1,1,3741.24,3741.24,3741.24
+Canada,Quebec,Quebec City,G1B,Lot's O' Nuts,Found,4,4,3741.09,3741.09,3741.09
+United States,California,San Jose,95123,Wicked Choccy's,Found,17,14,3740.99,3740.99,3740.99
+United States,California,Chico,95928,Wicked Choccy's,Found,3,3,3733.64,3733.64,3733.64
+United States,California,Woodland,95695,Wicked Choccy's,Review,1,1,3731.83,3731.83,3731.83
+United States,California,Davis,95616,Wicked Choccy's,Found,1,1,3727.79,3727.79,3727.79
+United States,California,Morgan Hill,95037,Wicked Choccy's,Found,3,2,3727.71,3727.71,3727.71
+United States,California,Brentwood,94513,Wicked Choccy's,Found,7,5,3727.02,3727.02,3727.02
+United States,California,Salinas,93905,Wicked Choccy's,Found,3,2,3726.41,3726.41,3726.41
+United States,New Hampshire,Dover,3820,Lot's O' Nuts,Found,4,4,3718.99,3718.99,3718.99
+United States,Massachusetts,Beverly,1915,Lot's O' Nuts,Found,2,1,3714.18,3714.18,3714.18
+United States,Oregon,Redmond,97756,Wicked Choccy's,Found,2,2,3713.52,3713.52,3713.52
+United States,Massachusetts,New Bedford,2740,Lot's O' Nuts,Found,3,2,3705.34,3705.34,3705.34
+United States,Massachusetts,Revere,2151,Lot's O' Nuts,Found,5,4,3702.41,3702.41,3702.41
+United States,Massachusetts,Quincy,2169,Lot's O' Nuts,Found,8,5,3702.22,3702.22,3702.22
+United States,California,Sacramento,95823,Wicked Choccy's,Found,7,6,3700.68,3700.68,3700.68
+United States,Massachusetts,Everett,2149,Lot's O' Nuts,Found,15,11,3698.95,3698.95,3698.95
+United States,Massachusetts,Malden,2148,Lot's O' Nuts,Found,1,1,3697.89,3697.89,3697.89
+United States,Massachusetts,Cambridge,2138,Lot's O' Nuts,Found,3,3,3694.62,3694.62,3694.62
+United States,Massachusetts,Andover,1810,Lot's O' Nuts,Found,3,2,3693.4,3693.4,3693.4
+United States,Massachusetts,Lawrence,1841,Lot's O' Nuts,Found,17,14,3691.92,3691.92,3691.92
+United States,California,Stockton,95207,Wicked Choccy's,Found,3,3,3689.22,3689.22,3689.22
+United States,California,Lodi,95240,Wicked Choccy's,Found,1,1,3687.26,3687.26,3687.26
+United States,California,Manteca,95336,Wicked Choccy's,Found,1,1,3686.33,3686.33,3686.33
+United States,California,Roseville,95661,Wicked Choccy's,Found,4,3,3683.82,3683.82,3683.82
+United States,Massachusetts,Lowell,1852,Lot's O' Nuts,Found,9,6,3679.6,3679.6,3679.6
+United States,Massachusetts,Franklin,2038,Lot's O' Nuts,Found,6,5,3668.95,3668.95,3668.95
+United States,Rhode Island,Warwick,2886,Lot's O' Nuts,Review,1,1,3667.96,3667.96,3667.96
+United States,New Hampshire,Nashua,3060,Lot's O' Nuts,Found,1,1,3667.51,3667.51,3667.51
+United States,California,Modesto,95351,Wicked Choccy's,Found,2,2,3666.67,3666.67,3666.67
+United States,Rhode Island,Providence,2908,Lot's O' Nuts,Found,14,12,3666.39,3666.39,3666.39
+United States,New Hampshire,Concord,3301,Lot's O' Nuts,Found,8,8,3665.44,3665.44,3665.44
+United States,Rhode Island,Cranston,2920,Lot's O' Nuts,Found,12,7,3664.21,3664.21,3664.21
+United States,Rhode Island,Woonsocket,2895,Lot's O' Nuts,Found,3,3,3658.83,3658.83,3658.83
+United States,Massachusetts,Marlborough,1752,Lot's O' Nuts,Review,1,1,3657.7,3657.7,3657.7
+United States,California,San Luis Obispo,93405,Wicked Choccy's,Found,1,1,3657.46,3657.46,3657.46
+United States,Massachusetts,Leominster,1453,Lot's O' Nuts,Found,2,2,3641.79,3641.79,3641.79
+United States,California,Santa Maria,93454,Wicked Choccy's,Found,1,1,3637.7,3637.7,3637.7
+United States,Connecticut,Norwich,6360,Lot's O' Nuts,Found,2,2,3610.0,3610.0,3610.0
+United States,Washington,Pasco,99301,Wicked Choccy's,Found,3,3,3591.73,3591.73,3591.73
+United States,California,Santa Barbara,93101,Wicked Choccy's,Found,4,4,3579.2,3579.2,3579.2
+United States,Connecticut,Manchester,6040,Lot's O' Nuts,Found,6,4,3574.24,3574.24,3574.24
+United States,Massachusetts,Holyoke,1040,Lot's O' Nuts,Found,1,1,3570.11,3570.11,3570.11
+United States,Connecticut,Middletown,6457,Lot's O' Nuts,Found,4,3,3562.39,3562.39,3562.39
+United States,California,Fresno,93727,Wicked Choccy's,Found,13,10,3557.01,3557.01,3557.01
+United States,Nevada,Reno,89502,Wicked Choccy's,Found,1,1,3556.96,3556.96,3556.96
+United States,Connecticut,Meriden,6450,Lot's O' Nuts,Found,7,6,3549.64,3549.64,3549.64
+United States,Vermont,Burlington,5401,Lot's O' Nuts,Found,5,4,3547.15,3547.15,3547.15
+United States,Connecticut,Bristol,6010,Lot's O' Nuts,Found,5,5,3538.77,3538.77,3538.77
+Canada,Quebec,Montreal,H1C,Lot's O' Nuts,Found,4,2,3537.06,3537.06,3537.06
+Canada,Quebec,Montreal,H1B,Lot's O' Nuts,Found,2,2,3537.06,3537.06,3537.06
+Canada,Quebec,Montreal,H1A,Lot's O' Nuts,Found,14,12,3537.06,3537.06,3537.06
+United States,California,Oxnard,93030,Wicked Choccy's,Found,4,4,3532.79,3532.79,3532.79
+United States,Connecticut,Waterbury,6708,Lot's O' Nuts,Found,8,7,3529.71,3529.71,3529.71
+United States,Connecticut,Milford,6460,Lot's O' Nuts,Found,4,2,3526.77,3526.77,3526.77
+United States,California,Visalia,93277,Wicked Choccy's,Found,2,1,3526.24,3526.24,3526.24
+United States,Connecticut,Shelton,6484,Lot's O' Nuts,Review,1,1,3524.24,3524.24,3524.24
+United States,California,Camarillo,93010,Wicked Choccy's,Found,1,1,3522.66,3522.66,3522.66
+United States,California,Bakersfield,93309,Wicked Choccy's,Found,4,3,3509.54,3509.54,3509.54
+United States,Connecticut,Fairfield,6824,Lot's O' Nuts,Review,10,10,3509.09,3509.09,3509.09
+United States,California,Thousand Oaks,91360,Wicked Choccy's,Found,2,2,3506.52,3506.52,3506.52
+United States,Washington,Spokane,99207,Wicked Choccy's,Found,4,4,3506.14,3506.14,3506.14
+Canada,Alberta,Edmonton,T5A,Wicked Choccy's,Found_Canada_FSA,2,2,3505.63,3505.63,3505.63
+United States,New York,Troy,12180,Lot's O' Nuts,Found,9,9,3488.6,3488.6,3488.6
+United States,New York,Freeport,11520,Lot's O' Nuts,Found,4,4,3479.85,3479.85,3479.85
+United States,New York,Hempstead,11550,Lot's O' Nuts,Found,5,4,3477.35,3477.35,3477.35
+United States,New York,Oceanside,11572,Lot's O' Nuts,Found,11,8,3475.25,3475.25,3475.25
+United States,New York,Long Beach,11561,Lot's O' Nuts,Found,18,16,3472.81,3472.81,3472.81
+United States,California,Los Angeles,90049,Wicked Choccy's,Found,64,51,3470.87,3470.87,3470.87
+United States,California,Los Angeles,90045,Wicked Choccy's,Found,53,45,3465.86,3465.86,3465.86
+United States,California,Redondo Beach,90278,Wicked Choccy's,Found,2,1,3465.1,3465.1,3465.1
+United States,New York,New Rochelle,10801,Lot's O' Nuts,Found,2,2,3464.46,3464.46,3464.46
+United States,California,Torrance,90503,Wicked Choccy's,Found,1,1,3463.89,3463.89,3463.89
+United States,California,Inglewood,90301,Wicked Choccy's,Found,5,4,3462.83,3462.83,3462.83
+United States,California,Los Angeles,90036,Wicked Choccy's,Found,52,44,3460.38,3460.38,3460.38
+United States,New York,Mount Vernon,10550,Lot's O' Nuts,Found,5,5,3459.9,3459.9,3459.9
+United States,California,Los Angeles,90008,Wicked Choccy's,Found,45,40,3458.96,3458.96,3458.96
+United States,New York,Yonkers,10701,Lot's O' Nuts,Found,8,7,3456.29,3456.29,3456.29
+United States,California,Los Angeles,90004,Wicked Choccy's,Found,51,43,3455.39,3455.39,3455.39
+United States,New York,New York City,10035,Lot's O' Nuts,Review,159,129,3450.95,3450.95,3450.95
+United States,New York,New York City,10024,Lot's O' Nuts,Found,135,115,3447.62,3447.62,3447.62
+United States,New York,New York City,10009,Lot's O' Nuts,Found,132,111,3446.89,3446.89,3446.89
+United States,California,Long Beach,90805,Wicked Choccy's,Found,5,4,3446.66,3446.66,3446.66
+United States,New York,New York City,10011,Lot's O' Nuts,Found,107,87,3445.4,3445.4,3445.4
+United States,California,Lakewood,90712,Wicked Choccy's,Found,2,2,3444.12,3444.12,3444.12
+United States,California,Los Angeles,90032,Wicked Choccy's,Found,57,46,3443.84,3443.84,3443.84
+United States,New Jersey,Hackensack,7601,Lot's O' Nuts,Found,5,2,3442.63,3442.63,3442.63
+United States,California,Montebello,90640,Wicked Choccy's,Found,1,1,3440.34,3440.34,3440.34
+United States,California,Pasadena,91104,Wicked Choccy's,Found,12,10,3437.82,3437.82,3437.82
+United States,California,Pico Rivera,90660,Wicked Choccy's,Found,1,1,3437.11,3437.11,3437.11
+United States,California,San Gabriel,91776,Wicked Choccy's,Found,1,1,3436.36,3436.36,3436.36
+United States,New Jersey,Bayonne,7002,Lot's O' Nuts,Found,1,1,3435.39,3435.39,3435.39
+United States,New Jersey,Passaic,7055,Lot's O' Nuts,Found,3,2,3435.12,3435.12,3435.12
+United States,California,Lancaster,93534,Wicked Choccy's,Found,2,2,3433.33,3433.33,3433.33
+United States,New Jersey,Belleville,7109,Lot's O' Nuts,Found,5,4,3432.98,3432.98,3432.98
+United States,New Jersey,Clifton,7011,Lot's O' Nuts,Found,2,2,3432.18,3432.18,3432.18
+United States,New Jersey,Paterson,7501,Lot's O' Nuts,Found,8,7,3431.82,3431.82,3431.82
+United States,California,Westminster,92683,Wicked Choccy's,Found,4,4,3431.79,3431.79,3431.79
+United States,California,Huntington Beach,92646,Wicked Choccy's,Found,1,1,3430.51,3430.51,3430.51
+United States,California,Anaheim,92804,Wicked Choccy's,Found,7,6,3429.04,3429.04,3429.04
+United States,New Jersey,East Orange,7017,Lot's O' Nuts,Found,1,1,3427.38,3427.38,3427.38
+United States,New Jersey,Orange,7050,Lot's O' Nuts,Found,3,3,3426.45,3426.45,3426.45
+United States,California,Costa Mesa,92627,Wicked Choccy's,Found,5,5,3426.23,3426.23,3426.23
+United States,New Jersey,Lakewood,8701,Lot's O' Nuts,Found,11,10,3424.69,3424.69,3424.69
+United States,New Jersey,Linden,7036,Lot's O' Nuts,Found,1,1,3424.19,3424.19,3424.19
+United States,California,Santa Ana,92704,Wicked Choccy's,Found,5,4,3424.02,3424.02,3424.02
+United States,New Jersey,Perth Amboy,8861,Lot's O' Nuts,Found,2,2,3421.35,3421.35,3421.35
+Canada,Alberta,Calgary,T2C,Wicked Choccy's,Found,4,4,3413.05,3413.05,3413.05
+United States,New Jersey,Plainfield,7060,Lot's O' Nuts,Found,9,6,3409.2,3409.2,3409.2
+United States,California,Laguna Niguel,92677,Wicked Choccy's,Found,1,1,3408.05,3408.05,3408.05
+Canada,Alberta,Calgary,T1Y,Wicked Choccy's,Found_Canada_FSA,2,2,3407.77,3407.77,3407.77
+United States,New Jersey,New Brunswick,8901,Lot's O' Nuts,Found,2,2,3406.8,3406.8,3406.8
+United States,New Jersey,Atlantic City,8401,Lot's O' Nuts,Found,1,1,3405.54,3405.54,3405.54
+United States,California,Lake Forest,92630,Wicked Choccy's,Found,3,2,3405.33,3405.33,3405.33
+United States,New Jersey,Morristown,7960,Lot's O' Nuts,Found,6,5,3405.18,3405.18,3405.18
+United States,California,Pomona,91767,Wicked Choccy's,Found,4,3,3403.94,3403.94,3403.94
+United States,California,Mission Viejo,92691,Wicked Choccy's,Found,3,2,3403.49,3403.49,3403.49
+United States,California,Ontario,91761,Wicked Choccy's,Found,1,1,3395.38,3395.38,3395.38
+United States,California,Rancho Cucamonga,91730,Wicked Choccy's,Found,3,3,3389.99,3389.99,3389.99
+United States,California,Oceanside,92054,Wicked Choccy's,Found,4,3,3381.49,3381.49,3381.49
+United States,California,Riverside,92503,Wicked Choccy's,Found,4,3,3379.19,3379.19,3379.19
+United States,California,San Diego,92037,Wicked Choccy's,Found,29,26,3378.01,3378.01,3378.01
+United States,California,Encinitas,92024,Wicked Choccy's,Found,1,1,3375.51,3375.51,3375.51
+United States,California,San Diego,92024,Wicked Choccy's,Found,19,17,3375.51,3375.51,3375.51
+United States,New York,Utica,13501,Lot's O' Nuts,Found,5,4,3365.87,3365.87,3365.87
+United States,California,San Diego,92105,Wicked Choccy's,Found,26,21,3364.6,3364.6,3364.6
+United States,California,Chula Vista,91911,Wicked Choccy's,Found,2,2,3362.48,3362.48,3362.48
+United States,California,Hesperia,92345,Wicked Choccy's,Found,3,3,3361.18,3361.18,3361.18
+United States,California,Moreno Valley,92553,Wicked Choccy's,Found,3,3,3360.54,3360.54,3360.54
+United States,California,San Bernardino,92404,Wicked Choccy's,Found,4,3,3359.6,3359.6,3359.6
+United States,California,Murrieta,92563,Wicked Choccy's,Found,1,1,3357.14,3357.14,3357.14
+United States,New Jersey,Vineland,8360,Lot's O' Nuts,Found,4,3,3353.97,3353.97,3353.97
+United States,New Jersey,Westfield,7090,Lot's O' Nuts,Review,1,1,3353.28,3353.28,3353.28
+United States,California,Apple Valley,92307,Wicked Choccy's,Found,3,3,3352.23,3352.23,3352.23
+United States,California,Redlands,92374,Wicked Choccy's,Found,8,5,3351.87,3351.87,3351.87
+United States,California,Temecula,92592,Wicked Choccy's,Found,1,1,3351.33,3351.33,3351.33
+United States,New York,Rome,13440,Lot's O' Nuts,Found,4,3,3350.31,3350.31,3350.31
+United States,Pennsylvania,Philadelphia,19134,Lot's O' Nuts,Found,85,67,3348.12,3348.12,3348.12
+United States,Pennsylvania,Philadelphia,19120,Lot's O' Nuts,Found,65,59,3347.34,3347.34,3347.34
+United States,Idaho,Caldwell,83605,Wicked Choccy's,Found,2,1,3346.54,3346.54,3346.54
+United States,Pennsylvania,Philadelphia,19140,Lot's O' Nuts,Found,91,68,3345.19,3345.19,3345.19
+United States,Pennsylvania,Philadelphia,19143,Lot's O' Nuts,Found,60,53,3338.36,3338.36,3338.36
+United States,Pennsylvania,Bethlehem,18018,Lot's O' Nuts,Found,3,3,3326.72,3326.72,3326.72
+United States,New York,Watertown,13601,Lot's O' Nuts,Found,5,5,3326.35,3326.35,3326.35
+United States,Pennsylvania,Chester,19013,Lot's O' Nuts,Found,10,6,3325.29,3325.29,3325.29
+United States,Idaho,Meridian,83642,Wicked Choccy's,Found,1,1,3323.06,3323.06,3323.06
+United States,Pennsylvania,Allentown,18103,Lot's O' Nuts,Found,4,3,3320.21,3320.21,3320.21
+United States,Delaware,Dover,19901,Lot's O' Nuts,Found,3,3,3311.33,3311.33,3311.33
+United States,Delaware,Wilmington,19805,Lot's O' Nuts,Found,14,12,3309.5,3309.5,3309.5
+United States,Delaware,Newark,19711,Lot's O' Nuts,Found,26,24,3293.01,3293.01,3293.01
+United States,Pennsylvania,Reading,19601,Lot's O' Nuts,Found,3,3,3279.53,3279.53,3279.53
+United States,Virginia,Virginia Beach,23464,Lot's O' Nuts,Found,8,8,3258.37,3258.37,3258.37
+United States,New York,Auburn,13021,Lot's O' Nuts,Found,7,7,3256.5,3256.5,3256.5
+United States,Virginia,Chesapeake,23320,Lot's O' Nuts,Found,8,7,3253.26,3253.26,3253.26
+United States,Pennsylvania,Lancaster,17602,Lot's O' Nuts,Found,8,6,3250.76,3250.76,3250.76
+United States,Virginia,Hampton,23666,Lot's O' Nuts,Found,6,4,3236.11,3236.11,3236.11
+United States,Virginia,Newport News,23602,Lot's O' Nuts,Found,7,5,3226.44,3226.44,3226.44
+United States,Virginia,Suffolk,23434,Lot's O' Nuts,Found,5,5,3221.55,3221.55,3221.55
+United States,Pennsylvania,York,17403,Lot's O' Nuts,Found,2,2,3211.64,3211.64,3211.64
+United States,Maryland,Baltimore,21215,Lot's O' Nuts,Found,26,16,3211.56,3211.56,3211.56
+United States,Maryland,Columbia,21044,Lot's O' Nuts,Found,12,10,3195.69,3195.69,3195.69
+United States,Maryland,Laurel,20707,Lot's O' Nuts,Found,1,1,3193.94,3193.94,3193.94
+United States,Maryland,Clinton,20735,Lot's O' Nuts,Found,16,13,3191.04,3191.04,3191.04
+United States,New York,Rochester,14609,Lot's O' Nuts,Found,19,18,3180.3,3180.3,3180.3
+United States,District of Columbia,Washington,20016,Lot's O' Nuts,Found,8,6,3175.47,3175.47,3175.47
+United States,Virginia,Arlington,22204,Lot's O' Nuts,Found,16,15,3174.46,3174.46,3174.46
+United States,Virginia,Alexandria,22304,Lot's O' Nuts,Found,6,4,3172.71,3172.71,3172.71
+United States,Maryland,Rockville,20852,Lot's O' Nuts,Found,4,3,3169.95,3169.95,3169.95
+United States,Virginia,Springfield,22153,Lot's O' Nuts,Review,22,20,3167.39,3167.39,3167.39
+United States,North Carolina,Jacksonville,28540,Lot's O' Nuts,Found,25,21,3163.63,3163.63,3163.63
+United States,North Carolina,Greenville,27834,Lot's O' Nuts,Found,5,4,3156.91,3156.91,3156.91
+United States,Nevada,North Las Vegas,89031,Wicked Choccy's,Found,7,5,3152.09,3152.09,3152.09
+United States,Nevada,Las Vegas,89115,Wicked Choccy's,Found,3,3,3151.85,3151.85,3151.85
+United States,Idaho,Twin Falls,83301,Wicked Choccy's,Found,1,1,3147.89,3147.89,3147.89
+United States,Florida,Miami,33180,Lot's O' Nuts,Found,17,11,3145.14,3145.14,3145.14
+United States,Florida,North Miami,33161,Lot's O' Nuts,Found,1,1,3144.47,3144.47,3144.47
+United States,Virginia,Richmond,23223,Lot's O' Nuts,Found,15,12,3144.16,3144.16,3144.16
+United States,Florida,Miami,33142,Lot's O' Nuts,Found,7,7,3142.99,3142.99,3142.99
+United States,Florida,Coral Gables,33134,Lot's O' Nuts,Found,1,1,3142.04,3142.04,3142.04
+United States,Florida,Fort Lauderdale,33311,Lot's O' Nuts,Found,11,11,3138.73,3138.73,3138.73
+United States,Florida,Hollywood,33021,Lot's O' Nuts,Found,2,2,3138.72,3138.72,3138.72
+United States,Florida,Miramar,33023,Lot's O' Nuts,Found,5,4,3137.66,3137.66,3137.66
+United States,Arizona,Yuma,85364,Wicked Choccy's,Found,1,1,3137.55,3137.55,3137.55
+United States,Nevada,Henderson,89015,Wicked Choccy's,Found,1,1,3136.57,3136.57,3136.57
+United States,Florida,Boca Raton,33433,Lot's O' Nuts,Found,1,1,3134.83,3134.83,3134.83
+United States,Florida,Hialeah,33012,Lot's O' Nuts,Found,12,11,3134.65,3134.65,3134.65
+United States,Florida,Homestead,33030,Lot's O' Nuts,Found,1,1,3133.59,3133.59,3133.59
+United States,Florida,Pembroke Pines,33024,Lot's O' Nuts,Found,8,5,3132.98,3132.98,3132.98
+United States,Florida,Plantation,33317,Lot's O' Nuts,Found,4,3,3131.62,3131.62,3131.62
+United States,Florida,Boynton Beach,33437,Lot's O' Nuts,Retry_Found,7,5,3130.42,3130.42,3130.42
+United States,Florida,Miami,33178,Lot's O' Nuts,Found,9,8,3129.56,3129.56,3129.56
+United States,North Carolina,Wilmington,28403,Lot's O' Nuts,Found,5,5,3129.35,3129.35,3129.35
+United States,Florida,Tamarac,33319,Lot's O' Nuts,Found,4,4,3128.91,3128.91,3128.91
+United States,Florida,Delray Beach,33445,Lot's O' Nuts,Found,1,1,3128.43,3128.43,3128.43
+United States,Florida,Margate,33063,Lot's O' Nuts,Found,1,1,3128.41,3128.41,3128.41
+United States,Florida,Coral Springs,33065,Lot's O' Nuts,Found,5,4,3122.64,3122.64,3122.64
+United States,Maryland,Hagerstown,21740,Lot's O' Nuts,Found,1,1,3122.24,3122.24,3122.24
+United States,Florida,West Palm Beach,33407,Lot's O' Nuts,Found,1,1,3120.45,3120.45,3120.45
+United States,Florida,Jupiter,33458,Lot's O' Nuts,Found,1,1,3108.86,3108.86,3108.86
+United States,North Carolina,Wilson,27893,Lot's O' Nuts,Found,4,4,3106.07,3106.07,3106.07
+United States,Montana,Helena,59601,Wicked Choccy's,Found,1,1,3083.19,3083.19,3083.19
+United States,Florida,Port Saint Lucie,34952,Lot's O' Nuts,Found,2,2,3079.07,3079.07,3079.07
+United States,New York,Buffalo,14215,Lot's O' Nuts,Found,7,7,3075.79,3075.79,3075.79
+United States,New York,Niagara Falls,14304,Lot's O' Nuts,Found,1,1,3066.96,3066.96,3066.96
+United States,Montana,Great Falls,59405,Wicked Choccy's,Found,5,3,3066.03,3066.03,3066.03
+United States,Virginia,Charlottesville,22901,Lot's O' Nuts,Found,1,1,3052.37,3052.37,3052.37
+Canada,Ontario,Toronto,M3C,Lot's O' Nuts,Found_Canada_FSA,8,8,3050.82,3050.82,3050.82
+United States,North Carolina,Raleigh,27604,Lot's O' Nuts,Found,15,12,3048.54,3048.54,3048.54
+Canada,Ontario,Toronto,M2N,Lot's O' Nuts,Found_Canada_FSA,4,4,3046.38,3046.38,3046.38
+Canada,Ontario,Toronto,M5H,Lot's O' Nuts,Found_Canada_FSA,8,8,3045.85,3045.85,3045.85
+Canada,Ontario,Toronto,M7A,Lot's O' Nuts,Found,8,4,3045.82,3045.82,3045.82
+United States,North Carolina,Cary,27511,Lot's O' Nuts,Found,4,4,3032.27,3032.27,3032.27
+United States,New York,Jamestown,14701,Lot's O' Nuts,Found,2,2,3025.11,3025.11,3025.11
+United States,Virginia,Harrisonburg,22801,Lot's O' Nuts,Found,4,3,3018.79,3018.79,3018.79
+United States,North Carolina,Fayetteville,28314,Lot's O' Nuts,Found,18,13,3017.49,3017.49,3017.49
+United States,North Carolina,Durham,27707,Lot's O' Nuts,Found,6,6,3016.46,3016.46,3016.46
+United States,Virginia,Waynesboro,22980,Lot's O' Nuts,Found,3,3,3013.71,3013.71,3013.71
+United States,Washington,Seattle,98103,The Other Factory,Found,3,2,3009.63,3009.63,3009.63
+United States,North Carolina,Chapel Hill,27514,Lot's O' Nuts,Found,1,1,3007.61,3007.61,3007.61
+United States,Washington,Seattle,98115,The Other Factory,Found,1,1,3006.79,3006.79,3006.79
+United States,Idaho,Pocatello,83201,Wicked Choccy's,Found,3,3,2993.04,2993.04,2993.04
+United States,Oregon,Salem,97301,The Other Factory,Found,1,1,2992.17,2992.17,2992.17
+United States,Oregon,Springfield,97477,The Other Factory,Found,1,1,2977.56,2977.56,2977.56
+United States,North Carolina,Burlington,27217,Lot's O' Nuts,Found,5,4,2970.86,2970.86,2970.86
+United States,South Carolina,Mount Pleasant,29464,Lot's O' Nuts,Found,1,1,2967.9,2967.9,2967.9
+United States,South Carolina,Florence,29501,Lot's O' Nuts,Found,5,5,2953.34,2953.34,2953.34
+United States,Florida,Port Orange,32127,Lot's O' Nuts,Found,1,1,2953.16,2953.16,2953.16
+United States,South Carolina,North Charleston,29406,Lot's O' Nuts,Found,1,1,2951.32,2951.32,2951.32
+United States,Florida,Daytona Beach,32114,Lot's O' Nuts,Found,1,1,2945.48,2945.48,2945.48
+United States,North Carolina,Greensboro,27405,Lot's O' Nuts,Found,7,6,2942.98,2942.98,2942.98
+United States,Florida,Sanford,32771,Lot's O' Nuts,Found,2,2,2936.29,2936.29,2936.29
+United States,South Carolina,Summerville,29483,Lot's O' Nuts,Found,1,1,2935.61,2935.61,2935.61
+United States,Florida,Deltona,32725,Lot's O' Nuts,Found,1,1,2935.51,2935.51,2935.51
+United States,Florida,Orlando,32839,Lot's O' Nuts,Found,8,7,2934.62,2934.62,2934.62
+United States,Utah,Logan,84321,Wicked Choccy's,Found,2,2,2917.42,2917.42,2917.42
+United States,Florida,Palm Coast,32137,Lot's O' Nuts,Found,2,2,2916.54,2916.54,2916.54
+United States,Utah,Layton,84041,Wicked Choccy's,Found,1,1,2916.05,2916.05,2916.05
+United States,Florida,Apopka,32712,Lot's O' Nuts,Found,5,5,2914.96,2914.96,2914.96
+United States,Arizona,Avondale,85323,Wicked Choccy's,Found,3,3,2913.52,2913.52,2913.52
+United States,North Carolina,Thomasville,27360,Lot's O' Nuts,Found,3,3,2913.22,2913.22,2913.22
+United States,Virginia,Salem,24153,Lot's O' Nuts,Found,8,4,2911.18,2911.18,2911.18
+United States,California,San Francisco,94122,The Other Factory,Found,4,4,2907.59,2907.59,2907.59
+United States,Utah,West Jordan,84084,Wicked Choccy's,Found,1,1,2905.57,2905.57,2905.57
+United States,Arizona,Peoria,85345,Wicked Choccy's,Found,7,6,2904.59,2904.59,2904.59
+United States,California,San Francisco,94110,The Other Factory,Found,1,1,2902.8,2902.8,2902.8
+United States,California,San Francisco,94109,The Other Factory,Found,2,2,2902.75,2902.75,2902.75
+United States,Utah,Murray,84107,Wicked Choccy's,Found,1,1,2899.84,2899.84,2899.84
+United States,Arizona,Glendale,85301,Wicked Choccy's,Found,7,7,2899.06,2899.06,2899.06
+United States,Utah,Salt Lake City,84106,Wicked Choccy's,Found,4,4,2898.74,2898.74,2898.74
+United States,Florida,Lakeland,33801,Lot's O' Nuts,Found,11,7,2898.27,2898.27,2898.27
+United States,Utah,Draper,84020,Wicked Choccy's,Found,2,2,2895.93,2895.93,2895.93
+United States,Utah,Lehi,84043,Wicked Choccy's,Found,2,2,2895.13,2895.13,2895.13
+United States,Arizona,Phoenix,85023,Wicked Choccy's,Found,38,33,2890.55,2890.55,2890.55
+United States,Utah,Pleasant Grove,84062,Wicked Choccy's,Found,3,3,2883.35,2883.35,2883.35
+United States,Utah,Orem,84057,Wicked Choccy's,Found,5,4,2879.34,2879.34,2879.34
+United States,Arizona,Tempe,85281,Wicked Choccy's,Found,4,3,2877.53,2877.53,2877.53
+United States,Arizona,Scottsdale,85254,Wicked Choccy's,Found,6,5,2876.53,2876.53,2876.53
+United States,Utah,Provo,84604,Wicked Choccy's,Found,2,2,2874.38,2874.38,2874.38
+United States,Arizona,Chandler,85224,Wicked Choccy's,Found,5,4,2873.68,2873.68,2873.68
+United States,West Virginia,Wheeling,26003,Lot's O' Nuts,Found,2,2,2873.53,2873.53,2873.53
+United States,North Carolina,Monroe,28110,Lot's O' Nuts,Found,4,4,2872.62,2872.62,2872.62
+United States,California,Sunnyvale,94086,The Other Factory,Found,1,1,2871.42,2871.42,2871.42
+United States,California,Danville,94526,The Other Factory,Found,1,1,2864.98,2864.98,2864.98
+United States,Arizona,Mesa,85204,Wicked Choccy's,Found,13,9,2864.82,2864.82,2864.82
+United States,Florida,Jacksonville,32216,Lot's O' Nuts,Found,40,35,2864.26,2864.26,2864.26
+United States,North Carolina,Concord,28027,Lot's O' Nuts,Found,3,3,2864.14,2864.14,2864.14
+United States,Arizona,Gilbert,85234,Wicked Choccy's,Found,6,5,2860.49,2860.49,2860.49
+United States,California,San Jose,95123,The Other Factory,Found,1,1,2855.3,2855.3,2855.3
+United States,North Carolina,Charlotte,28205,Lot's O' Nuts,Found,29,22,2854.37,2854.37,2854.37
+United States,Florida,Tampa,33614,Lot's O' Nuts,Found,20,14,2854.14,2854.14,2854.14
+United States,Ohio,Mentor,44060,Lot's O' Nuts,Found,4,2,2847.06,2847.06,2847.06
+United States,South Carolina,Columbia,29203,Lot's O' Nuts,Found,13,10,2843.63,2843.63,2843.63
+United States,California,Woodland,95695,The Other Factory,Review,1,1,2843.33,2843.33,2843.33
+United States,Florida,Saint Petersburg,33710,Lot's O' Nuts,Found,5,5,2836.43,2836.43,2836.43
+United States,Florida,Hialeah,33012,Sugar Shack,Found,1,1,2835.41,2835.41,2835.41
+United States,Ohio,Kent,44240,Lot's O' Nuts,Found,3,3,2835.12,2835.12,2835.12
+United States,Ohio,Cuyahoga Falls,44221,Lot's O' Nuts,Found,3,3,2824.87,2824.87,2824.87
+United States,Ohio,Akron,44312,Lot's O' Nuts,Found,13,9,2820.66,2820.66,2820.66
+United States,Ohio,Cleveland,44105,Lot's O' Nuts,Found,22,21,2818.35,2818.35,2818.35
+United States,North Carolina,Gastonia,28052,Lot's O' Nuts,Found,3,2,2815.95,2815.95,2815.95
+United States,Ohio,Parma,44134,Lot's O' Nuts,Found,9,6,2811.22,2811.22,2811.22
+United States,Ohio,Lakewood,44107,Lot's O' Nuts,Found,9,9,2805.0,2805.0,2805.0
+United States,Arizona,Tucson,85705,Wicked Choccy's,Found,15,12,2804.34,2804.34,2804.34
+United States,Montana,Billings,59102,Wicked Choccy's,Found,1,1,2802.27,2802.27,2802.27
+United States,North Carolina,Hickory,28601,Lot's O' Nuts,Found,1,1,2801.95,2801.95,2801.95
+United States,Ohio,Medina,44256,Lot's O' Nuts,Found,4,3,2794.65,2794.65,2794.65
+Canada,Saskatchewan,Regina,S0G,Wicked Choccy's,Found_Canada_FSA,2,2,2787.83,2787.83,2787.83
+United States,Ohio,Lorain,44052,Lot's O' Nuts,Found,5,4,2773.9,2773.9,2773.9
+United States,Ohio,Hamilton,45011,Lot's O' Nuts,Review,1,1,2768.54,2768.54,2768.54
+United States,California,San Francisco,94122,Secret Factory,Found,4,4,2748.23,2748.23,2748.23
+United States,California,San Francisco,94110,Secret Factory,Found,2,2,2743.89,2743.89,2743.89
+United States,California,San Francisco,94109,Secret Factory,Found,1,1,2742.73,2742.73,2742.73
+United States,Michigan,Roseville,48066,Lot's O' Nuts,Found,2,2,2736.21,2736.21,2736.21
+United States,Michigan,Detroit,48205,Lot's O' Nuts,Found,17,15,2731.5,2731.5,2731.5
+United States,Ohio,Newark,43055,Lot's O' Nuts,Found,23,18,2729.62,2729.62,2729.62
+United States,Michigan,Sterling Heights,48310,Lot's O' Nuts,Found,2,2,2727.24,2727.24,2727.24
+United States,Michigan,Detroit,48234,Lot's O' Nuts,Found,22,17,2725.78,2725.78,2725.78
+United States,California,Sunnyvale,94086,Secret Factory,Found,1,1,2724.79,2724.79,2724.79
+United States,Tennessee,Bristol,37620,Lot's O' Nuts,Found,1,1,2723.32,2723.32,2723.32
+United States,Michigan,Rochester Hills,48307,Lot's O' Nuts,Found,1,1,2723.26,2723.26,2723.26
+United States,Michigan,Royal Oak,48073,Lot's O' Nuts,Found,1,1,2718.07,2718.07,2718.07
+United States,Michigan,Oak Park,48237,Lot's O' Nuts,Found,1,1,2716.46,2716.46,2716.46
+United States,Michigan,Detroit,48227,Lot's O' Nuts,Found,27,20,2712.97,2712.97,2712.97
+United States,Michigan,Dearborn,48126,Lot's O' Nuts,Found,4,2,2711.78,2711.78,2711.78
+United States,Michigan,Lincoln Park,48146,Lot's O' Nuts,Found,2,2,2709.94,2709.94,2709.94
+United States,Ohio,Lancaster,43130,Lot's O' Nuts,Found,19,16,2708.21,2708.21,2708.21
+United States,Michigan,Dearborn Heights,48127,Lot's O' Nuts,Found,4,2,2706.29,2706.29,2706.29
+United States,California,Danville,94526,Secret Factory,Found,1,1,2706.23,2706.23,2706.23
+United States,Tennessee,Johnson City,37604,Lot's O' Nuts,Found,7,5,2705.12,2705.12,2705.12
+United States,Michigan,Trenton,48183,Lot's O' Nuts,Found,7,6,2704.93,2704.93,2704.93
+United States,Michigan,Taylor,48180,Lot's O' Nuts,Found,3,3,2703.33,2703.33,2703.33
+United States,Michigan,Westland,48185,Lot's O' Nuts,Found,7,4,2696.76,2696.76,2696.76
+United States,North Carolina,Asheville,28806,Lot's O' Nuts,Found,5,5,2688.95,2688.95,2688.95
+United States,Michigan,Canton,48187,Lot's O' Nuts,Found,2,2,2688.56,2688.56,2688.56
+United States,Michigan,Saginaw,48601,Lot's O' Nuts,Found,5,4,2683.59,2683.59,2683.59
+United States,Ohio,Columbus,43229,Lot's O' Nuts,Found,68,56,2682.53,2682.53,2682.53
+United States,Ohio,Marion,43302,Lot's O' Nuts,Found,5,5,2678.98,2678.98,2678.98
+United States,Ohio,Dublin,43017,Lot's O' Nuts,Found,10,7,2670.93,2670.93,2670.93
+United States,Ohio,Grove City,43123,Lot's O' Nuts,Found,1,1,2670.52,2670.52,2670.52
+United States,Michigan,Ann Arbor,48104,Lot's O' Nuts,Found,3,2,2666.82,2666.82,2666.82
+United States,Ohio,Toledo,43615,Lot's O' Nuts,Found,14,12,2666.74,2666.74,2666.74
+United States,Michigan,Midland,48640,Lot's O' Nuts,Found,6,6,2665.69,2665.69,2665.69
+United States,California,Oxnard,93030,The Other Factory,Found,1,1,2662.68,2662.68,2662.68
+United States,California,Santa Barbara,93101,Secret Factory,Found,1,1,2658.16,2658.16,2658.16
+United States,Oregon,Eugene,97405,Secret Factory,Found,1,1,2655.52,2655.52,2655.52
+United States,Ohio,Bowling Green,43402,Lot's O' Nuts,Found,4,3,2651.38,2651.38,2651.38
+United States,Oregon,Salem,97301,Secret Factory,Found,1,1,2640.37,2640.37,2640.37
+United States,California,Chico,95928,Secret Factory,Found,1,1,2633.09,2633.09,2633.09
+United States,Georgia,Athens,30605,Lot's O' Nuts,Found,4,3,2632.79,2632.79,2632.79
+United States,Georgia,Warner Robins,31088,Lot's O' Nuts,Found,2,2,2625.88,2625.88,2625.88
+United States,Michigan,Mount Pleasant,48858,Lot's O' Nuts,Found,1,1,2624.61,2624.61,2624.61
+United States,Georgia,Macon,31204,Lot's O' Nuts,Found,3,3,2616.09,2616.09,2616.09
+United States,Michigan,Jackson,49201,Lot's O' Nuts,Found,18,15,2615.58,2615.58,2615.58
+United States,Michigan,Lansing,48911,Lot's O' Nuts,Found,5,3,2612.13,2612.13,2612.13
+United States,Ohio,Springfield,45503,Lot's O' Nuts,Found,20,16,2612.05,2612.05,2612.05
+United States,Washington,Vancouver,98661,Secret Factory,Found,1,1,2607.54,2607.54,2607.54
+United States,Florida,Tallahassee,32303,Lot's O' Nuts,Found,11,10,2605.66,2605.66,2605.66
+United States,California,Thousand Oaks,91360,Secret Factory,Found,1,1,2600.64,2600.64,2600.64
+United States,California,Los Angeles,90045,The Other Factory,Found,2,2,2598.13,2598.13,2598.13
+United States,California,Los Angeles,90036,The Other Factory,Found,1,1,2591.95,2591.95,2591.95
+United States,Washington,Seattle,98103,Secret Factory,Found,3,3,2591.02,2591.02,2591.02
+United States,California,Los Angeles,90008,The Other Factory,Found,1,1,2590.98,2590.98,2590.98
+United States,Washington,Seattle,98115,Secret Factory,Found,2,2,2587.81,2587.81,2587.81
+United States,Washington,Seattle,98105,Secret Factory,Found,5,5,2587.62,2587.62,2587.62
+United States,California,Los Angeles,90004,The Other Factory,Found,1,1,2586.97,2586.97,2586.97
+United States,Ohio,Troy,45373,Lot's O' Nuts,Found,9,8,2577.44,2577.44,2577.44
+United States,California,Los Angeles,90049,Secret Factory,Found,4,4,2573.15,2573.15,2573.15
+United States,California,Los Angeles,90045,Secret Factory,Found,1,1,2572.77,2572.77,2572.77
+United States,Tennessee,Knoxville,37918,Lot's O' Nuts,Found,18,15,2567.72,2567.72,2567.72
+United States,California,Los Angeles,90008,Secret Factory,Found,1,1,2564.91,2564.91,2564.91
+United States,California,Los Angeles,90036,Secret Factory,Found,1,1,2563.93,2563.93,2563.93
+United States,California,Los Angeles,90004,Secret Factory,Found,6,6,2559.22,2559.22,2559.22
+United States,Ohio,Mason,45040,Lot's O' Nuts,Found,1,1,2557.55,2557.55,2557.55
+United States,California,Costa Mesa,92627,Secret Factory,Found,1,1,2549.68,2549.68,2549.68
+United States,California,Los Angeles,90032,Secret Factory,Found,2,2,2549.0,2549.0,2549.0
+United States,California,Anaheim,92804,Secret Factory,Found,1,1,2545.49,2545.49,2545.49
+United States,Georgia,Roswell,30076,Lot's O' Nuts,Found,15,12,2542.25,2542.25,2542.25
+United States,Kentucky,Richmond,40475,Lot's O' Nuts,Found,23,18,2540.21,2540.21,2540.21
+United States,Michigan,Grand Rapids,49505,Lot's O' Nuts,Found,5,5,2537.64,2537.64,2537.64
+United States,Ohio,Fairfield,45014,Lot's O' Nuts,Found,9,9,2537.61,2537.61,2537.61
+United States,Georgia,Sandy Springs,30328,Lot's O' Nuts,Found,12,8,2537.15,2537.15,2537.15
+United States,Ohio,Cincinnati,45231,Lot's O' Nuts,Found,6,5,2536.97,2536.97,2536.97
+United States,Georgia,East Point,30344,Lot's O' Nuts,Found,2,1,2533.1,2533.1,2533.1
+United States,Georgia,Atlanta,30318,Lot's O' Nuts,Found,24,19,2532.89,2532.89,2532.89
+United States,California,San Diego,92105,Secret Factory,Found,1,1,2531.61,2531.61,2531.61
+United States,New Mexico,Farmington,87401,Wicked Choccy's,Found,1,1,2531.04,2531.04,2531.04
+United States,Georgia,Smyrna,30080,Lot's O' Nuts,Found,11,6,2526.43,2526.43,2526.43
+United States,Kentucky,Florence,41042,Lot's O' Nuts,Found,8,6,2523.37,2523.37,2523.37
+United States,Kentucky,Georgetown,40324,Lot's O' Nuts,Found,3,3,2523.23,2523.23,2523.23
+United States,Georgia,Woodstock,30188,Lot's O' Nuts,Found,1,1,2523.04,2523.04,2523.04
+United States,California,Rancho Cucamonga,91730,The Other Factory,Found,1,1,2522.01,2522.01,2522.01
+United States,Georgia,Marietta,30062,Lot's O' Nuts,Found,3,2,2521.62,2521.62,2521.62
+United States,Indiana,Richmond,47374,Lot's O' Nuts,Found,13,12,2516.76,2516.76,2516.76
+United States,California,San Diego,92024,The Other Factory,Found,1,1,2516.49,2516.49,2516.49
+United States,California,San Diego,92105,The Other Factory,Found,1,1,2508.73,2508.73,2508.73
+Canada,Manitoba,Winnipeg,R0H,Wicked Choccy's,Found_Canada_FSA,8,4,2508.41,2508.41,2508.41
+United States,Georgia,Columbus,31907,Lot's O' Nuts,Found,33,31,2507.56,2507.56,2507.56
+United States,Michigan,Holland,49423,Lot's O' Nuts,Found,2,2,2494.32,2494.32,2494.32
+United States,California,Moreno Valley,92553,The Other Factory,Found,1,1,2494.19,2494.19,2494.19
+United States,Indiana,New Castle,47362,Lot's O' Nuts,Found,1,1,2478.15,2478.15,2478.15
+United States,Indiana,Elkhart,46514,Lot's O' Nuts,Found,2,2,2471.9,2471.9,2471.9
+United States,Nevada,Sparks,89431,Secret Factory,Found,1,1,2465.55,2465.55,2465.55
+United States,Tennessee,Chattanooga,37421,Lot's O' Nuts,Found,7,6,2459.45,2459.45,2459.45
+United States,Indiana,Mishawaka,46544,Lot's O' Nuts,Found,1,1,2453.6,2453.6,2453.6
+United States,Alabama,Auburn,36830,Lot's O' Nuts,Found,5,4,2452.82,2452.82,2452.82
+United States,California,Apple Valley,92307,Secret Factory,Found,1,1,2448.99,2448.99,2448.99
+United States,Indiana,South Bend,46614,Lot's O' Nuts,Found,3,2,2447.49,2447.49,2447.49
+United States,Indiana,Noblesville,46060,Lot's O' Nuts,Found,2,1,2428.79,2428.79,2428.79
+United States,Wisconsin,Green Bay,54302,Lot's O' Nuts,Found,2,2,2422.17,2422.17,2422.17
+United States,Indiana,Lawrence,46226,Lot's O' Nuts,Found,7,7,2421.41,2421.41,2421.41
+United States,Indiana,Columbus,47201,Lot's O' Nuts,Found,21,18,2418.28,2418.28,2418.28
+United States,Kentucky,Louisville,40214,Lot's O' Nuts,Found,16,14,2415.37,2415.37,2415.37
+United States,Indiana,New Albany,47150,Lot's O' Nuts,Found,4,2,2413.83,2413.83,2413.83
+United States,Indiana,Indianapolis,46203,Lot's O' Nuts,Found,17,14,2412.03,2412.03,2412.03
+United States,California,San Francisco,94110,Sugar Shack,Found,1,1,2409.99,2409.99,2409.99
+United States,Indiana,Greenwood,46142,Lot's O' Nuts,Review,1,1,2409.85,2409.85,2409.85
+United States,New Mexico,Las Cruces,88001,Wicked Choccy's,Found,1,1,2409.81,2409.81,2409.81
+United States,Indiana,La Porte,46350,Lot's O' Nuts,Found,6,4,2408.57,2408.57,2408.57
+United States,Wisconsin,Sheboygan,53081,Lot's O' Nuts,Found,1,1,2406.85,2406.85,2406.85
+United States,Alabama,Montgomery,36116,Lot's O' Nuts,Found,4,4,2388.48,2388.48,2388.48
+Canada,Manitoba,Winnipeg,R3R,Wicked Choccy's,Found_Canada_FSA,2,2,2388.31,2388.31,2388.31
+United States,New Mexico,Rio Rancho,87124,Wicked Choccy's,Found,2,2,2387.15,2387.15,2387.15
+United States,New Mexico,Albuquerque,87105,Wicked Choccy's,Found,7,5,2384.92,2384.92,2384.92
+United States,Texas,El Paso,79907,Wicked Choccy's,Found,7,6,2377.54,2377.54,2377.54
+United States,Indiana,Lafayette,47905,Lot's O' Nuts,Found,6,4,2367.92,2367.92,2367.92
+United States,Indiana,Bloomington,47401,Lot's O' Nuts,Found,6,5,2367.67,2367.67,2367.67
+United States,Wisconsin,Milwaukee,53209,Lot's O' Nuts,Found,24,17,2365.43,2365.43,2365.43
+United States,Wisconsin,West Allis,53214,Lot's O' Nuts,Found,1,1,2356.45,2356.45,2356.45
+United States,Tennessee,Lebanon,37087,Lot's O' Nuts,Review,2,2,2355.57,2355.57,2355.57
+United States,Wisconsin,Franklin,53132,Lot's O' Nuts,Found,5,3,2352.78,2352.78,2352.78
+United States,Tennessee,Murfreesboro,37130,Lot's O' Nuts,Found,7,4,2348.33,2348.33,2348.33
+United States,Illinois,Chicago,60610,Lot's O' Nuts,Found,60,50,2345.36,2345.36,2345.36
+United States,Illinois,Evanston,60201,Lot's O' Nuts,Found,2,2,2345.35,2345.35,2345.35
+United States,Wisconsin,Kenosha,53142,Lot's O' Nuts,Found,6,4,2345.01,2345.01,2345.01
+United States,Illinois,Chicago,60653,Lot's O' Nuts,Found,59,53,2344.72,2344.72,2344.72
+United States,Illinois,Skokie,60076,Lot's O' Nuts,Found,6,4,2342.35,2342.35,2342.35
+United States,Illinois,Highland Park,60035,Lot's O' Nuts,Found,1,1,2341.96,2341.96,2341.96
+United States,Wisconsin,Waukesha,53186,Lot's O' Nuts,Found,1,1,2341.35,2341.35,2341.35
+United States,South Dakota,Rapid City,57701,Wicked Choccy's,Found,2,1,2339.94,2339.94,2339.94
+United States,Florida,Jacksonville,32216,Sugar Shack,Found,2,2,2339.54,2339.54,2339.54
+United States,Illinois,Chicago,60623,Lot's O' Nuts,Found,46,42,2337.05,2337.05,2337.05
+United States,Illinois,Glenview,60025,Lot's O' Nuts,Found,1,1,2336.89,2336.89,2336.89
+United States,Colorado,Loveland,80538,Wicked Choccy's,Found,1,1,2336.78,2336.78,2336.78
+United States,Colorado,Fort Collins,80525,Wicked Choccy's,Found,1,1,2334.76,2334.76,2334.76
+United States,Tennessee,Smyrna,37167,Lot's O' Nuts,Review,5,5,2334.43,2334.43,2334.43
+United States,Florida,Pensacola,32503,Lot's O' Nuts,Found,1,1,2334.18,2334.18,2334.18
+United States,Illinois,Oak Park,60302,Lot's O' Nuts,Found,1,1,2333.11,2333.11,2333.11
+United States,Illinois,Park Ridge,60068,Lot's O' Nuts,Found,3,3,2333.1,2333.1,2333.1
+United States,Illinois,Wheeling,60090,Lot's O' Nuts,Found,1,1,2330.11,2330.11,2330.11
+United States,Illinois,Des Plaines,60016,Lot's O' Nuts,Found,4,3,2328.94,2328.94,2328.94
+United States,Illinois,Buffalo Grove,60089,Lot's O' Nuts,Retry_Found,1,1,2328.52,2328.52,2328.52
+United States,Alabama,Huntsville,35810,Lot's O' Nuts,Found,2,2,2327.76,2327.76,2327.76
+United States,Colorado,Longmont,80501,Wicked Choccy's,Found,1,1,2327.61,2327.61,2327.61
+United States,Tennessee,Hendersonville,37075,Lot's O' Nuts,Found,2,2,2327.46,2327.46,2327.46
+United States,Colorado,Louisville,80027,Wicked Choccy's,Found,11,9,2325.53,2325.53,2325.53
+United States,Illinois,Arlington Heights,60004,Lot's O' Nuts,Found,1,1,2325.52,2325.52,2325.52
+United States,Wisconsin,Wausau,54401,Lot's O' Nuts,Found,3,3,2322.98,2322.98,2322.98
+United States,Illinois,Tinley Park,60477,Lot's O' Nuts,Found,1,1,2321.49,2321.49,2321.49
+United States,Illinois,Elmhurst,60126,Lot's O' Nuts,Found,2,2,2320.57,2320.57,2320.57
+United States,Alabama,Hoover,35244,Lot's O' Nuts,Found,4,3,2318.62,2318.62,2318.62
+United States,Colorado,Arvada,80004,Wicked Choccy's,Found,1,1,2318.08,2318.08,2318.08
+United States,Colorado,Broomfield,80020,Wicked Choccy's,Found,5,3,2317.26,2317.26,2317.26
+United States,Tennessee,Nashville,37211,Lot's O' Nuts,Found,12,11,2316.63,2316.63,2316.63
+United States,Illinois,Saint Charles,60174,Lot's O' Nuts,Review,4,3,2315.3,2315.3,2315.3
+United States,Illinois,Frankfort,60423,Lot's O' Nuts,Found,2,2,2314.0,2314.0,2314.0
+United States,Colorado,Denver,80219,Wicked Choccy's,Found,12,7,2308.87,2308.87,2308.87
+United States,Colorado,Thornton,80229,Wicked Choccy's,Found,7,4,2307.96,2307.96,2307.96
+Canada,Alberta,Edmonton,T5A,Lot's O' Nuts,Found_Canada_FSA,6,4,2306.69,2306.69,2306.69
+United States,Illinois,Carol Stream,60188,Lot's O' Nuts,Found,3,3,2306.42,2306.42,2306.42
+United States,Illinois,Bolingbrook,60440,Lot's O' Nuts,Found,1,1,2304.09,2304.09,2304.09
+United States,Colorado,Englewood,80112,Wicked Choccy's,Retry_Found,2,1,2303.64,2303.64,2303.64
+United States,Tennessee,Franklin,37064,Lot's O' Nuts,Found,10,7,2302.96,2302.96,2302.96
+United States,Illinois,Romeoville,60441,Lot's O' Nuts,Found,1,1,2300.91,2300.91,2300.91
+United States,Illinois,Naperville,60540,Lot's O' Nuts,Found,5,5,2299.22,2299.22,2299.22
+United States,Illinois,Woodstock,60098,Lot's O' Nuts,Found,2,2,2297.48,2297.48,2297.48
+United States,Illinois,Danville,61832,Lot's O' Nuts,Found,1,1,2294.39,2294.39,2294.39
+United States,Alabama,Decatur,35601,Lot's O' Nuts,Found,10,8,2293.37,2293.37,2293.37
+United States,Kentucky,Owensboro,42301,Lot's O' Nuts,Found,2,2,2291.41,2291.41,2291.41
+United States,Illinois,Aurora,60505,Lot's O' Nuts,Found,19,14,2288.21,2288.21,2288.21
+United States,Tennessee,Columbia,38401,Lot's O' Nuts,Found,12,11,2287.38,2287.38,2287.38
+United States,Colorado,Aurora,80013,Wicked Choccy's,Found,13,10,2286.41,2286.41,2286.41
+United States,Colorado,Parker,80134,Wicked Choccy's,Found,3,2,2283.14,2283.14,2283.14
+United States,Illinois,Oswego,60543,Lot's O' Nuts,Found,3,3,2283.02,2283.02,2283.02
+United States,Colorado,Colorado Springs,80906,Wicked Choccy's,Found,10,6,2268.59,2268.59,2268.59
+United States,Wisconsin,Superior,54880,Lot's O' Nuts,Found,3,2,2265.65,2265.65,2265.65
+United States,Nevada,Henderson,89015,The Other Factory,Found,1,1,2257.29,2257.29,2257.29
+United States,Tennessee,Clarksville,37042,Lot's O' Nuts,Found,3,3,2257.04,2257.04,2257.04
+United States,Wisconsin,Madison,53711,Lot's O' Nuts,Found,7,5,2255.27,2255.27,2255.27
+United States,Kentucky,Henderson,42420,Lot's O' Nuts,Found,24,19,2254.95,2254.95,2254.95
+United States,Alabama,Tuscaloosa,35401,Lot's O' Nuts,Found,2,2,2251.35,2251.35,2251.35
+United States,Illinois,Rockford,61107,Lot's O' Nuts,Found,4,4,2250.28,2250.28,2250.28
+United States,Illinois,Champaign,61821,Lot's O' Nuts,Found,1,1,2239.75,2239.75,2239.75
+United States,Alabama,Mobile,36608,Lot's O' Nuts,Found,6,6,2237.1,2237.1,2237.1
+United States,Colorado,Pueblo,81001,Wicked Choccy's,Found,3,3,2235.49,2235.49,2235.49
+Canada,Manitoba,Winnipeg,R3R,Lot's O' Nuts,Found_Canada_FSA,2,2,2232.25,2232.25,2232.25
+United States,Alabama,Florence,35630,Lot's O' Nuts,Found,1,1,2231.01,2231.01,2231.01
+Canada,Prince Edward Island,Charlottetown,C0A,Wicked Choccy's,Found_Canada_FSA,4,2,2220.66,2220.66,2220.66
+United States,Illinois,Freeport,61032,Lot's O' Nuts,Found,3,3,2204.08,2204.08,2204.08
+United States,Nevada,North Las Vegas,89031,Secret Factory,Found,1,1,2197.69,2197.69,2197.69
+United States,Illinois,Normal,61761,Lot's O' Nuts,Found,1,1,2193.26,2193.26,2193.26
+United States,Illinois,Bloomington,61701,Lot's O' Nuts,Found,5,4,2190.68,2190.68,2190.68
+United States,Wisconsin,Eau Claire,54703,Lot's O' Nuts,Found,4,4,2189.15,2189.15,2189.15
+United States,Illinois,Decatur,62521,Lot's O' Nuts,Found,13,12,2179.06,2179.06,2179.06
+United States,Kentucky,Murray,42071,Lot's O' Nuts,Found,1,1,2178.0,2178.0,2178.0
+United States,New Mexico,Carlsbad,88220,Wicked Choccy's,Found,5,4,2171.92,2171.92,2171.92
+United States,Mississippi,Gulfport,39503,Lot's O' Nuts,Found,1,1,2158.17,2158.17,2158.17
+United States,Wisconsin,La Crosse,54601,Lot's O' Nuts,Found,1,1,2155.2,2155.2,2155.2
+United States,Illinois,Peoria,61604,Lot's O' Nuts,Found,4,4,2146.63,2146.63,2146.63
+United States,Iowa,Dubuque,52001,Lot's O' Nuts,Found,2,2,2133.62,2133.62,2133.62
+United States,Tennessee,Jackson,38301,Lot's O' Nuts,Found,6,5,2126.14,2126.14,2126.14
+United States,Mississippi,Hattiesburg,39401,Lot's O' Nuts,Found,2,2,2119.81,2119.81,2119.81
+United States,North Dakota,Fargo,58103,Wicked Choccy's,Found,2,1,2119.36,2119.36,2119.36
+United States,Minnesota,Moorhead,56560,Wicked Choccy's,Found,2,2,2113.84,2113.84,2113.84
+United States,Minnesota,Woodbury,55125,Lot's O' Nuts,Found,2,2,2098.6,2098.6,2098.6
+United States,Arizona,Peoria,85345,Sugar Shack,Found,1,1,2098.04,2098.04,2098.04
+United States,Minnesota,Saint Paul,55106,Lot's O' Nuts,Found,2,2,2094.46,2094.46,2094.46
+United States,Minnesota,Cottage Grove,55016,Lot's O' Nuts,Found,1,1,2092.65,2092.65,2092.65
+United States,Minnesota,Roseville,55113,Lot's O' Nuts,Found,5,3,2091.34,2091.34,2091.34
+Canada,New Brunswick,Moncton,E1A,Wicked Choccy's,Found,4,4,2091.07,2091.07,2091.07
+United States,Minnesota,Coon Rapids,55433,Lot's O' Nuts,Found,1,1,2090.11,2090.11,2090.11
+United States,Minnesota,Minneapolis,55407,Lot's O' Nuts,Found,13,11,2079.97,2079.97,2079.97
+United States,Minnesota,Rochester,55901,Lot's O' Nuts,Found,6,6,2079.15,2079.15,2079.15
+United States,Minnesota,Maple Grove,55369,Lot's O' Nuts,Found,2,2,2079.05,2079.05,2079.05
+Canada,Alberta,Calgary,T1Y,Secret Factory,Found_Canada_FSA,2,2,2079.03,2079.03,2079.03
+United States,Arizona,Tempe,85281,Secret Factory,Found,2,2,2078.18,2078.18,2078.18
+United States,Arizona,Tucson,85705,Secret Factory,Found,1,1,2076.51,2076.51,2076.51
+United States,Minnesota,Eagan,55122,Lot's O' Nuts,Found,3,3,2075.56,2075.56,2075.56
+United States,Minnesota,Apple Valley,55124,Lot's O' Nuts,Found,1,1,2071.55,2071.55,2071.55
+United States,New Mexico,Clovis,88101,Wicked Choccy's,Found,1,1,2069.02,2069.02,2069.02
+United States,Arizona,Gilbert,85234,Secret Factory,Found,2,2,2067.48,2067.48,2067.48
+United States,Minnesota,Lakeville,55044,Lot's O' Nuts,Found,4,4,2064.41,2064.41,2064.41
+United States,Louisiana,Kenner,70065,Lot's O' Nuts,Found,2,2,2061.66,2061.66,2061.66
+Canada,Nova Scotia,Halifax,B3H,Wicked Choccy's,Found,6,6,2061.33,2061.33,2061.33
+United States,Rhode Island,Providence,2908,Sugar Shack,Found,1,1,2059.46,2059.46,2059.46
+United States,Minnesota,Saint Cloud,56301,Lot's O' Nuts,Found,3,2,2058.7,2058.7,2058.7
+Canada,British Columbia,Vancouver,V6G,Lot's O' Nuts,Found_Canada_FSA,4,4,2054.03,2054.03,2054.03
+Canada,British Columbia,Vancouver,V6Z,Lot's O' Nuts,Found_Canada_FSA,4,4,2050.97,2050.97,2050.97
+Canada,British Columbia,Vancouver,V6B,Lot's O' Nuts,Found,8,8,2049.4,2049.4,2049.4
+Canada,British Columbia,Vancouver,V5K,Lot's O' Nuts,Found_Canada_FSA,2,2,2048.48,2048.48,2048.48
+United States,Iowa,Marion,52302,Lot's O' Nuts,Found,4,3,2044.1,2044.1,2044.1
+United States,Texas,Houston,77041,Sugar Shack,Review,1,1,2042.75,2042.75,2042.75
+United States,Iowa,Cedar Rapids,52402,Lot's O' Nuts,Found,1,1,2038.29,2038.29,2038.29
+United States,Missouri,Saint Louis,63116,Lot's O' Nuts,Found,4,4,2036.33,2036.33,2036.33
+United States,Iowa,Iowa City,52240,Lot's O' Nuts,Found,1,1,2032.95,2032.95,2032.95
+United States,Arizona,Phoenix,85023,The Other Factory,Found,1,1,2032.76,2032.76,2032.76
+United States,Iowa,Burlington,52601,Lot's O' Nuts,Found,2,2,2031.29,2031.29,2031.29
+Canada,Alberta,Calgary,T2C,Lot's O' Nuts,Found,10,8,2028.31,2028.31,2028.31
+United States,Missouri,Kirkwood,63122,Lot's O' Nuts,Found,1,1,2023.65,2023.65,2023.65
+United States,Missouri,Saint Charles,63301,Lot's O' Nuts,Found,3,3,2021.74,2021.74,2021.74
+United States,Arizona,Scottsdale,85254,The Other Factory,Found,1,1,2020.55,2020.55,2020.55
+United States,Mississippi,Southaven,38671,Lot's O' Nuts,Found,5,4,2019.1,2019.1,2019.1
+United States,Mississippi,Jackson,39212,Lot's O' Nuts,Found,22,18,2013.23,2013.23,2013.23
+United States,Tennessee,Memphis,38109,Lot's O' Nuts,Found,17,11,2011.51,2011.51,2011.51
+United States,North Dakota,Fargo,58103,Lot's O' Nuts,Found,5,4,2003.18,2003.18,2003.18
+United States,Texas,Odessa,79762,Wicked Choccy's,Found,1,1,2001.87,2001.87,2001.87
+United States,Illinois,Quincy,62301,Lot's O' Nuts,Found,6,5,1980.18,1980.18,1980.18
+United States,Washington,Bellingham,98226,Lot's O' Nuts,Found,1,1,1979.95,1979.95,1979.95
+United States,Florida,Miramar,33023,Secret Factory,Found,2,1,1963.84,1963.84,1963.84
+United States,Florida,Hollywood,33021,Secret Factory,Found,1,1,1961.69,1961.69,1961.69
+United States,Arkansas,Jonesboro,72401,Lot's O' Nuts,Found,4,3,1958.72,1958.72,1958.72
+United States,Connecticut,Waterbury,6708,Sugar Shack,Found,1,1,1955.59,1955.59,1955.59
+United States,Texas,Lubbock,79424,Wicked Choccy's,Found,3,3,1951.17,1951.17,1951.17
+United States,Texas,Amarillo,79109,Wicked Choccy's,Found,4,3,1950.98,1950.98,1950.98
+United States,Washington,Seattle,98115,Sugar Shack,Found,1,1,1938.26,1938.26,1938.26
+United States,New York,New York City,10035,Sugar Shack,Review,1,1,1934.71,1934.71,1934.71
+United States,New York,New York City,10011,Sugar Shack,Found,5,5,1933.82,1933.82,1933.82
+United States,New York,New York City,10024,Sugar Shack,Found,2,2,1932.81,1932.81,1932.81
+United States,Kansas,Garden City,67846,Wicked Choccy's,Found,3,3,1909.88,1909.88,1909.88
+United States,New Jersey,Westfield,7090,Sugar Shack,Review,1,1,1907.97,1907.97,1907.97
+United States,Pennsylvania,Philadelphia,19140,Sugar Shack,Found,1,1,1898.59,1898.59,1898.59
+United States,Washington,Marysville,98270,Lot's O' Nuts,Found,1,1,1898.38,1898.38,1898.38
+United States,Pennsylvania,Philadelphia,19143,Sugar Shack,Found,2,2,1897.44,1897.44,1897.44
+United States,Washington,Everett,98208,Lot's O' Nuts,Retry_Found,1,1,1893.26,1893.26,1893.26
+United States,Louisiana,Lafayette,70506,Lot's O' Nuts,Found,13,12,1887.76,1887.76,1887.76
+United States,Washington,Edmonds,98026,Lot's O' Nuts,Found,5,5,1882.31,1882.31,1882.31
+United States,Delaware,Newark,19711,Sugar Shack,Found,1,1,1877.81,1877.81,1877.81
+United States,Wisconsin,Superior,54880,Wicked Choccy's,Found,6,3,1876.63,1876.63,1876.63
+United States,Washington,Seattle,98103,Lot's O' Nuts,Found,79,63,1869.51,1869.51,1869.51
+United States,New Hampshire,Dover,3820,The Other Factory,Found,1,1,1869.51,1869.51,1869.51
+United States,Washington,Seattle,98115,Lot's O' Nuts,Found,61,54,1868.8,1868.8,1868.8
+United States,Missouri,Jefferson City,65109,Lot's O' Nuts,Found,1,1,1868.12,1868.12,1868.12
+United States,Iowa,Des Moines,50315,Lot's O' Nuts,Found,5,4,1868.08,1868.08,1868.08
+United States,Missouri,Columbia,65203,Lot's O' Nuts,Found,5,4,1867.7,1867.7,1867.7
+United States,Washington,Seattle,98105,Lot's O' Nuts,Found,93,78,1866.89,1866.89,1866.89
+United States,South Dakota,Sioux Falls,57103,Wicked Choccy's,Found,1,1,1865.61,1865.61,1865.61
+United States,Iowa,Urbandale,50322,Lot's O' Nuts,Found,1,1,1863.26,1863.26,1863.26
+United States,Washington,Redmond,98052,Lot's O' Nuts,Found,2,2,1860.84,1860.84,1860.84
+United States,Washington,Bellevue,98006,Lot's O' Nuts,Found,4,4,1850.97,1850.97,1850.97
+United States,Washington,Renton,98059,Lot's O' Nuts,Found,1,1,1844.44,1844.44,1844.44
+United States,Texas,Laredo,78041,Wicked Choccy's,Found,4,3,1842.37,1842.37,1842.37
+United States,Washington,Des Moines,98198,Lot's O' Nuts,Found,4,3,1841.88,1841.88,1841.88
+Canada,Quebec,Quebec City,G1B,Wicked Choccy's,Found,12,5,1841.86,1841.86,1841.86
+United States,Washington,Kent,98031,Lot's O' Nuts,Found,3,3,1838.26,1838.26,1838.26
+United States,Louisiana,Monroe,71203,Lot's O' Nuts,Review,6,4,1836.84,1836.84,1836.84
+United States,Washington,Olympia,98502,Lot's O' Nuts,Review,3,3,1836.02,1836.02,1836.02
+United States,Texas,Mcallen,78501,Secret Factory,Found,1,1,1833.63,1833.63,1833.63
+United States,Washington,Covington,98042,Lot's O' Nuts,Found,2,2,1831.27,1831.27,1831.27
+United States,Arkansas,Pine Bluff,71603,Lot's O' Nuts,Found,1,1,1830.52,1830.52,1830.52
+United States,Washington,Auburn,98002,Lot's O' Nuts,Found,1,1,1829.91,1829.91,1829.91
+United States,Texas,San Angelo,76903,Wicked Choccy's,Found,2,2,1827.77,1827.77,1827.77
+United States,Nebraska,Grand Island,68801,Wicked Choccy's,Found,1,1,1823.49,1823.49,1823.49
+United States,New Hampshire,Concord,3301,The Other Factory,Found,1,1,1820.35,1820.35,1820.35
+United States,Nebraska,Norfolk,68701,Wicked Choccy's,Found,1,1,1816.0,1816.0,1816.0
+United States,Massachusetts,Lowell,1852,The Other Factory,Found,1,1,1813.69,1813.69,1813.69
+United States,South Dakota,Aberdeen,57401,Lot's O' Nuts,Found,1,1,1802.85,1802.85,1802.85
+United States,Arkansas,Little Rock,72209,Lot's O' Nuts,Found,11,8,1802.81,1802.81,1802.81
+United States,Minnesota,Maple Grove,55369,Wicked Choccy's,Found,2,2,1799.27,1799.27,1799.27
+United States,Arkansas,Conway,72032,Lot's O' Nuts,Found,1,1,1797.87,1797.87,1797.87
+United States,Minnesota,Coon Rapids,55433,Wicked Choccy's,Found,1,1,1797.6,1797.6,1797.6
+United States,Texas,Mcallen,78501,Wicked Choccy's,Found,8,7,1785.77,1785.77,1785.77
+United States,Massachusetts,Franklin,2038,The Other Factory,Found,1,1,1785.18,1785.18,1785.18
+United States,Louisiana,Lake Charles,70601,Lot's O' Nuts,Found,1,1,1781.05,1781.05,1781.05
+United States,Texas,Edinburg,78539,Wicked Choccy's,Found,1,1,1776.98,1776.98,1776.98
+United States,Minnesota,Roseville,55113,Wicked Choccy's,Found,1,1,1776.31,1776.31,1776.31
+United States,Minnesota,Minneapolis,55407,Wicked Choccy's,Found,10,7,1774.92,1774.92,1774.92
+United States,Massachusetts,Leominster,1453,The Other Factory,Found,1,1,1774.51,1774.51,1774.51
+United States,Rhode Island,Providence,2908,The Other Factory,Found,1,1,1774.51,1774.51,1774.51
+United States,Utah,Provo,84604,Secret Factory,Found,1,1,1774.37,1774.37,1774.37
+United States,Texas,El Paso,79907,Secret Factory,Found,1,1,1771.58,1771.58,1771.58
+United States,Maine,Bangor,4401,Wicked Choccy's,Found,2,2,1771.34,1771.34,1771.34
+United States,South Dakota,Sioux Falls,57103,Lot's O' Nuts,Found,8,5,1766.56,1766.56,1766.56
+United States,Minnesota,Eagan,55122,Wicked Choccy's,Found,5,4,1760.44,1760.44,1760.44
+United States,Minnesota,Woodbury,55125,Wicked Choccy's,Found,1,1,1756.94,1756.94,1756.94
+United States,Washington,Longview,98632,Lot's O' Nuts,Found,1,1,1756.23,1756.23,1756.23
+United States,Minnesota,Apple Valley,55124,Wicked Choccy's,Found,1,1,1755.97,1755.97,1755.97
+United States,Texas,Abilene,79605,Wicked Choccy's,Found,1,1,1755.0,1755.0,1755.0
+United States,Minnesota,Lakeville,55044,Wicked Choccy's,Found,10,8,1753.16,1753.16,1753.16
+United States,Minnesota,Cottage Grove,55016,Wicked Choccy's,Found,1,1,1749.59,1749.59,1749.59
+United States,Missouri,Springfield,65807,Lot's O' Nuts,Found,21,16,1744.47,1744.47,1744.47
+United States,Arkansas,Hot Springs,71901,Lot's O' Nuts,Found,3,3,1741.32,1741.32,1741.32
+United States,Texas,Harlingen,78550,Wicked Choccy's,Found,2,2,1737.03,1737.03,1737.03
+United States,Florida,Melbourne,32935,Secret Factory,Found,1,1,1732.1,1732.1,1732.1
+United States,Texas,Brownsville,78521,Wicked Choccy's,Found,3,2,1730.12,1730.12,1730.12
+United States,Texas,Port Arthur,77642,Lot's O' Nuts,Found,6,5,1722.9,1722.9,1722.9
+United States,Nebraska,Fremont,68025,Wicked Choccy's,Found,3,3,1718.06,1718.06,1718.06
+United States,Tennessee,Chattanooga,37421,Sugar Shack,Found,1,1,1717.09,1717.09,1717.09
+United States,Washington,Spokane,99207,Lot's O' Nuts,Found,3,3,1713.32,1713.32,1713.32
+United States,Missouri,Independence,64055,Lot's O' Nuts,Found,1,1,1703.15,1703.15,1703.15
+United States,Texas,Beaumont,77705,Lot's O' Nuts,Found,3,3,1698.01,1698.01,1698.01
+United States,Oregon,Hillsboro,97123,Lot's O' Nuts,Found,3,2,1697.78,1697.78,1697.78
+United States,Washington,Vancouver,98661,Lot's O' Nuts,Found,1,1,1695.95,1695.95,1695.95
+United States,Texas,San Antonio,78207,Wicked Choccy's,Found,24,20,1690.13,1690.13,1690.13
+United States,Louisiana,Bossier City,71111,Lot's O' Nuts,Found,2,2,1688.44,1688.44,1688.44
+United States,Oregon,Tigard,97224,Lot's O' Nuts,Review,6,5,1683.76,1683.76,1683.76
+United States,Wisconsin,Eau Claire,54703,Wicked Choccy's,Found,2,2,1681.23,1681.23,1681.23
+United States,Oregon,Portland,97206,Lot's O' Nuts,Found,13,13,1680.28,1680.28,1680.28
+United States,Florida,Saint Petersburg,33710,Secret Factory,Found,1,1,1678.22,1678.22,1678.22
+United States,Nebraska,Omaha,68104,Lot's O' Nuts,Found,18,15,1677.86,1677.86,1677.86
+United States,Kansas,Overland Park,66212,Lot's O' Nuts,Found,3,3,1676.53,1676.53,1676.53
+United States,Texas,Plano,75023,Sugar Shack,Found,1,1,1675.39,1675.39,1675.39
+United States,Oregon,Gresham,97030,Lot's O' Nuts,Found,3,3,1674.5,1674.5,1674.5
+United States,Nebraska,Omaha,68104,Wicked Choccy's,Found,9,7,1674.38,1674.38,1674.38
+United States,Texas,Frisco,75034,Sugar Shack,Found,1,1,1667.07,1667.07,1667.07
+United States,Kansas,Olathe,66062,Lot's O' Nuts,Found,3,3,1666.31,1666.31,1666.31
+United States,Minnesota,Rochester,55901,Wicked Choccy's,Found,11,8,1661.47,1661.47,1661.47
+United States,Arkansas,Rogers,72756,Lot's O' Nuts,Found,1,1,1659.62,1659.62,1659.62
+United States,Connecticut,Meriden,6450,The Other Factory,Found,1,1,1655.08,1655.08,1655.08
+United States,Oregon,Salem,97301,Lot's O' Nuts,Found,13,10,1653.54,1653.54,1653.54
+United States,Arkansas,Fayetteville,72701,Lot's O' Nuts,Found,9,7,1651.64,1651.64,1651.64
+United States,Arkansas,Texarkana,71854,Lot's O' Nuts,Found,1,1,1651.48,1651.48,1651.48
+United States,Nebraska,Fremont,68025,Lot's O' Nuts,Found,5,5,1650.19,1650.19,1650.19
+United States,Connecticut,Bristol,6010,The Other Factory,Found,1,1,1649.27,1649.27,1649.27
+United States,Texas,Texas City,77590,Lot's O' Nuts,Found,2,2,1646.72,1646.72,1646.72
+United States,Texas,Corpus Christi,78415,Wicked Choccy's,Found,5,5,1644.39,1644.39,1644.39
+United States,New York,Troy,12180,The Other Factory,Found,1,1,1641.01,1641.01,1641.01
+United States,Oklahoma,Lawton,73505,Wicked Choccy's,Found,3,3,1636.24,1636.24,1636.24
+United States,Texas,League City,77573,Lot's O' Nuts,Found,6,4,1627.7,1627.7,1627.7
+Canada,Quebec,Montreal,H1B,Wicked Choccy's,Found,2,2,1627.2,1627.2,1627.2
+Canada,Quebec,Montreal,H1A,Wicked Choccy's,Found,8,7,1627.2,1627.2,1627.2
+Canada,Quebec,Montreal,H1C,Wicked Choccy's,Found,2,2,1627.2,1627.2,1627.2
+United States,Montana,Great Falls,59405,Lot's O' Nuts,Found,3,2,1625.55,1625.55,1625.55
+United States,Texas,La Porte,77571,Lot's O' Nuts,Found,1,1,1624.88,1624.88,1624.88
+United States,Texas,Deer Park,77536,Lot's O' Nuts,Found,1,1,1619.72,1619.72,1619.72
+United States,Kansas,Wichita,67212,Wicked Choccy's,Found,1,1,1615.53,1615.53,1615.53
+United States,Wisconsin,Wausau,54401,Wicked Choccy's,Found,1,1,1614.22,1614.22,1614.22
+United States,Washington,Pasco,99301,Lot's O' Nuts,Found,3,3,1611.38,1611.38,1611.38
+United States,Texas,Pasadena,77506,Lot's O' Nuts,Found,8,7,1611.35,1611.35,1611.35
+United States,Texas,Pearland,77581,Lot's O' Nuts,Found,2,2,1610.28,1610.28,1610.28
+United States,Massachusetts,Lawrence,1841,Secret Factory,Found,1,1,1603.93,1603.93,1603.93
+United States,Texas,Austin,78745,Wicked Choccy's,Found,15,13,1601.54,1601.54,1601.54
+United States,Texas,Houston,77070,Lot's O' Nuts,Review,57,53,1594.92,1594.92,1594.92
+United States,Texas,Houston,77041,Lot's O' Nuts,Review,62,50,1594.31,1594.31,1594.31
+United States,Texas,Houston,77095,Lot's O' Nuts,Review,61,51,1594.31,1594.31,1594.31
+United States,Rhode Island,Warwick,2886,Secret Factory,Review,2,2,1592.26,1592.26,1592.26
+United States,Rhode Island,Providence,2908,Secret Factory,Found,1,1,1588.96,1588.96,1588.96
+United States,Massachusetts,Franklin,2038,Secret Factory,Found,1,1,1588.05,1588.05,1588.05
+United States,Texas,Missouri City,77489,Lot's O' Nuts,Found,1,1,1586.07,1586.07,1586.07
+United States,Texas,Brownsville,78521,Lot's O' Nuts,Found,4,4,1583.75,1583.75,1583.75
+United States,Texas,Round Rock,78664,Wicked Choccy's,Found,2,2,1582.14,1582.14,1582.14
+United States,Texas,Houston,77036,Lot's O' Nuts,Found,35,30,1580.7,1580.7,1580.7
+United States,Oregon,Eugene,97405,Lot's O' Nuts,Found,4,3,1580.17,1580.17,1580.17
+United States,Oregon,Springfield,97477,Lot's O' Nuts,Found,26,18,1579.41,1579.41,1579.41
+United States,Wisconsin,La Crosse,54601,Wicked Choccy's,Found,3,3,1574.6,1574.6,1574.6
+United States,New Hampshire,Concord,3301,Secret Factory,Found,1,1,1573.0,1573.0,1573.0
+United States,New Mexico,Albuquerque,87105,Secret Factory,Found,2,2,1569.03,1569.03,1569.03
+United States,Texas,Conroe,77301,Lot's O' Nuts,Found,1,1,1568.89,1568.89,1568.89
+United States,Idaho,Lewiston,83501,Lot's O' Nuts,Found,1,1,1566.24,1566.24,1566.24
+United States,Montana,Missoula,59801,Lot's O' Nuts,Found,1,1,1565.1,1565.1,1565.1
+United States,Texas,El Paso,79907,The Other Factory,Found,1,1,1562.82,1562.82,1562.82
+United States,Oklahoma,Oklahoma City,73120,Wicked Choccy's,Found,7,5,1562.68,1562.68,1562.68
+United States,Texas,Huntsville,77340,Lot's O' Nuts,Found,16,11,1551.1,1551.1,1551.1
+United States,Oklahoma,Norman,73071,Wicked Choccy's,Found,1,1,1549.04,1549.04,1549.04
+United States,Texas,Harlingen,78550,Lot's O' Nuts,Found,3,3,1548.69,1548.69,1548.69
+United States,Iowa,Urbandale,50322,Wicked Choccy's,Found,2,2,1545.02,1545.02,1545.02
+United States,Texas,Tyler,75701,Lot's O' Nuts,Found,3,3,1542.76,1542.76,1542.76
+United States,Oklahoma,Muskogee,74403,Lot's O' Nuts,Found,1,1,1540.36,1540.36,1540.36
+United States,Vermont,Burlington,5401,Wicked Choccy's,Found,5,5,1538.88,1538.88,1538.88
+United States,New York,New York City,10035,The Other Factory,Review,3,3,1538.18,1538.18,1538.18
+United States,New York,New York City,10024,The Other Factory,Found,6,5,1534.57,1534.57,1534.57
+United States,Kansas,Manhattan,66502,Lot's O' Nuts,Found,1,1,1533.03,1533.03,1533.03
+United States,New York,New York City,10009,The Other Factory,Found,3,3,1531.96,1531.96,1531.96
+United States,Iowa,Des Moines,50315,Wicked Choccy's,Found,7,6,1531.25,1531.25,1531.25
+United States,New York,New York City,10011,The Other Factory,Found,1,1,1531.03,1531.03,1531.03
+United States,Texas,Fort Worth,76106,Wicked Choccy's,Found,10,9,1526.86,1526.86,1526.86
+United States,New Hampshire,Dover,3820,Wicked Choccy's,Found,5,5,1526.6,1526.6,1526.6
+United States,Montana,Helena,59601,Lot's O' Nuts,Found,2,2,1524.63,1524.63,1524.63
+United States,Iowa,Waterloo,50701,Wicked Choccy's,Found,1,1,1524.22,1524.22,1524.22
+United States,Texas,Waco,76706,Wicked Choccy's,Found,2,2,1515.16,1515.16,1515.16
+United States,Texas,Arlington,76017,Wicked Choccy's,Found,11,7,1509.5,1509.5,1509.5
+United States,Texas,Pharr,78577,Lot's O' Nuts,Found,4,3,1508.27,1508.27,1508.27
+United States,Texas,Bedford,76021,Wicked Choccy's,Found,3,2,1506.27,1506.27,1506.27
+United States,Oregon,Redmond,97756,Lot's O' Nuts,Found,6,5,1506.23,1506.23,1506.23
+United States,Wisconsin,Green Bay,54302,Wicked Choccy's,Found,2,2,1505.67,1505.67,1505.67
+United States,Texas,Edinburg,78539,Lot's O' Nuts,Found,2,2,1503.67,1503.67,1503.67
+United States,Oklahoma,Broken Arrow,74012,Lot's O' Nuts,Found,3,3,1502.97,1502.97,1502.97
+United States,Texas,Mcallen,78501,Lot's O' Nuts,Found,10,6,1501.85,1501.85,1501.85
+United States,Oklahoma,Tulsa,74133,Lot's O' Nuts,Found,17,13,1496.47,1496.47,1496.47
+United States,Texas,Grand Prairie,75051,Wicked Choccy's,Found,7,4,1495.03,1495.03,1495.03
+United States,Wisconsin,Appleton,54915,Wicked Choccy's,Found,2,2,1494.12,1494.12,1494.12
+United States,New Hampshire,Concord,3301,Wicked Choccy's,Found,5,4,1494.09,1494.09,1494.09
+United States,New Jersey,Plainfield,7060,The Other Factory,Found,1,1,1492.95,1492.95,1492.95
+United States,Texas,Coppell,75019,Wicked Choccy's,Found,1,1,1492.84,1492.84,1492.84
+United States,New Jersey,Lakewood,8701,The Other Factory,Found,2,2,1491.58,1491.58,1491.58
+United States,Texas,Irving,75061,Wicked Choccy's,Found,2,2,1490.53,1490.53,1490.53
+United States,Texas,Corpus Christi,78415,Lot's O' Nuts,Found,3,3,1490.38,1490.38,1490.38
+United States,Texas,Carrollton,75007,Wicked Choccy's,Found,6,5,1484.19,1484.19,1484.19
+United States,Texas,The Colony,75056,Wicked Choccy's,Found,1,1,1482.78,1482.78,1482.78
+United States,Texas,Dallas,75220,Wicked Choccy's,Found,28,23,1481.75,1481.75,1481.75
+United States,Florida,Jacksonville,32216,Secret Factory,Found,1,1,1479.87,1479.87,1479.87
+United States,Texas,College Station,77840,Lot's O' Nuts,Found,1,1,1478.58,1478.58,1478.58
+United States,Texas,Bryan,77803,Lot's O' Nuts,Found,4,3,1473.84,1473.84,1473.84
+United States,Massachusetts,Beverly,1915,Wicked Choccy's,Found,1,1,1471.2,1471.2,1471.2
+United States,Texas,Plano,75023,Wicked Choccy's,Found,8,6,1469.93,1469.93,1469.93
+United States,Texas,Richardson,75080,Wicked Choccy's,Found,1,1,1469.53,1469.53,1469.53
+United States,Massachusetts,Lawrence,1841,Wicked Choccy's,Found,15,9,1469.5,1469.5,1469.5
+United States,Texas,Dallas,75081,Wicked Choccy's,Found,17,14,1467.01,1467.01,1467.01
+United States,Massachusetts,Andover,1810,Wicked Choccy's,Found,1,1,1466.4,1466.4,1466.4
+United States,Texas,Dallas,75217,Wicked Choccy's,Found,27,21,1464.75,1464.75,1464.75
+United States,Texas,Allen,75002,Wicked Choccy's,Retry_Found,3,3,1462.96,1462.96,1462.96
+United States,Connecticut,Milford,6460,Secret Factory,Found,1,1,1459.55,1459.55,1459.55
+United States,Texas,Mesquite,75150,Wicked Choccy's,Found,1,1,1458.99,1458.99,1458.99
+United States,New Hampshire,Nashua,3060,Wicked Choccy's,Found,1,1,1458.84,1458.84,1458.84
+United States,Texas,Bryan,77803,Wicked Choccy's,Found,2,2,1458.81,1458.81,1458.81
+United States,Texas,Garland,75043,Wicked Choccy's,Found,1,1,1456.99,1456.99,1456.99
+United States,Texas,College Station,77840,Wicked Choccy's,Found,2,2,1456.47,1456.47,1456.47
+United States,Massachusetts,Lowell,1852,Wicked Choccy's,Found,6,6,1456.3,1456.3,1456.3
+United States,Massachusetts,Revere,2151,Wicked Choccy's,Found,2,2,1452.21,1452.21,1452.21
+United States,Missouri,Gladstone,64118,Wicked Choccy's,Found,2,2,1452.04,1452.04,1452.04
+United States,Massachusetts,Malden,2148,Wicked Choccy's,Found,2,2,1450.73,1450.73,1450.73
+United States,Massachusetts,Everett,2149,Wicked Choccy's,Found,6,4,1449.95,1449.95,1449.95
+United States,Kansas,Olathe,66062,Wicked Choccy's,Found,2,1,1448.89,1448.89,1448.89
+United States,Vermont,Burlington,5401,Secret Factory,Found,1,1,1448.66,1448.66,1448.66
+United States,New York,Niagara Falls,14304,Sugar Shack,Found,1,1,1447.55,1447.55,1447.55
+United States,Kansas,Overland Park,66212,Wicked Choccy's,Found,3,3,1446.62,1446.62,1446.62
+United States,Iowa,Marion,52302,Wicked Choccy's,Found,2,1,1445.7,1445.7,1445.7
+United States,Massachusetts,Cambridge,2138,Wicked Choccy's,Found,3,3,1443.66,1443.66,1443.66
+Canada,Quebec,Montreal,H1A,Secret Factory,Found,2,2,1440.42,1440.42,1440.42
+United States,Massachusetts,Quincy,2169,Wicked Choccy's,Found,3,3,1439.49,1439.49,1439.49
+United States,Iowa,Dubuque,52001,Wicked Choccy's,Found,1,1,1435.12,1435.12,1435.12
+United States,Oregon,Medford,97504,Lot's O' Nuts,Found,3,3,1431.66,1431.66,1431.66
+United States,Oklahoma,Tulsa,74133,Wicked Choccy's,Found,9,8,1430.12,1430.12,1430.12
+United States,Missouri,Independence,64055,Wicked Choccy's,Found,1,1,1429.97,1429.97,1429.97
+United States,Montana,Bozeman,59715,Lot's O' Nuts,Found,2,2,1424.94,1424.94,1424.94
+United States,Oklahoma,Broken Arrow,74012,Wicked Choccy's,Found,2,2,1424.26,1424.26,1424.26
+United States,Wisconsin,Madison,53711,Wicked Choccy's,Found,3,3,1423.12,1423.12,1423.12
+United States,Massachusetts,Leominster,1453,Wicked Choccy's,Found,3,2,1423.1,1423.1,1423.1
+United States,Colorado,Denver,80219,The Other Factory,Found,2,2,1422.41,1422.41,1422.41
+United States,New York,Hempstead,11550,Secret Factory,Found,1,1,1420.75,1420.75,1420.75
+United States,Wisconsin,Sheboygan,53081,Wicked Choccy's,Found,2,2,1420.37,1420.37,1420.37
+United States,New York,Long Beach,11561,Secret Factory,Found,1,1,1418.73,1418.73,1418.73
+United States,Massachusetts,Marlborough,1752,Wicked Choccy's,Review,1,1,1418.3,1418.3,1418.3
+United States,Pennsylvania,Philadelphia,19120,The Other Factory,Found,2,2,1415.77,1415.77,1415.77
+United States,Pennsylvania,Philadelphia,19134,The Other Factory,Found,3,3,1415.41,1415.41,1415.41
+United States,Texas,Garland,75043,Lot's O' Nuts,Found,3,2,1414.97,1414.97,1414.97
+United States,Texas,Mesquite,75150,Lot's O' Nuts,Found,4,3,1413.35,1413.35,1413.35
+United States,Pennsylvania,Philadelphia,19140,The Other Factory,Found,1,1,1413.13,1413.13,1413.13
+United States,Texas,Dallas,75217,Lot's O' Nuts,Found,25,25,1408.65,1408.65,1408.65
+United States,Texas,Austin,78745,Secret Factory,Found,1,1,1407.87,1407.87,1407.87
+United States,Texas,Allen,75002,Lot's O' Nuts,Retry_Found,1,1,1407.05,1407.05,1407.05
+United States,Pennsylvania,Philadelphia,19143,The Other Factory,Found,1,1,1404.62,1404.62,1404.62
+United States,Texas,Dallas,75081,Lot's O' Nuts,Found,31,24,1404.1,1404.1,1404.1
+United States,Massachusetts,Franklin,2038,Wicked Choccy's,Found,9,7,1404.07,1404.07,1404.07
+United States,Kansas,Wichita,67212,Lot's O' Nuts,Found,6,6,1403.98,1403.98,1403.98
+United States,Texas,Houston,77036,Wicked Choccy's,Found,26,21,1402.36,1402.36,1402.36
+United States,Texas,Richardson,75080,Lot's O' Nuts,Found,1,1,1401.37,1401.37,1401.37
+United States,Texas,Plano,75023,Lot's O' Nuts,Found,6,6,1400.36,1400.36,1400.36
+United States,New York,Watertown,13601,Wicked Choccy's,Found,5,5,1398.1,1398.1,1398.1
+United States,New York,Yonkers,10701,Secret Factory,Found,1,1,1394.91,1394.91,1394.91
+United States,Massachusetts,New Bedford,2740,Wicked Choccy's,Found,2,2,1392.97,1392.97,1392.97
+United States,New York,New York City,10035,Secret Factory,Review,6,6,1392.56,1392.56,1392.56
+United States,Texas,Frisco,75034,Lot's O' Nuts,Found,1,1,1391.44,1391.44,1391.44
+United States,Rhode Island,Woonsocket,2895,Wicked Choccy's,Found,1,1,1391.01,1391.01,1391.01
+United States,New York,New York City,10009,Secret Factory,Found,4,4,1390.13,1390.13,1390.13
+United States,Texas,Dallas,75220,Lot's O' Nuts,Found,26,19,1390.1,1390.1,1390.1
+United States,New York,New York City,10024,Secret Factory,Found,5,4,1389.56,1389.56,1389.56
+United States,New York,New York City,10011,Secret Factory,Found,4,4,1388.33,1388.33,1388.33
+United States,Texas,The Colony,75056,Lot's O' Nuts,Found,2,1,1387.37,1387.37,1387.37
+United States,Texas,Carrollton,75007,Lot's O' Nuts,Found,9,7,1386.49,1386.49,1386.49
+United States,Texas,Cedar Hill,75104,Lot's O' Nuts,Found,2,2,1385.61,1385.61,1385.61
+United States,Texas,Waco,76706,Lot's O' Nuts,Found,4,4,1385.24,1385.24,1385.24
+United States,Texas,Houston,77041,Wicked Choccy's,Review,48,39,1385.22,1385.22,1385.22
+United States,Texas,Houston,77095,Wicked Choccy's,Review,41,36,1385.22,1385.22,1385.22
+United States,Texas,Houston,77070,Wicked Choccy's,Review,34,30,1384.68,1384.68,1384.68
+United States,Texas,Irving,75061,Lot's O' Nuts,Found,6,6,1381.75,1381.75,1381.75
+United States,Rhode Island,Providence,2908,Wicked Choccy's,Found,14,11,1381.54,1381.54,1381.54
+United States,Texas,Pearland,77581,Wicked Choccy's,Found,1,1,1381.27,1381.27,1381.27
+United States,Texas,Houston,77036,Secret Factory,Found,3,3,1380.27,1380.27,1380.27
+United States,Texas,Huntsville,77340,Wicked Choccy's,Found,10,9,1379.11,1379.11,1379.11
+United States,Texas,Grand Prairie,75051,Lot's O' Nuts,Found,6,6,1378.43,1378.43,1378.43
+United States,Texas,Coppell,75019,Lot's O' Nuts,Found,3,3,1378.08,1378.08,1378.08
+United States,Florida,Hollywood,33021,The Other Factory,Found,1,1,1376.84,1376.84,1376.84
+United States,Rhode Island,Cranston,2920,Wicked Choccy's,Found,4,4,1376.53,1376.53,1376.53
+United States,Oklahoma,Muskogee,74403,Wicked Choccy's,Found,3,3,1375.26,1375.26,1375.26
+United States,Rhode Island,Warwick,2886,Wicked Choccy's,Review,2,2,1372.87,1372.87,1372.87
+United States,Texas,Pasadena,77506,Wicked Choccy's,Found,6,5,1371.37,1371.37,1371.37
+United States,New Jersey,Paterson,7501,Secret Factory,Found,1,1,1371.17,1371.17,1371.17
+United States,Texas,Pasadena,77506,Secret Factory,Found,3,3,1370.92,1370.92,1370.92
+United States,Texas,Houston,77041,Secret Factory,Review,3,3,1369.57,1369.57,1369.57
+United States,Texas,Houston,77095,Secret Factory,Review,2,2,1369.57,1369.57,1369.57
+United States,Texas,Grapevine,76051,Lot's O' Nuts,Found,2,2,1369.41,1369.41,1369.41
+United States,Texas,Mansfield,76063,Lot's O' Nuts,Found,2,2,1368.99,1368.99,1368.99
+United States,Wisconsin,Milwaukee,53209,Wicked Choccy's,Found,18,17,1367.33,1367.33,1367.33
+United States,North Carolina,Jacksonville,28540,Secret Factory,Found,1,1,1367.02,1367.02,1367.02
+United States,Texas,Bedford,76021,Lot's O' Nuts,Found,2,1,1365.79,1365.79,1365.79
+United States,Texas,Arlington,76017,Lot's O' Nuts,Found,16,14,1364.78,1364.78,1364.78
+United States,Illinois,Freeport,61032,Wicked Choccy's,Found,1,1,1364.17,1364.17,1364.17
+United States,Ohio,Cleveland,44105,Sugar Shack,Found,1,1,1363.37,1363.37,1363.37
+United States,Texas,Round Rock,78664,Lot's O' Nuts,Found,5,5,1361.06,1361.06,1361.06
+United States,Wisconsin,West Allis,53214,Wicked Choccy's,Found,1,1,1360.19,1360.19,1360.19
+United States,Texas,La Porte,77571,Wicked Choccy's,Found,1,1,1359.45,1359.45,1359.45
+United States,Texas,Austin,78745,Lot's O' Nuts,Found,22,20,1356.21,1356.21,1356.21
+United States,Texas,Texas City,77590,Wicked Choccy's,Found,1,1,1354.91,1354.91,1354.91
+United States,Texas,Keller,76248,Lot's O' Nuts,Found,1,1,1354.54,1354.54,1354.54
+United States,Delaware,Newark,19711,The Other Factory,Found,2,2,1353.86,1353.86,1353.86
+United States,Texas,Haltom City,76117,Lot's O' Nuts,Found,4,4,1352.85,1352.85,1352.85
+United States,New York,Troy,12180,Wicked Choccy's,Found,5,2,1352.71,1352.71,1352.71
+United States,Texas,San Marcos,78666,Lot's O' Nuts,Found,3,1,1352.51,1352.51,1352.51
+United States,Oklahoma,Edmond,73034,Lot's O' Nuts,Found,2,2,1350.55,1350.55,1350.55
+United States,Wisconsin,Franklin,53132,Wicked Choccy's,Found,4,4,1348.02,1348.02,1348.02
+United States,Oklahoma,Norman,73071,Lot's O' Nuts,Found,1,1,1346.65,1346.65,1346.65
+United States,Texas,Baytown,77520,Wicked Choccy's,Found,1,1,1346.54,1346.54,1346.54
+United States,Texas,Fort Worth,76106,Lot's O' Nuts,Found,17,15,1345.8,1345.8,1345.8
+United States,Florida,Tallahassee,32303,Secret Factory,Found,1,1,1343.45,1343.45,1343.45
+United States,Oklahoma,Oklahoma City,73120,Lot's O' Nuts,Found,16,13,1340.96,1340.96,1340.96
+United States,Texas,Tyler,75701,Wicked Choccy's,Found,2,2,1336.1,1336.1,1336.1
+United States,New York,Rome,13440,Wicked Choccy's,Found,2,2,1334.27,1334.27,1334.27
+United States,Illinois,Rockford,61107,Wicked Choccy's,Found,6,5,1333.41,1333.41,1333.41
+United States,New York,Utica,13501,Wicked Choccy's,Found,3,2,1327.6,1327.6,1327.6
+United States,Iowa,Burlington,52601,Wicked Choccy's,Found,1,1,1320.97,1320.97,1320.97
+United States,Connecticut,Norwich,6360,Wicked Choccy's,Found,2,2,1320.33,1320.33,1320.33
+United States,Texas,Laredo,78041,Lot's O' Nuts,Found,9,6,1319.42,1319.42,1319.42
+United States,Connecticut,Manchester,6040,Wicked Choccy's,Found,5,4,1319.31,1319.31,1319.31
+United States,Texas,San Antonio,78207,Lot's O' Nuts,Found,35,26,1316.6,1316.6,1316.6
+United States,New Jersey,Westfield,7090,Secret Factory,Review,1,1,1316.38,1316.38,1316.38
+United States,Michigan,Midland,48640,Wicked Choccy's,Found,5,4,1313.07,1313.07,1313.07
+United States,Wisconsin,Kenosha,53142,Wicked Choccy's,Found,3,2,1311.84,1311.84,1311.84
+United States,Pennsylvania,Philadelphia,19134,Secret Factory,Found,4,4,1310.67,1310.67,1310.67
+United States,Illinois,Woodstock,60098,Wicked Choccy's,Found,1,1,1310.49,1310.49,1310.49
+United States,Pennsylvania,Philadelphia,19120,Secret Factory,Found,4,4,1308.94,1308.94,1308.94
+United States,Pennsylvania,Philadelphia,19140,Secret Factory,Found,5,5,1307.35,1307.35,1307.35
+Canada,Ontario,Toronto,M3C,Wicked Choccy's,Found_Canada_FSA,14,5,1304.11,1304.11,1304.11
+United States,Pennsylvania,Philadelphia,19143,Secret Factory,Found,5,5,1302.44,1302.44,1302.44
+Canada,Ontario,Toronto,M7A,Wicked Choccy's,Found,12,8,1295.92,1295.92,1295.92
+Canada,Ontario,Toronto,M5H,Wicked Choccy's,Found_Canada_FSA,4,4,1295.4,1295.4,1295.4
+United States,Connecticut,Middletown,6457,Wicked Choccy's,Found,5,5,1293.4,1293.4,1293.4
+United States,Pennsylvania,Chester,19013,Secret Factory,Found,1,1,1292.32,1292.32,1292.32
+United States,Arkansas,Springdale,72762,Wicked Choccy's,Found,1,1,1288.43,1288.43,1288.43
+United States,Connecticut,Bristol,6010,Wicked Choccy's,Found,2,2,1288.27,1288.27,1288.27
+United States,Michigan,Saginaw,48601,Wicked Choccy's,Found,1,1,1286.52,1286.52,1286.52
+United States,Connecticut,Meriden,6450,Wicked Choccy's,Found,3,3,1283.54,1283.54,1283.54
+United States,Arkansas,Fayetteville,72701,Wicked Choccy's,Found,4,4,1279.44,1279.44,1279.44
+United States,Michigan,Grand Rapids,49505,Wicked Choccy's,Found,2,2,1278.24,1278.24,1278.24
+United States,Illinois,Buffalo Grove,60089,Wicked Choccy's,Retry_Found,1,1,1274.45,1274.45,1274.45
+United States,Illinois,Palatine,60067,Wicked Choccy's,Found,1,1,1273.84,1273.84,1273.84
+United States,Connecticut,Waterbury,6708,Wicked Choccy's,Found,2,2,1272.84,1272.84,1272.84
+United States,Missouri,Columbia,65203,Wicked Choccy's,Found,5,3,1272.53,1272.53,1272.53
+United States,New York,Rochester,14609,Wicked Choccy's,Found,16,14,1272.11,1272.11,1272.11
+United States,Idaho,Caldwell,83605,Lot's O' Nuts,Found,1,1,1272.06,1272.06,1272.06
+United States,Illinois,Wheeling,60090,Wicked Choccy's,Found,2,2,1271.4,1271.4,1271.4
+United States,Illinois,Quincy,62301,Wicked Choccy's,Found,3,3,1270.61,1270.61,1270.61
+United States,New York,Auburn,13021,Wicked Choccy's,Found,9,3,1270.41,1270.41,1270.41
+United States,Illinois,Highland Park,60035,Wicked Choccy's,Found,6,4,1270.38,1270.38,1270.38
+United States,Michigan,Holland,49423,Wicked Choccy's,Found,1,1,1268.55,1268.55,1268.55
+United States,Delaware,Newark,19711,Secret Factory,Found,1,1,1265.34,1265.34,1265.34
+United States,Texas,Beaumont,77705,Wicked Choccy's,Found,2,2,1265.08,1265.08,1265.08
+United States,Illinois,Des Plaines,60016,Wicked Choccy's,Found,2,2,1261.26,1261.26,1261.26
+United States,Illinois,Carol Stream,60188,Wicked Choccy's,Found,2,2,1259.66,1259.66,1259.66
+United States,Idaho,Boise,83704,Lot's O' Nuts,Found,4,3,1257.59,1257.59,1257.59
+United States,Louisiana,Lafayette,70506,Secret Factory,Found,1,1,1257.09,1257.09,1257.09
+United States,Idaho,Meridian,83642,Lot's O' Nuts,Found,3,2,1256.45,1256.45,1256.45
+United States,Illinois,Evanston,60201,Wicked Choccy's,Found,2,1,1254.34,1254.34,1254.34
+United States,Illinois,Skokie,60076,Wicked Choccy's,Found,5,5,1253.6,1253.6,1253.6
+United States,Illinois,Aurora,60505,Wicked Choccy's,Found,15,14,1252.01,1252.01,1252.01
+United States,Illinois,Saint Charles,60174,Wicked Choccy's,Review,1,1,1251.49,1251.49,1251.49
+United States,Missouri,Springfield,65807,Wicked Choccy's,Found,17,15,1251.17,1251.17,1251.17
+United States,Connecticut,Shelton,6484,Wicked Choccy's,Review,1,1,1249.24,1249.24,1249.24
+United States,Illinois,Elmhurst,60126,Wicked Choccy's,Found,1,1,1249.19,1249.19,1249.19
+United States,Illinois,Naperville,60540,Wicked Choccy's,Found,3,3,1246.53,1246.53,1246.53
+United States,Oklahoma,Lawton,73505,Lot's O' Nuts,Found,1,1,1244.29,1244.29,1244.29
+United States,Colorado,Pueblo,81001,Secret Factory,Found,1,1,1243.29,1243.29,1243.29
+United States,Connecticut,Milford,6460,Wicked Choccy's,Found,1,1,1242.75,1242.75,1242.75
+United States,New York,Niagara Falls,14304,Wicked Choccy's,Found,1,1,1238.94,1238.94,1238.94
+United States,Colorado,Louisville,80027,Secret Factory,Found,1,1,1238.85,1238.85,1238.85
+United States,Connecticut,Danbury,6810,Wicked Choccy's,Found,1,1,1238.36,1238.36,1238.36
+United States,Illinois,Chicago,60610,Wicked Choccy's,Found,44,36,1236.95,1236.95,1236.95
+United States,Illinois,Bolingbrook,60440,Wicked Choccy's,Found,5,3,1236.75,1236.75,1236.75
+United States,Colorado,Denver,80219,Secret Factory,Found,4,4,1236.09,1236.09,1236.09
+United States,Illinois,Chicago,60623,Wicked Choccy's,Found,55,52,1235.09,1235.09,1235.09
+United States,North Carolina,Fayetteville,28314,Secret Factory,Found,1,1,1232.56,1232.56,1232.56
+United States,Maryland,Clinton,20735,The Other Factory,Found,1,1,1229.22,1229.22,1229.22
+United States,Illinois,Chicago,60653,Wicked Choccy's,Found,38,31,1227.69,1227.69,1227.69
+United States,Virginia,Newport News,23602,The Other Factory,Found,1,1,1227.52,1227.52,1227.52
+United States,Illinois,Peoria,61604,Wicked Choccy's,Found,3,2,1226.13,1226.13,1226.13
+United States,Ohio,Toledo,43615,Sugar Shack,Found,1,1,1225.95,1225.95,1225.95
+United States,Colorado,Loveland,80538,Secret Factory,Found,1,1,1225.45,1225.45,1225.45
+United States,Connecticut,Fairfield,6824,Wicked Choccy's,Review,9,9,1225.09,1225.09,1225.09
+United States,New York,Buffalo,14215,Wicked Choccy's,Found,3,2,1223.78,1223.78,1223.78
+United States,Illinois,Orland Park,60462,Wicked Choccy's,Found,1,1,1218.07,1218.07,1218.07
+United States,Michigan,Lansing,48911,Wicked Choccy's,Found,3,2,1217.74,1217.74,1217.74
+United States,Arkansas,Texarkana,71854,Wicked Choccy's,Found,1,1,1217.69,1217.69,1217.69
+United States,Alabama,Mobile,36608,Secret Factory,Found,1,1,1214.49,1214.49,1214.49
+United States,Virginia,Richmond,23223,Secret Factory,Found,1,1,1206.12,1206.12,1206.12
+United States,Virginia,Springfield,22153,The Other Factory,Review,3,3,1205.24,1205.24,1205.24
+United States,Indiana,Portage,46368,Wicked Choccy's,Found,1,1,1186.8,1186.8,1186.8
+United States,Maryland,Columbia,21044,Secret Factory,Found,2,2,1186.73,1186.73,1186.73
+United States,Louisiana,Bossier City,71111,Wicked Choccy's,Found,3,2,1186.01,1186.01,1186.01
+United States,New York,Lindenhurst,11757,Wicked Choccy's,Found,1,1,1179.56,1179.56,1179.56
+United States,Virginia,Arlington,22204,Secret Factory,Found,1,1,1179.26,1179.26,1179.26
+United States,New York,New Rochelle,10801,Wicked Choccy's,Found,7,5,1178.67,1178.67,1178.67
+United States,California,Chico,95928,Lot's O' Nuts,Found,7,5,1178.52,1178.52,1178.52
+United States,Michigan,Sterling Heights,48310,Wicked Choccy's,Found,1,1,1178.19,1178.19,1178.19
+United States,Virginia,Springfield,22153,Secret Factory,Review,3,3,1177.82,1177.82,1177.82
+United States,South Carolina,Columbia,29203,Secret Factory,Found,1,1,1176.71,1176.71,1176.71
+United States,New York,Yonkers,10701,Wicked Choccy's,Found,6,4,1176.69,1176.69,1176.69
+United States,New York,Mount Vernon,10550,Wicked Choccy's,Found,3,2,1175.6,1175.6,1175.6
+United States,Michigan,Royal Oak,48073,Wicked Choccy's,Found,1,1,1175.53,1175.53,1175.53
+United States,Indiana,La Porte,46350,Wicked Choccy's,Found,2,2,1172.08,1172.08,1172.08
+United States,Illinois,Bloomington,61701,Wicked Choccy's,Found,3,3,1171.58,1171.58,1171.58
+United States,Michigan,Roseville,48066,Wicked Choccy's,Found,4,4,1170.97,1170.97,1170.97
+United States,Louisiana,Lake Charles,70601,Wicked Choccy's,Found,2,2,1170.66,1170.66,1170.66
+United States,Michigan,Oak Park,48237,Wicked Choccy's,Found,1,1,1170.64,1170.64,1170.64
+United States,New York,Hempstead,11550,Wicked Choccy's,Found,5,5,1168.28,1168.28,1168.28
+United States,Michigan,Jackson,49201,Wicked Choccy's,Found,15,13,1165.6,1165.6,1165.6
+United States,New York,Freeport,11520,Wicked Choccy's,Found,2,2,1165.4,1165.4,1165.4
+United States,Michigan,Detroit,48234,Wicked Choccy's,Found,13,11,1164.52,1164.52,1164.52
+United States,New York,Auburn,13021,Secret Factory,Found,1,1,1164.16,1164.16,1164.16
+United States,New Jersey,Hackensack,7601,Wicked Choccy's,Found,1,1,1163.88,1163.88,1163.88
+United States,Michigan,Detroit,48205,Wicked Choccy's,Found,11,8,1163.62,1163.62,1163.62
+United States,Maryland,Gaithersburg,20877,Secret Factory,Found,1,1,1162.37,1162.37,1162.37
+United States,New York,Oceanside,11572,Wicked Choccy's,Found,11,8,1161.5,1161.5,1161.5
+United States,Michigan,Detroit,48227,Wicked Choccy's,Found,24,18,1161.4,1161.4,1161.4
+United States,New York,New York City,10035,Wicked Choccy's,Review,94,77,1161.09,1161.09,1161.09
+United States,New Jersey,Paterson,7501,Wicked Choccy's,Found,11,8,1160.36,1160.36,1160.36
+United States,Michigan,Canton,48187,Wicked Choccy's,Found,1,1,1159.42,1159.42,1159.42
+United States,Michigan,Westland,48185,Wicked Choccy's,Found,6,5,1158.18,1158.18,1158.18
+United States,New York,New York City,10024,Wicked Choccy's,Found,82,67,1157.88,1157.88,1157.88
+United States,Indiana,Mishawaka,46544,Wicked Choccy's,Found,1,1,1157.5,1157.5,1157.5
+United States,Indiana,South Bend,46614,Wicked Choccy's,Found,3,2,1156.99,1156.99,1156.99
+United States,Michigan,Dearborn Heights,48127,Wicked Choccy's,Found,2,2,1156.94,1156.94,1156.94
+United States,New Jersey,Passaic,7055,Wicked Choccy's,Found,3,2,1156.9,1156.9,1156.9
+United States,Michigan,Ann Arbor,48104,Wicked Choccy's,Found,2,2,1156.79,1156.79,1156.79
+United States,New York,Long Beach,11561,Wicked Choccy's,Found,15,14,1155.65,1155.65,1155.65
+United States,Michigan,Dearborn,48126,Wicked Choccy's,Found,1,1,1154.67,1154.67,1154.67
+United States,New York,New York City,10011,Wicked Choccy's,Found,76,62,1152.62,1152.62,1152.62
+United States,New York,New York City,10009,Wicked Choccy's,Found,90,75,1152.16,1152.16,1152.16
+United States,New Jersey,Belleville,7109,Wicked Choccy's,Found,5,4,1150.12,1150.12,1150.12
+United States,Michigan,Lincoln Park,48146,Wicked Choccy's,Found,1,1,1145.19,1145.19,1145.19
+United States,New Jersey,Orange,7050,Wicked Choccy's,Found,3,3,1144.38,1144.38,1144.38
+United States,New Jersey,East Orange,7017,Wicked Choccy's,Found,4,3,1144.31,1144.31,1144.31
+United States,Arkansas,Hot Springs,71901,Wicked Choccy's,Found,1,1,1140.62,1140.62,1140.62
+United States,New Jersey,Bayonne,7002,Wicked Choccy's,Found,2,1,1140.47,1140.47,1140.47
+United States,Kansas,Garden City,67846,Lot's O' Nuts,Found,2,2,1140.29,1140.29,1140.29
+United States,Missouri,Saint Peters,63376,Wicked Choccy's,Found,1,1,1139.73,1139.73,1139.73
+United States,Texas,Arlington,76017,Secret Factory,Found,1,1,1137.78,1137.78,1137.78
+United States,New Jersey,Morristown,7960,Wicked Choccy's,Found,1,1,1134.82,1134.82,1134.82
+United States,Michigan,Trenton,48183,Wicked Choccy's,Found,5,4,1134.74,1134.74,1134.74
+United States,Missouri,Saint Charles,63301,Wicked Choccy's,Found,1,1,1133.96,1133.96,1133.96
+United States,Michigan,Jackson,49201,Sugar Shack,Found,2,2,1132.64,1132.64,1132.64
+United States,North Carolina,Burlington,27217,Secret Factory,Found,1,1,1132.03,1132.03,1132.03
+United States,New Jersey,Plainfield,7060,Wicked Choccy's,Found,3,3,1121.22,1121.22,1121.22
+United States,New Jersey,Perth Amboy,8861,Wicked Choccy's,Found,6,5,1118.65,1118.65,1118.65
+United States,Georgia,Columbus,31907,Secret Factory,Found,6,5,1115.79,1115.79,1115.79
+United States,Idaho,Pocatello,83201,Lot's O' Nuts,Found,4,4,1113.17,1113.17,1113.17
+United States,Illinois,Decatur,62521,Wicked Choccy's,Found,9,8,1112.79,1112.79,1112.79
+United States,Missouri,Kirkwood,63122,Wicked Choccy's,Found,1,1,1112.01,1112.01,1112.01
+United States,California,San Francisco,94122,Lot's O' Nuts,Found,114,97,1111.38,1111.38,1111.38
+United States,Texas,Dallas,75217,Secret Factory,Found,1,1,1110.94,1110.94,1110.94
+United States,California,Woodland,95695,Lot's O' Nuts,Review,1,1,1110.7,1110.7,1110.7
+United States,California,Vallejo,94591,Lot's O' Nuts,Found,5,5,1109.54,1109.54,1109.54
+United States,California,San Francisco,94109,Lot's O' Nuts,Found,69,62,1108.84,1108.84,1108.84
+United States,North Carolina,Greensboro,27405,Secret Factory,Found,1,1,1108.28,1108.28,1108.28
+United States,Wyoming,Cheyenne,82001,Lot's O' Nuts,Found,1,1,1107.51,1107.51,1107.51
+United States,California,San Francisco,94110,Lot's O' Nuts,Found,101,83,1106.63,1106.63,1106.63
+United States,California,Fairfield,94533,Lot's O' Nuts,Found,5,2,1102.73,1102.73,1102.73
+United States,Idaho,Twin Falls,83301,Lot's O' Nuts,Found,1,1,1102.21,1102.21,1102.21
+United States,Missouri,Saint Louis,63116,Wicked Choccy's,Found,1,1,1101.67,1101.67,1101.67
+United States,Florida,Lakeland,33801,The Other Factory,Found,1,1,1093.16,1093.16,1093.16
+United States,California,Oakland,94601,Lot's O' Nuts,Found,16,12,1092.39,1092.39,1092.39
+United States,California,San Mateo,94403,Lot's O' Nuts,Found,1,1,1086.84,1086.84,1086.84
+United States,Ohio,Toledo,43615,Wicked Choccy's,Found,14,12,1086.81,1086.81,1086.81
+United States,Alabama,Montgomery,36116,Secret Factory,Found,2,2,1085.76,1085.76,1085.76
+United States,New York,Rochester,14609,Secret Factory,Found,1,1,1085.19,1085.19,1085.19
+United States,Arkansas,Little Rock,72209,Wicked Choccy's,Found,12,7,1084.37,1084.37,1084.37
+United States,New Jersey,Lakewood,8701,Wicked Choccy's,Found,11,9,1083.78,1083.78,1083.78
+United States,California,Concord,94521,Lot's O' Nuts,Found,5,5,1083.44,1083.44,1083.44
+United States,Pennsylvania,Bethlehem,18018,Wicked Choccy's,Found,2,1,1078.03,1078.03,1078.03
+United States,Texas,San Angelo,76903,Lot's O' Nuts,Found,2,2,1077.46,1077.46,1077.46
+United States,California,Danville,94526,Lot's O' Nuts,Found,2,2,1076.3,1076.3,1076.3
+United States,California,Roseville,95661,Lot's O' Nuts,Found,10,7,1074.21,1074.21,1074.21
+United States,California,Antioch,94509,Lot's O' Nuts,Found,1,1,1071.84,1071.84,1071.84
+United States,California,Citrus Heights,95610,Lot's O' Nuts,Found,1,1,1071.82,1071.82,1071.82
+United States,California,Sacramento,95823,Lot's O' Nuts,Found,6,5,1071.06,1071.06,1071.06
+United States,Pennsylvania,Allentown,18103,Wicked Choccy's,Found,3,1,1070.23,1070.23,1070.23
+United States,Ohio,Mentor,44060,Wicked Choccy's,Found,2,1,1068.68,1068.68,1068.68
+United States,Louisiana,Lafayette,70506,Wicked Choccy's,Found,5,5,1064.73,1064.73,1064.73
+United States,California,Brentwood,94513,Lot's O' Nuts,Found,9,7,1061.2,1061.2,1061.2
+United States,Indiana,Lafayette,47905,Wicked Choccy's,Found,6,6,1059.87,1059.87,1059.87
+United States,Ohio,Bowling Green,43402,Wicked Choccy's,Found,4,3,1058.83,1058.83,1058.83
+United States,California,Sunnyvale,94086,Lot's O' Nuts,Found,3,2,1056.95,1056.95,1056.95
+United States,California,Santa Clara,95051,Lot's O' Nuts,Found,3,3,1052.73,1052.73,1052.73
+United States,Michigan,Midland,48640,Sugar Shack,Found,1,1,1048.56,1048.56,1048.56
+United States,Ohio,Lorain,44052,Wicked Choccy's,Found,4,4,1047.79,1047.79,1047.79
+United States,Ohio,Lakewood,44107,Wicked Choccy's,Found,7,7,1047.7,1047.7,1047.7
+United States,Arkansas,Pine Bluff,71603,Wicked Choccy's,Found,1,1,1046.64,1046.64,1046.64
+United States,Colorado,Greeley,80634,Lot's O' Nuts,Found,2,2,1044.49,1044.49,1044.49
+United States,Ohio,Cleveland,44105,Wicked Choccy's,Found,18,15,1043.87,1043.87,1043.87
+United States,Colorado,Fort Collins,80525,Lot's O' Nuts,Found,6,5,1040.77,1040.77,1040.77
+United States,Ohio,Parma,44134,Wicked Choccy's,Found,1,1,1038.44,1038.44,1038.44
+United States,California,Lodi,95240,Lot's O' Nuts,Found,1,1,1037.6,1037.6,1037.6
+United States,Ohio,Elyria,44035,Wicked Choccy's,Found,1,1,1037.44,1037.44,1037.44
+United States,Louisiana,Monroe,71203,Wicked Choccy's,Review,5,5,1037.24,1037.24,1037.24
+United States,California,San Jose,95123,Lot's O' Nuts,Found,24,22,1035.21,1035.21,1035.21
+United States,Pennsylvania,Philadelphia,19120,Wicked Choccy's,Found,42,37,1033.61,1033.61,1033.61
+United States,New Jersey,Westfield,7090,Wicked Choccy's,Review,3,3,1031.36,1031.36,1031.36
+United States,Pennsylvania,Philadelphia,19134,Wicked Choccy's,Found,68,54,1030.77,1030.77,1030.77
+United States,Pennsylvania,Philadelphia,19140,Wicked Choccy's,Found,52,45,1030.67,1030.67,1030.67
+United States,Nevada,Sparks,89431,Lot's O' Nuts,Found,2,2,1029.67,1029.67,1029.67
+United States,Pennsylvania,Reading,19601,Wicked Choccy's,Found,2,2,1029.01,1029.01,1029.01
+United States,Colorado,Loveland,80538,Lot's O' Nuts,Found,2,2,1028.68,1028.68,1028.68
+United States,California,Stockton,95207,Lot's O' Nuts,Found,3,3,1028.64,1028.64,1028.64
+United States,Ohio,Hamilton,45011,Wicked Choccy's,Review,3,3,1028.05,1028.05,1028.05
+United States,Nevada,Reno,89502,Lot's O' Nuts,Found,3,2,1027.49,1027.49,1027.49
+United States,Florida,Palm Coast,32137,The Other Factory,Found,1,1,1026.06,1026.06,1026.06
+United States,Mississippi,Jackson,39212,Secret Factory,Found,1,1,1023.25,1023.25,1023.25
+United States,Pennsylvania,Philadelphia,19143,Wicked Choccy's,Found,46,39,1020.99,1020.99,1020.99
+United States,California,Manteca,95336,Lot's O' Nuts,Found,2,1,1018.8,1018.8,1018.8
+United States,California,Morgan Hill,95037,Lot's O' Nuts,Found,1,1,1017.32,1017.32,1017.32
+United States,Ohio,Cleveland,44105,The Other Factory,Found,1,1,1012.25,1012.25,1012.25
+United States,Ohio,Medina,44256,Wicked Choccy's,Found,5,4,1010.7,1010.7,1010.7
+United States,Ohio,Kent,44240,Wicked Choccy's,Found,2,2,1008.51,1008.51,1008.51
+United States,Georgia,Atlanta,30318,Secret Factory,Found,1,1,1007.17,1007.17,1007.17
+United States,Colorado,Longmont,80501,Lot's O' Nuts,Found,2,2,1005.9,1005.9,1005.9
+United States,Pennsylvania,Chester,19013,Wicked Choccy's,Found,5,4,1005.25,1005.25,1005.25
+United States,Louisiana,Monroe,71203,Secret Factory,Review,1,1,1003.95,1003.95,1003.95
+United States,Ohio,Akron,44312,Wicked Choccy's,Found,7,6,1002.25,1002.25,1002.25
+United States,California,Salinas,93905,Lot's O' Nuts,Found,5,5,993.24,993.24,993.24
+United States,California,Modesto,95351,Lot's O' Nuts,Found,1,1,990.72,990.72,990.72
+United States,New Jersey,Vineland,8360,Wicked Choccy's,Found,4,4,988.37,988.37,988.37
+United States,Indiana,Noblesville,46060,Wicked Choccy's,Found,1,1,987.82,987.82,987.82
+United States,Delaware,Wilmington,19805,Wicked Choccy's,Found,13,9,986.63,986.63,986.63
+United States,Colorado,Thornton,80229,Lot's O' Nuts,Found,3,2,985.15,985.15,985.15
+United States,Pennsylvania,Lancaster,17602,Wicked Choccy's,Found,2,2,984.96,984.96,984.96
+United States,Utah,Logan,84321,Lot's O' Nuts,Found,3,2,984.74,984.74,984.74
+United States,Colorado,Louisville,80027,Lot's O' Nuts,Found,12,9,984.41,984.41,984.41
+United States,Colorado,Commerce City,80022,Lot's O' Nuts,Review,1,1,983.1,983.1,983.1
+United States,Colorado,Aurora,80013,Lot's O' Nuts,Found,21,17,979.34,979.34,979.34
+United States,Arkansas,Jonesboro,72401,Wicked Choccy's,Found,7,6,978.63,978.63,978.63
+United States,Delaware,Newark,19711,Wicked Choccy's,Found,30,22,973.94,973.94,973.94
+United States,Colorado,Arvada,80004,Lot's O' Nuts,Found,3,2,973.76,973.76,973.76
+United States,New Jersey,Bridgeton,8302,Wicked Choccy's,Found,2,2,972.69,972.69,972.69
+United States,Illinois,Chicago,60653,Sugar Shack,Found,1,1,971.2,971.2,971.2
+United States,Indiana,Lawrence,46226,Wicked Choccy's,Found,3,3,970.39,970.39,970.39
+United States,Pennsylvania,Altoona,16602,Wicked Choccy's,Found,2,1,969.19,969.19,969.19
+United States,Colorado,Denver,80219,Lot's O' Nuts,Found,26,21,967.92,967.92,967.92
+United States,Colorado,Parker,80134,Lot's O' Nuts,Found,5,2,966.15,966.15,966.15
+United States,Indiana,Indianapolis,46203,Wicked Choccy's,Found,6,6,964.5,964.5,964.5
+United States,Ohio,Marion,43302,Wicked Choccy's,Found,8,6,963.09,963.09,963.09
+United States,Illinois,Chicago,60623,Sugar Shack,Found,1,1,962.8,962.8,962.8
+United States,Colorado,Littleton,80122,Lot's O' Nuts,Found,1,1,962.06,962.06,962.06
+United States,Pennsylvania,York,17403,Wicked Choccy's,Found,3,2,957.91,957.91,957.91
+United States,Indiana,New Castle,47362,Wicked Choccy's,Found,1,1,953.5,953.5,953.5
+United States,Indiana,Greenwood,46142,Wicked Choccy's,Review,2,1,952.1,952.1,952.1
+United States,Texas,San Marcos,78666,The Other Factory,Found,1,1,948.43,948.43,948.43
+United States,Texas,Amarillo,79109,Lot's O' Nuts,Found,6,5,946.66,946.66,946.66
+United States,Delaware,Dover,19901,Wicked Choccy's,Found,6,6,934.42,934.42,934.42
+United States,Ohio,Troy,45373,Wicked Choccy's,Found,5,5,928.47,928.47,928.47
+United States,Indiana,Richmond,47374,Wicked Choccy's,Found,15,8,927.24,927.24,927.24
+United States,Indiana,Bloomington,47401,Wicked Choccy's,Found,1,1,925.5,925.5,925.5
+United States,Texas,Lubbock,79424,Lot's O' Nuts,Found,3,2,917.94,917.94,917.94
+United States,Ohio,Toledo,43615,The Other Factory,Found,1,1,917.28,917.28,917.28
+United States,Texas,Austin,78745,The Other Factory,Found,1,1,912.64,912.64,912.64
+United States,Ohio,Dublin,43017,Wicked Choccy's,Found,3,2,910.46,910.46,910.46
+United States,Ohio,Springfield,45503,Wicked Choccy's,Found,14,12,908.52,908.52,908.52
+United States,Colorado,Colorado Springs,80906,Lot's O' Nuts,Found,15,12,906.78,906.78,906.78
+United States,Ohio,Columbus,43229,Wicked Choccy's,Found,48,38,905.22,905.22,905.22
+United States,Indiana,Columbus,47201,Wicked Choccy's,Found,12,11,904.33,904.33,904.33
+United States,Maryland,Baltimore,21215,Wicked Choccy's,Found,17,14,900.56,900.56,900.56
+United States,Ohio,Newark,43055,Wicked Choccy's,Found,12,8,896.83,896.83,896.83
+United States,Tennessee,Memphis,38109,Wicked Choccy's,Found,12,9,896.04,896.04,896.04
+United States,Texas,Odessa,79762,Lot's O' Nuts,Found,4,3,891.17,891.17,891.17
+United States,West Virginia,Wheeling,26003,Wicked Choccy's,Found,2,2,889.39,889.39,889.39
+United States,Ohio,Grove City,43123,Wicked Choccy's,Found,1,1,887.27,887.27,887.27
+United States,Colorado,Pueblo,81001,Lot's O' Nuts,Found,4,4,886.52,886.52,886.52
+United States,Mississippi,Southaven,38671,Wicked Choccy's,Found,2,2,884.84,884.84,884.84
+United States,Tennessee,Bartlett,38134,Wicked Choccy's,Found,1,1,884.14,884.14,884.14
+United States,Maryland,Columbia,21044,Wicked Choccy's,Found,9,7,880.82,880.82,880.82
+United States,Utah,Salt Lake City,84106,Lot's O' Nuts,Found,4,2,870.16,870.16,870.16
+United States,Kentucky,Henderson,42420,Wicked Choccy's,Found,22,17,869.82,869.82,869.82
+United States,Maryland,Laurel,20707,Wicked Choccy's,Found,1,1,868.46,868.46,868.46
+United States,Ohio,Fairfield,45014,Wicked Choccy's,Found,8,8,864.83,864.83,864.83
+United States,Utah,Murray,84107,Lot's O' Nuts,Found,2,2,864.4,864.4,864.4
+United States,Mississippi,Jackson,39212,Wicked Choccy's,Found,11,9,863.42,863.42,863.42
+United States,Maryland,Gaithersburg,20877,Wicked Choccy's,Found,1,1,861.53,861.53,861.53
+United States,Utah,West Jordan,84084,Lot's O' Nuts,Found,4,3,860.78,860.78,860.78
+United States,Ohio,Lancaster,43130,Wicked Choccy's,Found,12,10,860.69,860.69,860.69
+United States,Ohio,Mason,45040,Wicked Choccy's,Found,1,1,858.3,858.3,858.3
+United States,Maryland,Rockville,20852,Wicked Choccy's,Found,1,1,856.25,856.25,856.25
+United States,North Carolina,Monroe,28110,The Other Factory,Found,1,1,852.17,852.17,852.17
+United States,Utah,Draper,84020,Lot's O' Nuts,Found,1,1,847.93,847.93,847.93
+United States,District of Columbia,Washington,20016,Wicked Choccy's,Found,2,2,844.61,844.61,844.61
+United States,California,Fresno,93727,Lot's O' Nuts,Found,13,11,842.04,842.04,842.04
+United States,Ohio,Cincinnati,45231,Wicked Choccy's,Found,9,7,840.1,840.1,840.1
+United States,Virginia,Arlington,22204,Wicked Choccy's,Found,15,13,836.5,836.5,836.5
+United States,Maryland,Clinton,20735,Wicked Choccy's,Found,12,8,834.82,834.82,834.82
+United States,Utah,Pleasant Grove,84062,Lot's O' Nuts,Found,4,3,833.67,833.67,833.67
+United States,Kentucky,Florence,41042,Wicked Choccy's,Found,2,2,833.11,833.11,833.11
+United States,Kentucky,Murray,42071,Wicked Choccy's,Found,1,1,831.94,831.94,831.94
+United States,Virginia,Alexandria,22304,Wicked Choccy's,Found,10,6,831.01,831.01,831.01
+United States,South Carolina,Columbia,29203,The Other Factory,Found,1,1,827.36,827.36,827.36
+United States,Utah,Orem,84057,Lot's O' Nuts,Found,4,4,826.76,826.76,826.76
+United States,Utah,Provo,84604,Lot's O' Nuts,Found,7,4,821.06,821.06,821.06
+United States,Virginia,Springfield,22153,Wicked Choccy's,Review,22,16,819.71,819.71,819.71
+United States,Tennessee,Jackson,38301,Wicked Choccy's,Found,3,3,814.63,814.63,814.63
+United States,New Mexico,Clovis,88101,Lot's O' Nuts,Found,1,1,810.52,810.52,810.52
+United States,Kentucky,Louisville,40214,Wicked Choccy's,Found,16,11,799.28,799.28,799.28
+United States,Texas,Houston,77036,The Other Factory,Found,1,1,796.67,796.67,796.67
+United States,California,Visalia,93277,Lot's O' Nuts,Found,2,2,789.9,789.9,789.9
+United States,Texas,Houston,77041,The Other Factory,Review,3,3,781.7,781.7,781.7
+United States,Mississippi,Hattiesburg,39401,Wicked Choccy's,Found,7,4,781.67,781.67,781.67
+United States,Mississippi,Gulfport,39503,Wicked Choccy's,Found,2,2,781.63,781.63,781.63
+United States,Arkansas,Little Rock,72209,Secret Factory,Found,1,1,768.77,768.77,768.77
+United States,Tennessee,Clarksville,37042,Wicked Choccy's,Found,4,4,766.01,766.01,766.01
+United States,Ohio,Springfield,45503,The Other Factory,Found,1,1,765.5,765.5,765.5
+United States,Ohio,Akron,44312,Secret Factory,Found,1,1,756.9,756.9,756.9
+United States,California,Santa Barbara,93101,Lot's O' Nuts,Found,3,3,754.35,754.35,754.35
+United States,Kentucky,Georgetown,40324,Wicked Choccy's,Found,5,4,752.38,752.38,752.38
+United States,Florida,Homestead,33030,Wicked Choccy's,Found,2,2,735.96,735.96,735.96
+United States,Virginia,Harrisonburg,22801,Wicked Choccy's,Found,3,3,734.42,734.42,734.42
+United States,Kentucky,Bowling Green,42104,Wicked Choccy's,Found,2,2,734.2,734.2,734.2
+United States,Ohio,Lakewood,44107,Secret Factory,Found,1,1,730.23,730.23,730.23
+United States,California,Bakersfield,93309,Lot's O' Nuts,Found,12,9,724.7,724.7,724.7
+United States,Tennessee,Murfreesboro,37130,Secret Factory,Found,1,1,720.31,720.31,720.31
+United States,Tennessee,Bristol,37620,The Other Factory,Found,1,1,719.61,719.61,719.61
+United States,Tennessee,Columbia,38401,Secret Factory,Found,1,1,717.14,717.14,717.14
+United States,New Mexico,Carlsbad,88220,Lot's O' Nuts,Found,6,6,708.11,708.11,708.11
+United States,Florida,Coral Gables,33134,Wicked Choccy's,Found,1,1,707.3,707.3,707.3
+United States,Virginia,Charlottesville,22901,Wicked Choccy's,Found,1,1,703.26,703.26,703.26
+United States,Florida,Miami,33142,Wicked Choccy's,Found,4,4,701.36,701.36,701.36
+United States,California,Oxnard,93030,Lot's O' Nuts,Found,4,3,701.14,701.14,701.14
+United States,Virginia,Hampton,23666,Wicked Choccy's,Found,5,4,699.25,699.25,699.25
+United States,Virginia,Newport News,23602,Wicked Choccy's,Found,4,3,698.91,698.91,698.91
+United States,Florida,Miami,33178,Wicked Choccy's,Found,9,7,697.75,697.75,697.75
+United States,Virginia,Waynesboro,22980,Wicked Choccy's,Found,7,6,696.9,696.9,696.9
+United States,Kentucky,Richmond,40475,Wicked Choccy's,Found,10,8,696.3,696.3,696.3
+United States,Florida,Hialeah,33012,Wicked Choccy's,Found,5,5,694.84,694.84,694.84
+United States,Florida,North Miami,33161,Wicked Choccy's,Found,1,1,693.1,693.1,693.1
+United States,Virginia,Richmond,23223,Wicked Choccy's,Found,11,8,692.82,692.82,692.82
+United States,Tennessee,Hendersonville,37075,Wicked Choccy's,Found,3,3,692.55,692.55,692.55
+United States,California,Camarillo,93010,Lot's O' Nuts,Found,4,3,691.63,691.63,691.63
+United States,Virginia,Virginia Beach,23464,Wicked Choccy's,Found,8,8,691.54,691.54,691.54
+United States,Alabama,Mobile,36608,Wicked Choccy's,Found,4,3,691.3,691.3,691.3
+United States,Indiana,Richmond,47374,The Other Factory,Found,1,1,689.37,689.37,689.37
+United States,Florida,Miami,33180,Wicked Choccy's,Found,11,10,685.94,685.94,685.94
+United States,Virginia,Chesapeake,23320,Wicked Choccy's,Found,10,8,684.68,684.68,684.68
+United States,Tennessee,Nashville,37211,Wicked Choccy's,Found,16,12,682.66,682.66,682.66
+United States,Florida,Miramar,33023,Wicked Choccy's,Found,1,1,682.02,682.02,682.02
+United States,Tennessee,Franklin,37064,Wicked Choccy's,Found,1,1,681.89,681.89,681.89
+United States,Alabama,Florence,35630,Wicked Choccy's,Found,4,3,681.79,681.79,681.79
+United States,Florida,Hollywood,33021,Wicked Choccy's,Found,7,7,678.68,678.68,678.68
+United States,Florida,Pembroke Pines,33024,Wicked Choccy's,Found,6,3,678.04,678.04,678.04
+United States,Tennessee,Columbia,38401,Wicked Choccy's,Found,5,3,675.49,675.49,675.49
+United States,Arkansas,Fayetteville,72701,Secret Factory,Found,1,1,675.26,675.26,675.26
+United States,Kentucky,Richmond,40475,Secret Factory,Found,1,1,674.97,674.97,674.97
+United States,California,Thousand Oaks,91360,Lot's O' Nuts,Found,2,2,674.82,674.82,674.82
+United States,Texas,Dallas,75217,The Other Factory,Found,2,2,674.16,674.16,674.16
+United States,Florida,Plantation,33317,Wicked Choccy's,Found,7,5,668.55,668.55,668.55
+United States,Florida,Fort Lauderdale,33311,Wicked Choccy's,Found,4,4,668.37,668.37,668.37
+United States,Tennessee,Jackson,38301,Secret Factory,Found,1,1,666.41,666.41,666.41
+United States,Tennessee,Lebanon,37087,Wicked Choccy's,Review,1,1,663.37,663.37,663.37
+United States,Tennessee,Smyrna,37167,Wicked Choccy's,Review,2,2,662.51,662.51,662.51
+United States,Virginia,Suffolk,23434,Wicked Choccy's,Found,5,4,662.2,662.2,662.2
+United States,Ohio,Columbus,43229,Secret Factory,Found,4,4,657.36,657.36,657.36
+United States,Florida,Pompano Beach,33068,Wicked Choccy's,Found,3,2,655.89,655.89,655.89
+United States,Florida,Coral Springs,33065,Wicked Choccy's,Found,3,3,649.79,649.79,649.79
+United States,Florida,Boca Raton,33433,Wicked Choccy's,Found,2,2,643.19,643.19,643.19
+United States,Tennessee,Murfreesboro,37130,Wicked Choccy's,Found,3,3,642.88,642.88,642.88
+United States,California,Los Angeles,90049,Lot's O' Nuts,Found,83,69,635.42,635.42,635.42
+United States,Florida,Delray Beach,33445,Wicked Choccy's,Found,2,2,632.13,632.13,632.13
+United States,Ohio,Marion,43302,Secret Factory,Found,1,1,632.08,632.08,632.08
+United States,Michigan,Detroit,48234,Secret Factory,Found,1,1,631.52,631.52,631.52
+United States,California,Los Angeles,90045,Lot's O' Nuts,Found,84,69,626.95,626.95,626.95
+United States,California,Burbank,91505,Lot's O' Nuts,Found,3,1,625.9,625.9,625.9
+United States,Florida,Boynton Beach,33437,Wicked Choccy's,Retry_Found,3,3,624.85,624.85,624.85
+United States,California,Los Angeles,90036,Lot's O' Nuts,Found,68,57,624.84,624.84,624.84
+United States,California,Inglewood,90301,Lot's O' Nuts,Found,11,9,624.36,624.36,624.36
+United States,California,Redondo Beach,90278,Lot's O' Nuts,Found,6,5,623.17,623.17,623.17
+United States,California,Lancaster,93534,Lot's O' Nuts,Found,3,3,622.22,622.22,622.22
+United States,California,Los Angeles,90008,Lot's O' Nuts,Found,62,50,621.5,621.5,621.5
+United States,California,Torrance,90503,Lot's O' Nuts,Found,3,3,621.22,621.22,621.22
+United States,California,Los Angeles,90004,Lot's O' Nuts,Found,59,50,620.1,620.1,620.1
+United States,New Mexico,Santa Fe,87505,Lot's O' Nuts,Found,2,2,616.82,616.82,616.82
+United States,Alabama,Decatur,35601,Wicked Choccy's,Found,3,3,615.22,615.22,615.22
+United States,Michigan,Trenton,48183,Secret Factory,Found,1,1,614.34,614.34,614.34
+United States,California,Los Angeles,90032,Lot's O' Nuts,Found,49,45,608.52,608.52,608.52
+United States,California,Pasadena,91104,Lot's O' Nuts,Found,13,11,605.88,605.88,605.88
+United States,California,Long Beach,90805,Lot's O' Nuts,Found,22,17,604.73,604.73,604.73
+United States,California,San Gabriel,91776,Lot's O' Nuts,Found,2,1,601.81,601.81,601.81
+United States,California,Lakewood,90712,Lot's O' Nuts,Found,6,6,601.8,601.8,601.8
+United States,Florida,West Palm Beach,33407,Wicked Choccy's,Found,2,2,600.84,600.84,600.84
+United States,California,Whittier,90604,Lot's O' Nuts,Found,1,1,597.17,597.17,597.17
+United States,Ohio,Springfield,45503,Secret Factory,Found,1,1,595.2,595.2,595.2
+United States,Alabama,Huntsville,35810,Wicked Choccy's,Found,6,5,593.49,593.49,593.49
+United States,Virginia,Salem,24153,Wicked Choccy's,Found,5,5,587.79,587.79,587.79
+United States,California,Westminster,92683,Lot's O' Nuts,Found,13,6,586.58,586.58,586.58
+United States,California,Anaheim,92804,Lot's O' Nuts,Found,19,12,585.72,585.72,585.72
+United States,Ohio,Toledo,43615,Secret Factory,Found,2,1,585.11,585.11,585.11
+United States,California,Huntington Beach,92646,Lot's O' Nuts,Found,5,5,582.87,582.87,582.87
+United States,Ohio,Mason,45040,Secret Factory,Found,1,1,578.9,578.9,578.9
+United States,California,Costa Mesa,92627,Lot's O' Nuts,Found,5,4,577.96,577.96,577.96
+United States,California,Santa Ana,92704,Lot's O' Nuts,Found,9,9,577.95,577.95,577.95
+United States,Ohio,Cincinnati,45231,Secret Factory,Found,2,2,575.73,575.73,575.73
+United States,California,Pomona,91767,Lot's O' Nuts,Found,3,3,569.5,569.5,569.5
+United States,California,Lake Forest,92630,Lot's O' Nuts,Found,3,3,556.92,556.92,556.92
+United States,California,Laguna Niguel,92677,Lot's O' Nuts,Found,3,3,556.62,556.62,556.62
+United States,California,Mission Viejo,92691,Lot's O' Nuts,Found,2,1,554.34,554.34,554.34
+United States,Georgia,Columbus,31907,The Other Factory,Found,1,1,552.06,552.06,552.06
+United States,California,San Clemente,92672,Lot's O' Nuts,Found,2,1,547.45,547.45,547.45
+United States,California,Hesperia,92345,Lot's O' Nuts,Found,1,1,541.44,541.44,541.44
+United States,New Mexico,Farmington,87401,Lot's O' Nuts,Found,2,2,539.18,539.18,539.18
+United States,California,Riverside,92503,Lot's O' Nuts,Found,10,10,538.14,538.14,538.14
+United States,Florida,Port Saint Lucie,34952,Wicked Choccy's,Found,1,1,537.66,537.66,537.66
+United States,California,Apple Valley,92307,Lot's O' Nuts,Found,3,3,537.16,537.16,537.16
+United States,New Mexico,Albuquerque,87105,Lot's O' Nuts,Found,5,5,531.47,531.47,531.47
+United States,Texas,El Paso,79907,Lot's O' Nuts,Found,10,9,528.37,528.37,528.37
+United States,California,San Bernardino,92404,Lot's O' Nuts,Found,5,4,528.16,528.16,528.16
+United States,California,Lake Elsinore,92530,Lot's O' Nuts,Found,1,1,526.29,526.29,526.29
+United States,California,Oceanside,92054,Lot's O' Nuts,Found,4,4,522.13,522.13,522.13
+United States,California,Moreno Valley,92553,Lot's O' Nuts,Found,6,6,521.56,521.56,521.56
+United States,Michigan,Jackson,49201,Secret Factory,Found,3,3,521.53,521.53,521.53
+United States,North Carolina,Greenville,27834,Wicked Choccy's,Found,4,4,519.66,519.66,519.66
+United States,Georgia,Smyrna,30080,The Other Factory,Found,1,1,519.42,519.42,519.42
+United States,California,Redlands,92374,Lot's O' Nuts,Found,8,5,517.81,517.81,517.81
+United States,California,San Diego,92024,Lot's O' Nuts,Found,14,14,513.53,513.53,513.53
+United States,California,Encinitas,92024,Lot's O' Nuts,Found,4,2,513.53,513.53,513.53
+United States,Tennessee,Knoxville,37918,Wicked Choccy's,Found,6,5,513.23,513.23,513.23
+United States,California,San Diego,92037,Lot's O' Nuts,Found,33,30,512.75,512.75,512.75
+United States,Tennessee,Bristol,37620,Wicked Choccy's,Found,3,3,509.42,509.42,509.42
+United States,California,Yucaipa,92399,Lot's O' Nuts,Found,1,1,507.5,507.5,507.5
+United States,Kentucky,Louisville,40214,The Other Factory,Found,1,1,504.02,504.02,504.02
+United States,Florida,Saint Petersburg,33710,Wicked Choccy's,Found,8,5,501.3,501.3,501.3
+United States,Tennessee,Chattanooga,37421,Wicked Choccy's,Found,2,2,499.09,499.09,499.09
+United States,California,Temecula,92592,Lot's O' Nuts,Found,3,2,498.39,498.39,498.39
+United States,California,San Diego,92105,Lot's O' Nuts,Found,46,38,498.08,498.08,498.08
+United States,North Carolina,Wilson,27893,Wicked Choccy's,Found,2,1,495.9,495.9,495.9
+United States,California,Escondido,92025,Lot's O' Nuts,Found,3,3,494.96,494.96,494.96
+United States,California,Chula Vista,91911,Lot's O' Nuts,Found,1,1,494.76,494.76,494.76
+United States,California,La Mesa,91941,Lot's O' Nuts,Found,2,2,489.69,489.69,489.69
+United States,Tennessee,Johnson City,37604,Wicked Choccy's,Found,5,4,488.33,488.33,488.33
+United States,Nevada,North Las Vegas,89031,Lot's O' Nuts,Found,8,8,486.82,486.82,486.82
+United States,California,El Cajon,92020,Lot's O' Nuts,Found,2,2,486.26,486.26,486.26
+United States,Alabama,Montgomery,36116,Wicked Choccy's,Found,4,3,483.3,483.3,483.3
+United States,Nevada,Las Vegas,89115,Lot's O' Nuts,Found,10,10,478.85,478.85,478.85
+United States,Florida,Tampa,33614,Wicked Choccy's,Found,16,13,477.92,477.92,477.92
+United States,Kentucky,Henderson,42420,Secret Factory,Found,1,1,477.57,477.57,477.57
+United States,North Carolina,Raleigh,27604,Wicked Choccy's,Found,7,6,475.62,475.62,475.62
+United States,North Carolina,Durham,27707,Wicked Choccy's,Found,3,3,474.98,474.98,474.98
+United States,New Mexico,Las Cruces,88001,Lot's O' Nuts,Found,2,2,474.26,474.26,474.26
+United States,North Carolina,Burlington,27217,Wicked Choccy's,Found,5,5,472.07,472.07,472.07
+United States,North Carolina,Goldsboro,27534,Wicked Choccy's,Found,1,1,468.93,468.93,468.93
+United States,Indiana,Columbus,47201,Secret Factory,Found,1,1,466.06,466.06,466.06
+United States,North Carolina,Greensboro,27405,Wicked Choccy's,Found,5,5,465.44,465.44,465.44
+United States,North Carolina,Cary,27511,Wicked Choccy's,Found,2,2,462.17,462.17,462.17
+United States,Nevada,Henderson,89015,Lot's O' Nuts,Found,1,1,456.92,456.92,456.92
+United States,Florida,Lakeland,33801,Wicked Choccy's,Found,10,5,456.45,456.45,456.45
+United States,Nebraska,Omaha,68104,Secret Factory,Found,1,1,453.93,453.93,453.93
+United States,North Carolina,Jacksonville,28540,Wicked Choccy's,Found,24,21,451.26,451.26,451.26
+United States,Louisiana,Bossier City,71111,The Other Factory,Found,1,1,448.02,448.02,448.02
+United States,California,La Quinta,92253,Lot's O' Nuts,Found,1,1,430.66,430.66,430.66
+United States,Indiana,Greenwood,46142,Secret Factory,Review,1,1,428.11,428.11,428.11
+United States,Indiana,Lawrence,46226,Secret Factory,Found,1,1,422.66,422.66,422.66
+United States,Minnesota,Lakeville,55044,Secret Factory,Found,1,1,420.55,420.55,420.55
+United States,Florida,Kissimmee,34741,Wicked Choccy's,Found,1,1,420.33,420.33,420.33
+United States,California,Coachella,92236,Lot's O' Nuts,Found,2,2,420.26,420.26,420.26
+United States,Indiana,Noblesville,46060,Secret Factory,Found,1,1,416.58,416.58,416.58
+United States,Alabama,Auburn,36830,Wicked Choccy's,Found,1,1,416.31,416.31,416.31
+United States,North Carolina,Asheville,28806,Wicked Choccy's,Found,2,2,412.14,412.14,412.14
+United States,North Carolina,Hickory,28601,Wicked Choccy's,Found,1,1,410.48,410.48,410.48
+United States,Florida,Orlando,32839,Wicked Choccy's,Found,3,2,393.96,393.96,393.96
+United States,Georgia,Woodstock,30188,Wicked Choccy's,Found,1,1,390.95,390.95,390.95
+United States,Georgia,Marietta,30062,Wicked Choccy's,Found,4,4,384.28,384.28,384.28
+United States,North Carolina,Fayetteville,28314,Wicked Choccy's,Found,8,7,383.69,383.69,383.69
+United States,North Carolina,Wilmington,28403,Wicked Choccy's,Found,4,4,382.22,382.22,382.22
+United States,Florida,Apopka,32712,Wicked Choccy's,Found,2,2,376.47,376.47,376.47
+United States,Georgia,Smyrna,30080,Wicked Choccy's,Found,5,4,376.46,376.46,376.46
+United States,Missouri,Springfield,65807,The Other Factory,Found,1,1,375.72,375.72,375.72
+United States,North Carolina,Concord,28027,Wicked Choccy's,Found,5,4,372.02,372.02,372.02
+United States,Georgia,Roswell,30076,Wicked Choccy's,Found,3,3,371.04,371.04,371.04
+United States,Georgia,Sandy Springs,30328,Wicked Choccy's,Found,2,2,370.12,370.12,370.12
+United States,Kentucky,Henderson,42420,The Other Factory,Found,1,1,369.22,369.22,369.22
+United States,Georgia,Atlanta,30318,Wicked Choccy's,Found,14,10,366.55,366.55,366.55
+United States,Georgia,Columbus,31907,Wicked Choccy's,Found,28,23,361.76,361.76,361.76
+United States,Georgia,East Point,30344,Wicked Choccy's,Found,1,1,361.37,361.37,361.37
+United States,Arizona,Bullhead City,86442,Lot's O' Nuts,Found,2,2,358.69,358.69,358.69
+United States,Florida,Tallahassee,32303,Wicked Choccy's,Found,5,4,353.69,353.69,353.69
+United States,Florida,Deltona,32725,Wicked Choccy's,Found,4,4,353.16,353.16,353.16
+United States,North Carolina,Gastonia,28052,Wicked Choccy's,Found,1,1,351.55,351.55,351.55
+United States,North Carolina,Charlotte,28205,Wicked Choccy's,Found,23,20,350.96,350.96,350.96
+United States,Wisconsin,Sheboygan,53081,Secret Factory,Found,1,1,344.58,344.58,344.58
+United States,North Carolina,Monroe,28110,Wicked Choccy's,Found,4,4,331.0,331.0,331.0
+United States,Florida,Daytona Beach,32114,Wicked Choccy's,Found,3,2,319.56,319.56,319.56
+United States,South Carolina,Rock Hill,29730,Wicked Choccy's,Found,1,1,315.71,315.71,315.71
+United States,Tennessee,Nashville,37211,The Other Factory,Found,1,1,312.42,312.42,312.42
+United States,Florida,Ormond Beach,32174,Wicked Choccy's,Found,1,1,309.59,309.59,309.59
+United States,Alabama,Huntsville,35810,The Other Factory,Found,2,2,309.11,309.11,309.11
+United States,Georgia,Athens,30605,Wicked Choccy's,Found,4,4,294.07,294.07,294.07
+United States,Wisconsin,Milwaukee,53209,Secret Factory,Found,3,3,284.52,284.52,284.52
+United States,Florida,Palm Coast,32137,Wicked Choccy's,Found,2,2,278.95,278.95,278.95
+United States,Arizona,Yuma,85364,Lot's O' Nuts,Found,3,3,268.84,268.84,268.84
+United States,Wisconsin,La Crosse,54601,Secret Factory,Found,1,1,266.92,266.92,266.92
+United States,South Carolina,Florence,29501,Wicked Choccy's,Found,1,1,264.16,264.16,264.16
+United States,Georgia,Macon,31204,Wicked Choccy's,Found,3,3,257.22,257.22,257.22
+United States,Illinois,Chicago,60653,Secret Factory,Found,3,3,249.23,249.23,249.23
+United States,Illinois,Chicago,60610,Secret Factory,Found,4,4,248.59,248.59,248.59
+United States,Illinois,Chicago,60623,Secret Factory,Found,3,3,240.82,240.82,240.82
+United States,Illinois,Elmhurst,60126,Secret Factory,Found,1,1,223.22,223.22,223.22
+United States,Illinois,Saint Charles,60174,Secret Factory,Review,1,1,217.87,217.87,217.87
+United States,South Carolina,Columbia,29203,Wicked Choccy's,Found,15,10,214.06,214.06,214.06
+United States,Arizona,Sierra Vista,85635,Lot's O' Nuts,Found,3,3,205.54,205.54,205.54
+United States,Florida,Jacksonville,32216,Wicked Choccy's,Found,32,25,204.65,204.65,204.65
+United States,Illinois,Rockford,61107,Secret Factory,Found,1,1,157.68,157.68,157.68
+United States,South Carolina,North Charleston,29406,Wicked Choccy's,Found,1,1,137.37,137.37,137.37
+United States,South Carolina,Summerville,29483,Wicked Choccy's,Found,1,1,136.24,136.24,136.24
+United States,Arizona,Tucson,85705,Lot's O' Nuts,Found,16,13,101.69,101.69,101.69
+United States,Arizona,Phoenix,85023,Lot's O' Nuts,Found,24,22,89.3,89.3,89.3
+United States,Arizona,Peoria,85345,Lot's O' Nuts,Found,8,5,88.98,88.98,88.98
+United States,Arizona,Glendale,85301,Lot's O' Nuts,Found,16,14,81.74,81.74,81.74
+United States,Arizona,Avondale,85323,Lot's O' Nuts,Found,3,3,79.91,79.91,79.91
+United States,Arizona,Scottsdale,85254,Lot's O' Nuts,Found,5,4,69.66,69.66,69.66
+United States,Arizona,Tempe,85281,Lot's O' Nuts,Found,7,5,63.96,63.96,63.96
+United States,Arizona,Mesa,85204,Lot's O' Nuts,Found,15,13,57.7,57.7,57.7
+United States,Arizona,Gilbert,85234,Lot's O' Nuts,Found,7,5,53.46,53.46,53.46
+United States,Arizona,Chandler,85224,Lot's O' Nuts,Found,2,2,50.34,50.34,50.34
+United States,Tennessee,Memphis,38109,The Other Factory,Found,1,1,10.09,10.09,10.09

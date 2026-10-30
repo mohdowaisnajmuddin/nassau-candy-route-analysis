@@ -330,72 +330,77 @@ ship_mode_colors = {
     "Standard Class": "#3B82F6",
 }
 
+
 if ship_mode_file.exists():
     ship_mode_data = pd.read_csv(ship_mode_file)
+
+    ship_mode_data["Order_Lines"] = pd.to_numeric(
+        ship_mode_data["Order_Lines"], errors="coerce"
+    )
+    ship_mode_data["Mean_Estimated_Distance_KM"] = pd.to_numeric(
+        ship_mode_data["Mean_Estimated_Distance_KM"], errors="coerce"
+    )
 
     left_ship, right_ship = st.columns(2)
 
     with left_ship:
         st.markdown("#### Order-line volume by shipping method")
 
-        volume_data = ship_mode_data.sort_values(
-            "Order_Lines",
-            ascending=True,
-        )
+        volume_data = ship_mode_data.dropna(
+            subset=["Ship Mode", "Order_Lines"]
+        ).sort_values("Order_Lines", ascending=False)
 
         fig_ship_volume = px.bar(
-        volume_data,
-        x="Order_Lines",
-        y="Ship Mode",
-        orientation="h",
-        text="Order_Lines",
-        color="Ship Mode",
-        color_discrete_map=ship_mode_colors,
-        labels={
-        "Order_Lines": "Order lines",
-        "Ship Mode": "Shipping method",
-    },
-)
+            volume_data,
+            x="Ship Mode",
+            y="Order_Lines",
+            text="Order_Lines",
+            color="Ship Mode",
+            color_discrete_map=ship_mode_colors,
+            labels={
+                "Order_Lines": "Order lines",
+                "Ship Mode": "Shipping method",
+            },
+        )
 
         fig_ship_volume.update_traces(
-            texttemplate="%{text:,}",
+            texttemplate="%{text:,.0f}",
             textposition="outside",
             cliponaxis=False,
         )
 
         fig_ship_volume.update_layout(
-            height=380,
+            height=400,
             showlegend=False,
-            xaxis_title="Order lines",
-            yaxis_title="",
+            xaxis_title="Shipping method",
+            yaxis_title="Order lines",
+            xaxis_tickangle=-15,
+            margin=dict(l=20, r=25, t=35, b=65),
         )
 
-        st.plotly_chart(
-            fig_ship_volume,
-            use_container_width=True,
-        )
+        st.plotly_chart(fig_ship_volume, use_container_width=True)
 
     with right_ship:
         st.markdown("#### Mean estimated distance by shipping method")
 
-        distance_data = ship_mode_data.sort_values(
-            "Mean_Estimated_Distance_KM",
-            ascending=True,
+        distance_data = ship_mode_data.dropna(
+            subset=["Ship Mode", "Mean_Estimated_Distance_KM"]
+        ).sort_values(
+            "Mean_Estimated_Distance_KM", ascending=False
         )
 
         fig_ship_distance = px.bar(
-    distance_data,
-    x="Mean_Estimated_Distance_KM",
-    y="Ship Mode",
-    orientation="h",
-    text="Mean_Estimated_Distance_KM",
-    color="Ship Mode",
-    color_discrete_map=ship_mode_colors,
-    labels={
-        "Mean_Estimated_Distance_KM": "Mean distance (km)",
-        "Ship Mode": "Shipping method",
-    },
-)
+            distance_data,
+            x="Ship Mode",
+            y="Mean_Estimated_Distance_KM",
+            text="Mean_Estimated_Distance_KM",
+            color="Ship Mode",
+            color_discrete_map=ship_mode_colors,
+            labels={
+                "Mean_Estimated_Distance_KM": "Mean distance (km)",
+                "Ship Mode": "Shipping method",
+            },
+        )
 
         fig_ship_distance.update_traces(
             texttemplate="%{text:,.1f} km",
@@ -404,16 +409,15 @@ if ship_mode_file.exists():
         )
 
         fig_ship_distance.update_layout(
-            height=380,
+            height=400,
             showlegend=False,
-            xaxis_title="Estimated straight-line distance (km)",
-            yaxis_title="",
+            xaxis_title="Shipping method",
+            yaxis_title="Mean estimated distance (km)",
+            xaxis_tickangle=-15,
+            margin=dict(l=20, r=25, t=35, b=65),
         )
 
-        st.plotly_chart(
-            fig_ship_distance,
-            use_container_width=True,
-        )
+        st.plotly_chart(fig_ship_distance, use_container_width=True)
 
     st.markdown("#### Shipping method summary")
 
@@ -497,32 +501,28 @@ with factory_tab:
         factory_summary["Maximum_Distance_KM"].round(2)
     )
 
+    
     left_chart, right_chart = st.columns(2)
 
     with left_chart:
         st.markdown("#### Average distance by factory")
 
-        distance_chart_data = factory_summary.sort_values(
-            "Mean_Distance_KM",
-            ascending=False,
-        )
+        distance_chart_data = factory_summary.dropna(
+            subset=["Factory", "Mean_Distance_KM"]
+        ).sort_values("Mean_Distance_KM", ascending=False)
 
         fig_distance = px.bar(
-             distance_chart_data.sort_values(
-        "Mean_Distance_KM",
-        ascending=True,
-    ),
-    x="Mean_Distance_KM",
-    y="Factory",
-    color="Factory",
-    orientation="h",
-    text="Mean_Distance_KM",
-    color_discrete_sequence=px.colors.qualitative.Bold,
-    labels={
-        "Factory": "Factory",
-        "Mean_Distance_KM": "Mean distance (km)",
-    },
-)
+            distance_chart_data,
+            x="Factory",
+            y="Mean_Distance_KM",
+            color="Factory",
+            text="Mean_Distance_KM",
+            color_discrete_sequence=px.colors.qualitative.Bold,
+            labels={
+                "Factory": "Factory",
+                "Mean_Distance_KM": "Mean distance (km)",
+            },
+        )
 
         fig_distance.update_traces(
             texttemplate="%{text:,.0f} km",
@@ -532,17 +532,14 @@ with factory_tab:
 
         fig_distance.update_layout(
             showlegend=False,
-            height=390,
-            margin=dict(l=10, r=10, t=20, b=75),
-            xaxis_tickangle=-25,
+            height=400,
+            margin=dict(l=15, r=20, t=30, b=75),
+            xaxis_title="Factory",
             yaxis_title="Mean straight-line distance (km)",
-            xaxis_title="",
+            xaxis_tickangle=-20,
         )
 
-        st.plotly_chart(
-            fig_distance,
-            use_container_width=True,
-        )
+        st.plotly_chart(fig_distance, use_container_width=True)
 
         st.caption(
             "Higher values indicate greater average geographic "
@@ -553,57 +550,46 @@ with factory_tab:
     with right_chart:
         st.markdown("#### Order-line volume by factory")
 
-        volume_chart_data = factory_summary.sort_values(
-            "Order_Lines",
-            ascending=False,
-        )
+        volume_chart_data = factory_summary.dropna(
+            subset=["Factory", "Order_Lines"]
+        ).sort_values("Order_Lines", ascending=False)
 
         fig_volume = px.bar(
-             volume_chart_data.sort_values(
-        "Order_Lines",
-        ascending=True,
-    ),
-    x="Order_Lines",
-    y="Factory",
-    color="Factory",
-    orientation="h",
-    text="Order_Lines",
-    color_discrete_sequence=px.colors.qualitative.Vivid,
-    labels={
-        "Factory": "Factory",
-        "Order_Lines": "Order lines",
-    },
-)
+            volume_chart_data,
+            x="Factory",
+            y="Order_Lines",
+            color="Factory",
+            text="Order_Lines",
+            color_discrete_sequence=px.colors.qualitative.Vivid,
+            labels={
+                "Factory": "Factory",
+                "Order_Lines": "Order lines",
+            },
+        )
 
         fig_volume.update_traces(
-    texttemplate="%{text:,}",
-    textposition="outside",
-    cliponaxis=False,
-)
+            texttemplate="%{text:,.0f}",
+            textposition="outside",
+            cliponaxis=False,
+        )
 
         fig_volume.update_layout(
-    template="plotly_dark",
-    showlegend=False,
-    height=370,
-    margin=dict(l=10, r=55, t=15, b=35),
-    xaxis_title="Number of order lines",
-    yaxis_title="",
-    xaxis=dict(
-        gridcolor="rgba(160,160,160,0.20)",
-    ),
-    yaxis=dict(categoryorder="total ascending"),
-)
-
-
-        st.plotly_chart(
-            fig_volume,
-            use_container_width=True,
+            template="plotly_dark",
+            showlegend=False,
+            height=400,
+            margin=dict(l=15, r=20, t=30, b=75),
+            xaxis_title="Factory",
+            yaxis_title="Number of order lines",
+            xaxis_tickangle=-20,
         )
+
+        st.plotly_chart(fig_volume, use_container_width=True)
 
         st.caption(
             "Order-line counts represent product rows in the dataset. "
             "A single order may contain multiple rows."
         )
+
 
     st.divider()
 
@@ -793,138 +779,167 @@ else:
             "this metric is not the total number of unique orders."
         )
 
+        
         left_route, right_route = st.columns(2)
+
+        # Consistent factory colors for Highest-volume destinations only
+        factory_colors = {
+            "Lot's O' Nuts": "#D65DB1",
+            "Wicked Choccy's": "#56B4E9",
+            "Sugar Shack": "#F5A623",
+            "Secret Factory": "#9561C7",
+            "The Other Factory": "#36A878",
+        }
 
         with left_route:
             st.markdown("#### Highest-volume destinations")
 
-            volume_data = route_filtered.nlargest(
-                15,
-                "Order_Lines",
-            ).sort_values("Order_Lines", ascending=True)
+            volume_data = route_filtered.copy()
 
-            fig_route_volume = px.bar(
-                volume_data,
-                x="Order_Lines",
-                y="City",
-                color="Factory",
-                orientation="h",
-                hover_data=[
-                    "State/Province",
-                    "Postal Code",
-                    "Distinct_Orders",
-                    "Mean_Estimated_Distance_KM",
-                ],
-                labels={
-                    "Order_Lines": "Order lines",
-                    "City": "Destination city",
-                    "Factory": "Factory",
-                    "State/Province": "State / province",
-                    "Postal Code": "Postal code",
-                    "Distinct_Orders": "Distinct orders",
-                    "Mean_Estimated_Distance_KM":
-                        "Mean estimated distance (km)",
-                },
+            volume_data["Order_Lines"] = pd.to_numeric(
+                volume_data["Order_Lines"], errors="coerce"
             )
-            fig_route_volume.update_layout(
-                height=520,
-                yaxis_title="",
-                xaxis_title="Order lines",
-                legend_title="Factory",
-            )
-            st.plotly_chart(
-                fig_route_volume,
-                use_container_width=True,
-            )
+
+            volume_data = volume_data.dropna(
+                subset=["Order_Lines", "City", "Factory"]
+            ).nlargest(15, "Order_Lines").copy()
+
+            if not volume_data.empty:
+                volume_data["Destination"] = (
+                    volume_data["City"].astype(str)
+                    + ", "
+                    + volume_data["State/Province"].fillna("").astype(str)
+                )
+
+                volume_data = volume_data.sort_values(
+                    "Order_Lines", ascending=False
+                )
+
+                fig_route_volume = px.bar(
+                    volume_data,
+                    x="Destination",
+                    y="Order_Lines",
+                    color="Factory",
+                    color_discrete_map=factory_colors,
+                    text="Order_Lines",
+                    hover_data=[
+                        "State/Province",
+                        "Postal Code",
+                        "Distinct_Orders",
+                        "Mean_Estimated_Distance_KM",
+                    ],
+                    labels={
+                        "Order_Lines": "Order lines",
+                        "Destination": "Destination",
+                        "Factory": "Factory",
+                        "State/Province": "State / province",
+                        "Postal Code": "Postal code",
+                        "Distinct_Orders": "Distinct orders",
+                        "Mean_Estimated_Distance_KM":
+                            "Mean estimated distance (km)",
+                    },
+                )
+
+                fig_route_volume.update_traces(
+                    texttemplate="%{text:,.0f}",
+                    textposition="outside",
+                    cliponaxis=False,
+                )
+
+                fig_route_volume.update_layout(
+                    height=560,
+                    xaxis_title="Destination city",
+                    yaxis_title="Order lines",
+                    xaxis_tickangle=-45,
+                    legend_title="Factory",
+                    margin=dict(l=15, r=25, t=30, b=140),
+                )
+
+                st.plotly_chart(
+                    fig_route_volume,
+                    use_container_width=True,
+                )
+            else:
+                st.warning(
+                    "No valid destination volume records are available "
+                    "for the current filters."
+                )
 
         with right_route:
             st.markdown("#### Longest estimated distances")
 
-            distance_data = route_filtered.nlargest(
-                15,
-                "Mean_Estimated_Distance_KM",
-            ).copy()
+            distance_data = route_filtered.copy()
 
-            distance_data["Destination"] = (
-                distance_data["City"].astype(str)
-                + ", "
-                + distance_data["State/Province"].astype(str)
-                + " ("
-                + distance_data["Factory"].astype(str)
-                + ")"
+            distance_data["Mean_Estimated_Distance_KM"] = pd.to_numeric(
+                distance_data["Mean_Estimated_Distance_KM"],
+                errors="coerce",
             )
 
-            distance_data = distance_data.sort_values(
-                "Mean_Estimated_Distance_KM",
-                ascending=True,
-            )
+            distance_data = distance_data.dropna(
+                subset=[
+                    "Mean_Estimated_Distance_KM",
+                    "City",
+                    "Factory",
+                ]
+            ).nlargest(15, "Mean_Estimated_Distance_KM").copy()
 
-            fig_route_distance = px.bar(
-                distance_data,
-                x="Mean_Estimated_Distance_KM",
-                y="Destination",
-                color="Factory",
-                orientation="h",
-                hover_data=[
-                    "Country/Region",
-                    "Postal Code",
-                    "Order_Lines",
-                    "Distinct_Orders",
-                ],
-                labels={
-                    "Mean_Estimated_Distance_KM":
-                        "Mean estimated distance (km)",
-                    "Destination": "Destination and factory",
-                    "Order_Lines": "Order lines",
-                    "Distinct_Orders": "Distinct orders",
-                },
-            )
-            fig_route_distance.update_layout(
-                height=520,
-                yaxis_title="",
-                xaxis_title="Estimated straight-line distance (km)",
-                legend_title="Factory",
-            )
-            st.plotly_chart(
-                fig_route_distance,
-                use_container_width=True,
-            )
+            if not distance_data.empty:
+                distance_data["Destination"] = (
+                    distance_data["City"].astype(str)
+                    + ", "
+                    + distance_data["State/Province"].fillna("").astype(str)
+                )
 
-        st.markdown("#### Destination-group details")
+                fig_route_distance = px.bar(
+                    distance_data.sort_values(
+                        "Mean_Estimated_Distance_KM",
+                        ascending=False,
+                    ),
+                    x="Destination",
+                    y="Mean_Estimated_Distance_KM",
+                    color="Factory",
+                    text="Mean_Estimated_Distance_KM",
+                    hover_data=[
+                        "Country/Region",
+                        "Postal Code",
+                        "Order_Lines",
+                        "Distinct_Orders",
+                    ],
+                    labels={
+                        "Mean_Estimated_Distance_KM":
+                            "Mean estimated distance (km)",
+                        "Destination": "Destination",
+                        "Factory": "Factory",
+                        "Order_Lines": "Order lines",
+                        "Distinct_Orders": "Distinct orders",
+                    },
+                )
 
-        route_table_columns = [
-            "Factory",
-            "Country/Region",
-            "State/Province",
-            "City",
-            "Postal Code",
-            "Order_Lines",
-            "Distinct_Orders",
-            "Mean_Estimated_Distance_KM",
-            "Median_Estimated_Distance_KM",
-            "Maximum_Estimated_Distance_KM",
-            "Missing_Distance_Rows",
-            "Status_Count_Found",
-            "Status_Count_Found_Canada_FSA",
-            "Status_Count_Retry_Found",
-            "Status_Count_Review",
-        ]
+                fig_route_distance.update_traces(
+                    texttemplate="%{text:,.0f} km",
+                    textposition="outside",
+                    cliponaxis=False,
+                )
 
-        st.dataframe(
-            route_filtered[route_table_columns].sort_values(
-                "Order_Lines",
-                ascending=False,
-            ),
-            use_container_width=True,
-            hide_index=True,
-        )
+                fig_route_distance.update_layout(
+                    height=560,
+                    xaxis_title="Destination",
+                    yaxis_title="Mean estimated distance (km)",
+                    xaxis_tickangle=-45,
+                    legend_title="Factory",
+                    margin=dict(l=15, r=25, t=30, b=140),
+                )
 
-        st.caption(
-            "Geocoding statuses describe coordinate-match categories. "
-            "They do not independently confirm that every destination "
-            "coordinate is accurate. Distances use the existing "
-            "coordinate estimates and the Haversine method."
-        )
+                st.plotly_chart(
+                    fig_route_distance,
+                    use_container_width=True,
+                )
+            else:
+                st.warning(
+                    "No valid estimated-distance records are available "
+                    "for the current filters."
+                )
+
 
 
 # --------------------------------------------------

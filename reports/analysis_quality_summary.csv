@@ -1,0 +1,5 @@
+Lookup_Status,Order_Lines,Distinct_Orders,Mean_Straight_Line_KM,Median_Straight_Line_KM,Missing_Distances,Share_of_Order_Lines_Pct
+Found,9375,7854,2006.76,1813.69,0,91.97
+Found_Canada_FSA,88,71,2529.46,2448.36,0,0.86
+Retry_Found,19,16,2088.79,2303.64,0,0.19
+Review,712,608,1977.74,1594.31,0,6.98

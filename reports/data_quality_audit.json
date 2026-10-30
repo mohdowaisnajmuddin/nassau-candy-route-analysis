@@ -1,0 +1,20 @@
+{
+  "rows": 10194,
+  "columns_in_source": 18,
+  "unique_orders": 8549,
+  "duplicate_row_ids": 0,
+  "missing_values": {
+    "Order Date": 0,
+    "Ship Date": 0
+  },
+  "order_date_parse_failures": 0,
+  "ship_date_parse_failures": 0,
+  "order_date_min": "2024-01-02 00:00:00",
+  "order_date_max": "2025-12-31 00:00:00",
+  "ship_date_min": "2026-06-30 00:00:00",
+  "ship_date_max": "2030-06-28 00:00:00",
+  "lead_time_min_days": 904,
+  "lead_time_median_days": 1274.0,
+  "lead_time_max_days": 1642,
+  "negative_lead_times": 0
+}
