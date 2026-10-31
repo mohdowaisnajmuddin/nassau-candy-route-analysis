@@ -1,6 +1,6 @@
 Factory,Order_Lines,Distinct_Orders,Mean_Estimated_Distance_KM,Missing_Distance_Rows,Distinct_Destination_Groups
-Lot's O' Nuts,5692,4760,2145.5,0,604
-Secret Factory,217,213,1437.03,0,126
+Lot's O' Nuts,5692,4760,2140.14,0,604
+Secret Factory,217,213,1440.29,0,126
 Sugar Shack,33,33,1797.32,0,25
-The Other Factory,100,98,1643.91,0,72
-Wicked Choccy's,4152,3445,1863.23,0,559
+The Other Factory,100,98,1631.09,0,72
+Wicked Choccy's,4152,3445,1871.74,0,559

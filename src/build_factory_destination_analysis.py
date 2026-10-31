@@ -38,6 +38,12 @@ def main():
 
     REPORTS.mkdir(parents=True, exist_ok=True)
 
+        # One record per order for distance calculations.
+    # Order consistency has been audited separately.
+    order_df = df.drop_duplicates(
+        subset=["Order ID"]
+    ).copy()
+
     # One group for each factory-to-destination combination.
     route_columns = [
         "Factory",
@@ -47,10 +53,19 @@ def main():
         "Postal Code",
     ]
 
-    routes = (
+        # Product-line counts from the original dataset.
+    route_line_counts = (
         df.groupby(route_columns, dropna=False)
         .agg(
             Order_Lines=("Row ID", "count"),
+        )
+        .reset_index()
+    )
+
+    # Order counts and distance statistics from unique orders.
+    route_order_stats = (
+        order_df.groupby(route_columns, dropna=False)
+        .agg(
             Distinct_Orders=("Order ID", "nunique"),
             Mean_Estimated_Distance_KM=(
                 "Straight_Line_Distance_KM", "mean"
@@ -69,16 +84,27 @@ def main():
         .reset_index()
     )
 
+    # Combine both summaries at factory-destination level.
+    routes = route_line_counts.merge(
+        route_order_stats,
+        on=route_columns,
+        how="left",
+        validate="one_to_one",
+    )
+
     # Add geocoding-status counts for each factory/destination.
+
     status_counts = (
-        df.assign(
-            Lookup_Status=df["Lookup_Status"].fillna("Missing status")
+        order_df.assign(
+            Lookup_Status=order_df["Lookup_Status"].fillna(
+                "Missing status"
+            )
         )
         .pivot_table(
             index=route_columns,
             columns="Lookup_Status",
-            values="Row ID",
-            aggfunc="count",
+            values="Order ID",
+            aggfunc="nunique",
             fill_value=0,
         )
         .reset_index()
@@ -114,15 +140,20 @@ def main():
     routes.to_csv(ROUTE_OUT, index=False)
 
     # Factory-level overview for comparison.
-    factory_summary = (
+        # Count product lines from the original dataset.
+    factory_line_summary = (
         df.groupby("Factory", dropna=False)
         .agg(
             Order_Lines=("Row ID", "count"),
+        )
+        .reset_index()
+    )
+
+    # Calculate order counts and distance statistics once per order.
+    factory_order_summary = (
+        order_df.groupby("Factory", dropna=False)
+        .agg(
             Distinct_Orders=("Order ID", "nunique"),
-            Destination_Groups=(
-                "City",
-                "count",
-            ),
             Mean_Estimated_Distance_KM=(
                 "Straight_Line_Distance_KM", "mean"
             ),
@@ -134,9 +165,16 @@ def main():
         .reset_index()
     )
 
-    # Count distinct destinations properly within each factory.
+    factory_summary = factory_line_summary.merge(
+        factory_order_summary,
+        on="Factory",
+        how="left",
+        validate="one_to_one",
+    )
+
+    # Count distinct factory-destination combinations.
     destination_counts = (
-        df.groupby("Factory", dropna=False)[
+        order_df.groupby("Factory", dropna=False)[
             ["Country/Region", "State/Province", "City", "Postal Code"]
         ]
         .apply(lambda group: group.drop_duplicates().shape[0])
@@ -144,9 +182,7 @@ def main():
         .reset_index()
     )
 
-    factory_summary = factory_summary.drop(
-        columns=["Destination_Groups"]
-    ).merge(
+    factory_summary = factory_summary.merge(
         destination_counts,
         on="Factory",
         how="left",
@@ -164,8 +200,8 @@ def main():
     print("Factory-destination groups:", len(routes))
     print("Factories:", df["Factory"].nunique())
     print(
-        "Rows with missing distances:",
-        int(df["Straight_Line_Distance_KM"].isna().sum()),
+        "Unique orders with missing distances:",
+        int(order_df["Straight_Line_Distance_KM"].isna().sum()),
     )
 
     print("\nFactory summary:")

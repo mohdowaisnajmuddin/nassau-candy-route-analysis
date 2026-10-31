@@ -157,6 +157,53 @@ product_to_factory = {
 }
 
 df["Factory"] = df["Product Name"].map(product_to_factory)
+# Audit product-to-factory mapping and product-division consistency.
+official_product_division = {
+    "Wonka Bar - Nutty Crunch Surprise": "Chocolate",
+    "Wonka Bar - Fudge Mallows": "Chocolate",
+    "Wonka Bar -Scrumdiddlyumptious": "Chocolate",
+    "Wonka Bar - Milk Chocolate": "Chocolate",
+    "Wonka Bar - Triple Dazzle Caramel": "Chocolate",
+    "Laffy Taffy": "Sugar",
+    "SweeTARTS": "Sugar",
+    "Nerds": "Sugar",
+    "Fun Dip": "Sugar",
+    "Fizzy Lifting Drinks": "Other",
+    "Everlasting Gobstopper": "Sugar",
+    "Hair Toffee": "Sugar",
+    "Lickable Wallpaper": "Other",
+    "Wonka Gum": "Other",
+    "Kazookles": "Other",
+}
+
+df["Official Division"] = df["Product Name"].map(
+    official_product_division
+)
+
+df["Division Match"] = (
+    df["Division"] == df["Official Division"]
+)
+
+product_audit = (
+    df.groupby(
+        ["Product Name", "Division", "Official Division", "Factory"],
+        dropna=False
+    )
+    .agg(
+        Order_Lines=("Row ID", "count"),
+        Distinct_Orders=("Order ID", "nunique"),
+        Division_Match=("Division Match", "all")
+    )
+    .reset_index()
+)
+
+product_audit.to_csv(
+    REPORTS_PATH / "product_factory_mapping_audit.csv",
+    index=False
+)
+
+print("\nProduct mapping audit saved.")
+print("Division mismatches:", int((~df["Division Match"]).sum()))
 
 unmapped = sorted(
     df.loc[df["Factory"].isna(), "Product Name"]

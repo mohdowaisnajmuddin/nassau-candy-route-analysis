@@ -13,12 +13,17 @@ ROOT = Path(__file__).resolve().parent
 
 DISTANCE_FILE = (
     ROOT / "data" / "processed"
-    / "factory_destination_distances.csv"
+    / "geographically_audited_distances.csv"
 )
 
 QUALITY_FILE = (
     ROOT / "reports"
     / "analysis_quality_summary.csv"
+)
+
+RAW_FILE = (
+    ROOT / "data" / "raw"
+    / "Nassau Candy Distributor.csv"
 )
 
 st.set_page_config(
@@ -181,6 +186,74 @@ if not DISTANCE_FILE.exists():
 
 df = pd.read_csv(DISTANCE_FILE)
 
+# Join order-level attributes from the original source dataset.
+if not RAW_FILE.exists():
+    st.error(
+        f"Original source data file not found: {RAW_FILE}. "
+        "It is required for Region, Ship Mode, and Order Date filters."
+    )
+    st.stop()
+
+source_orders = pd.read_csv(RAW_FILE)
+order_attribute_columns = [
+    "Order ID", "Region", "Ship Mode", "Order Date", "Ship Date"
+]
+missing_order_attributes = [
+    column for column in order_attribute_columns
+    if column not in source_orders.columns
+]
+if missing_order_attributes:
+    st.error(
+        "Original source data is missing required order attributes: "
+        f"{missing_order_attributes}"
+    )
+    st.stop()
+
+order_attributes = source_orders[order_attribute_columns].copy()
+attribute_consistency = (
+    order_attributes.groupby("Order ID")[[
+        "Region", "Ship Mode", "Order Date", "Ship Date"
+    ]].nunique(dropna=False)
+)
+if (attribute_consistency > 1).any().any():
+    st.error(
+        "Some Order IDs have conflicting Region, Ship Mode, or date "
+        "values. Filters were stopped to avoid incorrect joins."
+    )
+    st.stop()
+
+order_attributes = order_attributes.drop_duplicates(
+    subset=["Order ID"]
+)
+
+# Remove existing copies of these attributes to prevent
+# pandas from creating _x and _y column names.
+columns_to_refresh = [
+    "Region",
+    "Ship Mode",
+    "Order Date",
+    "Ship Date",
+]
+
+df = df.drop(
+    columns=[
+        column
+        for column in columns_to_refresh
+        if column in df.columns
+    ]
+)
+
+# Join the authoritative order attributes from the source data.
+df = df.merge(
+    order_attributes,
+    on="Order ID",
+    how="left",
+    validate="many_to_one",
+)
+df["Order_Date_Parsed"] = pd.to_datetime(
+    df["Order Date"], dayfirst=True, errors="coerce"
+)
+
 required_columns = [
     "Row ID",
     "Order ID",
@@ -190,6 +263,9 @@ required_columns = [
     "Country/Region",
     "Lookup_Status",
     "Straight_Line_Distance_KM",
+    "Geographic_Validation_Result",
+    "Geographic_Validation_Usable",
+    "Distance_Interpretation",
 ]
 
 missing_columns = [
@@ -207,6 +283,17 @@ if missing_columns:
 df["Straight_Line_Distance_KM"] = pd.to_numeric(
     df["Straight_Line_Distance_KM"],
     errors="coerce",
+)
+
+df["Geographic_Validation_Usable"] = (
+    df["Geographic_Validation_Usable"]
+    .astype(str)
+    .str.strip()
+    .str.lower()
+    .map({
+        "true": True,
+        "false": False,
+    })
 )
 
 # Support files that do not contain postal codes
@@ -231,6 +318,42 @@ country_options = sorted(
     df["Country/Region"].dropna().astype(str).unique().tolist()
 )
 
+region_options = sorted(
+    df["Region"].dropna().astype(str).unique().tolist()
+)
+ship_mode_options = sorted(
+    df["Ship Mode"].dropna().astype(str).unique().tolist()
+)
+
+valid_order_dates = df["Order_Date_Parsed"].dropna()
+if valid_order_dates.empty:
+    st.error("No valid Order Date values are available for exploration.")
+    st.stop()
+
+date_min = valid_order_dates.min().date()
+date_max = valid_order_dates.max().date()
+st.sidebar.caption(
+    "Order Date is an exploration filter only. Recorded order-to-ship "
+    "intervals are anomalous and are not delivery-performance measures. "
+    "A lead-time threshold control is intentionally omitted."
+)
+selected_order_dates = st.sidebar.date_input(
+    "Order Date range (exploration only)",
+    value=(date_min, date_max),
+    min_value=date_min,
+    max_value=date_max,
+)
+if not isinstance(selected_order_dates, tuple):
+    selected_order_dates = (
+        selected_order_dates,
+        selected_order_dates,
+    )
+elif len(selected_order_dates) == 1:
+    selected_order_dates = (
+        selected_order_dates[0],
+        selected_order_dates[0],
+    )
+
 selected_factories = st.sidebar.multiselect(
     "Factory",
     factory_options,
@@ -249,7 +372,37 @@ selected_countries = st.sidebar.multiselect(
     default=country_options,
 )
 
+selected_regions = st.sidebar.multiselect(
+    "Region",
+    region_options,
+    default=region_options,
+)
+selected_ship_modes = st.sidebar.multiselect(
+    "Ship Mode",
+    ship_mode_options,
+    default=ship_mode_options,
+)
+
+geographic_options = sorted(
+    df["Geographic_Validation_Result"]
+    .dropna()
+    .astype(str)
+    .unique()
+    .tolist()
+)
+
+selected_geographic_statuses = st.sidebar.multiselect(
+    "Geographic validation",
+    geographic_options,
+    default=geographic_options,
+    help=(
+        "Inside matching reference areas, outside matching areas, "
+        "or without a matching reference boundary."
+    ),
+)
+
 # Apply all selected filters
+
 filtered = df[
     df["Factory"].astype(str).isin(selected_factories)
     & df["Lookup_Status"].astype(str).isin(
@@ -257,6 +410,14 @@ filtered = df[
     )
     & df["Country/Region"].astype(str).isin(
         selected_countries
+    )
+    & df["Region"].astype(str).isin(selected_regions)
+    & df["Ship Mode"].astype(str).isin(selected_ship_modes)
+    & df["Order_Date_Parsed"].dt.date.between(
+        selected_order_dates[0], selected_order_dates[1]
+    )
+    & df["Geographic_Validation_Result"].astype(str).isin(
+        selected_geographic_statuses
     )
 ].copy()
 
@@ -270,8 +431,17 @@ if filtered.empty:
 # --------------------------------------------------
 # 5. KPI metrics
 # --------------------------------------------------
+# One record per order to prevent multi-product
+# orders from receiving extra weight.
+order_level_filtered = filtered.drop_duplicates(
+    subset=["Order ID"]
+)
 
-overall_mean = filtered[
+verified_orders = order_level_filtered[
+    order_level_filtered["Geographic_Validation_Usable"].eq(True)
+].copy()
+
+overall_mean = verified_orders[
     "Straight_Line_Distance_KM"
 ].mean()
 
@@ -292,7 +462,7 @@ col2.metric(
 )
 
 col3.metric(
-    "Mean straight-line distance",
+    "Mean distance (verified orders)",
     (
         f"{overall_mean:,.2f} km"
         if pd.notna(overall_mean)
@@ -334,31 +504,41 @@ ship_mode_colors = {
 if ship_mode_file.exists():
     ship_mode_data = pd.read_csv(ship_mode_file)
 
-    ship_mode_data["Order_Lines"] = pd.to_numeric(
-        ship_mode_data["Order_Lines"], errors="coerce"
-    )
-    ship_mode_data["Mean_Estimated_Distance_KM"] = pd.to_numeric(
-        ship_mode_data["Mean_Estimated_Distance_KM"], errors="coerce"
+    numeric_columns = [
+        "Unique_Orders",
+        "Order_Share_Percent",
+        "Average_Order_Value",
+        "Gross_Margin_Percent",
+    ]
+
+    for column in numeric_columns:
+        ship_mode_data[column] = pd.to_numeric(
+            ship_mode_data[column],
+            errors="coerce",
+        )
+
+    ship_mode_data = ship_mode_data.rename(
+        columns={"Ship_Mode": "Ship Mode"}
     )
 
     left_ship, right_ship = st.columns(2)
 
     with left_ship:
-        st.markdown("#### Order-line volume by shipping method")
+        st.markdown("#### Orders by shipping method")
 
         volume_data = ship_mode_data.dropna(
-            subset=["Ship Mode", "Order_Lines"]
-        ).sort_values("Order_Lines", ascending=False)
+            subset=["Ship Mode", "Unique_Orders"]
+        ).sort_values("Unique_Orders", ascending=False)
 
         fig_ship_volume = px.bar(
             volume_data,
             x="Ship Mode",
-            y="Order_Lines",
-            text="Order_Lines",
+            y="Unique_Orders",
+            text="Unique_Orders",
             color="Ship Mode",
             color_discrete_map=ship_mode_colors,
             labels={
-                "Order_Lines": "Order lines",
+                "Unique_Orders": "Unique orders",
                 "Ship Mode": "Shipping method",
             },
         )
@@ -373,57 +553,67 @@ if ship_mode_file.exists():
             height=400,
             showlegend=False,
             xaxis_title="Shipping method",
-            yaxis_title="Order lines",
+            yaxis_title="Unique orders",
             xaxis_tickangle=-15,
             margin=dict(l=20, r=25, t=35, b=65),
         )
 
-        st.plotly_chart(fig_ship_volume, use_container_width=True)
-
-    with right_ship:
-        st.markdown("#### Mean estimated distance by shipping method")
-
-        distance_data = ship_mode_data.dropna(
-            subset=["Ship Mode", "Mean_Estimated_Distance_KM"]
-        ).sort_values(
-            "Mean_Estimated_Distance_KM", ascending=False
+        st.plotly_chart(
+            fig_ship_volume,
+            width="stretch",
         )
 
-        fig_ship_distance = px.bar(
-            distance_data,
+    with right_ship:
+        st.markdown("#### Average order value by shipping method")
+
+        value_data = ship_mode_data.dropna(
+            subset=["Ship Mode", "Average_Order_Value"]
+        ).sort_values("Average_Order_Value", ascending=False)
+
+        fig_ship_value = px.bar(
+            value_data,
             x="Ship Mode",
-            y="Mean_Estimated_Distance_KM",
-            text="Mean_Estimated_Distance_KM",
+            y="Average_Order_Value",
+            text="Average_Order_Value",
             color="Ship Mode",
             color_discrete_map=ship_mode_colors,
             labels={
-                "Mean_Estimated_Distance_KM": "Mean distance (km)",
+                "Average_Order_Value": "Average order value ($)",
                 "Ship Mode": "Shipping method",
             },
         )
 
-        fig_ship_distance.update_traces(
-            texttemplate="%{text:,.1f} km",
+        fig_ship_value.update_traces(
+            texttemplate="$%{text:,.2f}",
             textposition="outside",
             cliponaxis=False,
         )
 
-        fig_ship_distance.update_layout(
+        fig_ship_value.update_layout(
             height=400,
             showlegend=False,
             xaxis_title="Shipping method",
-            yaxis_title="Mean estimated distance (km)",
+            yaxis_title="Average order value ($)",
             xaxis_tickangle=-15,
             margin=dict(l=20, r=25, t=35, b=65),
         )
 
-        st.plotly_chart(fig_ship_distance, use_container_width=True)
+        st.plotly_chart(
+            fig_ship_value,
+            width="stretch",
+        )
+
+    st.caption(
+        "This report summarizes all 8,549 orders and is independent "
+        "of the dashboard sidebar filters. It describes order volume "
+        "and sales value, not delivery speed or shipping cost."
+    )
 
     st.markdown("#### Shipping method summary")
 
     st.dataframe(
         ship_mode_data,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
     )
 
@@ -464,29 +654,28 @@ with factory_tab:
     )
 
     factory_summary = (
-        filtered.groupby("Factory", dropna=False)
-        .agg(
-            Order_Lines=("Order ID", "size"),
-            Distinct_Orders=("Order ID", "nunique"),
-            Mean_Distance_KM=(
-                "Straight_Line_Distance_KM",
-                "mean",
-            ),
-            Median_Distance_KM=(
-                "Straight_Line_Distance_KM",
-                "median",
-            ),
-            Minimum_Distance_KM=(
-                "Straight_Line_Distance_KM",
-                "min",
-            ),
-            Maximum_Distance_KM=(
-                "Straight_Line_Distance_KM",
-                "max",
-            ),
-        )
-        .reset_index()
+    verified_orders.groupby("Factory", dropna=False)
+    .agg(
+        Unique_Orders=("Order ID", "nunique"),
+        Mean_Distance_KM=(
+            "Straight_Line_Distance_KM",
+            "mean",
+        ),
+        Median_Distance_KM=(
+            "Straight_Line_Distance_KM",
+            "median",
+        ),
+        Minimum_Distance_KM=(
+            "Straight_Line_Distance_KM",
+            "min",
+        ),
+        Maximum_Distance_KM=(
+            "Straight_Line_Distance_KM",
+            "max",
+        ),
     )
+    .reset_index()
+)
 
     factory_summary["Mean_Distance_KM"] = (
         factory_summary["Mean_Distance_KM"].round(2)
@@ -501,7 +690,7 @@ with factory_tab:
         factory_summary["Maximum_Distance_KM"].round(2)
     )
 
-    
+
     left_chart, right_chart = st.columns(2)
 
     with left_chart:
@@ -539,7 +728,7 @@ with factory_tab:
             xaxis_tickangle=-20,
         )
 
-        st.plotly_chart(fig_distance, use_container_width=True)
+        st.plotly_chart(fig_distance, width="stretch")
 
         st.caption(
             "Higher values indicate greater average geographic "
@@ -548,22 +737,22 @@ with factory_tab:
         )
 
     with right_chart:
-        st.markdown("#### Order-line volume by factory")
+        st.markdown("#### Verified orders by factory")
 
         volume_chart_data = factory_summary.dropna(
-            subset=["Factory", "Order_Lines"]
-        ).sort_values("Order_Lines", ascending=False)
+            subset=["Factory", "Unique_Orders"]
+        ).sort_values("Unique_Orders", ascending=False)
 
         fig_volume = px.bar(
             volume_chart_data,
             x="Factory",
-            y="Order_Lines",
+            y="Unique_Orders",
             color="Factory",
-            text="Order_Lines",
+            text="Unique_Orders",
             color_discrete_sequence=px.colors.qualitative.Vivid,
             labels={
                 "Factory": "Factory",
-                "Order_Lines": "Order lines",
+                "Unique_Orders": "Verified unique orders",
             },
         )
 
@@ -574,21 +763,21 @@ with factory_tab:
         )
 
         fig_volume.update_layout(
-            template="plotly_dark",
             showlegend=False,
             height=400,
             margin=dict(l=15, r=20, t=30, b=75),
             xaxis_title="Factory",
-            yaxis_title="Number of order lines",
+            yaxis_title="Verified unique orders",
             xaxis_tickangle=-20,
         )
 
-        st.plotly_chart(fig_volume, use_container_width=True)
+        st.plotly_chart(fig_volume, width="stretch")
 
         st.caption(
-            "Order-line counts represent product rows in the dataset. "
-            "A single order may contain multiple rows."
-        )
+    "Counts represent geographically verified unique orders "
+    "assigned to each factory, not individual product lines."
+)
+
 
 
     st.divider()
@@ -598,35 +787,32 @@ with factory_tab:
     display_factory_summary = factory_summary.rename(
         columns={
             "Factory": "Factory",
-            "Order_Lines": "Order lines",
-            "Distinct_Orders": "Distinct orders",
+            "Unique_Orders": "Verified unique orders",
             "Mean_Distance_KM": "Mean distance (km)",
             "Median_Distance_KM": "Median distance (km)",
             "Minimum_Distance_KM": "Minimum distance (km)",
             "Maximum_Distance_KM": "Maximum distance (km)",
         }
     )
-
     st.dataframe(
         display_factory_summary,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
     )
 
     st.caption(
-        "An order containing products associated with more than one "
-        "factory may appear in multiple factory groups. Therefore, "
-        "factory-level distinct-order counts should not be added "
-        "together to calculate the overall unique-order count."
+        "Each order maps to exactly one factory in the audited data. "
+        "Factory order counts therefore represent separate groups. "
+        "These counts cover geographically verified orders only."
     )
 
     st.divider()
 
     st.markdown("#### Distance distribution by factory")
 
-    box_data = filtered.dropna(
-        subset=["Straight_Line_Distance_KM", "Factory"]
-    )
+    box_data = verified_orders.dropna(
+    subset=["Straight_Line_Distance_KM", "Factory"]
+).copy()
 
     if not box_data.empty:
         fig_box = px.box(
@@ -664,7 +850,7 @@ with factory_tab:
 
         st.plotly_chart(
             fig_box,
-            use_container_width=True,
+            width="stretch",
         )
 
         st.caption(
@@ -769,17 +955,17 @@ else:
             f"{route_filtered['Order_Lines'].sum():,}",
         )
         metric3.metric(
-            "Distinct orders across groups",
+            "Unique orders",
             f"{route_filtered['Distinct_Orders'].sum():,}",
         )
 
         st.caption(
-            "Distinct orders are summed across factory-destination "
-            "groups. An order can appear in more than one group, so "
-            "this metric is not the total number of unique orders."
+        "Each order maps to one factory-destination group in the "
+        "audited data. Therefore, distinct orders can be summed "
+        "across these groups without double-counting."
         )
 
-        
+
         left_route, right_route = st.columns(2)
 
         # Consistent factory colors for Highest-volume destinations only
@@ -796,13 +982,14 @@ else:
 
             volume_data = route_filtered.copy()
 
-            volume_data["Order_Lines"] = pd.to_numeric(
-                volume_data["Order_Lines"], errors="coerce"
+            volume_data["Distinct_Orders"] = pd.to_numeric(
+                volume_data["Distinct_Orders"],
+                errors="coerce",
             )
 
             volume_data = volume_data.dropna(
-                subset=["Order_Lines", "City", "Factory"]
-            ).nlargest(15, "Order_Lines").copy()
+                subset=["Distinct_Orders", "City", "Factory"]
+            ).nlargest(15, "Distinct_Orders").copy()
 
             if not volume_data.empty:
                 volume_data["Destination"] = (
@@ -812,29 +999,30 @@ else:
                 )
 
                 volume_data = volume_data.sort_values(
-                    "Order_Lines", ascending=False
+                    "Distinct_Orders",
+                    ascending=False,
                 )
 
                 fig_route_volume = px.bar(
                     volume_data,
                     x="Destination",
-                    y="Order_Lines",
+                    y="Distinct_Orders",
                     color="Factory",
                     color_discrete_map=factory_colors,
-                    text="Order_Lines",
+                    text="Distinct_Orders",
                     hover_data=[
-                        "State/Province",
-                        "Postal Code",
-                        "Distinct_Orders",
-                        "Mean_Estimated_Distance_KM",
+                    "Postal Code",
+                    "Order_Lines",
+                    "Distinct_Orders",
+                    "Mean_Estimated_Distance_KM",
                     ],
                     labels={
-                        "Order_Lines": "Order lines",
+                        "Distinct_Orders": "Unique orders",
                         "Destination": "Destination",
                         "Factory": "Factory",
                         "State/Province": "State / province",
                         "Postal Code": "Postal code",
-                        "Distinct_Orders": "Distinct orders",
+                        "Order_Lines": "Product lines",
                         "Mean_Estimated_Distance_KM":
                             "Mean estimated distance (km)",
                     },
@@ -849,7 +1037,7 @@ else:
                 fig_route_volume.update_layout(
                     height=560,
                     xaxis_title="Destination city",
-                    yaxis_title="Order lines",
+                    yaxis_title="Unique orders",
                     xaxis_tickangle=-45,
                     legend_title="Factory",
                     margin=dict(l=15, r=25, t=30, b=140),
@@ -857,7 +1045,7 @@ else:
 
                 st.plotly_chart(
                     fig_route_volume,
-                    use_container_width=True,
+                    width="stretch",
                 )
             else:
                 st.warning(
@@ -932,7 +1120,7 @@ else:
 
                 st.plotly_chart(
                     fig_route_distance,
-                    use_container_width=True,
+                    width="stretch",
                 )
             else:
                 st.warning(
@@ -966,6 +1154,10 @@ if priority_file.exists():
     priority_df["Order_Lines"] = pd.to_numeric(
         priority_df["Order_Lines"],
         errors="coerce",
+    )
+    priority_df["Distinct_Orders"] = pd.to_numeric(
+    priority_df["Distinct_Orders"],
+    errors="coerce",
     )
 
     priority_df["Investigation_Rank"] = pd.to_numeric(
@@ -1024,17 +1216,31 @@ if priority_file.exists():
 
     with metric2:
         st.metric(
-            "Order lines represented",
-            f"{int(filtered_priority['Order_Lines'].sum()):,}",
+            "Unique orders represented",
+            f"{int(filtered_priority['Distinct_Orders'].sum()):,}",
         )
 
     with metric3:
-        if filtered_priority.empty:
+        valid_distance_groups = filtered_priority.dropna(
+            subset=[
+                "Mean_Estimated_Distance_KM",
+                "Distinct_Orders",
+            ]
+        )
+
+        total_orders = valid_distance_groups["Distinct_Orders"].sum()
+
+        if filtered_priority.empty or total_orders == 0:
             st.metric("Mean estimated distance", "N/A")
         else:
+            weighted_mean_distance = (
+                valid_distance_groups["Mean_Estimated_Distance_KM"]
+                * valid_distance_groups["Distinct_Orders"]
+            ).sum() / total_orders
+
             st.metric(
                 "Mean estimated distance",
-                f"{filtered_priority['Mean_Estimated_Distance_KM'].mean():,.1f} km",
+                f"{weighted_mean_distance:,.1f} km",
             )
 
     if filtered_priority.empty:
@@ -1065,7 +1271,7 @@ if priority_file.exists():
             filtered_priority
             .sort_values("Investigation_Rank")
             [display_columns],
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
         )
 
@@ -1227,7 +1433,7 @@ if distance_file.exists():
 
         st.plotly_chart(
             fig_map,
-            use_container_width=True,
+            width="stretch",
         )
 
         st.caption(
@@ -1249,7 +1455,7 @@ if distance_file.exists():
         st.dataframe(
             status_summary,
             hide_index=True,
-            use_container_width=True,
+            width="stretch",
         )
 else:
     st.warning(
@@ -1350,7 +1556,7 @@ with destination_tab:
             ascending=False,
             na_position="last",
         ),
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         height=390,
     )
@@ -1383,37 +1589,36 @@ with destination_tab:
         )
 
         fig_longest = px.bar(
-            longest.sort_values(
-                "Straight_Line_Distance_KM",
-                ascending=True,
-            ),
-            x="Straight_Line_Distance_KM",
-            y="Destination",
-            color="Factory",
-            orientation="h",
-            hover_data=[
-                "Order ID",
-                "Lookup_Status",
-            ],
-            labels={
-                "Straight_Line_Distance_KM": "Distance (km)",
-                "Destination": "Destination",
-                "Factory": "Factory",
-            },
-            color_discrete_sequence=px.colors.qualitative.Bold,
-        )
-
+        longest.sort_values(
+        "Straight_Line_Distance_KM",
+        ascending=False,
+        ),
+        x="Destination",
+        y="Straight_Line_Distance_KM",
+        color="Factory",
+        hover_data=[
+        "Order ID",
+        "Lookup_Status",
+        ],
+        labels={
+        "Straight_Line_Distance_KM": "Distance (km)",
+        "Destination": "Destination",
+        "Factory": "Factory",
+        },
+        color_discrete_map=factory_colors,
+)
         fig_longest.update_layout(
-            height=540,
-            margin=dict(l=10, r=15, t=20, b=35),
-            yaxis_title="",
-            xaxis_title="Straight-line distance (km)",
-            legend_title="Factory",
-        )
+        height=540,
+        margin=dict(l=20, r=20, t=20, b=130),
+        xaxis_title="Destination",
+        yaxis_title="Straight-line distance (km)",
+        xaxis_tickangle=-45,
+        legend_title="Factory",
+      )
 
         st.plotly_chart(
             fig_longest,
-            use_container_width=True,
+            width="stretch",
         )
 
         st.caption(
@@ -1439,7 +1644,7 @@ with destination_tab:
                     "Straight_Line_Distance_KM": "Distance (km)",
                 }
             ),
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
         )
     else:
@@ -1492,7 +1697,7 @@ with destination_tab:
                 "Mean_Distance_KM": "Mean distance (km)",
             }
         ),
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         height=350,
     )
@@ -1536,7 +1741,7 @@ with quality_tab:
         "Maximum (days)": [915, 1277, 1276, 1642],
     })
 
-    st.dataframe(date_audit, hide_index=True, use_container_width=True)
+    st.dataframe(date_audit, hide_index=True, width="stretch")
 
     st.caption(
         "These figures describe differences between recorded dates, "
@@ -1611,7 +1816,7 @@ with quality_tab:
 
         st.plotly_chart(
             fig_status,
-            use_container_width=True,
+            width="stretch",
         )
 
     with quality_right:
@@ -1638,14 +1843,14 @@ with quality_tab:
 
         st.plotly_chart(
             fig_status_pie,
-            use_container_width=True,
+            width="stretch",
         )
 
     st.markdown("#### Geocoding status details")
 
     st.dataframe(
         status_counts.round({"Percentage": 2}),
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
     )
 
@@ -1694,7 +1899,7 @@ with quality_tab:
 
     st.dataframe(
         pd.DataFrame(validation_rows),
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
     )
 

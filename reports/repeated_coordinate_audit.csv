@@ -1,0 +1,4 @@
+Latitude,Longitude,Destination_Count,Postal_Codes,Cities,Countries,Audit_Status
+29.7589382,-95.3676974,2,"77041, 77095",Houston,United States,Repeated coordinate; independent verification required
+33.0558312,-117.2695268,2,92024,"Encinitas, San Diego",United States,Repeated coordinate; independent verification required
+45.5031824,-73.5698065,3,"H1A, H1B, H1C",Montreal,Canada,Repeated coordinate; independent verification required

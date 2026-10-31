@@ -1,0 +1,16 @@
+Product Name,Division,Official Division,Factory,Order_Lines,Distinct_Orders,Division_Match
+Everlasting Gobstopper,Sugar,Sugar,Secret Factory,3,3,True
+Fizzy Lifting Drinks,Sugar,Other,Sugar Shack,6,6,False
+Fun Dip,Sugar,Sugar,Sugar Shack,3,3,True
+Hair Toffee,Sugar,Sugar,The Other Factory,4,4,True
+Kazookles,Other,Other,The Other Factory,96,94,True
+Laffy Taffy,Sugar,Sugar,Sugar Shack,10,10,True
+Lickable Wallpaper,Other,Other,Secret Factory,94,92,True
+Nerds,Sugar,Sugar,Sugar Shack,4,4,True
+SweeTARTS,Sugar,Sugar,Sugar Shack,10,10,True
+Wonka Bar - Fudge Mallows,Chocolate,Chocolate,Lot's O' Nuts,1818,1527,True
+Wonka Bar - Milk Chocolate,Chocolate,Chocolate,Wicked Choccy's,2137,1768,True
+Wonka Bar - Nutty Crunch Surprise,Chocolate,Chocolate,Lot's O' Nuts,1810,1529,True
+Wonka Bar - Triple Dazzle Caramel,Chocolate,Chocolate,Wicked Choccy's,2015,1677,True
+Wonka Bar -Scrumdiddlyumptious,Chocolate,Chocolate,Lot's O' Nuts,2064,1704,True
+Wonka Gum,Other,Other,Secret Factory,120,118,True

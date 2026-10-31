@@ -96,6 +96,24 @@ Some records have ambiguous geocoding results or approximate Canadian postal-are
 
 The project does not establish actual delivery times, road distances, transportation costs, or which shipping mode is fastest.
 
+### Investigation of the Order Date and Ship Date Anomaly
+
+An investigation was conducted after the initial data-quality audit identified unusually large differences between Order Date and Ship Date.
+
+The local dataset was compared against the supplied public reference dataset using Row ID and Order ID as matching keys.
+
+The comparison covered all 10,194 records. All records matched successfully, with no unmatched rows. There were zero differences in Order Date and zero differences in Ship Date between the two datasets.
+
+Further investigation found that all 10,194 records have apparent date intervals exceeding 365 days, ranging from 904 to 1,642 days.
+
+These findings establish that the anomaly is also present in the public reference dataset and is not the result of a discrepancy between the local and reference copies.
+
+However, the available evidence does not establish the cause of the anomaly or identify which date field, if any, contains incorrect values. Therefore, the original dates have been preserved without modification.
+
+Consequently, actual shipping lead-time performance, delivery delays, and time-based route-efficiency rankings cannot be reliably calculated from these date fields. Distance-based analysis is presented separately and must not be interpreted as a measurement of delivery speed or timeliness.
+
+**Status:** Date anomaly confirmed in both datasets; underlying cause unresolved.
+
 ## Documentation
 
 See the `docs/` directory for the research paper and executive summary.
@@ -109,3 +127,21 @@ The `src/` directory contains the analysis and validation scripts. The `reports/
 MOHAMMED OWAIS NAJMUDDIN
 
 https://github.com/mohdowaisnajmuddin
+
+## Dashboard setup and filters
+
+The Streamlit dashboard reads `data/processed/geographically_audited_distances.csv`,
+`data/raw/Nassau Candy Distributor.csv`, and the reports referenced by `app.py`.
+Keep the original project folder structure when running the application.
+
+The sidebar includes factory, geocoding status, country, geographic-validation,
+region, and ship-mode filters, plus an Order Date exploration range. Region,
+Ship Mode, and date attributes are joined from the source dataset by `Order ID`
+after checking that each order has consistent values.
+
+**Important analytical limitation:** the Order Date range is for record
+exploration only. All recorded order-to-ship intervals exceed 365 days and the
+cause is unresolved. The dashboard therefore does not present lead-time
+thresholds, delivery-delay rates, actual delivery timelines, or a delivery
+efficiency score. Straight-line distances are geographic screening estimates,
+not road distances or actual shipping routes.

@@ -4,3 +4,15 @@
 .pytest_cache/
 .env
 .streamlit/secrets.toml
+
+# Large source archives and downloaded packages
+data.zip
+*.zip
+*.zip.zip
+
+# Geographic reference shapefiles (used during analysis, not dashboard runtime)
+data/reference/
+
+# Temporary backups and accidental files
+app_before_geographic_audit.py
+how --format=fuller --no-patch 436967e

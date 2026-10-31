@@ -40,7 +40,7 @@ required_columns = [
     "State/Province",
     "City",
     "Postal Code",
-    "Order_Lines",
+    "Distinct_Orders",
     "Distinct_Orders",
     "Mean_Estimated_Distance_KM",
     "Status_Count_Found",
@@ -154,10 +154,10 @@ df["Has_Missing_Distances"] = (
     df["Missing_Distance_Rows"].fillna(0) > 0
 )
 
-# Percentage of order lines in a group with a flagged status.
+# Percentage of unique orders in a group with a flagged status.
 df["Coordinate_Status_Flag_Rate_Pct"] = (
     df["Coordinate_Status_Flag_Count"]
-    .div(df["Order_Lines"].replace(0, pd.NA))
+    .div(df["Distinct_Orders"].replace(0, pd.NA))
     .mul(100)
 )
 
@@ -169,7 +169,7 @@ df["Coordinate_Status_Flag_Rate_Pct"] = (
 # Use the 75th percentile as a transparent screening threshold.
 # This is an analytical choice, not an official business target.
 
-volume_threshold = df["Order_Lines"].quantile(0.75)
+volume_threshold = df["Distinct_Orders"].quantile(0.75)
 
 distance_values = df[
     "Mean_Estimated_Distance_KM"
@@ -182,7 +182,7 @@ distance_threshold = (
 )
 
 df["High_Volume"] = (
-    df["Order_Lines"] >= volume_threshold
+    df["Distinct_Orders"] >= volume_threshold
 )
 
 if distance_threshold is not None:
@@ -253,7 +253,7 @@ df = df.sort_values(
         "Has_Retry_Found_Matches",
         "High_Volume",
         "Long_Estimated_Distance",
-        "Order_Lines",
+        "Distinct_Orders",
     ],
     ascending=[
         False,
@@ -342,6 +342,7 @@ display_columns = [
     "Factory",
     "City",
     "State/Province",
+    "Distinct_Orders",
     "Order_Lines",
     "Mean_Estimated_Distance_KM",
     "Coordinate_Status_Flag_Count",

@@ -1,53 +1,69 @@
 
+
 from pathlib import Path
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
 
 INPUT_PATH = ROOT / "reports" / "coordinate_match_audit.csv"
-OUTPUT_PATH = ROOT / "reports" / "coordinate_review_queue.csv"
+
+REVIEW_PATH = ROOT / "reports" / "coordinate_review_queue.csv"
+REGISTER_PATH = ROOT / "reports" / "coordinate_verification_register.csv"
 
 df = pd.read_csv(INPUT_PATH, dtype=str)
 
-# Prioritize records already flagged during geocoding.
-flagged_statuses = {"Review", "Retry_Found", "Found_Canada_FSA"}
+# Classify each destination without changing its original coordinates.
+def classify_status(status):
+    if status == "Review":
+        return "Manual review required"
+    if status == "Found_Canada_FSA":
+        return "Approximate postal-area match"
+    if status == "Retry_Found":
+        return "Retry match; verification pending"
+    if status == "Found":
+        return "Matched; independent verification pending"
+    return "Unknown status; investigation required"
 
-df["Review_Reason"] = ""
 
-df.loc[
-    df["Lookup_Status"].isin(flagged_statuses),
-    "Review_Reason"
-] = "Geocoding status requires review"
+df["Verification_Category"] = df["Lookup_Status"].apply(classify_status)
 
-# Keep ordinary Found records in the queue too because they have
-# not been independently verified.
-df.loc[
-    df["Lookup_Status"].eq("Found"),
-    "Review_Reason"
-] = "Independent verification not performed"
-
-review_queue = df[
-    [
-        "City",
-        "State/Province",
-        "Postal Code",
-        "Latitude",
-        "Longitude",
-        "Lookup_Status",
-        "Coordinate_Range_Valid",
-        "Independent_Postal_Verification",
-        "Review_Reason",
-    ]
+# Manual review queue: only records requiring investigation.
+manual_review = df[
+    df["Lookup_Status"].isin(["Review", "Found_Canada_FSA"])
 ].copy()
 
-review_queue.to_csv(OUTPUT_PATH, index=False)
+# Keep all destinations in a separate verification register.
+verification_register = df.copy()
 
-print("Review queue records:", len(review_queue))
-print("\nReview queue by status:")
-print(review_queue["Lookup_Status"].value_counts().to_string())
+columns = [
+    "City",
+    "State/Province",
+    "Postal Code",
+    "Latitude",
+    "Longitude",
+    "Lookup_Status",
+    "Coordinate_Range_Valid",
+    "Independent_Postal_Verification",
+    "Verification_Category",
+]
 
-print("\nReview reasons:")
-print(review_queue["Review_Reason"].value_counts().to_string())
+manual_review[columns].to_csv(REVIEW_PATH, index=False)
+verification_register[columns].to_csv(REGISTER_PATH, index=False)
 
-print(f"\nSaved: {OUTPUT_PATH}")
-print("Original geocoding coordinates were not changed.")
+print("TOTAL DESTINATIONS:", len(df))
+
+print("\nMANUAL REVIEW QUEUE")
+print("Records:", len(manual_review))
+print(manual_review["Lookup_Status"].value_counts().to_string())
+
+print("\nVERIFICATION REGISTER")
+print("Records:", len(verification_register))
+print(
+    verification_register["Verification_Category"]
+    .value_counts()
+    .to_string()
+)
+
+print("\nSaved manual review queue:", REVIEW_PATH)
+print("Saved verification register:", REGISTER_PATH)
+print("\nOriginal geocoding coordinates were not changed.")

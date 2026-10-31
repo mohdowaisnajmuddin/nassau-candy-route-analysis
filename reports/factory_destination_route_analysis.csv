@@ -1,558 +1,558 @@
 Factory,Country/Region,State/Province,City,Postal Code,Order_Lines,Distinct_Orders,Mean_Estimated_Distance_KM,Median_Estimated_Distance_KM,Maximum_Estimated_Distance_KM,Missing_Distance_Rows,Status_Count_Found,Status_Count_Found_Canada_FSA,Status_Count_Retry_Found,Status_Count_Review
-Lot's O' Nuts,United States,New York,New York City,10035,159,129,3450.95,3450.95,3450.95,0,0,0,0,159
-Lot's O' Nuts,United States,New York,New York City,10024,135,115,3447.62,3447.62,3447.62,0,135,0,0,0
-Lot's O' Nuts,United States,New York,New York City,10009,132,111,3446.89,3446.89,3446.89,0,132,0,0,0
-Lot's O' Nuts,United States,California,San Francisco,94122,114,97,1111.38,1111.38,1111.38,0,114,0,0,0
-Lot's O' Nuts,United States,New York,New York City,10011,107,87,3445.4,3445.4,3445.4,0,107,0,0,0
-Lot's O' Nuts,United States,California,San Francisco,94110,101,83,1106.63,1106.63,1106.63,0,101,0,0,0
-Wicked Choccy's,United States,New York,New York City,10035,94,77,1161.09,1161.09,1161.09,0,0,0,0,94
-Lot's O' Nuts,United States,Washington,Seattle,98105,93,78,1866.89,1866.89,1866.89,0,93,0,0,0
-Lot's O' Nuts,United States,Pennsylvania,Philadelphia,19140,91,68,3345.19,3345.19,3345.19,0,91,0,0,0
-Wicked Choccy's,United States,New York,New York City,10009,90,75,1152.16,1152.16,1152.16,0,90,0,0,0
-Lot's O' Nuts,United States,Pennsylvania,Philadelphia,19134,85,67,3348.12,3348.12,3348.12,0,85,0,0,0
-Lot's O' Nuts,United States,California,Los Angeles,90045,84,69,626.95,626.95,626.95,0,84,0,0,0
-Lot's O' Nuts,United States,California,Los Angeles,90049,83,69,635.42,635.42,635.42,0,83,0,0,0
-Wicked Choccy's,United States,New York,New York City,10024,82,67,1157.88,1157.88,1157.88,0,82,0,0,0
-Wicked Choccy's,United States,California,San Francisco,94122,81,68,3794.62,3794.62,3794.62,0,81,0,0,0
-Lot's O' Nuts,United States,Washington,Seattle,98103,79,63,1869.51,1869.51,1869.51,0,79,0,0,0
-Wicked Choccy's,United States,New York,New York City,10011,76,62,1152.62,1152.62,1152.62,0,76,0,0,0
-Wicked Choccy's,United States,California,San Francisco,94109,69,58,3789.84,3789.84,3789.84,0,69,0,0,0
-Lot's O' Nuts,United States,California,San Francisco,94109,69,62,1108.84,1108.84,1108.84,0,69,0,0,0
-Lot's O' Nuts,United States,Ohio,Columbus,43229,68,56,2682.53,2682.53,2682.53,0,68,0,0,0
-Wicked Choccy's,United States,Pennsylvania,Philadelphia,19134,68,54,1030.77,1030.77,1030.77,0,68,0,0,0
-Lot's O' Nuts,United States,California,Los Angeles,90036,68,57,624.84,624.84,624.84,0,68,0,0,0
-Wicked Choccy's,United States,Washington,Seattle,98105,67,57,3861.67,3861.67,3861.67,0,67,0,0,0
-Wicked Choccy's,United States,Washington,Seattle,98103,66,54,3865.14,3865.14,3865.14,0,66,0,0,0
-Lot's O' Nuts,United States,Pennsylvania,Philadelphia,19120,65,59,3347.34,3347.34,3347.34,0,65,0,0,0
-Wicked Choccy's,United States,California,Los Angeles,90049,64,51,3470.87,3470.87,3470.87,0,64,0,0,0
-Lot's O' Nuts,United States,Texas,Houston,77041,62,50,1594.31,1594.31,1594.31,0,0,0,0,62
-Lot's O' Nuts,United States,California,Los Angeles,90008,62,50,621.5,621.5,621.5,0,62,0,0,0
-Wicked Choccy's,United States,California,San Francisco,94110,61,47,3789.8,3789.8,3789.8,0,61,0,0,0
-Lot's O' Nuts,United States,Washington,Seattle,98115,61,54,1868.8,1868.8,1868.8,0,61,0,0,0
-Lot's O' Nuts,United States,Texas,Houston,77095,61,51,1594.31,1594.31,1594.31,0,0,0,0,61
-Lot's O' Nuts,United States,Pennsylvania,Philadelphia,19143,60,53,3338.36,3338.36,3338.36,0,60,0,0,0
-Lot's O' Nuts,United States,Illinois,Chicago,60610,60,50,2345.36,2345.36,2345.36,0,60,0,0,0
-Lot's O' Nuts,United States,Illinois,Chicago,60653,59,53,2344.72,2344.72,2344.72,0,59,0,0,0
-Lot's O' Nuts,United States,California,Los Angeles,90004,59,50,620.1,620.1,620.1,0,59,0,0,0
-Wicked Choccy's,United States,California,Los Angeles,90032,57,46,3443.84,3443.84,3443.84,0,57,0,0,0
-Lot's O' Nuts,United States,Texas,Houston,77070,57,53,1594.92,1594.92,1594.92,0,0,0,0,57
-Wicked Choccy's,United States,Illinois,Chicago,60623,55,52,1235.09,1235.09,1235.09,0,55,0,0,0
-Wicked Choccy's,United States,California,Los Angeles,90045,53,45,3465.86,3465.86,3465.86,0,53,0,0,0
-Wicked Choccy's,United States,California,Los Angeles,90036,52,44,3460.38,3460.38,3460.38,0,52,0,0,0
-Wicked Choccy's,United States,Pennsylvania,Philadelphia,19140,52,45,1030.67,1030.67,1030.67,0,52,0,0,0
-Wicked Choccy's,United States,California,Los Angeles,90004,51,43,3455.39,3455.39,3455.39,0,51,0,0,0
-Lot's O' Nuts,United States,California,Los Angeles,90032,49,45,608.52,608.52,608.52,0,49,0,0,0
-Wicked Choccy's,United States,Texas,Houston,77041,48,39,1385.22,1385.22,1385.22,0,0,0,0,48
-Wicked Choccy's,United States,Ohio,Columbus,43229,48,38,905.22,905.22,905.22,0,48,0,0,0
-Wicked Choccy's,United States,Washington,Seattle,98115,47,42,3862.16,3862.16,3862.16,0,47,0,0,0
-Lot's O' Nuts,United States,Illinois,Chicago,60623,46,42,2337.05,2337.05,2337.05,0,46,0,0,0
-Wicked Choccy's,United States,Pennsylvania,Philadelphia,19143,46,39,1020.99,1020.99,1020.99,0,46,0,0,0
-Lot's O' Nuts,United States,California,San Diego,92105,46,38,498.08,498.08,498.08,0,46,0,0,0
-Wicked Choccy's,United States,California,Los Angeles,90008,45,40,3458.96,3458.96,3458.96,0,45,0,0,0
-Wicked Choccy's,United States,Illinois,Chicago,60610,44,36,1236.95,1236.95,1236.95,0,44,0,0,0
-Wicked Choccy's,United States,Pennsylvania,Philadelphia,19120,42,37,1033.61,1033.61,1033.61,0,42,0,0,0
-Wicked Choccy's,United States,Texas,Houston,77095,41,36,1385.22,1385.22,1385.22,0,0,0,0,41
-Lot's O' Nuts,United States,Florida,Jacksonville,32216,40,35,2864.26,2864.26,2864.26,0,40,0,0,0
-Wicked Choccy's,United States,Arizona,Phoenix,85023,38,33,2890.55,2890.55,2890.55,0,38,0,0,0
-Wicked Choccy's,United States,Illinois,Chicago,60653,38,31,1227.69,1227.69,1227.69,0,38,0,0,0
-Lot's O' Nuts,United States,Texas,Houston,77036,35,30,1580.7,1580.7,1580.7,0,35,0,0,0
-Lot's O' Nuts,United States,Texas,San Antonio,78207,35,26,1316.6,1316.6,1316.6,0,35,0,0,0
-Wicked Choccy's,United States,Texas,Houston,77070,34,30,1384.68,1384.68,1384.68,0,0,0,0,34
-Lot's O' Nuts,United States,Georgia,Columbus,31907,33,31,2507.56,2507.56,2507.56,0,33,0,0,0
-Lot's O' Nuts,United States,California,San Diego,92037,33,30,512.75,512.75,512.75,0,33,0,0,0
-Wicked Choccy's,United States,Florida,Jacksonville,32216,32,25,204.65,204.65,204.65,0,32,0,0,0
-Lot's O' Nuts,United States,Texas,Dallas,75081,31,24,1404.1,1404.1,1404.1,0,31,0,0,0
-Wicked Choccy's,United States,Delaware,Newark,19711,30,22,973.94,973.94,973.94,0,30,0,0,0
-Wicked Choccy's,United States,California,San Diego,92037,29,26,3378.01,3378.01,3378.01,0,29,0,0,0
-Lot's O' Nuts,United States,North Carolina,Charlotte,28205,29,22,2854.37,2854.37,2854.37,0,29,0,0,0
-Wicked Choccy's,United States,Texas,Dallas,75220,28,23,1481.75,1481.75,1481.75,0,28,0,0,0
-Wicked Choccy's,United States,Georgia,Columbus,31907,28,23,361.76,361.76,361.76,0,28,0,0,0
-Lot's O' Nuts,United States,Michigan,Detroit,48227,27,20,2712.97,2712.97,2712.97,0,27,0,0,0
-Wicked Choccy's,United States,Texas,Dallas,75217,27,21,1464.75,1464.75,1464.75,0,27,0,0,0
-Wicked Choccy's,United States,California,San Diego,92105,26,21,3364.6,3364.6,3364.6,0,26,0,0,0
-Lot's O' Nuts,United States,Delaware,Newark,19711,26,24,3293.01,3293.01,3293.01,0,26,0,0,0
-Lot's O' Nuts,United States,Maryland,Baltimore,21215,26,16,3211.56,3211.56,3211.56,0,26,0,0,0
-Lot's O' Nuts,United States,Oregon,Springfield,97477,26,18,1579.41,1579.41,1579.41,0,26,0,0,0
-Wicked Choccy's,United States,Texas,Houston,77036,26,21,1402.36,1402.36,1402.36,0,26,0,0,0
-Lot's O' Nuts,United States,Texas,Dallas,75220,26,19,1390.1,1390.1,1390.1,0,26,0,0,0
-Lot's O' Nuts,United States,Colorado,Denver,80219,26,21,967.92,967.92,967.92,0,26,0,0,0
-Lot's O' Nuts,United States,North Carolina,Jacksonville,28540,25,21,3163.63,3163.63,3163.63,0,25,0,0,0
+Lot's O' Nuts,United States,New York,New York City,10035,159,129,3450.95,3450.95,3450.95,0,0,0,0,129
+Lot's O' Nuts,United States,New York,New York City,10024,135,115,3447.62,3447.62,3447.62,0,115,0,0,0
+Lot's O' Nuts,United States,New York,New York City,10009,132,111,3446.89,3446.89,3446.89,0,111,0,0,0
+Lot's O' Nuts,United States,California,San Francisco,94122,114,97,1111.38,1111.38,1111.38,0,97,0,0,0
+Lot's O' Nuts,United States,New York,New York City,10011,107,87,3445.4,3445.4,3445.4,0,87,0,0,0
+Lot's O' Nuts,United States,California,San Francisco,94110,101,83,1106.63,1106.63,1106.63,0,83,0,0,0
+Wicked Choccy's,United States,New York,New York City,10035,94,77,1161.09,1161.09,1161.09,0,0,0,0,77
+Lot's O' Nuts,United States,Washington,Seattle,98105,93,78,1866.89,1866.89,1866.89,0,78,0,0,0
+Lot's O' Nuts,United States,Pennsylvania,Philadelphia,19140,91,68,3345.19,3345.19,3345.19,0,68,0,0,0
+Wicked Choccy's,United States,New York,New York City,10009,90,75,1152.16,1152.16,1152.16,0,75,0,0,0
+Lot's O' Nuts,United States,Pennsylvania,Philadelphia,19134,85,67,3348.12,3348.12,3348.12,0,67,0,0,0
+Lot's O' Nuts,United States,California,Los Angeles,90045,84,69,626.95,626.95,626.95,0,69,0,0,0
+Lot's O' Nuts,United States,California,Los Angeles,90049,83,69,635.42,635.42,635.42,0,69,0,0,0
+Wicked Choccy's,United States,New York,New York City,10024,82,67,1157.88,1157.88,1157.88,0,67,0,0,0
+Wicked Choccy's,United States,California,San Francisco,94122,81,68,3794.62,3794.62,3794.62,0,68,0,0,0
+Lot's O' Nuts,United States,Washington,Seattle,98103,79,63,1869.51,1869.51,1869.51,0,63,0,0,0
+Wicked Choccy's,United States,New York,New York City,10011,76,62,1152.62,1152.62,1152.62,0,62,0,0,0
+Wicked Choccy's,United States,California,San Francisco,94109,69,58,3789.84,3789.84,3789.84,0,58,0,0,0
+Lot's O' Nuts,United States,California,San Francisco,94109,69,62,1108.84,1108.84,1108.84,0,62,0,0,0
+Lot's O' Nuts,United States,Ohio,Columbus,43229,68,56,2682.53,2682.53,2682.53,0,56,0,0,0
+Wicked Choccy's,United States,Pennsylvania,Philadelphia,19134,68,54,1030.77,1030.77,1030.77,0,54,0,0,0
+Lot's O' Nuts,United States,California,Los Angeles,90036,68,57,624.84,624.84,624.84,0,57,0,0,0
+Wicked Choccy's,United States,Washington,Seattle,98105,67,57,3861.67,3861.67,3861.67,0,57,0,0,0
+Wicked Choccy's,United States,Washington,Seattle,98103,66,54,3865.14,3865.14,3865.14,0,54,0,0,0
+Lot's O' Nuts,United States,Pennsylvania,Philadelphia,19120,65,59,3347.34,3347.34,3347.34,0,59,0,0,0
+Wicked Choccy's,United States,California,Los Angeles,90049,64,51,3470.87,3470.87,3470.87,0,51,0,0,0
+Lot's O' Nuts,United States,Texas,Houston,77041,62,50,1594.31,1594.31,1594.31,0,0,0,0,50
+Lot's O' Nuts,United States,California,Los Angeles,90008,62,50,621.5,621.5,621.5,0,50,0,0,0
+Wicked Choccy's,United States,California,San Francisco,94110,61,47,3789.8,3789.8,3789.8,0,47,0,0,0
+Lot's O' Nuts,United States,Washington,Seattle,98115,61,54,1868.8,1868.8,1868.8,0,54,0,0,0
+Lot's O' Nuts,United States,Texas,Houston,77095,61,51,1594.31,1594.31,1594.31,0,0,0,0,51
+Lot's O' Nuts,United States,Pennsylvania,Philadelphia,19143,60,53,3338.36,3338.36,3338.36,0,53,0,0,0
+Lot's O' Nuts,United States,Illinois,Chicago,60610,60,50,2345.36,2345.36,2345.36,0,50,0,0,0
+Lot's O' Nuts,United States,Illinois,Chicago,60653,59,53,2344.72,2344.72,2344.72,0,53,0,0,0
+Lot's O' Nuts,United States,California,Los Angeles,90004,59,50,620.1,620.1,620.1,0,50,0,0,0
+Wicked Choccy's,United States,California,Los Angeles,90032,57,46,3443.84,3443.84,3443.84,0,46,0,0,0
+Lot's O' Nuts,United States,Texas,Houston,77070,57,53,1594.92,1594.92,1594.92,0,0,0,0,53
+Wicked Choccy's,United States,Illinois,Chicago,60623,55,52,1235.09,1235.09,1235.09,0,52,0,0,0
+Wicked Choccy's,United States,California,Los Angeles,90045,53,45,3465.86,3465.86,3465.86,0,45,0,0,0
+Wicked Choccy's,United States,California,Los Angeles,90036,52,44,3460.38,3460.38,3460.38,0,44,0,0,0
+Wicked Choccy's,United States,Pennsylvania,Philadelphia,19140,52,45,1030.67,1030.67,1030.67,0,45,0,0,0
+Wicked Choccy's,United States,California,Los Angeles,90004,51,43,3455.39,3455.39,3455.39,0,43,0,0,0
+Lot's O' Nuts,United States,California,Los Angeles,90032,49,45,608.52,608.52,608.52,0,45,0,0,0
+Wicked Choccy's,United States,Texas,Houston,77041,48,39,1385.22,1385.22,1385.22,0,0,0,0,39
+Wicked Choccy's,United States,Ohio,Columbus,43229,48,38,905.22,905.22,905.22,0,38,0,0,0
+Wicked Choccy's,United States,Washington,Seattle,98115,47,42,3862.16,3862.16,3862.16,0,42,0,0,0
+Lot's O' Nuts,United States,Illinois,Chicago,60623,46,42,2337.05,2337.05,2337.05,0,42,0,0,0
+Wicked Choccy's,United States,Pennsylvania,Philadelphia,19143,46,39,1020.99,1020.99,1020.99,0,39,0,0,0
+Lot's O' Nuts,United States,California,San Diego,92105,46,38,498.08,498.08,498.08,0,38,0,0,0
+Wicked Choccy's,United States,California,Los Angeles,90008,45,40,3458.96,3458.96,3458.96,0,40,0,0,0
+Wicked Choccy's,United States,Illinois,Chicago,60610,44,36,1236.95,1236.95,1236.95,0,36,0,0,0
+Wicked Choccy's,United States,Pennsylvania,Philadelphia,19120,42,37,1033.61,1033.61,1033.61,0,37,0,0,0
+Wicked Choccy's,United States,Texas,Houston,77095,41,36,1385.22,1385.22,1385.22,0,0,0,0,36
+Lot's O' Nuts,United States,Florida,Jacksonville,32216,40,35,2864.26,2864.26,2864.26,0,35,0,0,0
+Wicked Choccy's,United States,Arizona,Phoenix,85023,38,33,2890.55,2890.55,2890.55,0,33,0,0,0
+Wicked Choccy's,United States,Illinois,Chicago,60653,38,31,1227.69,1227.69,1227.69,0,31,0,0,0
+Lot's O' Nuts,United States,Texas,Houston,77036,35,30,1580.7,1580.7,1580.7,0,30,0,0,0
+Lot's O' Nuts,United States,Texas,San Antonio,78207,35,26,1316.6,1316.6,1316.6,0,26,0,0,0
+Wicked Choccy's,United States,Texas,Houston,77070,34,30,1384.68,1384.68,1384.68,0,0,0,0,30
+Lot's O' Nuts,United States,Georgia,Columbus,31907,33,31,2507.56,2507.56,2507.56,0,31,0,0,0
+Lot's O' Nuts,United States,California,San Diego,92037,33,30,512.75,512.75,512.75,0,30,0,0,0
+Wicked Choccy's,United States,Florida,Jacksonville,32216,32,25,204.65,204.65,204.65,0,25,0,0,0
+Lot's O' Nuts,United States,Texas,Dallas,75081,31,24,1404.1,1404.1,1404.1,0,24,0,0,0
+Wicked Choccy's,United States,Delaware,Newark,19711,30,22,973.94,973.94,973.94,0,22,0,0,0
+Wicked Choccy's,United States,California,San Diego,92037,29,26,3378.01,3378.01,3378.01,0,26,0,0,0
+Lot's O' Nuts,United States,North Carolina,Charlotte,28205,29,22,2854.37,2854.37,2854.37,0,22,0,0,0
+Wicked Choccy's,United States,Texas,Dallas,75220,28,23,1481.75,1481.75,1481.75,0,23,0,0,0
+Wicked Choccy's,United States,Georgia,Columbus,31907,28,23,361.76,361.76,361.76,0,23,0,0,0
+Lot's O' Nuts,United States,Michigan,Detroit,48227,27,20,2712.97,2712.97,2712.97,0,20,0,0,0
+Wicked Choccy's,United States,Texas,Dallas,75217,27,21,1464.75,1464.75,1464.75,0,21,0,0,0
+Wicked Choccy's,United States,California,San Diego,92105,26,21,3364.6,3364.6,3364.6,0,21,0,0,0
+Lot's O' Nuts,United States,Delaware,Newark,19711,26,24,3293.01,3293.01,3293.01,0,24,0,0,0
+Lot's O' Nuts,United States,Maryland,Baltimore,21215,26,16,3211.56,3211.56,3211.56,0,16,0,0,0
+Lot's O' Nuts,United States,Oregon,Springfield,97477,26,18,1579.41,1579.41,1579.41,0,18,0,0,0
+Wicked Choccy's,United States,Texas,Houston,77036,26,21,1402.36,1402.36,1402.36,0,21,0,0,0
+Lot's O' Nuts,United States,Texas,Dallas,75220,26,19,1390.1,1390.1,1390.1,0,19,0,0,0
+Lot's O' Nuts,United States,Colorado,Denver,80219,26,21,967.92,967.92,967.92,0,21,0,0,0
+Lot's O' Nuts,United States,North Carolina,Jacksonville,28540,25,21,3163.63,3163.63,3163.63,0,21,0,0,0
 Lot's O' Nuts,United States,Texas,Dallas,75217,25,25,1408.65,1408.65,1408.65,0,25,0,0,0
-Lot's O' Nuts,United States,Georgia,Atlanta,30318,24,19,2532.89,2532.89,2532.89,0,24,0,0,0
-Lot's O' Nuts,United States,Wisconsin,Milwaukee,53209,24,17,2365.43,2365.43,2365.43,0,24,0,0,0
-Lot's O' Nuts,United States,Kentucky,Henderson,42420,24,19,2254.95,2254.95,2254.95,0,24,0,0,0
-Wicked Choccy's,United States,Texas,San Antonio,78207,24,20,1690.13,1690.13,1690.13,0,24,0,0,0
-Wicked Choccy's,United States,Michigan,Detroit,48227,24,18,1161.4,1161.4,1161.4,0,24,0,0,0
-Lot's O' Nuts,United States,California,San Jose,95123,24,22,1035.21,1035.21,1035.21,0,24,0,0,0
-Wicked Choccy's,United States,North Carolina,Jacksonville,28540,24,21,451.26,451.26,451.26,0,24,0,0,0
-Lot's O' Nuts,United States,Arizona,Phoenix,85023,24,22,89.3,89.3,89.3,0,24,0,0,0
-Lot's O' Nuts,United States,Ohio,Newark,43055,23,18,2729.62,2729.62,2729.62,0,23,0,0,0
-Lot's O' Nuts,United States,Kentucky,Richmond,40475,23,18,2540.21,2540.21,2540.21,0,23,0,0,0
-Wicked Choccy's,United States,North Carolina,Charlotte,28205,23,20,350.96,350.96,350.96,0,23,0,0,0
-Lot's O' Nuts,United States,Virginia,Springfield,22153,22,20,3167.39,3167.39,3167.39,0,0,0,0,22
-Lot's O' Nuts,United States,Ohio,Cleveland,44105,22,21,2818.35,2818.35,2818.35,0,22,0,0,0
-Lot's O' Nuts,United States,Michigan,Detroit,48234,22,17,2725.78,2725.78,2725.78,0,22,0,0,0
-Lot's O' Nuts,United States,Mississippi,Jackson,39212,22,18,2013.23,2013.23,2013.23,0,22,0,0,0
-Lot's O' Nuts,United States,Texas,Austin,78745,22,20,1356.21,1356.21,1356.21,0,22,0,0,0
-Wicked Choccy's,United States,Kentucky,Henderson,42420,22,17,869.82,869.82,869.82,0,22,0,0,0
-Wicked Choccy's,United States,Virginia,Springfield,22153,22,16,819.71,819.71,819.71,0,0,0,0,22
-Lot's O' Nuts,United States,California,Long Beach,90805,22,17,604.73,604.73,604.73,0,22,0,0,0
-Lot's O' Nuts,United States,Indiana,Columbus,47201,21,18,2418.28,2418.28,2418.28,0,21,0,0,0
-Lot's O' Nuts,United States,Missouri,Springfield,65807,21,16,1744.47,1744.47,1744.47,0,21,0,0,0
-Lot's O' Nuts,United States,Colorado,Aurora,80013,21,17,979.34,979.34,979.34,0,21,0,0,0
-Lot's O' Nuts,United States,Florida,Tampa,33614,20,14,2854.14,2854.14,2854.14,0,20,0,0,0
-Lot's O' Nuts,United States,Ohio,Springfield,45503,20,16,2612.05,2612.05,2612.05,0,20,0,0,0
-Wicked Choccy's,United States,California,San Diego,92024,19,17,3375.51,3375.51,3375.51,0,19,0,0,0
-Lot's O' Nuts,United States,New York,Rochester,14609,19,18,3180.3,3180.3,3180.3,0,19,0,0,0
-Lot's O' Nuts,United States,Ohio,Lancaster,43130,19,16,2708.21,2708.21,2708.21,0,19,0,0,0
-Lot's O' Nuts,United States,Illinois,Aurora,60505,19,14,2288.21,2288.21,2288.21,0,19,0,0,0
-Lot's O' Nuts,United States,California,Anaheim,92804,19,12,585.72,585.72,585.72,0,19,0,0,0
-Lot's O' Nuts,United States,New York,Long Beach,11561,18,16,3472.81,3472.81,3472.81,0,18,0,0,0
-Lot's O' Nuts,United States,North Carolina,Fayetteville,28314,18,13,3017.49,3017.49,3017.49,0,18,0,0,0
-Lot's O' Nuts,United States,Michigan,Jackson,49201,18,15,2615.58,2615.58,2615.58,0,18,0,0,0
-Lot's O' Nuts,United States,Tennessee,Knoxville,37918,18,15,2567.72,2567.72,2567.72,0,18,0,0,0
-Lot's O' Nuts,United States,Nebraska,Omaha,68104,18,15,1677.86,1677.86,1677.86,0,18,0,0,0
-Wicked Choccy's,United States,Wisconsin,Milwaukee,53209,18,17,1367.33,1367.33,1367.33,0,18,0,0,0
-Wicked Choccy's,United States,Ohio,Cleveland,44105,18,15,1043.87,1043.87,1043.87,0,18,0,0,0
-Wicked Choccy's,United States,California,San Jose,95123,17,14,3740.99,3740.99,3740.99,0,17,0,0,0
-Lot's O' Nuts,United States,Massachusetts,Lawrence,1841,17,14,3691.92,3691.92,3691.92,0,17,0,0,0
-Lot's O' Nuts,United States,Florida,Miami,33180,17,11,3145.14,3145.14,3145.14,0,17,0,0,0
-Lot's O' Nuts,United States,Michigan,Detroit,48205,17,15,2731.5,2731.5,2731.5,0,17,0,0,0
-Lot's O' Nuts,United States,Indiana,Indianapolis,46203,17,14,2412.03,2412.03,2412.03,0,17,0,0,0
-Lot's O' Nuts,United States,Tennessee,Memphis,38109,17,11,2011.51,2011.51,2011.51,0,17,0,0,0
-Lot's O' Nuts,United States,Oklahoma,Tulsa,74133,17,13,1496.47,1496.47,1496.47,0,17,0,0,0
-Wicked Choccy's,United States,Texas,Dallas,75081,17,14,1467.01,1467.01,1467.01,0,17,0,0,0
-Lot's O' Nuts,United States,Texas,Fort Worth,76106,17,15,1345.8,1345.8,1345.8,0,17,0,0,0
-Wicked Choccy's,United States,Missouri,Springfield,65807,17,15,1251.17,1251.17,1251.17,0,17,0,0,0
-Wicked Choccy's,United States,Maryland,Baltimore,21215,17,14,900.56,900.56,900.56,0,17,0,0,0
-Lot's O' Nuts,United States,Maryland,Clinton,20735,16,13,3191.04,3191.04,3191.04,0,16,0,0,0
-Lot's O' Nuts,United States,Virginia,Arlington,22204,16,15,3174.46,3174.46,3174.46,0,16,0,0,0
-Lot's O' Nuts,United States,Kentucky,Louisville,40214,16,14,2415.37,2415.37,2415.37,0,16,0,0,0
-Lot's O' Nuts,United States,Texas,Huntsville,77340,16,11,1551.1,1551.1,1551.1,0,16,0,0,0
-Lot's O' Nuts,United States,Texas,Arlington,76017,16,14,1364.78,1364.78,1364.78,0,16,0,0,0
-Lot's O' Nuts,United States,Oklahoma,Oklahoma City,73120,16,13,1340.96,1340.96,1340.96,0,16,0,0,0
-Wicked Choccy's,United States,New York,Rochester,14609,16,14,1272.11,1272.11,1272.11,0,16,0,0,0
-Lot's O' Nuts,United States,California,Oakland,94601,16,12,1092.39,1092.39,1092.39,0,16,0,0,0
-Wicked Choccy's,United States,Kentucky,Louisville,40214,16,11,799.28,799.28,799.28,0,16,0,0,0
-Wicked Choccy's,United States,Tennessee,Nashville,37211,16,12,682.66,682.66,682.66,0,16,0,0,0
-Wicked Choccy's,United States,Florida,Tampa,33614,16,13,477.92,477.92,477.92,0,16,0,0,0
-Lot's O' Nuts,United States,Arizona,Tucson,85705,16,13,101.69,101.69,101.69,0,16,0,0,0
-Lot's O' Nuts,United States,Arizona,Glendale,85301,16,14,81.74,81.74,81.74,0,16,0,0,0
-Lot's O' Nuts,United States,Massachusetts,Everett,2149,15,11,3698.95,3698.95,3698.95,0,15,0,0,0
-Lot's O' Nuts,United States,Virginia,Richmond,23223,15,12,3144.16,3144.16,3144.16,0,15,0,0,0
-Lot's O' Nuts,United States,North Carolina,Raleigh,27604,15,12,3048.54,3048.54,3048.54,0,15,0,0,0
-Wicked Choccy's,United States,Arizona,Tucson,85705,15,12,2804.34,2804.34,2804.34,0,15,0,0,0
-Lot's O' Nuts,United States,Georgia,Roswell,30076,15,12,2542.25,2542.25,2542.25,0,15,0,0,0
-Wicked Choccy's,United States,Texas,Austin,78745,15,13,1601.54,1601.54,1601.54,0,15,0,0,0
-Wicked Choccy's,United States,Massachusetts,Lawrence,1841,15,9,1469.5,1469.5,1469.5,0,15,0,0,0
-Wicked Choccy's,United States,Illinois,Aurora,60505,15,14,1252.01,1252.01,1252.01,0,15,0,0,0
-Wicked Choccy's,United States,Michigan,Jackson,49201,15,13,1165.6,1165.6,1165.6,0,15,0,0,0
-Wicked Choccy's,United States,New York,Long Beach,11561,15,14,1155.65,1155.65,1155.65,0,15,0,0,0
-Wicked Choccy's,United States,Indiana,Richmond,47374,15,8,927.24,927.24,927.24,0,15,0,0,0
-Lot's O' Nuts,United States,Colorado,Colorado Springs,80906,15,12,906.78,906.78,906.78,0,15,0,0,0
-Wicked Choccy's,United States,Virginia,Arlington,22204,15,13,836.5,836.5,836.5,0,15,0,0,0
-Wicked Choccy's,United States,South Carolina,Columbia,29203,15,10,214.06,214.06,214.06,0,15,0,0,0
-Lot's O' Nuts,United States,Arizona,Mesa,85204,15,13,57.7,57.7,57.7,0,15,0,0,0
-Lot's O' Nuts,United States,Rhode Island,Providence,2908,14,12,3666.39,3666.39,3666.39,0,14,0,0,0
-Lot's O' Nuts,Canada,Quebec,Montreal,H1A,14,12,3537.06,3537.06,3537.06,0,14,0,0,0
-Lot's O' Nuts,United States,Delaware,Wilmington,19805,14,12,3309.5,3309.5,3309.5,0,14,0,0,0
-Lot's O' Nuts,United States,Ohio,Toledo,43615,14,12,2666.74,2666.74,2666.74,0,14,0,0,0
-Wicked Choccy's,United States,Rhode Island,Providence,2908,14,11,1381.54,1381.54,1381.54,0,14,0,0,0
-Wicked Choccy's,Canada,Ontario,Toronto,M3C,14,5,1304.11,1304.11,1304.11,0,0,14,0,0
-Wicked Choccy's,United States,Ohio,Toledo,43615,14,12,1086.81,1086.81,1086.81,0,14,0,0,0
-Wicked Choccy's,United States,Ohio,Springfield,45503,14,12,908.52,908.52,908.52,0,14,0,0,0
+Lot's O' Nuts,United States,Georgia,Atlanta,30318,24,19,2532.89,2532.89,2532.89,0,19,0,0,0
+Lot's O' Nuts,United States,Wisconsin,Milwaukee,53209,24,17,2365.43,2365.43,2365.43,0,17,0,0,0
+Lot's O' Nuts,United States,Kentucky,Henderson,42420,24,19,2254.95,2254.95,2254.95,0,19,0,0,0
+Wicked Choccy's,United States,Texas,San Antonio,78207,24,20,1690.13,1690.13,1690.13,0,20,0,0,0
+Wicked Choccy's,United States,Michigan,Detroit,48227,24,18,1161.4,1161.4,1161.4,0,18,0,0,0
+Lot's O' Nuts,United States,California,San Jose,95123,24,22,1035.21,1035.21,1035.21,0,22,0,0,0
+Wicked Choccy's,United States,North Carolina,Jacksonville,28540,24,21,451.26,451.26,451.26,0,21,0,0,0
+Lot's O' Nuts,United States,Arizona,Phoenix,85023,24,22,89.3,89.3,89.3,0,22,0,0,0
+Lot's O' Nuts,United States,Ohio,Newark,43055,23,18,2729.62,2729.62,2729.62,0,18,0,0,0
+Lot's O' Nuts,United States,Kentucky,Richmond,40475,23,18,2540.21,2540.21,2540.21,0,18,0,0,0
+Wicked Choccy's,United States,North Carolina,Charlotte,28205,23,20,350.96,350.96,350.96,0,20,0,0,0
+Lot's O' Nuts,United States,Virginia,Springfield,22153,22,20,3167.39,3167.39,3167.39,0,0,0,0,20
+Lot's O' Nuts,United States,Ohio,Cleveland,44105,22,21,2818.35,2818.35,2818.35,0,21,0,0,0
+Lot's O' Nuts,United States,Michigan,Detroit,48234,22,17,2725.78,2725.78,2725.78,0,17,0,0,0
+Lot's O' Nuts,United States,Mississippi,Jackson,39212,22,18,2013.23,2013.23,2013.23,0,18,0,0,0
+Lot's O' Nuts,United States,Texas,Austin,78745,22,20,1356.21,1356.21,1356.21,0,20,0,0,0
+Wicked Choccy's,United States,Kentucky,Henderson,42420,22,17,869.82,869.82,869.82,0,17,0,0,0
+Wicked Choccy's,United States,Virginia,Springfield,22153,22,16,819.71,819.71,819.71,0,0,0,0,16
+Lot's O' Nuts,United States,California,Long Beach,90805,22,17,604.73,604.73,604.73,0,17,0,0,0
+Lot's O' Nuts,United States,Indiana,Columbus,47201,21,18,2418.28,2418.28,2418.28,0,18,0,0,0
+Lot's O' Nuts,United States,Missouri,Springfield,65807,21,16,1744.47,1744.47,1744.47,0,16,0,0,0
+Lot's O' Nuts,United States,Colorado,Aurora,80013,21,17,979.34,979.34,979.34,0,17,0,0,0
+Lot's O' Nuts,United States,Florida,Tampa,33614,20,14,2854.14,2854.14,2854.14,0,14,0,0,0
+Lot's O' Nuts,United States,Ohio,Springfield,45503,20,16,2612.05,2612.05,2612.05,0,16,0,0,0
+Wicked Choccy's,United States,California,San Diego,92024,19,17,3375.51,3375.51,3375.51,0,17,0,0,0
+Lot's O' Nuts,United States,New York,Rochester,14609,19,18,3180.3,3180.3,3180.3,0,18,0,0,0
+Lot's O' Nuts,United States,Ohio,Lancaster,43130,19,16,2708.21,2708.21,2708.21,0,16,0,0,0
+Lot's O' Nuts,United States,Illinois,Aurora,60505,19,14,2288.21,2288.21,2288.21,0,14,0,0,0
+Lot's O' Nuts,United States,California,Anaheim,92804,19,12,585.72,585.72,585.72,0,12,0,0,0
+Lot's O' Nuts,United States,New York,Long Beach,11561,18,16,3472.81,3472.81,3472.81,0,16,0,0,0
+Lot's O' Nuts,United States,North Carolina,Fayetteville,28314,18,13,3017.49,3017.49,3017.49,0,13,0,0,0
+Lot's O' Nuts,United States,Michigan,Jackson,49201,18,15,2615.58,2615.58,2615.58,0,15,0,0,0
+Lot's O' Nuts,United States,Tennessee,Knoxville,37918,18,15,2567.72,2567.72,2567.72,0,15,0,0,0
+Lot's O' Nuts,United States,Nebraska,Omaha,68104,18,15,1677.86,1677.86,1677.86,0,15,0,0,0
+Wicked Choccy's,United States,Wisconsin,Milwaukee,53209,18,17,1367.33,1367.33,1367.33,0,17,0,0,0
+Wicked Choccy's,United States,Ohio,Cleveland,44105,18,15,1043.87,1043.87,1043.87,0,15,0,0,0
+Wicked Choccy's,United States,California,San Jose,95123,17,14,3740.99,3740.99,3740.99,0,14,0,0,0
+Lot's O' Nuts,United States,Massachusetts,Lawrence,1841,17,14,3691.92,3691.92,3691.92,0,14,0,0,0
+Lot's O' Nuts,United States,Florida,Miami,33180,17,11,3145.14,3145.14,3145.14,0,11,0,0,0
+Lot's O' Nuts,United States,Michigan,Detroit,48205,17,15,2731.5,2731.5,2731.5,0,15,0,0,0
+Lot's O' Nuts,United States,Indiana,Indianapolis,46203,17,14,2412.03,2412.03,2412.03,0,14,0,0,0
+Lot's O' Nuts,United States,Tennessee,Memphis,38109,17,11,2011.51,2011.51,2011.51,0,11,0,0,0
+Lot's O' Nuts,United States,Oklahoma,Tulsa,74133,17,13,1496.47,1496.47,1496.47,0,13,0,0,0
+Wicked Choccy's,United States,Texas,Dallas,75081,17,14,1467.01,1467.01,1467.01,0,14,0,0,0
+Lot's O' Nuts,United States,Texas,Fort Worth,76106,17,15,1345.8,1345.8,1345.8,0,15,0,0,0
+Wicked Choccy's,United States,Missouri,Springfield,65807,17,15,1251.17,1251.17,1251.17,0,15,0,0,0
+Wicked Choccy's,United States,Maryland,Baltimore,21215,17,14,900.56,900.56,900.56,0,14,0,0,0
+Lot's O' Nuts,United States,Maryland,Clinton,20735,16,13,3191.04,3191.04,3191.04,0,13,0,0,0
+Lot's O' Nuts,United States,Virginia,Arlington,22204,16,15,3174.46,3174.46,3174.46,0,15,0,0,0
+Lot's O' Nuts,United States,Kentucky,Louisville,40214,16,14,2415.37,2415.37,2415.37,0,14,0,0,0
+Lot's O' Nuts,United States,Texas,Huntsville,77340,16,11,1551.1,1551.1,1551.1,0,11,0,0,0
+Lot's O' Nuts,United States,Texas,Arlington,76017,16,14,1364.78,1364.78,1364.78,0,14,0,0,0
+Lot's O' Nuts,United States,Oklahoma,Oklahoma City,73120,16,13,1340.96,1340.96,1340.96,0,13,0,0,0
+Wicked Choccy's,United States,New York,Rochester,14609,16,14,1272.11,1272.11,1272.11,0,14,0,0,0
+Lot's O' Nuts,United States,California,Oakland,94601,16,12,1092.39,1092.39,1092.39,0,12,0,0,0
+Wicked Choccy's,United States,Kentucky,Louisville,40214,16,11,799.28,799.28,799.28,0,11,0,0,0
+Wicked Choccy's,United States,Tennessee,Nashville,37211,16,12,682.66,682.66,682.66,0,12,0,0,0
+Wicked Choccy's,United States,Florida,Tampa,33614,16,13,477.92,477.92,477.92,0,13,0,0,0
+Lot's O' Nuts,United States,Arizona,Tucson,85705,16,13,101.69,101.69,101.69,0,13,0,0,0
+Lot's O' Nuts,United States,Arizona,Glendale,85301,16,14,81.74,81.74,81.74,0,14,0,0,0
+Lot's O' Nuts,United States,Massachusetts,Everett,2149,15,11,3698.95,3698.95,3698.95,0,11,0,0,0
+Lot's O' Nuts,United States,Virginia,Richmond,23223,15,12,3144.16,3144.16,3144.16,0,12,0,0,0
+Lot's O' Nuts,United States,North Carolina,Raleigh,27604,15,12,3048.54,3048.54,3048.54,0,12,0,0,0
+Wicked Choccy's,United States,Arizona,Tucson,85705,15,12,2804.34,2804.34,2804.34,0,12,0,0,0
+Lot's O' Nuts,United States,Georgia,Roswell,30076,15,12,2542.25,2542.25,2542.25,0,12,0,0,0
+Wicked Choccy's,United States,Texas,Austin,78745,15,13,1601.54,1601.54,1601.54,0,13,0,0,0
+Wicked Choccy's,United States,Massachusetts,Lawrence,1841,15,9,1469.5,1469.5,1469.5,0,9,0,0,0
+Wicked Choccy's,United States,Illinois,Aurora,60505,15,14,1252.01,1252.01,1252.01,0,14,0,0,0
+Wicked Choccy's,United States,Michigan,Jackson,49201,15,13,1165.6,1165.6,1165.6,0,13,0,0,0
+Wicked Choccy's,United States,New York,Long Beach,11561,15,14,1155.65,1155.65,1155.65,0,14,0,0,0
+Wicked Choccy's,United States,Indiana,Richmond,47374,15,8,927.24,927.24,927.24,0,8,0,0,0
+Lot's O' Nuts,United States,Colorado,Colorado Springs,80906,15,12,906.78,906.78,906.78,0,12,0,0,0
+Wicked Choccy's,United States,Virginia,Arlington,22204,15,13,836.5,836.5,836.5,0,13,0,0,0
+Wicked Choccy's,United States,South Carolina,Columbia,29203,15,10,214.06,214.06,214.06,0,10,0,0,0
+Lot's O' Nuts,United States,Arizona,Mesa,85204,15,13,57.7,57.7,57.7,0,13,0,0,0
+Lot's O' Nuts,United States,Rhode Island,Providence,2908,14,12,3666.39,3666.39,3666.39,0,12,0,0,0
+Lot's O' Nuts,Canada,Quebec,Montreal,H1A,14,12,3537.06,3537.06,3537.06,0,12,0,0,0
+Lot's O' Nuts,United States,Delaware,Wilmington,19805,14,12,3309.5,3309.5,3309.5,0,12,0,0,0
+Lot's O' Nuts,United States,Ohio,Toledo,43615,14,12,2666.74,2666.74,2666.74,0,12,0,0,0
+Wicked Choccy's,United States,Rhode Island,Providence,2908,14,11,1381.54,1381.54,1381.54,0,11,0,0,0
+Wicked Choccy's,Canada,Ontario,Toronto,M3C,14,5,1304.11,1304.11,1304.11,0,0,5,0,0
+Wicked Choccy's,United States,Ohio,Toledo,43615,14,12,1086.81,1086.81,1086.81,0,12,0,0,0
+Wicked Choccy's,United States,Ohio,Springfield,45503,14,12,908.52,908.52,908.52,0,12,0,0,0
 Lot's O' Nuts,United States,California,San Diego,92024,14,14,513.53,513.53,513.53,0,14,0,0,0
-Wicked Choccy's,United States,Georgia,Atlanta,30318,14,10,366.55,366.55,366.55,0,14,0,0,0
-Wicked Choccy's,United States,California,Fresno,93727,13,10,3557.01,3557.01,3557.01,0,13,0,0,0
-Wicked Choccy's,United States,Arizona,Mesa,85204,13,9,2864.82,2864.82,2864.82,0,13,0,0,0
-Lot's O' Nuts,United States,South Carolina,Columbia,29203,13,10,2843.63,2843.63,2843.63,0,13,0,0,0
-Lot's O' Nuts,United States,Ohio,Akron,44312,13,9,2820.66,2820.66,2820.66,0,13,0,0,0
-Lot's O' Nuts,United States,Indiana,Richmond,47374,13,12,2516.76,2516.76,2516.76,0,13,0,0,0
-Wicked Choccy's,United States,Colorado,Aurora,80013,13,10,2286.41,2286.41,2286.41,0,13,0,0,0
-Lot's O' Nuts,United States,Illinois,Decatur,62521,13,12,2179.06,2179.06,2179.06,0,13,0,0,0
-Lot's O' Nuts,United States,Minnesota,Minneapolis,55407,13,11,2079.97,2079.97,2079.97,0,13,0,0,0
-Lot's O' Nuts,United States,Louisiana,Lafayette,70506,13,12,1887.76,1887.76,1887.76,0,13,0,0,0
+Wicked Choccy's,United States,Georgia,Atlanta,30318,14,10,366.55,366.55,366.55,0,10,0,0,0
+Wicked Choccy's,United States,California,Fresno,93727,13,10,3557.01,3557.01,3557.01,0,10,0,0,0
+Wicked Choccy's,United States,Arizona,Mesa,85204,13,9,2864.82,2864.82,2864.82,0,9,0,0,0
+Lot's O' Nuts,United States,South Carolina,Columbia,29203,13,10,2843.63,2843.63,2843.63,0,10,0,0,0
+Lot's O' Nuts,United States,Ohio,Akron,44312,13,9,2820.66,2820.66,2820.66,0,9,0,0,0
+Lot's O' Nuts,United States,Indiana,Richmond,47374,13,12,2516.76,2516.76,2516.76,0,12,0,0,0
+Wicked Choccy's,United States,Colorado,Aurora,80013,13,10,2286.41,2286.41,2286.41,0,10,0,0,0
+Lot's O' Nuts,United States,Illinois,Decatur,62521,13,12,2179.06,2179.06,2179.06,0,12,0,0,0
+Lot's O' Nuts,United States,Minnesota,Minneapolis,55407,13,11,2079.97,2079.97,2079.97,0,11,0,0,0
+Lot's O' Nuts,United States,Louisiana,Lafayette,70506,13,12,1887.76,1887.76,1887.76,0,12,0,0,0
 Lot's O' Nuts,United States,Oregon,Portland,97206,13,13,1680.28,1680.28,1680.28,0,13,0,0,0
-Lot's O' Nuts,United States,Oregon,Salem,97301,13,10,1653.54,1653.54,1653.54,0,13,0,0,0
-Wicked Choccy's,United States,Michigan,Detroit,48234,13,11,1164.52,1164.52,1164.52,0,13,0,0,0
-Wicked Choccy's,United States,Delaware,Wilmington,19805,13,9,986.63,986.63,986.63,0,13,0,0,0
-Lot's O' Nuts,United States,California,Fresno,93727,13,11,842.04,842.04,842.04,0,13,0,0,0
-Lot's O' Nuts,United States,California,Pasadena,91104,13,11,605.88,605.88,605.88,0,13,0,0,0
-Lot's O' Nuts,United States,California,Westminster,92683,13,6,586.58,586.58,586.58,0,13,0,0,0
-Wicked Choccy's,United States,Oregon,Salem,97301,12,9,3866.73,3866.73,3866.73,0,12,0,0,0
-Lot's O' Nuts,United States,Rhode Island,Cranston,2920,12,7,3664.21,3664.21,3664.21,0,12,0,0,0
-Wicked Choccy's,United States,California,Pasadena,91104,12,10,3437.82,3437.82,3437.82,0,12,0,0,0
-Lot's O' Nuts,United States,Maryland,Columbia,21044,12,10,3195.69,3195.69,3195.69,0,12,0,0,0
-Lot's O' Nuts,United States,Florida,Hialeah,33012,12,11,3134.65,3134.65,3134.65,0,12,0,0,0
-Lot's O' Nuts,United States,Georgia,Sandy Springs,30328,12,8,2537.15,2537.15,2537.15,0,12,0,0,0
-Lot's O' Nuts,United States,Tennessee,Nashville,37211,12,11,2316.63,2316.63,2316.63,0,12,0,0,0
-Wicked Choccy's,United States,Colorado,Denver,80219,12,7,2308.87,2308.87,2308.87,0,12,0,0,0
-Lot's O' Nuts,United States,Tennessee,Columbia,38401,12,11,2287.38,2287.38,2287.38,0,12,0,0,0
-Wicked Choccy's,Canada,Quebec,Quebec City,G1B,12,5,1841.86,1841.86,1841.86,0,12,0,0,0
-Wicked Choccy's,Canada,Ontario,Toronto,M7A,12,8,1295.92,1295.92,1295.92,0,12,0,0,0
-Wicked Choccy's,United States,Arkansas,Little Rock,72209,12,7,1084.37,1084.37,1084.37,0,12,0,0,0
-Lot's O' Nuts,United States,Colorado,Louisville,80027,12,9,984.41,984.41,984.41,0,12,0,0,0
-Wicked Choccy's,United States,Indiana,Columbus,47201,12,11,904.33,904.33,904.33,0,12,0,0,0
-Wicked Choccy's,United States,Ohio,Newark,43055,12,8,896.83,896.83,896.83,0,12,0,0,0
-Wicked Choccy's,United States,Tennessee,Memphis,38109,12,9,896.04,896.04,896.04,0,12,0,0,0
-Wicked Choccy's,United States,Ohio,Lancaster,43130,12,10,860.69,860.69,860.69,0,12,0,0,0
-Wicked Choccy's,United States,Maryland,Clinton,20735,12,8,834.82,834.82,834.82,0,12,0,0,0
-Lot's O' Nuts,United States,California,Bakersfield,93309,12,9,724.7,724.7,724.7,0,12,0,0,0
-Wicked Choccy's,United States,Oregon,Springfield,97477,11,10,3856.55,3856.55,3856.55,0,11,0,0,0
+Lot's O' Nuts,United States,Oregon,Salem,97301,13,10,1653.54,1653.54,1653.54,0,10,0,0,0
+Wicked Choccy's,United States,Michigan,Detroit,48234,13,11,1164.52,1164.52,1164.52,0,11,0,0,0
+Wicked Choccy's,United States,Delaware,Wilmington,19805,13,9,986.63,986.63,986.63,0,9,0,0,0
+Lot's O' Nuts,United States,California,Fresno,93727,13,11,842.04,842.04,842.04,0,11,0,0,0
+Lot's O' Nuts,United States,California,Pasadena,91104,13,11,605.88,605.88,605.88,0,11,0,0,0
+Lot's O' Nuts,United States,California,Westminster,92683,13,6,586.58,586.58,586.58,0,6,0,0,0
+Wicked Choccy's,United States,Oregon,Salem,97301,12,9,3866.73,3866.73,3866.73,0,9,0,0,0
+Lot's O' Nuts,United States,Rhode Island,Cranston,2920,12,7,3664.21,3664.21,3664.21,0,7,0,0,0
+Wicked Choccy's,United States,California,Pasadena,91104,12,10,3437.82,3437.82,3437.82,0,10,0,0,0
+Lot's O' Nuts,United States,Maryland,Columbia,21044,12,10,3195.69,3195.69,3195.69,0,10,0,0,0
+Lot's O' Nuts,United States,Florida,Hialeah,33012,12,11,3134.65,3134.65,3134.65,0,11,0,0,0
+Lot's O' Nuts,United States,Georgia,Sandy Springs,30328,12,8,2537.15,2537.15,2537.15,0,8,0,0,0
+Lot's O' Nuts,United States,Tennessee,Nashville,37211,12,11,2316.63,2316.63,2316.63,0,11,0,0,0
+Wicked Choccy's,United States,Colorado,Denver,80219,12,7,2308.87,2308.87,2308.87,0,7,0,0,0
+Lot's O' Nuts,United States,Tennessee,Columbia,38401,12,11,2287.38,2287.38,2287.38,0,11,0,0,0
+Wicked Choccy's,Canada,Quebec,Quebec City,G1B,12,5,1841.86,1841.86,1841.86,0,5,0,0,0
+Wicked Choccy's,Canada,Ontario,Toronto,M7A,12,8,1295.92,1295.92,1295.92,0,8,0,0,0
+Wicked Choccy's,United States,Arkansas,Little Rock,72209,12,7,1084.37,1084.37,1084.37,0,7,0,0,0
+Lot's O' Nuts,United States,Colorado,Louisville,80027,12,9,984.41,984.41,984.41,0,9,0,0,0
+Wicked Choccy's,United States,Indiana,Columbus,47201,12,11,904.33,904.33,904.33,0,11,0,0,0
+Wicked Choccy's,United States,Ohio,Newark,43055,12,8,896.83,896.83,896.83,0,8,0,0,0
+Wicked Choccy's,United States,Tennessee,Memphis,38109,12,9,896.04,896.04,896.04,0,9,0,0,0
+Wicked Choccy's,United States,Ohio,Lancaster,43130,12,10,860.69,860.69,860.69,0,10,0,0,0
+Wicked Choccy's,United States,Maryland,Clinton,20735,12,8,834.82,834.82,834.82,0,8,0,0,0
+Lot's O' Nuts,United States,California,Bakersfield,93309,12,9,724.7,724.7,724.7,0,9,0,0,0
+Wicked Choccy's,United States,Oregon,Springfield,97477,11,10,3856.55,3856.55,3856.55,0,10,0,0,0
 Wicked Choccy's,United States,Oregon,Portland,97206,11,11,3842.92,3842.92,3842.92,0,11,0,0,0
-Lot's O' Nuts,United States,New York,Oceanside,11572,11,8,3475.25,3475.25,3475.25,0,11,0,0,0
-Lot's O' Nuts,United States,New Jersey,Lakewood,8701,11,10,3424.69,3424.69,3424.69,0,11,0,0,0
+Lot's O' Nuts,United States,New York,Oceanside,11572,11,8,3475.25,3475.25,3475.25,0,8,0,0,0
+Lot's O' Nuts,United States,New Jersey,Lakewood,8701,11,10,3424.69,3424.69,3424.69,0,10,0,0,0
 Lot's O' Nuts,United States,Florida,Fort Lauderdale,33311,11,11,3138.73,3138.73,3138.73,0,11,0,0,0
-Lot's O' Nuts,United States,Florida,Lakeland,33801,11,7,2898.27,2898.27,2898.27,0,11,0,0,0
-Lot's O' Nuts,United States,Florida,Tallahassee,32303,11,10,2605.66,2605.66,2605.66,0,11,0,0,0
-Lot's O' Nuts,United States,Georgia,Smyrna,30080,11,6,2526.43,2526.43,2526.43,0,11,0,0,0
-Wicked Choccy's,United States,Colorado,Louisville,80027,11,9,2325.53,2325.53,2325.53,0,11,0,0,0
-Lot's O' Nuts,United States,Arkansas,Little Rock,72209,11,8,1802.81,1802.81,1802.81,0,11,0,0,0
-Wicked Choccy's,United States,Minnesota,Rochester,55901,11,8,1661.47,1661.47,1661.47,0,11,0,0,0
-Wicked Choccy's,United States,Texas,Arlington,76017,11,7,1509.5,1509.5,1509.5,0,11,0,0,0
-Wicked Choccy's,United States,Michigan,Detroit,48205,11,8,1163.62,1163.62,1163.62,0,11,0,0,0
-Wicked Choccy's,United States,New York,Oceanside,11572,11,8,1161.5,1161.5,1161.5,0,11,0,0,0
-Wicked Choccy's,United States,New Jersey,Paterson,7501,11,8,1160.36,1160.36,1160.36,0,11,0,0,0
-Wicked Choccy's,United States,New Jersey,Lakewood,8701,11,9,1083.78,1083.78,1083.78,0,11,0,0,0
-Wicked Choccy's,United States,Mississippi,Jackson,39212,11,9,863.42,863.42,863.42,0,11,0,0,0
-Wicked Choccy's,United States,Virginia,Richmond,23223,11,8,692.82,692.82,692.82,0,11,0,0,0
-Wicked Choccy's,United States,Florida,Miami,33180,11,10,685.94,685.94,685.94,0,11,0,0,0
-Lot's O' Nuts,United States,California,Inglewood,90301,11,9,624.36,624.36,624.36,0,11,0,0,0
-Wicked Choccy's,United States,California,Oakland,94601,10,9,3772.54,3772.54,3772.54,0,10,0,0,0
+Lot's O' Nuts,United States,Florida,Lakeland,33801,11,7,2898.27,2898.27,2898.27,0,7,0,0,0
+Lot's O' Nuts,United States,Florida,Tallahassee,32303,11,10,2605.66,2605.66,2605.66,0,10,0,0,0
+Lot's O' Nuts,United States,Georgia,Smyrna,30080,11,6,2526.43,2526.43,2526.43,0,6,0,0,0
+Wicked Choccy's,United States,Colorado,Louisville,80027,11,9,2325.53,2325.53,2325.53,0,9,0,0,0
+Lot's O' Nuts,United States,Arkansas,Little Rock,72209,11,8,1802.81,1802.81,1802.81,0,8,0,0,0
+Wicked Choccy's,United States,Minnesota,Rochester,55901,11,8,1661.47,1661.47,1661.47,0,8,0,0,0
+Wicked Choccy's,United States,Texas,Arlington,76017,11,7,1509.5,1509.5,1509.5,0,7,0,0,0
+Wicked Choccy's,United States,Michigan,Detroit,48205,11,8,1163.62,1163.62,1163.62,0,8,0,0,0
+Wicked Choccy's,United States,New York,Oceanside,11572,11,8,1161.5,1161.5,1161.5,0,8,0,0,0
+Wicked Choccy's,United States,New Jersey,Paterson,7501,11,8,1160.36,1160.36,1160.36,0,8,0,0,0
+Wicked Choccy's,United States,New Jersey,Lakewood,8701,11,9,1083.78,1083.78,1083.78,0,9,0,0,0
+Wicked Choccy's,United States,Mississippi,Jackson,39212,11,9,863.42,863.42,863.42,0,9,0,0,0
+Wicked Choccy's,United States,Virginia,Richmond,23223,11,8,692.82,692.82,692.82,0,8,0,0,0
+Wicked Choccy's,United States,Florida,Miami,33180,11,10,685.94,685.94,685.94,0,10,0,0,0
+Lot's O' Nuts,United States,California,Inglewood,90301,11,9,624.36,624.36,624.36,0,9,0,0,0
+Wicked Choccy's,United States,California,Oakland,94601,10,9,3772.54,3772.54,3772.54,0,9,0,0,0
 Lot's O' Nuts,United States,Connecticut,Fairfield,6824,10,10,3509.09,3509.09,3509.09,0,0,0,0,10
-Lot's O' Nuts,United States,Pennsylvania,Chester,19013,10,6,3325.29,3325.29,3325.29,0,10,0,0,0
-Lot's O' Nuts,United States,Ohio,Dublin,43017,10,7,2670.93,2670.93,2670.93,0,10,0,0,0
-Lot's O' Nuts,United States,Tennessee,Franklin,37064,10,7,2302.96,2302.96,2302.96,0,10,0,0,0
-Lot's O' Nuts,United States,Alabama,Decatur,35601,10,8,2293.37,2293.37,2293.37,0,10,0,0,0
-Wicked Choccy's,United States,Colorado,Colorado Springs,80906,10,6,2268.59,2268.59,2268.59,0,10,0,0,0
-Lot's O' Nuts,Canada,Alberta,Calgary,T2C,10,8,2028.31,2028.31,2028.31,0,10,0,0,0
-Wicked Choccy's,United States,Minnesota,Minneapolis,55407,10,7,1774.92,1774.92,1774.92,0,10,0,0,0
-Wicked Choccy's,United States,Minnesota,Lakeville,55044,10,8,1753.16,1753.16,1753.16,0,10,0,0,0
-Wicked Choccy's,United States,Texas,Fort Worth,76106,10,9,1526.86,1526.86,1526.86,0,10,0,0,0
-Lot's O' Nuts,United States,Texas,Mcallen,78501,10,6,1501.85,1501.85,1501.85,0,10,0,0,0
-Wicked Choccy's,United States,Texas,Huntsville,77340,10,9,1379.11,1379.11,1379.11,0,10,0,0,0
-Lot's O' Nuts,United States,California,Roseville,95661,10,7,1074.21,1074.21,1074.21,0,10,0,0,0
-Wicked Choccy's,United States,Virginia,Alexandria,22304,10,6,831.01,831.01,831.01,0,10,0,0,0
-Wicked Choccy's,United States,Kentucky,Richmond,40475,10,8,696.3,696.3,696.3,0,10,0,0,0
-Wicked Choccy's,United States,Virginia,Chesapeake,23320,10,8,684.68,684.68,684.68,0,10,0,0,0
+Lot's O' Nuts,United States,Pennsylvania,Chester,19013,10,6,3325.29,3325.29,3325.29,0,6,0,0,0
+Lot's O' Nuts,United States,Ohio,Dublin,43017,10,7,2670.93,2670.93,2670.93,0,7,0,0,0
+Lot's O' Nuts,United States,Tennessee,Franklin,37064,10,7,2302.96,2302.96,2302.96,0,7,0,0,0
+Lot's O' Nuts,United States,Alabama,Decatur,35601,10,8,2293.37,2293.37,2293.37,0,8,0,0,0
+Wicked Choccy's,United States,Colorado,Colorado Springs,80906,10,6,2268.59,2268.59,2268.59,0,6,0,0,0
+Lot's O' Nuts,Canada,Alberta,Calgary,T2C,10,8,2028.31,2028.31,2028.31,0,8,0,0,0
+Wicked Choccy's,United States,Minnesota,Minneapolis,55407,10,7,1774.92,1774.92,1774.92,0,7,0,0,0
+Wicked Choccy's,United States,Minnesota,Lakeville,55044,10,8,1753.16,1753.16,1753.16,0,8,0,0,0
+Wicked Choccy's,United States,Texas,Fort Worth,76106,10,9,1526.86,1526.86,1526.86,0,9,0,0,0
+Lot's O' Nuts,United States,Texas,Mcallen,78501,10,6,1501.85,1501.85,1501.85,0,6,0,0,0
+Wicked Choccy's,United States,Texas,Huntsville,77340,10,9,1379.11,1379.11,1379.11,0,9,0,0,0
+Lot's O' Nuts,United States,California,Roseville,95661,10,7,1074.21,1074.21,1074.21,0,7,0,0,0
+Wicked Choccy's,United States,Virginia,Alexandria,22304,10,6,831.01,831.01,831.01,0,6,0,0,0
+Wicked Choccy's,United States,Kentucky,Richmond,40475,10,8,696.3,696.3,696.3,0,8,0,0,0
+Wicked Choccy's,United States,Virginia,Chesapeake,23320,10,8,684.68,684.68,684.68,0,8,0,0,0
 Lot's O' Nuts,United States,California,Riverside,92503,10,10,538.14,538.14,538.14,0,10,0,0,0
-Lot's O' Nuts,United States,Texas,El Paso,79907,10,9,528.37,528.37,528.37,0,10,0,0,0
+Lot's O' Nuts,United States,Texas,El Paso,79907,10,9,528.37,528.37,528.37,0,9,0,0,0
 Lot's O' Nuts,United States,Nevada,Las Vegas,89115,10,10,478.85,478.85,478.85,0,10,0,0,0
-Wicked Choccy's,United States,Florida,Lakeland,33801,10,5,456.45,456.45,456.45,0,10,0,0,0
-Wicked Choccy's,United States,Washington,Edmonds,98026,9,5,3868.06,3868.06,3868.06,0,9,0,0,0
-Lot's O' Nuts,United States,Massachusetts,Lowell,1852,9,6,3679.6,3679.6,3679.6,0,9,0,0,0
+Wicked Choccy's,United States,Florida,Lakeland,33801,10,5,456.45,456.45,456.45,0,5,0,0,0
+Wicked Choccy's,United States,Washington,Edmonds,98026,9,5,3868.06,3868.06,3868.06,0,5,0,0,0
+Lot's O' Nuts,United States,Massachusetts,Lowell,1852,9,6,3679.6,3679.6,3679.6,0,6,0,0,0
 Lot's O' Nuts,United States,New York,Troy,12180,9,9,3488.6,3488.6,3488.6,0,9,0,0,0
-Lot's O' Nuts,United States,New Jersey,Plainfield,7060,9,6,3409.2,3409.2,3409.2,0,9,0,0,0
-Lot's O' Nuts,United States,Florida,Miami,33178,9,8,3129.56,3129.56,3129.56,0,9,0,0,0
-Lot's O' Nuts,United States,Ohio,Parma,44134,9,6,2811.22,2811.22,2811.22,0,9,0,0,0
+Lot's O' Nuts,United States,New Jersey,Plainfield,7060,9,6,3409.2,3409.2,3409.2,0,6,0,0,0
+Lot's O' Nuts,United States,Florida,Miami,33178,9,8,3129.56,3129.56,3129.56,0,8,0,0,0
+Lot's O' Nuts,United States,Ohio,Parma,44134,9,6,2811.22,2811.22,2811.22,0,6,0,0,0
 Lot's O' Nuts,United States,Ohio,Lakewood,44107,9,9,2805.0,2805.0,2805.0,0,9,0,0,0
-Lot's O' Nuts,United States,Ohio,Troy,45373,9,8,2577.44,2577.44,2577.44,0,9,0,0,0
+Lot's O' Nuts,United States,Ohio,Troy,45373,9,8,2577.44,2577.44,2577.44,0,8,0,0,0
 Lot's O' Nuts,United States,Ohio,Fairfield,45014,9,9,2537.61,2537.61,2537.61,0,9,0,0,0
-Wicked Choccy's,United States,Nebraska,Omaha,68104,9,7,1674.38,1674.38,1674.38,0,9,0,0,0
-Lot's O' Nuts,United States,Arkansas,Fayetteville,72701,9,7,1651.64,1651.64,1651.64,0,9,0,0,0
-Wicked Choccy's,United States,Oklahoma,Tulsa,74133,9,8,1430.12,1430.12,1430.12,0,9,0,0,0
-Wicked Choccy's,United States,Massachusetts,Franklin,2038,9,7,1404.07,1404.07,1404.07,0,9,0,0,0
-Lot's O' Nuts,United States,Texas,Carrollton,75007,9,7,1386.49,1386.49,1386.49,0,9,0,0,0
-Lot's O' Nuts,United States,Texas,Laredo,78041,9,6,1319.42,1319.42,1319.42,0,9,0,0,0
-Wicked Choccy's,United States,New York,Auburn,13021,9,3,1270.41,1270.41,1270.41,0,9,0,0,0
+Wicked Choccy's,United States,Nebraska,Omaha,68104,9,7,1674.38,1674.38,1674.38,0,7,0,0,0
+Lot's O' Nuts,United States,Arkansas,Fayetteville,72701,9,7,1651.64,1651.64,1651.64,0,7,0,0,0
+Wicked Choccy's,United States,Oklahoma,Tulsa,74133,9,8,1430.12,1430.12,1430.12,0,8,0,0,0
+Wicked Choccy's,United States,Massachusetts,Franklin,2038,9,7,1404.07,1404.07,1404.07,0,7,0,0,0
+Lot's O' Nuts,United States,Texas,Carrollton,75007,9,7,1386.49,1386.49,1386.49,0,7,0,0,0
+Lot's O' Nuts,United States,Texas,Laredo,78041,9,6,1319.42,1319.42,1319.42,0,6,0,0,0
+Wicked Choccy's,United States,New York,Auburn,13021,9,3,1270.41,1270.41,1270.41,0,3,0,0,0
 Wicked Choccy's,United States,Connecticut,Fairfield,6824,9,9,1225.09,1225.09,1225.09,0,0,0,0,9
-Wicked Choccy's,United States,Illinois,Decatur,62521,9,8,1112.79,1112.79,1112.79,0,9,0,0,0
-Lot's O' Nuts,United States,California,Brentwood,94513,9,7,1061.2,1061.2,1061.2,0,9,0,0,0
-Wicked Choccy's,United States,Maryland,Columbia,21044,9,7,880.82,880.82,880.82,0,9,0,0,0
-Wicked Choccy's,United States,Ohio,Cincinnati,45231,9,7,840.1,840.1,840.1,0,9,0,0,0
-Wicked Choccy's,United States,Florida,Miami,33178,9,7,697.75,697.75,697.75,0,9,0,0,0
+Wicked Choccy's,United States,Illinois,Decatur,62521,9,8,1112.79,1112.79,1112.79,0,8,0,0,0
+Lot's O' Nuts,United States,California,Brentwood,94513,9,7,1061.2,1061.2,1061.2,0,7,0,0,0
+Wicked Choccy's,United States,Maryland,Columbia,21044,9,7,880.82,880.82,880.82,0,7,0,0,0
+Wicked Choccy's,United States,Ohio,Cincinnati,45231,9,7,840.1,840.1,840.1,0,7,0,0,0
+Wicked Choccy's,United States,Florida,Miami,33178,9,7,697.75,697.75,697.75,0,7,0,0,0
 Lot's O' Nuts,United States,California,Santa Ana,92704,9,9,577.95,577.95,577.95,0,9,0,0,0
-Lot's O' Nuts,United States,Massachusetts,Quincy,2169,8,5,3702.22,3702.22,3702.22,0,8,0,0,0
+Lot's O' Nuts,United States,Massachusetts,Quincy,2169,8,5,3702.22,3702.22,3702.22,0,5,0,0,0
 Lot's O' Nuts,United States,New Hampshire,Concord,3301,8,8,3665.44,3665.44,3665.44,0,8,0,0,0
-Lot's O' Nuts,United States,Connecticut,Waterbury,6708,8,7,3529.71,3529.71,3529.71,0,8,0,0,0
-Lot's O' Nuts,United States,New York,Yonkers,10701,8,7,3456.29,3456.29,3456.29,0,8,0,0,0
-Lot's O' Nuts,United States,New Jersey,Paterson,7501,8,7,3431.82,3431.82,3431.82,0,8,0,0,0
-Wicked Choccy's,United States,California,Redlands,92374,8,5,3351.87,3351.87,3351.87,0,8,0,0,0
+Lot's O' Nuts,United States,Connecticut,Waterbury,6708,8,7,3529.71,3529.71,3529.71,0,7,0,0,0
+Lot's O' Nuts,United States,New York,Yonkers,10701,8,7,3456.29,3456.29,3456.29,0,7,0,0,0
+Lot's O' Nuts,United States,New Jersey,Paterson,7501,8,7,3431.82,3431.82,3431.82,0,7,0,0,0
+Wicked Choccy's,United States,California,Redlands,92374,8,5,3351.87,3351.87,3351.87,0,5,0,0,0
 Lot's O' Nuts,United States,Virginia,Virginia Beach,23464,8,8,3258.37,3258.37,3258.37,0,8,0,0,0
-Lot's O' Nuts,United States,Virginia,Chesapeake,23320,8,7,3253.26,3253.26,3253.26,0,8,0,0,0
-Lot's O' Nuts,United States,Pennsylvania,Lancaster,17602,8,6,3250.76,3250.76,3250.76,0,8,0,0,0
-Lot's O' Nuts,United States,District of Columbia,Washington,20016,8,6,3175.47,3175.47,3175.47,0,8,0,0,0
-Lot's O' Nuts,United States,Florida,Pembroke Pines,33024,8,5,3132.98,3132.98,3132.98,0,8,0,0,0
+Lot's O' Nuts,United States,Virginia,Chesapeake,23320,8,7,3253.26,3253.26,3253.26,0,7,0,0,0
+Lot's O' Nuts,United States,Pennsylvania,Lancaster,17602,8,6,3250.76,3250.76,3250.76,0,6,0,0,0
+Lot's O' Nuts,United States,District of Columbia,Washington,20016,8,6,3175.47,3175.47,3175.47,0,6,0,0,0
+Lot's O' Nuts,United States,Florida,Pembroke Pines,33024,8,5,3132.98,3132.98,3132.98,0,5,0,0,0
 Lot's O' Nuts,Canada,Ontario,Toronto,M3C,8,8,3050.82,3050.82,3050.82,0,0,8,0,0
 Lot's O' Nuts,Canada,Ontario,Toronto,M5H,8,8,3045.85,3045.85,3045.85,0,0,8,0,0
-Lot's O' Nuts,Canada,Ontario,Toronto,M7A,8,4,3045.82,3045.82,3045.82,0,8,0,0,0
-Lot's O' Nuts,United States,Florida,Orlando,32839,8,7,2934.62,2934.62,2934.62,0,8,0,0,0
-Lot's O' Nuts,United States,Virginia,Salem,24153,8,4,2911.18,2911.18,2911.18,0,8,0,0,0
-Lot's O' Nuts,United States,Kentucky,Florence,41042,8,6,2523.37,2523.37,2523.37,0,8,0,0,0
-Wicked Choccy's,Canada,Manitoba,Winnipeg,R0H,8,4,2508.41,2508.41,2508.41,0,0,8,0,0
+Lot's O' Nuts,Canada,Ontario,Toronto,M7A,8,4,3045.82,3045.82,3045.82,0,4,0,0,0
+Lot's O' Nuts,United States,Florida,Orlando,32839,8,7,2934.62,2934.62,2934.62,0,7,0,0,0
+Lot's O' Nuts,United States,Virginia,Salem,24153,8,4,2911.18,2911.18,2911.18,0,4,0,0,0
+Lot's O' Nuts,United States,Kentucky,Florence,41042,8,6,2523.37,2523.37,2523.37,0,6,0,0,0
+Wicked Choccy's,Canada,Manitoba,Winnipeg,R0H,8,4,2508.41,2508.41,2508.41,0,0,4,0,0
 Lot's O' Nuts,Canada,British Columbia,Vancouver,V6B,8,8,2049.4,2049.4,2049.4,0,8,0,0,0
-Wicked Choccy's,United States,Texas,Mcallen,78501,8,7,1785.77,1785.77,1785.77,0,8,0,0,0
-Lot's O' Nuts,United States,South Dakota,Sioux Falls,57103,8,5,1766.56,1766.56,1766.56,0,8,0,0,0
-Wicked Choccy's,Canada,Quebec,Montreal,H1A,8,7,1627.2,1627.2,1627.2,0,8,0,0,0
-Lot's O' Nuts,United States,Texas,Pasadena,77506,8,7,1611.35,1611.35,1611.35,0,8,0,0,0
-Wicked Choccy's,United States,Texas,Plano,75023,8,6,1469.93,1469.93,1469.93,0,8,0,0,0
-Wicked Choccy's,United States,Ohio,Marion,43302,8,6,963.09,963.09,963.09,0,8,0,0,0
+Wicked Choccy's,United States,Texas,Mcallen,78501,8,7,1785.77,1785.77,1785.77,0,7,0,0,0
+Lot's O' Nuts,United States,South Dakota,Sioux Falls,57103,8,5,1766.56,1766.56,1766.56,0,5,0,0,0
+Wicked Choccy's,Canada,Quebec,Montreal,H1A,8,7,1627.2,1627.2,1627.2,0,7,0,0,0
+Lot's O' Nuts,United States,Texas,Pasadena,77506,8,7,1611.35,1611.35,1611.35,0,7,0,0,0
+Wicked Choccy's,United States,Texas,Plano,75023,8,6,1469.93,1469.93,1469.93,0,6,0,0,0
+Wicked Choccy's,United States,Ohio,Marion,43302,8,6,963.09,963.09,963.09,0,6,0,0,0
 Wicked Choccy's,United States,Ohio,Fairfield,45014,8,8,864.83,864.83,864.83,0,8,0,0,0
 Wicked Choccy's,United States,Virginia,Virginia Beach,23464,8,8,691.54,691.54,691.54,0,8,0,0,0
-Lot's O' Nuts,United States,California,Redlands,92374,8,5,517.81,517.81,517.81,0,8,0,0,0
-Wicked Choccy's,United States,Florida,Saint Petersburg,33710,8,5,501.3,501.3,501.3,0,8,0,0,0
+Lot's O' Nuts,United States,California,Redlands,92374,8,5,517.81,517.81,517.81,0,5,0,0,0
+Wicked Choccy's,United States,Florida,Saint Petersburg,33710,8,5,501.3,501.3,501.3,0,5,0,0,0
 Lot's O' Nuts,United States,Nevada,North Las Vegas,89031,8,8,486.82,486.82,486.82,0,8,0,0,0
-Wicked Choccy's,United States,North Carolina,Fayetteville,28314,8,7,383.69,383.69,383.69,0,8,0,0,0
-Lot's O' Nuts,United States,Arizona,Peoria,85345,8,5,88.98,88.98,88.98,0,8,0,0,0
-Wicked Choccy's,United States,California,Brentwood,94513,7,5,3727.02,3727.02,3727.02,0,7,0,0,0
-Wicked Choccy's,United States,California,Sacramento,95823,7,6,3700.68,3700.68,3700.68,0,7,0,0,0
-Lot's O' Nuts,United States,Connecticut,Meriden,6450,7,6,3549.64,3549.64,3549.64,0,7,0,0,0
-Wicked Choccy's,United States,California,Anaheim,92804,7,6,3429.04,3429.04,3429.04,0,7,0,0,0
+Wicked Choccy's,United States,North Carolina,Fayetteville,28314,8,7,383.69,383.69,383.69,0,7,0,0,0
+Lot's O' Nuts,United States,Arizona,Peoria,85345,8,5,88.98,88.98,88.98,0,5,0,0,0
+Wicked Choccy's,United States,California,Brentwood,94513,7,5,3727.02,3727.02,3727.02,0,5,0,0,0
+Wicked Choccy's,United States,California,Sacramento,95823,7,6,3700.68,3700.68,3700.68,0,6,0,0,0
+Lot's O' Nuts,United States,Connecticut,Meriden,6450,7,6,3549.64,3549.64,3549.64,0,6,0,0,0
+Wicked Choccy's,United States,California,Anaheim,92804,7,6,3429.04,3429.04,3429.04,0,6,0,0,0
 Lot's O' Nuts,United States,New York,Auburn,13021,7,7,3256.5,3256.5,3256.5,0,7,0,0,0
-Lot's O' Nuts,United States,Virginia,Newport News,23602,7,5,3226.44,3226.44,3226.44,0,7,0,0,0
-Wicked Choccy's,United States,Nevada,North Las Vegas,89031,7,5,3152.09,3152.09,3152.09,0,7,0,0,0
+Lot's O' Nuts,United States,Virginia,Newport News,23602,7,5,3226.44,3226.44,3226.44,0,5,0,0,0
+Wicked Choccy's,United States,Nevada,North Las Vegas,89031,7,5,3152.09,3152.09,3152.09,0,5,0,0,0
 Lot's O' Nuts,United States,Florida,Miami,33142,7,7,3142.99,3142.99,3142.99,0,7,0,0,0
-Lot's O' Nuts,United States,Florida,Boynton Beach,33437,7,5,3130.42,3130.42,3130.42,0,0,0,7,0
+Lot's O' Nuts,United States,Florida,Boynton Beach,33437,7,5,3130.42,3130.42,3130.42,0,0,0,5,0
 Lot's O' Nuts,United States,New York,Buffalo,14215,7,7,3075.79,3075.79,3075.79,0,7,0,0,0
-Lot's O' Nuts,United States,North Carolina,Greensboro,27405,7,6,2942.98,2942.98,2942.98,0,7,0,0,0
-Wicked Choccy's,United States,Arizona,Peoria,85345,7,6,2904.59,2904.59,2904.59,0,7,0,0,0
+Lot's O' Nuts,United States,North Carolina,Greensboro,27405,7,6,2942.98,2942.98,2942.98,0,6,0,0,0
+Wicked Choccy's,United States,Arizona,Peoria,85345,7,6,2904.59,2904.59,2904.59,0,6,0,0,0
 Wicked Choccy's,United States,Arizona,Glendale,85301,7,7,2899.06,2899.06,2899.06,0,7,0,0,0
-Lot's O' Nuts,United States,Tennessee,Johnson City,37604,7,5,2705.12,2705.12,2705.12,0,7,0,0,0
-Lot's O' Nuts,United States,Michigan,Trenton,48183,7,6,2704.93,2704.93,2704.93,0,7,0,0,0
-Lot's O' Nuts,United States,Michigan,Westland,48185,7,4,2696.76,2696.76,2696.76,0,7,0,0,0
-Lot's O' Nuts,United States,Tennessee,Chattanooga,37421,7,6,2459.45,2459.45,2459.45,0,7,0,0,0
+Lot's O' Nuts,United States,Tennessee,Johnson City,37604,7,5,2705.12,2705.12,2705.12,0,5,0,0,0
+Lot's O' Nuts,United States,Michigan,Trenton,48183,7,6,2704.93,2704.93,2704.93,0,6,0,0,0
+Lot's O' Nuts,United States,Michigan,Westland,48185,7,4,2696.76,2696.76,2696.76,0,4,0,0,0
+Lot's O' Nuts,United States,Tennessee,Chattanooga,37421,7,6,2459.45,2459.45,2459.45,0,6,0,0,0
 Lot's O' Nuts,United States,Indiana,Lawrence,46226,7,7,2421.41,2421.41,2421.41,0,7,0,0,0
-Wicked Choccy's,United States,New Mexico,Albuquerque,87105,7,5,2384.92,2384.92,2384.92,0,7,0,0,0
-Wicked Choccy's,United States,Texas,El Paso,79907,7,6,2377.54,2377.54,2377.54,0,7,0,0,0
-Lot's O' Nuts,United States,Tennessee,Murfreesboro,37130,7,4,2348.33,2348.33,2348.33,0,7,0,0,0
-Wicked Choccy's,United States,Colorado,Thornton,80229,7,4,2307.96,2307.96,2307.96,0,7,0,0,0
-Lot's O' Nuts,United States,Wisconsin,Madison,53711,7,5,2255.27,2255.27,2255.27,0,7,0,0,0
-Wicked Choccy's,United States,Oklahoma,Oklahoma City,73120,7,5,1562.68,1562.68,1562.68,0,7,0,0,0
-Wicked Choccy's,United States,Iowa,Des Moines,50315,7,6,1531.25,1531.25,1531.25,0,7,0,0,0
-Wicked Choccy's,United States,Texas,Grand Prairie,75051,7,4,1495.03,1495.03,1495.03,0,7,0,0,0
-Wicked Choccy's,United States,New York,New Rochelle,10801,7,5,1178.67,1178.67,1178.67,0,7,0,0,0
-Lot's O' Nuts,United States,California,Chico,95928,7,5,1178.52,1178.52,1178.52,0,7,0,0,0
+Wicked Choccy's,United States,New Mexico,Albuquerque,87105,7,5,2384.92,2384.92,2384.92,0,5,0,0,0
+Wicked Choccy's,United States,Texas,El Paso,79907,7,6,2377.54,2377.54,2377.54,0,6,0,0,0
+Lot's O' Nuts,United States,Tennessee,Murfreesboro,37130,7,4,2348.33,2348.33,2348.33,0,4,0,0,0
+Wicked Choccy's,United States,Colorado,Thornton,80229,7,4,2307.96,2307.96,2307.96,0,4,0,0,0
+Lot's O' Nuts,United States,Wisconsin,Madison,53711,7,5,2255.27,2255.27,2255.27,0,5,0,0,0
+Wicked Choccy's,United States,Oklahoma,Oklahoma City,73120,7,5,1562.68,1562.68,1562.68,0,5,0,0,0
+Wicked Choccy's,United States,Iowa,Des Moines,50315,7,6,1531.25,1531.25,1531.25,0,6,0,0,0
+Wicked Choccy's,United States,Texas,Grand Prairie,75051,7,4,1495.03,1495.03,1495.03,0,4,0,0,0
+Wicked Choccy's,United States,New York,New Rochelle,10801,7,5,1178.67,1178.67,1178.67,0,5,0,0,0
+Lot's O' Nuts,United States,California,Chico,95928,7,5,1178.52,1178.52,1178.52,0,5,0,0,0
 Wicked Choccy's,United States,Ohio,Lakewood,44107,7,7,1047.7,1047.7,1047.7,0,7,0,0,0
-Wicked Choccy's,United States,Ohio,Akron,44312,7,6,1002.25,1002.25,1002.25,0,7,0,0,0
-Wicked Choccy's,United States,Arkansas,Jonesboro,72401,7,6,978.63,978.63,978.63,0,7,0,0,0
-Lot's O' Nuts,United States,Utah,Provo,84604,7,4,821.06,821.06,821.06,0,7,0,0,0
-Wicked Choccy's,United States,Mississippi,Hattiesburg,39401,7,4,781.67,781.67,781.67,0,7,0,0,0
-Wicked Choccy's,United States,Virginia,Waynesboro,22980,7,6,696.9,696.9,696.9,0,7,0,0,0
+Wicked Choccy's,United States,Ohio,Akron,44312,7,6,1002.25,1002.25,1002.25,0,6,0,0,0
+Wicked Choccy's,United States,Arkansas,Jonesboro,72401,7,6,978.63,978.63,978.63,0,6,0,0,0
+Lot's O' Nuts,United States,Utah,Provo,84604,7,4,821.06,821.06,821.06,0,4,0,0,0
+Wicked Choccy's,United States,Mississippi,Hattiesburg,39401,7,4,781.67,781.67,781.67,0,4,0,0,0
+Wicked Choccy's,United States,Virginia,Waynesboro,22980,7,6,696.9,696.9,696.9,0,6,0,0,0
 Wicked Choccy's,United States,Florida,Hollywood,33021,7,7,678.68,678.68,678.68,0,7,0,0,0
-Wicked Choccy's,United States,Florida,Plantation,33317,7,5,668.55,668.55,668.55,0,7,0,0,0
-Wicked Choccy's,United States,North Carolina,Raleigh,27604,7,6,475.62,475.62,475.62,0,7,0,0,0
-Lot's O' Nuts,United States,Arizona,Tempe,85281,7,5,63.96,63.96,63.96,0,7,0,0,0
-Lot's O' Nuts,United States,Arizona,Gilbert,85234,7,5,53.46,53.46,53.46,0,7,0,0,0
-Lot's O' Nuts,Canada,Newfoundland and Labrador,St. John's,A0A,6,5,5138.32,5138.32,5138.32,0,6,0,0,0
+Wicked Choccy's,United States,Florida,Plantation,33317,7,5,668.55,668.55,668.55,0,5,0,0,0
+Wicked Choccy's,United States,North Carolina,Raleigh,27604,7,6,475.62,475.62,475.62,0,6,0,0,0
+Lot's O' Nuts,United States,Arizona,Tempe,85281,7,5,63.96,63.96,63.96,0,5,0,0,0
+Lot's O' Nuts,United States,Arizona,Gilbert,85234,7,5,53.46,53.46,53.46,0,5,0,0,0
+Lot's O' Nuts,Canada,Newfoundland and Labrador,St. John's,A0A,6,5,5138.32,5138.32,5138.32,0,5,0,0,0
 Lot's O' Nuts,Canada,Prince Edward Island,Charlottetown,C0A,6,6,4374.89,4374.89,4374.89,0,0,6,0,0
-Lot's O' Nuts,United States,Massachusetts,Franklin,2038,6,5,3668.95,3668.95,3668.95,0,6,0,0,0
-Lot's O' Nuts,United States,Connecticut,Manchester,6040,6,4,3574.24,3574.24,3574.24,0,6,0,0,0
-Lot's O' Nuts,United States,New Jersey,Morristown,7960,6,5,3405.18,3405.18,3405.18,0,6,0,0,0
-Lot's O' Nuts,United States,Virginia,Hampton,23666,6,4,3236.11,3236.11,3236.11,0,6,0,0,0
-Lot's O' Nuts,United States,Virginia,Alexandria,22304,6,4,3172.71,3172.71,3172.71,0,6,0,0,0
+Lot's O' Nuts,United States,Massachusetts,Franklin,2038,6,5,3668.95,3668.95,3668.95,0,5,0,0,0
+Lot's O' Nuts,United States,Connecticut,Manchester,6040,6,4,3574.24,3574.24,3574.24,0,4,0,0,0
+Lot's O' Nuts,United States,New Jersey,Morristown,7960,6,5,3405.18,3405.18,3405.18,0,5,0,0,0
+Lot's O' Nuts,United States,Virginia,Hampton,23666,6,4,3236.11,3236.11,3236.11,0,4,0,0,0
+Lot's O' Nuts,United States,Virginia,Alexandria,22304,6,4,3172.71,3172.71,3172.71,0,4,0,0,0
 Lot's O' Nuts,United States,North Carolina,Durham,27707,6,6,3016.46,3016.46,3016.46,0,6,0,0,0
-Wicked Choccy's,United States,Arizona,Scottsdale,85254,6,5,2876.53,2876.53,2876.53,0,6,0,0,0
-Wicked Choccy's,United States,Arizona,Gilbert,85234,6,5,2860.49,2860.49,2860.49,0,6,0,0,0
+Wicked Choccy's,United States,Arizona,Scottsdale,85254,6,5,2876.53,2876.53,2876.53,0,5,0,0,0
+Wicked Choccy's,United States,Arizona,Gilbert,85234,6,5,2860.49,2860.49,2860.49,0,5,0,0,0
 Lot's O' Nuts,United States,Michigan,Midland,48640,6,6,2665.69,2665.69,2665.69,0,6,0,0,0
 Secret Factory,United States,California,Los Angeles,90004,6,6,2559.22,2559.22,2559.22,0,6,0,0,0
-Lot's O' Nuts,United States,Ohio,Cincinnati,45231,6,5,2536.97,2536.97,2536.97,0,6,0,0,0
-Lot's O' Nuts,United States,Indiana,La Porte,46350,6,4,2408.57,2408.57,2408.57,0,6,0,0,0
-Lot's O' Nuts,United States,Indiana,Lafayette,47905,6,4,2367.92,2367.92,2367.92,0,6,0,0,0
-Lot's O' Nuts,United States,Indiana,Bloomington,47401,6,5,2367.67,2367.67,2367.67,0,6,0,0,0
-Lot's O' Nuts,United States,Wisconsin,Kenosha,53142,6,4,2345.01,2345.01,2345.01,0,6,0,0,0
-Lot's O' Nuts,United States,Illinois,Skokie,60076,6,4,2342.35,2342.35,2342.35,0,6,0,0,0
-Lot's O' Nuts,Canada,Alberta,Edmonton,T5A,6,4,2306.69,2306.69,2306.69,0,0,6,0,0
+Lot's O' Nuts,United States,Ohio,Cincinnati,45231,6,5,2536.97,2536.97,2536.97,0,5,0,0,0
+Lot's O' Nuts,United States,Indiana,La Porte,46350,6,4,2408.57,2408.57,2408.57,0,4,0,0,0
+Lot's O' Nuts,United States,Indiana,Lafayette,47905,6,4,2367.92,2367.92,2367.92,0,4,0,0,0
+Lot's O' Nuts,United States,Indiana,Bloomington,47401,6,5,2367.67,2367.67,2367.67,0,5,0,0,0
+Lot's O' Nuts,United States,Wisconsin,Kenosha,53142,6,4,2345.01,2345.01,2345.01,0,4,0,0,0
+Lot's O' Nuts,United States,Illinois,Skokie,60076,6,4,2342.35,2342.35,2342.35,0,4,0,0,0
+Lot's O' Nuts,Canada,Alberta,Edmonton,T5A,6,4,2306.69,2306.69,2306.69,0,0,4,0,0
 Lot's O' Nuts,United States,Alabama,Mobile,36608,6,6,2237.1,2237.1,2237.1,0,6,0,0,0
-Lot's O' Nuts,United States,Tennessee,Jackson,38301,6,5,2126.14,2126.14,2126.14,0,6,0,0,0
+Lot's O' Nuts,United States,Tennessee,Jackson,38301,6,5,2126.14,2126.14,2126.14,0,5,0,0,0
 Lot's O' Nuts,United States,Minnesota,Rochester,55901,6,6,2079.15,2079.15,2079.15,0,6,0,0,0
 Wicked Choccy's,Canada,Nova Scotia,Halifax,B3H,6,6,2061.33,2061.33,2061.33,0,6,0,0,0
-Lot's O' Nuts,United States,Illinois,Quincy,62301,6,5,1980.18,1980.18,1980.18,0,6,0,0,0
-Wicked Choccy's,United States,Wisconsin,Superior,54880,6,3,1876.63,1876.63,1876.63,0,6,0,0,0
-Lot's O' Nuts,United States,Louisiana,Monroe,71203,6,4,1836.84,1836.84,1836.84,0,0,0,0,6
-Lot's O' Nuts,United States,Texas,Port Arthur,77642,6,5,1722.9,1722.9,1722.9,0,6,0,0,0
-Lot's O' Nuts,United States,Oregon,Tigard,97224,6,5,1683.76,1683.76,1683.76,0,0,0,0,6
-Lot's O' Nuts,United States,Texas,League City,77573,6,4,1627.7,1627.7,1627.7,0,6,0,0,0
-The Other Factory,United States,New York,New York City,10024,6,5,1534.57,1534.57,1534.57,0,6,0,0,0
-Lot's O' Nuts,United States,Oregon,Redmond,97756,6,5,1506.23,1506.23,1506.23,0,6,0,0,0
-Wicked Choccy's,United States,Texas,Carrollton,75007,6,5,1484.19,1484.19,1484.19,0,6,0,0,0
+Lot's O' Nuts,United States,Illinois,Quincy,62301,6,5,1980.18,1980.18,1980.18,0,5,0,0,0
+Wicked Choccy's,United States,Wisconsin,Superior,54880,6,3,1876.63,1876.63,1876.63,0,3,0,0,0
+Lot's O' Nuts,United States,Louisiana,Monroe,71203,6,4,1836.84,1836.84,1836.84,0,0,0,0,4
+Lot's O' Nuts,United States,Texas,Port Arthur,77642,6,5,1722.9,1722.9,1722.9,0,5,0,0,0
+Lot's O' Nuts,United States,Oregon,Tigard,97224,6,5,1683.76,1683.76,1683.76,0,0,0,0,5
+Lot's O' Nuts,United States,Texas,League City,77573,6,4,1627.7,1627.7,1627.7,0,4,0,0,0
+The Other Factory,United States,New York,New York City,10024,6,5,1534.57,1534.57,1534.57,0,5,0,0,0
+Lot's O' Nuts,United States,Oregon,Redmond,97756,6,5,1506.23,1506.23,1506.23,0,5,0,0,0
+Wicked Choccy's,United States,Texas,Carrollton,75007,6,5,1484.19,1484.19,1484.19,0,5,0,0,0
 Wicked Choccy's,United States,Massachusetts,Lowell,1852,6,6,1456.3,1456.3,1456.3,0,6,0,0,0
-Wicked Choccy's,United States,Massachusetts,Everett,2149,6,4,1449.95,1449.95,1449.95,0,6,0,0,0
+Wicked Choccy's,United States,Massachusetts,Everett,2149,6,4,1449.95,1449.95,1449.95,0,4,0,0,0
 Lot's O' Nuts,United States,Kansas,Wichita,67212,6,6,1403.98,1403.98,1403.98,0,6,0,0,0
 Lot's O' Nuts,United States,Texas,Plano,75023,6,6,1400.36,1400.36,1400.36,0,6,0,0,0
 Secret Factory,United States,New York,New York City,10035,6,6,1392.56,1392.56,1392.56,0,0,0,0,6
 Lot's O' Nuts,United States,Texas,Irving,75061,6,6,1381.75,1381.75,1381.75,0,6,0,0,0
 Lot's O' Nuts,United States,Texas,Grand Prairie,75051,6,6,1378.43,1378.43,1378.43,0,6,0,0,0
-Wicked Choccy's,United States,Texas,Pasadena,77506,6,5,1371.37,1371.37,1371.37,0,6,0,0,0
-Wicked Choccy's,United States,Illinois,Rockford,61107,6,5,1333.41,1333.41,1333.41,0,6,0,0,0
-Wicked Choccy's,United States,Illinois,Highland Park,60035,6,4,1270.38,1270.38,1270.38,0,6,0,0,0
-Wicked Choccy's,United States,New York,Yonkers,10701,6,4,1176.69,1176.69,1176.69,0,6,0,0,0
-Wicked Choccy's,United States,Michigan,Westland,48185,6,5,1158.18,1158.18,1158.18,0,6,0,0,0
-Wicked Choccy's,United States,New Jersey,Perth Amboy,8861,6,5,1118.65,1118.65,1118.65,0,6,0,0,0
-Secret Factory,United States,Georgia,Columbus,31907,6,5,1115.79,1115.79,1115.79,0,6,0,0,0
-Lot's O' Nuts,United States,California,Sacramento,95823,6,5,1071.06,1071.06,1071.06,0,6,0,0,0
+Wicked Choccy's,United States,Texas,Pasadena,77506,6,5,1371.37,1371.37,1371.37,0,5,0,0,0
+Wicked Choccy's,United States,Illinois,Rockford,61107,6,5,1333.41,1333.41,1333.41,0,5,0,0,0
+Wicked Choccy's,United States,Illinois,Highland Park,60035,6,4,1270.38,1270.38,1270.38,0,4,0,0,0
+Wicked Choccy's,United States,New York,Yonkers,10701,6,4,1176.69,1176.69,1176.69,0,4,0,0,0
+Wicked Choccy's,United States,Michigan,Westland,48185,6,5,1158.18,1158.18,1158.18,0,5,0,0,0
+Wicked Choccy's,United States,New Jersey,Perth Amboy,8861,6,5,1118.65,1118.65,1118.65,0,5,0,0,0
+Secret Factory,United States,Georgia,Columbus,31907,6,5,1115.79,1115.79,1115.79,0,5,0,0,0
+Lot's O' Nuts,United States,California,Sacramento,95823,6,5,1071.06,1071.06,1071.06,0,5,0,0,0
 Wicked Choccy's,United States,Indiana,Lafayette,47905,6,6,1059.87,1059.87,1059.87,0,6,0,0,0
-Lot's O' Nuts,United States,Colorado,Fort Collins,80525,6,5,1040.77,1040.77,1040.77,0,6,0,0,0
+Lot's O' Nuts,United States,Colorado,Fort Collins,80525,6,5,1040.77,1040.77,1040.77,0,5,0,0,0
 Wicked Choccy's,United States,Indiana,Indianapolis,46203,6,6,964.5,964.5,964.5,0,6,0,0,0
-Lot's O' Nuts,United States,Texas,Amarillo,79109,6,5,946.66,946.66,946.66,0,6,0,0,0
+Lot's O' Nuts,United States,Texas,Amarillo,79109,6,5,946.66,946.66,946.66,0,5,0,0,0
 Wicked Choccy's,United States,Delaware,Dover,19901,6,6,934.42,934.42,934.42,0,6,0,0,0
 Lot's O' Nuts,United States,New Mexico,Carlsbad,88220,6,6,708.11,708.11,708.11,0,6,0,0,0
-Wicked Choccy's,United States,Florida,Pembroke Pines,33024,6,3,678.04,678.04,678.04,0,6,0,0,0
-Lot's O' Nuts,United States,California,Redondo Beach,90278,6,5,623.17,623.17,623.17,0,6,0,0,0
+Wicked Choccy's,United States,Florida,Pembroke Pines,33024,6,3,678.04,678.04,678.04,0,3,0,0,0
+Lot's O' Nuts,United States,California,Redondo Beach,90278,6,5,623.17,623.17,623.17,0,5,0,0,0
 Lot's O' Nuts,United States,California,Lakewood,90712,6,6,601.8,601.8,601.8,0,6,0,0,0
-Wicked Choccy's,United States,Alabama,Huntsville,35810,6,5,593.49,593.49,593.49,0,6,0,0,0
+Wicked Choccy's,United States,Alabama,Huntsville,35810,6,5,593.49,593.49,593.49,0,5,0,0,0
 Lot's O' Nuts,United States,California,Moreno Valley,92553,6,6,521.56,521.56,521.56,0,6,0,0,0
-Wicked Choccy's,United States,Tennessee,Knoxville,37918,6,5,513.23,513.23,513.23,0,6,0,0,0
-Wicked Choccy's,United States,Washington,Kent,98031,5,3,3848.14,3848.14,3848.14,0,5,0,0,0
-Lot's O' Nuts,United States,Massachusetts,Revere,2151,5,4,3702.41,3702.41,3702.41,0,5,0,0,0
-Lot's O' Nuts,United States,Vermont,Burlington,5401,5,4,3547.15,3547.15,3547.15,0,5,0,0,0
+Wicked Choccy's,United States,Tennessee,Knoxville,37918,6,5,513.23,513.23,513.23,0,5,0,0,0
+Wicked Choccy's,United States,Washington,Kent,98031,5,3,3848.14,3848.14,3848.14,0,3,0,0,0
+Lot's O' Nuts,United States,Massachusetts,Revere,2151,5,4,3702.41,3702.41,3702.41,0,4,0,0,0
+Lot's O' Nuts,United States,Vermont,Burlington,5401,5,4,3547.15,3547.15,3547.15,0,4,0,0,0
 Lot's O' Nuts,United States,Connecticut,Bristol,6010,5,5,3538.77,3538.77,3538.77,0,5,0,0,0
-Lot's O' Nuts,United States,New York,Hempstead,11550,5,4,3477.35,3477.35,3477.35,0,5,0,0,0
-Wicked Choccy's,United States,California,Inglewood,90301,5,4,3462.83,3462.83,3462.83,0,5,0,0,0
+Lot's O' Nuts,United States,New York,Hempstead,11550,5,4,3477.35,3477.35,3477.35,0,4,0,0,0
+Wicked Choccy's,United States,California,Inglewood,90301,5,4,3462.83,3462.83,3462.83,0,4,0,0,0
 Lot's O' Nuts,United States,New York,Mount Vernon,10550,5,5,3459.9,3459.9,3459.9,0,5,0,0,0
-Wicked Choccy's,United States,California,Long Beach,90805,5,4,3446.66,3446.66,3446.66,0,5,0,0,0
-Lot's O' Nuts,United States,New Jersey,Hackensack,7601,5,2,3442.63,3442.63,3442.63,0,5,0,0,0
-Lot's O' Nuts,United States,New Jersey,Belleville,7109,5,4,3432.98,3432.98,3432.98,0,5,0,0,0
+Wicked Choccy's,United States,California,Long Beach,90805,5,4,3446.66,3446.66,3446.66,0,4,0,0,0
+Lot's O' Nuts,United States,New Jersey,Hackensack,7601,5,2,3442.63,3442.63,3442.63,0,2,0,0,0
+Lot's O' Nuts,United States,New Jersey,Belleville,7109,5,4,3432.98,3432.98,3432.98,0,4,0,0,0
 Wicked Choccy's,United States,California,Costa Mesa,92627,5,5,3426.23,3426.23,3426.23,0,5,0,0,0
-Wicked Choccy's,United States,California,Santa Ana,92704,5,4,3424.02,3424.02,3424.02,0,5,0,0,0
-Lot's O' Nuts,United States,New York,Utica,13501,5,4,3365.87,3365.87,3365.87,0,5,0,0,0
+Wicked Choccy's,United States,California,Santa Ana,92704,5,4,3424.02,3424.02,3424.02,0,4,0,0,0
+Lot's O' Nuts,United States,New York,Utica,13501,5,4,3365.87,3365.87,3365.87,0,4,0,0,0
 Lot's O' Nuts,United States,New York,Watertown,13601,5,5,3326.35,3326.35,3326.35,0,5,0,0,0
 Lot's O' Nuts,United States,Virginia,Suffolk,23434,5,5,3221.55,3221.55,3221.55,0,5,0,0,0
-Lot's O' Nuts,United States,North Carolina,Greenville,27834,5,4,3156.91,3156.91,3156.91,0,5,0,0,0
-Lot's O' Nuts,United States,Florida,Miramar,33023,5,4,3137.66,3137.66,3137.66,0,5,0,0,0
+Lot's O' Nuts,United States,North Carolina,Greenville,27834,5,4,3156.91,3156.91,3156.91,0,4,0,0,0
+Lot's O' Nuts,United States,Florida,Miramar,33023,5,4,3137.66,3137.66,3137.66,0,4,0,0,0
 Lot's O' Nuts,United States,North Carolina,Wilmington,28403,5,5,3129.35,3129.35,3129.35,0,5,0,0,0
-Lot's O' Nuts,United States,Florida,Coral Springs,33065,5,4,3122.64,3122.64,3122.64,0,5,0,0,0
-Wicked Choccy's,United States,Montana,Great Falls,59405,5,3,3066.03,3066.03,3066.03,0,5,0,0,0
-Lot's O' Nuts,United States,North Carolina,Burlington,27217,5,4,2970.86,2970.86,2970.86,0,5,0,0,0
+Lot's O' Nuts,United States,Florida,Coral Springs,33065,5,4,3122.64,3122.64,3122.64,0,4,0,0,0
+Wicked Choccy's,United States,Montana,Great Falls,59405,5,3,3066.03,3066.03,3066.03,0,3,0,0,0
+Lot's O' Nuts,United States,North Carolina,Burlington,27217,5,4,2970.86,2970.86,2970.86,0,4,0,0,0
 Lot's O' Nuts,United States,South Carolina,Florence,29501,5,5,2953.34,2953.34,2953.34,0,5,0,0,0
 Lot's O' Nuts,United States,Florida,Apopka,32712,5,5,2914.96,2914.96,2914.96,0,5,0,0,0
-Wicked Choccy's,United States,Utah,Orem,84057,5,4,2879.34,2879.34,2879.34,0,5,0,0,0
-Wicked Choccy's,United States,Arizona,Chandler,85224,5,4,2873.68,2873.68,2873.68,0,5,0,0,0
+Wicked Choccy's,United States,Utah,Orem,84057,5,4,2879.34,2879.34,2879.34,0,4,0,0,0
+Wicked Choccy's,United States,Arizona,Chandler,85224,5,4,2873.68,2873.68,2873.68,0,4,0,0,0
 Lot's O' Nuts,United States,Florida,Saint Petersburg,33710,5,5,2836.43,2836.43,2836.43,0,5,0,0,0
-Lot's O' Nuts,United States,Ohio,Lorain,44052,5,4,2773.9,2773.9,2773.9,0,5,0,0,0
+Lot's O' Nuts,United States,Ohio,Lorain,44052,5,4,2773.9,2773.9,2773.9,0,4,0,0,0
 Lot's O' Nuts,United States,North Carolina,Asheville,28806,5,5,2688.95,2688.95,2688.95,0,5,0,0,0
-Lot's O' Nuts,United States,Michigan,Saginaw,48601,5,4,2683.59,2683.59,2683.59,0,5,0,0,0
+Lot's O' Nuts,United States,Michigan,Saginaw,48601,5,4,2683.59,2683.59,2683.59,0,4,0,0,0
 Lot's O' Nuts,United States,Ohio,Marion,43302,5,5,2678.98,2678.98,2678.98,0,5,0,0,0
-Lot's O' Nuts,United States,Michigan,Lansing,48911,5,3,2612.13,2612.13,2612.13,0,5,0,0,0
+Lot's O' Nuts,United States,Michigan,Lansing,48911,5,3,2612.13,2612.13,2612.13,0,3,0,0,0
 Secret Factory,United States,Washington,Seattle,98105,5,5,2587.62,2587.62,2587.62,0,5,0,0,0
 Lot's O' Nuts,United States,Michigan,Grand Rapids,49505,5,5,2537.64,2537.64,2537.64,0,5,0,0,0
-Lot's O' Nuts,United States,Alabama,Auburn,36830,5,4,2452.82,2452.82,2452.82,0,5,0,0,0
-Lot's O' Nuts,United States,Wisconsin,Franklin,53132,5,3,2352.78,2352.78,2352.78,0,5,0,0,0
+Lot's O' Nuts,United States,Alabama,Auburn,36830,5,4,2452.82,2452.82,2452.82,0,4,0,0,0
+Lot's O' Nuts,United States,Wisconsin,Franklin,53132,5,3,2352.78,2352.78,2352.78,0,3,0,0,0
 Lot's O' Nuts,United States,Tennessee,Smyrna,37167,5,5,2334.43,2334.43,2334.43,0,0,0,0,5
-Wicked Choccy's,United States,Colorado,Broomfield,80020,5,3,2317.26,2317.26,2317.26,0,5,0,0,0
+Wicked Choccy's,United States,Colorado,Broomfield,80020,5,3,2317.26,2317.26,2317.26,0,3,0,0,0
 Lot's O' Nuts,United States,Illinois,Naperville,60540,5,5,2299.22,2299.22,2299.22,0,5,0,0,0
-Lot's O' Nuts,United States,Illinois,Bloomington,61701,5,4,2190.68,2190.68,2190.68,0,5,0,0,0
-Wicked Choccy's,United States,New Mexico,Carlsbad,88220,5,4,2171.92,2171.92,2171.92,0,5,0,0,0
-Lot's O' Nuts,United States,Minnesota,Roseville,55113,5,3,2091.34,2091.34,2091.34,0,5,0,0,0
-Lot's O' Nuts,United States,Mississippi,Southaven,38671,5,4,2019.1,2019.1,2019.1,0,5,0,0,0
-Lot's O' Nuts,United States,North Dakota,Fargo,58103,5,4,2003.18,2003.18,2003.18,0,5,0,0,0
+Lot's O' Nuts,United States,Illinois,Bloomington,61701,5,4,2190.68,2190.68,2190.68,0,4,0,0,0
+Wicked Choccy's,United States,New Mexico,Carlsbad,88220,5,4,2171.92,2171.92,2171.92,0,4,0,0,0
+Lot's O' Nuts,United States,Minnesota,Roseville,55113,5,3,2091.34,2091.34,2091.34,0,3,0,0,0
+Lot's O' Nuts,United States,Mississippi,Southaven,38671,5,4,2019.1,2019.1,2019.1,0,4,0,0,0
+Lot's O' Nuts,United States,North Dakota,Fargo,58103,5,4,2003.18,2003.18,2003.18,0,4,0,0,0
 Sugar Shack,United States,New York,New York City,10011,5,5,1933.82,1933.82,1933.82,0,5,0,0,0
 Lot's O' Nuts,United States,Washington,Edmonds,98026,5,5,1882.31,1882.31,1882.31,0,5,0,0,0
-Lot's O' Nuts,United States,Iowa,Des Moines,50315,5,4,1868.08,1868.08,1868.08,0,5,0,0,0
-Lot's O' Nuts,United States,Missouri,Columbia,65203,5,4,1867.7,1867.7,1867.7,0,5,0,0,0
-Wicked Choccy's,United States,Minnesota,Eagan,55122,5,4,1760.44,1760.44,1760.44,0,5,0,0,0
+Lot's O' Nuts,United States,Iowa,Des Moines,50315,5,4,1868.08,1868.08,1868.08,0,4,0,0,0
+Lot's O' Nuts,United States,Missouri,Columbia,65203,5,4,1867.7,1867.7,1867.7,0,4,0,0,0
+Wicked Choccy's,United States,Minnesota,Eagan,55122,5,4,1760.44,1760.44,1760.44,0,4,0,0,0
 Lot's O' Nuts,United States,Nebraska,Fremont,68025,5,5,1650.19,1650.19,1650.19,0,5,0,0,0
 Wicked Choccy's,United States,Texas,Corpus Christi,78415,5,5,1644.39,1644.39,1644.39,0,5,0,0,0
 Wicked Choccy's,United States,Vermont,Burlington,5401,5,5,1538.88,1538.88,1538.88,0,5,0,0,0
 Wicked Choccy's,United States,New Hampshire,Dover,3820,5,5,1526.6,1526.6,1526.6,0,5,0,0,0
-Wicked Choccy's,United States,New Hampshire,Concord,3301,5,4,1494.09,1494.09,1494.09,0,5,0,0,0
+Wicked Choccy's,United States,New Hampshire,Concord,3301,5,4,1494.09,1494.09,1494.09,0,4,0,0,0
 Wicked Choccy's,United States,New York,Watertown,13601,5,5,1398.1,1398.1,1398.1,0,5,0,0,0
-Secret Factory,United States,New York,New York City,10024,5,4,1389.56,1389.56,1389.56,0,5,0,0,0
+Secret Factory,United States,New York,New York City,10024,5,4,1389.56,1389.56,1389.56,0,4,0,0,0
 Lot's O' Nuts,United States,Texas,Round Rock,78664,5,5,1361.06,1361.06,1361.06,0,5,0,0,0
-Wicked Choccy's,United States,New York,Troy,12180,5,2,1352.71,1352.71,1352.71,0,5,0,0,0
-Wicked Choccy's,United States,Connecticut,Manchester,6040,5,4,1319.31,1319.31,1319.31,0,5,0,0,0
-Wicked Choccy's,United States,Michigan,Midland,48640,5,4,1313.07,1313.07,1313.07,0,5,0,0,0
+Wicked Choccy's,United States,New York,Troy,12180,5,2,1352.71,1352.71,1352.71,0,2,0,0,0
+Wicked Choccy's,United States,Connecticut,Manchester,6040,5,4,1319.31,1319.31,1319.31,0,4,0,0,0
+Wicked Choccy's,United States,Michigan,Midland,48640,5,4,1313.07,1313.07,1313.07,0,4,0,0,0
 Secret Factory,United States,Pennsylvania,Philadelphia,19140,5,5,1307.35,1307.35,1307.35,0,5,0,0,0
 Secret Factory,United States,Pennsylvania,Philadelphia,19143,5,5,1302.44,1302.44,1302.44,0,5,0,0,0
 Wicked Choccy's,United States,Connecticut,Middletown,6457,5,5,1293.4,1293.4,1293.4,0,5,0,0,0
-Wicked Choccy's,United States,Missouri,Columbia,65203,5,3,1272.53,1272.53,1272.53,0,5,0,0,0
+Wicked Choccy's,United States,Missouri,Columbia,65203,5,3,1272.53,1272.53,1272.53,0,3,0,0,0
 Wicked Choccy's,United States,Illinois,Skokie,60076,5,5,1253.6,1253.6,1253.6,0,5,0,0,0
-Wicked Choccy's,United States,Illinois,Bolingbrook,60440,5,3,1236.75,1236.75,1236.75,0,5,0,0,0
+Wicked Choccy's,United States,Illinois,Bolingbrook,60440,5,3,1236.75,1236.75,1236.75,0,3,0,0,0
 Wicked Choccy's,United States,New York,Hempstead,11550,5,5,1168.28,1168.28,1168.28,0,5,0,0,0
-Wicked Choccy's,United States,New Jersey,Belleville,7109,5,4,1150.12,1150.12,1150.12,0,5,0,0,0
-Wicked Choccy's,United States,Michigan,Trenton,48183,5,4,1134.74,1134.74,1134.74,0,5,0,0,0
+Wicked Choccy's,United States,New Jersey,Belleville,7109,5,4,1150.12,1150.12,1150.12,0,4,0,0,0
+Wicked Choccy's,United States,Michigan,Trenton,48183,5,4,1134.74,1134.74,1134.74,0,4,0,0,0
 Lot's O' Nuts,United States,California,Vallejo,94591,5,5,1109.54,1109.54,1109.54,0,5,0,0,0
-Lot's O' Nuts,United States,California,Fairfield,94533,5,2,1102.73,1102.73,1102.73,0,5,0,0,0
+Lot's O' Nuts,United States,California,Fairfield,94533,5,2,1102.73,1102.73,1102.73,0,2,0,0,0
 Lot's O' Nuts,United States,California,Concord,94521,5,5,1083.44,1083.44,1083.44,0,5,0,0,0
 Wicked Choccy's,United States,Louisiana,Lafayette,70506,5,5,1064.73,1064.73,1064.73,0,5,0,0,0
 Wicked Choccy's,United States,Louisiana,Monroe,71203,5,5,1037.24,1037.24,1037.24,0,0,0,0,5
-Wicked Choccy's,United States,Ohio,Medina,44256,5,4,1010.7,1010.7,1010.7,0,5,0,0,0
-Wicked Choccy's,United States,Pennsylvania,Chester,19013,5,4,1005.25,1005.25,1005.25,0,5,0,0,0
+Wicked Choccy's,United States,Ohio,Medina,44256,5,4,1010.7,1010.7,1010.7,0,4,0,0,0
+Wicked Choccy's,United States,Pennsylvania,Chester,19013,5,4,1005.25,1005.25,1005.25,0,4,0,0,0
 Lot's O' Nuts,United States,California,Salinas,93905,5,5,993.24,993.24,993.24,0,5,0,0,0
-Lot's O' Nuts,United States,Colorado,Parker,80134,5,2,966.15,966.15,966.15,0,5,0,0,0
+Lot's O' Nuts,United States,Colorado,Parker,80134,5,2,966.15,966.15,966.15,0,2,0,0,0
 Wicked Choccy's,United States,Ohio,Troy,45373,5,5,928.47,928.47,928.47,0,5,0,0,0
-Wicked Choccy's,United States,Kentucky,Georgetown,40324,5,4,752.38,752.38,752.38,0,5,0,0,0
-Wicked Choccy's,United States,Virginia,Hampton,23666,5,4,699.25,699.25,699.25,0,5,0,0,0
+Wicked Choccy's,United States,Kentucky,Georgetown,40324,5,4,752.38,752.38,752.38,0,4,0,0,0
+Wicked Choccy's,United States,Virginia,Hampton,23666,5,4,699.25,699.25,699.25,0,4,0,0,0
 Wicked Choccy's,United States,Florida,Hialeah,33012,5,5,694.84,694.84,694.84,0,5,0,0,0
-Wicked Choccy's,United States,Tennessee,Columbia,38401,5,3,675.49,675.49,675.49,0,5,0,0,0
-Wicked Choccy's,United States,Virginia,Suffolk,23434,5,4,662.2,662.2,662.2,0,5,0,0,0
+Wicked Choccy's,United States,Tennessee,Columbia,38401,5,3,675.49,675.49,675.49,0,3,0,0,0
+Wicked Choccy's,United States,Virginia,Suffolk,23434,5,4,662.2,662.2,662.2,0,4,0,0,0
 Wicked Choccy's,United States,Virginia,Salem,24153,5,5,587.79,587.79,587.79,0,5,0,0,0
 Lot's O' Nuts,United States,California,Huntington Beach,92646,5,5,582.87,582.87,582.87,0,5,0,0,0
-Lot's O' Nuts,United States,California,Costa Mesa,92627,5,4,577.96,577.96,577.96,0,5,0,0,0
+Lot's O' Nuts,United States,California,Costa Mesa,92627,5,4,577.96,577.96,577.96,0,4,0,0,0
 Lot's O' Nuts,United States,New Mexico,Albuquerque,87105,5,5,531.47,531.47,531.47,0,5,0,0,0
-Lot's O' Nuts,United States,California,San Bernardino,92404,5,4,528.16,528.16,528.16,0,5,0,0,0
-Wicked Choccy's,United States,Tennessee,Johnson City,37604,5,4,488.33,488.33,488.33,0,5,0,0,0
+Lot's O' Nuts,United States,California,San Bernardino,92404,5,4,528.16,528.16,528.16,0,4,0,0,0
+Wicked Choccy's,United States,Tennessee,Johnson City,37604,5,4,488.33,488.33,488.33,0,4,0,0,0
 Wicked Choccy's,United States,North Carolina,Burlington,27217,5,5,472.07,472.07,472.07,0,5,0,0,0
 Wicked Choccy's,United States,North Carolina,Greensboro,27405,5,5,465.44,465.44,465.44,0,5,0,0,0
-Wicked Choccy's,United States,Georgia,Smyrna,30080,5,4,376.46,376.46,376.46,0,5,0,0,0
-Wicked Choccy's,United States,North Carolina,Concord,28027,5,4,372.02,372.02,372.02,0,5,0,0,0
-Wicked Choccy's,United States,Florida,Tallahassee,32303,5,4,353.69,353.69,353.69,0,5,0,0,0
-Lot's O' Nuts,United States,Arizona,Scottsdale,85254,5,4,69.66,69.66,69.66,0,5,0,0,0
+Wicked Choccy's,United States,Georgia,Smyrna,30080,5,4,376.46,376.46,376.46,0,4,0,0,0
+Wicked Choccy's,United States,North Carolina,Concord,28027,5,4,372.02,372.02,372.02,0,4,0,0,0
+Wicked Choccy's,United States,Florida,Tallahassee,32303,5,4,353.69,353.69,353.69,0,4,0,0,0
+Lot's O' Nuts,United States,Arizona,Scottsdale,85254,5,4,69.66,69.66,69.66,0,4,0,0,0
 Lot's O' Nuts,Canada,New Brunswick,Moncton,E1A,4,4,4219.6,4219.6,4219.6,0,4,0,0,0
-Wicked Choccy's,United States,California,Fairfield,94533,4,3,3752.15,3752.15,3752.15,0,4,0,0,0
+Wicked Choccy's,United States,California,Fairfield,94533,4,3,3752.15,3752.15,3752.15,0,3,0,0,0
 Lot's O' Nuts,Canada,Quebec,Quebec City,G1B,4,4,3741.09,3741.09,3741.09,0,4,0,0,0
 Lot's O' Nuts,United States,New Hampshire,Dover,3820,4,4,3718.99,3718.99,3718.99,0,4,0,0,0
-Wicked Choccy's,United States,California,Roseville,95661,4,3,3683.82,3683.82,3683.82,0,4,0,0,0
+Wicked Choccy's,United States,California,Roseville,95661,4,3,3683.82,3683.82,3683.82,0,3,0,0,0
 Wicked Choccy's,United States,California,Santa Barbara,93101,4,4,3579.2,3579.2,3579.2,0,4,0,0,0
-Lot's O' Nuts,United States,Connecticut,Middletown,6457,4,3,3562.39,3562.39,3562.39,0,4,0,0,0
-Lot's O' Nuts,Canada,Quebec,Montreal,H1C,4,2,3537.06,3537.06,3537.06,0,4,0,0,0
+Lot's O' Nuts,United States,Connecticut,Middletown,6457,4,3,3562.39,3562.39,3562.39,0,3,0,0,0
+Lot's O' Nuts,Canada,Quebec,Montreal,H1C,4,2,3537.06,3537.06,3537.06,0,2,0,0,0
 Wicked Choccy's,United States,California,Oxnard,93030,4,4,3532.79,3532.79,3532.79,0,4,0,0,0
-Lot's O' Nuts,United States,Connecticut,Milford,6460,4,2,3526.77,3526.77,3526.77,0,4,0,0,0
-Wicked Choccy's,United States,California,Bakersfield,93309,4,3,3509.54,3509.54,3509.54,0,4,0,0,0
+Lot's O' Nuts,United States,Connecticut,Milford,6460,4,2,3526.77,3526.77,3526.77,0,2,0,0,0
+Wicked Choccy's,United States,California,Bakersfield,93309,4,3,3509.54,3509.54,3509.54,0,3,0,0,0
 Wicked Choccy's,United States,Washington,Spokane,99207,4,4,3506.14,3506.14,3506.14,0,4,0,0,0
 Lot's O' Nuts,United States,New York,Freeport,11520,4,4,3479.85,3479.85,3479.85,0,4,0,0,0
 Wicked Choccy's,United States,California,Westminster,92683,4,4,3431.79,3431.79,3431.79,0,4,0,0,0
 Wicked Choccy's,Canada,Alberta,Calgary,T2C,4,4,3413.05,3413.05,3413.05,0,4,0,0,0
-Wicked Choccy's,United States,California,Pomona,91767,4,3,3403.94,3403.94,3403.94,0,4,0,0,0
-Wicked Choccy's,United States,California,Oceanside,92054,4,3,3381.49,3381.49,3381.49,0,4,0,0,0
-Wicked Choccy's,United States,California,Riverside,92503,4,3,3379.19,3379.19,3379.19,0,4,0,0,0
-Wicked Choccy's,United States,California,San Bernardino,92404,4,3,3359.6,3359.6,3359.6,0,4,0,0,0
-Lot's O' Nuts,United States,New Jersey,Vineland,8360,4,3,3353.97,3353.97,3353.97,0,4,0,0,0
-Lot's O' Nuts,United States,New York,Rome,13440,4,3,3350.31,3350.31,3350.31,0,4,0,0,0
-Lot's O' Nuts,United States,Pennsylvania,Allentown,18103,4,3,3320.21,3320.21,3320.21,0,4,0,0,0
-Lot's O' Nuts,United States,Maryland,Rockville,20852,4,3,3169.95,3169.95,3169.95,0,4,0,0,0
-Lot's O' Nuts,United States,Florida,Plantation,33317,4,3,3131.62,3131.62,3131.62,0,4,0,0,0
+Wicked Choccy's,United States,California,Pomona,91767,4,3,3403.94,3403.94,3403.94,0,3,0,0,0
+Wicked Choccy's,United States,California,Oceanside,92054,4,3,3381.49,3381.49,3381.49,0,3,0,0,0
+Wicked Choccy's,United States,California,Riverside,92503,4,3,3379.19,3379.19,3379.19,0,3,0,0,0
+Wicked Choccy's,United States,California,San Bernardino,92404,4,3,3359.6,3359.6,3359.6,0,3,0,0,0
+Lot's O' Nuts,United States,New Jersey,Vineland,8360,4,3,3353.97,3353.97,3353.97,0,3,0,0,0
+Lot's O' Nuts,United States,New York,Rome,13440,4,3,3350.31,3350.31,3350.31,0,3,0,0,0
+Lot's O' Nuts,United States,Pennsylvania,Allentown,18103,4,3,3320.21,3320.21,3320.21,0,3,0,0,0
+Lot's O' Nuts,United States,Maryland,Rockville,20852,4,3,3169.95,3169.95,3169.95,0,3,0,0,0
+Lot's O' Nuts,United States,Florida,Plantation,33317,4,3,3131.62,3131.62,3131.62,0,3,0,0,0
 Lot's O' Nuts,United States,Florida,Tamarac,33319,4,4,3128.91,3128.91,3128.91,0,4,0,0,0
 Lot's O' Nuts,United States,North Carolina,Wilson,27893,4,4,3106.07,3106.07,3106.07,0,4,0,0,0
 Lot's O' Nuts,Canada,Ontario,Toronto,M2N,4,4,3046.38,3046.38,3046.38,0,0,4,0,0
 Lot's O' Nuts,United States,North Carolina,Cary,27511,4,4,3032.27,3032.27,3032.27,0,4,0,0,0
-Lot's O' Nuts,United States,Virginia,Harrisonburg,22801,4,3,3018.79,3018.79,3018.79,0,4,0,0,0
+Lot's O' Nuts,United States,Virginia,Harrisonburg,22801,4,3,3018.79,3018.79,3018.79,0,3,0,0,0
 The Other Factory,United States,California,San Francisco,94122,4,4,2907.59,2907.59,2907.59,0,4,0,0,0
 Wicked Choccy's,United States,Utah,Salt Lake City,84106,4,4,2898.74,2898.74,2898.74,0,4,0,0,0
-Wicked Choccy's,United States,Arizona,Tempe,85281,4,3,2877.53,2877.53,2877.53,0,4,0,0,0
+Wicked Choccy's,United States,Arizona,Tempe,85281,4,3,2877.53,2877.53,2877.53,0,3,0,0,0
 Lot's O' Nuts,United States,North Carolina,Monroe,28110,4,4,2872.62,2872.62,2872.62,0,4,0,0,0
-Lot's O' Nuts,United States,Ohio,Mentor,44060,4,2,2847.06,2847.06,2847.06,0,4,0,0,0
-Lot's O' Nuts,United States,Ohio,Medina,44256,4,3,2794.65,2794.65,2794.65,0,4,0,0,0
+Lot's O' Nuts,United States,Ohio,Mentor,44060,4,2,2847.06,2847.06,2847.06,0,2,0,0,0
+Lot's O' Nuts,United States,Ohio,Medina,44256,4,3,2794.65,2794.65,2794.65,0,3,0,0,0
 Secret Factory,United States,California,San Francisco,94122,4,4,2748.23,2748.23,2748.23,0,4,0,0,0
-Lot's O' Nuts,United States,Michigan,Dearborn,48126,4,2,2711.78,2711.78,2711.78,0,4,0,0,0
-Lot's O' Nuts,United States,Michigan,Dearborn Heights,48127,4,2,2706.29,2706.29,2706.29,0,4,0,0,0
-Lot's O' Nuts,United States,Ohio,Bowling Green,43402,4,3,2651.38,2651.38,2651.38,0,4,0,0,0
-Lot's O' Nuts,United States,Georgia,Athens,30605,4,3,2632.79,2632.79,2632.79,0,4,0,0,0
+Lot's O' Nuts,United States,Michigan,Dearborn,48126,4,2,2711.78,2711.78,2711.78,0,2,0,0,0
+Lot's O' Nuts,United States,Michigan,Dearborn Heights,48127,4,2,2706.29,2706.29,2706.29,0,2,0,0,0
+Lot's O' Nuts,United States,Ohio,Bowling Green,43402,4,3,2651.38,2651.38,2651.38,0,3,0,0,0
+Lot's O' Nuts,United States,Georgia,Athens,30605,4,3,2632.79,2632.79,2632.79,0,3,0,0,0
 Secret Factory,United States,California,Los Angeles,90049,4,4,2573.15,2573.15,2573.15,0,4,0,0,0
-Lot's O' Nuts,United States,Indiana,New Albany,47150,4,2,2413.83,2413.83,2413.83,0,4,0,0,0
+Lot's O' Nuts,United States,Indiana,New Albany,47150,4,2,2413.83,2413.83,2413.83,0,2,0,0,0
 Lot's O' Nuts,United States,Alabama,Montgomery,36116,4,4,2388.48,2388.48,2388.48,0,4,0,0,0
-Lot's O' Nuts,United States,Illinois,Des Plaines,60016,4,3,2328.94,2328.94,2328.94,0,4,0,0,0
-Lot's O' Nuts,United States,Alabama,Hoover,35244,4,3,2318.62,2318.62,2318.62,0,4,0,0,0
-Lot's O' Nuts,United States,Illinois,Saint Charles,60174,4,3,2315.3,2315.3,2315.3,0,0,0,0,4
+Lot's O' Nuts,United States,Illinois,Des Plaines,60016,4,3,2328.94,2328.94,2328.94,0,3,0,0,0
+Lot's O' Nuts,United States,Alabama,Hoover,35244,4,3,2318.62,2318.62,2318.62,0,3,0,0,0
+Lot's O' Nuts,United States,Illinois,Saint Charles,60174,4,3,2315.3,2315.3,2315.3,0,0,0,0,3
 Lot's O' Nuts,United States,Illinois,Rockford,61107,4,4,2250.28,2250.28,2250.28,0,4,0,0,0
-Wicked Choccy's,Canada,Prince Edward Island,Charlottetown,C0A,4,2,2220.66,2220.66,2220.66,0,0,4,0,0
+Wicked Choccy's,Canada,Prince Edward Island,Charlottetown,C0A,4,2,2220.66,2220.66,2220.66,0,0,2,0,0
 Lot's O' Nuts,United States,Wisconsin,Eau Claire,54703,4,4,2189.15,2189.15,2189.15,0,4,0,0,0
 Lot's O' Nuts,United States,Illinois,Peoria,61604,4,4,2146.63,2146.63,2146.63,0,4,0,0,0
 Wicked Choccy's,Canada,New Brunswick,Moncton,E1A,4,4,2091.07,2091.07,2091.07,0,4,0,0,0
 Lot's O' Nuts,United States,Minnesota,Lakeville,55044,4,4,2064.41,2064.41,2064.41,0,4,0,0,0
 Lot's O' Nuts,Canada,British Columbia,Vancouver,V6G,4,4,2054.03,2054.03,2054.03,0,0,4,0,0
 Lot's O' Nuts,Canada,British Columbia,Vancouver,V6Z,4,4,2050.97,2050.97,2050.97,0,0,4,0,0
-Lot's O' Nuts,United States,Iowa,Marion,52302,4,3,2044.1,2044.1,2044.1,0,4,0,0,0
+Lot's O' Nuts,United States,Iowa,Marion,52302,4,3,2044.1,2044.1,2044.1,0,3,0,0,0
 Lot's O' Nuts,United States,Missouri,Saint Louis,63116,4,4,2036.33,2036.33,2036.33,0,4,0,0,0
-Lot's O' Nuts,United States,Arkansas,Jonesboro,72401,4,3,1958.72,1958.72,1958.72,0,4,0,0,0
-Wicked Choccy's,United States,Texas,Amarillo,79109,4,3,1950.98,1950.98,1950.98,0,4,0,0,0
+Lot's O' Nuts,United States,Arkansas,Jonesboro,72401,4,3,1958.72,1958.72,1958.72,0,3,0,0,0
+Wicked Choccy's,United States,Texas,Amarillo,79109,4,3,1950.98,1950.98,1950.98,0,3,0,0,0
 Lot's O' Nuts,United States,Washington,Bellevue,98006,4,4,1850.97,1850.97,1850.97,0,4,0,0,0
-Wicked Choccy's,United States,Texas,Laredo,78041,4,3,1842.37,1842.37,1842.37,0,4,0,0,0
-Lot's O' Nuts,United States,Washington,Des Moines,98198,4,3,1841.88,1841.88,1841.88,0,4,0,0,0
+Wicked Choccy's,United States,Texas,Laredo,78041,4,3,1842.37,1842.37,1842.37,0,3,0,0,0
+Lot's O' Nuts,United States,Washington,Des Moines,98198,4,3,1841.88,1841.88,1841.88,0,3,0,0,0
 Lot's O' Nuts,United States,Texas,Brownsville,78521,4,4,1583.75,1583.75,1583.75,0,4,0,0,0
-Lot's O' Nuts,United States,Oregon,Eugene,97405,4,3,1580.17,1580.17,1580.17,0,4,0,0,0
-Lot's O' Nuts,United States,Texas,Pharr,78577,4,3,1508.27,1508.27,1508.27,0,4,0,0,0
-Lot's O' Nuts,United States,Texas,Bryan,77803,4,3,1473.84,1473.84,1473.84,0,4,0,0,0
-Lot's O' Nuts,United States,Texas,Mesquite,75150,4,3,1413.35,1413.35,1413.35,0,4,0,0,0
+Lot's O' Nuts,United States,Oregon,Eugene,97405,4,3,1580.17,1580.17,1580.17,0,3,0,0,0
+Lot's O' Nuts,United States,Texas,Pharr,78577,4,3,1508.27,1508.27,1508.27,0,3,0,0,0
+Lot's O' Nuts,United States,Texas,Bryan,77803,4,3,1473.84,1473.84,1473.84,0,3,0,0,0
+Lot's O' Nuts,United States,Texas,Mesquite,75150,4,3,1413.35,1413.35,1413.35,0,3,0,0,0
 Secret Factory,United States,New York,New York City,10009,4,4,1390.13,1390.13,1390.13,0,4,0,0,0
 Secret Factory,United States,New York,New York City,10011,4,4,1388.33,1388.33,1388.33,0,4,0,0,0
 Lot's O' Nuts,United States,Texas,Waco,76706,4,4,1385.24,1385.24,1385.24,0,4,0,0,0
@@ -563,33 +563,33 @@ Secret Factory,United States,Pennsylvania,Philadelphia,19134,4,4,1310.67,1310.67
 Secret Factory,United States,Pennsylvania,Philadelphia,19120,4,4,1308.94,1308.94,1308.94,0,4,0,0,0
 Wicked Choccy's,Canada,Ontario,Toronto,M5H,4,4,1295.4,1295.4,1295.4,0,0,4,0,0
 Wicked Choccy's,United States,Arkansas,Fayetteville,72701,4,4,1279.44,1279.44,1279.44,0,4,0,0,0
-Lot's O' Nuts,United States,Idaho,Boise,83704,4,3,1257.59,1257.59,1257.59,0,4,0,0,0
+Lot's O' Nuts,United States,Idaho,Boise,83704,4,3,1257.59,1257.59,1257.59,0,3,0,0,0
 Secret Factory,United States,Colorado,Denver,80219,4,4,1236.09,1236.09,1236.09,0,4,0,0,0
 Wicked Choccy's,United States,Michigan,Roseville,48066,4,4,1170.97,1170.97,1170.97,0,4,0,0,0
-Wicked Choccy's,United States,New Jersey,East Orange,7017,4,3,1144.31,1144.31,1144.31,0,4,0,0,0
+Wicked Choccy's,United States,New Jersey,East Orange,7017,4,3,1144.31,1144.31,1144.31,0,3,0,0,0
 Lot's O' Nuts,United States,Idaho,Pocatello,83201,4,4,1113.17,1113.17,1113.17,0,4,0,0,0
-Wicked Choccy's,United States,Ohio,Bowling Green,43402,4,3,1058.83,1058.83,1058.83,0,4,0,0,0
+Wicked Choccy's,United States,Ohio,Bowling Green,43402,4,3,1058.83,1058.83,1058.83,0,3,0,0,0
 Wicked Choccy's,United States,Ohio,Lorain,44052,4,4,1047.79,1047.79,1047.79,0,4,0,0,0
 Wicked Choccy's,United States,New Jersey,Vineland,8360,4,4,988.37,988.37,988.37,0,4,0,0,0
-Lot's O' Nuts,United States,Texas,Odessa,79762,4,3,891.17,891.17,891.17,0,4,0,0,0
+Lot's O' Nuts,United States,Texas,Odessa,79762,4,3,891.17,891.17,891.17,0,3,0,0,0
 Lot's O' Nuts,United States,Colorado,Pueblo,81001,4,4,886.52,886.52,886.52,0,4,0,0,0
-Lot's O' Nuts,United States,Utah,Salt Lake City,84106,4,2,870.16,870.16,870.16,0,4,0,0,0
-Lot's O' Nuts,United States,Utah,West Jordan,84084,4,3,860.78,860.78,860.78,0,4,0,0,0
-Lot's O' Nuts,United States,Utah,Pleasant Grove,84062,4,3,833.67,833.67,833.67,0,4,0,0,0
+Lot's O' Nuts,United States,Utah,Salt Lake City,84106,4,2,870.16,870.16,870.16,0,2,0,0,0
+Lot's O' Nuts,United States,Utah,West Jordan,84084,4,3,860.78,860.78,860.78,0,3,0,0,0
+Lot's O' Nuts,United States,Utah,Pleasant Grove,84062,4,3,833.67,833.67,833.67,0,3,0,0,0
 Lot's O' Nuts,United States,Utah,Orem,84057,4,4,826.76,826.76,826.76,0,4,0,0,0
 Wicked Choccy's,United States,Tennessee,Clarksville,37042,4,4,766.01,766.01,766.01,0,4,0,0,0
 Wicked Choccy's,United States,Florida,Miami,33142,4,4,701.36,701.36,701.36,0,4,0,0,0
-Lot's O' Nuts,United States,California,Oxnard,93030,4,3,701.14,701.14,701.14,0,4,0,0,0
-Wicked Choccy's,United States,Virginia,Newport News,23602,4,3,698.91,698.91,698.91,0,4,0,0,0
-Lot's O' Nuts,United States,California,Camarillo,93010,4,3,691.63,691.63,691.63,0,4,0,0,0
-Wicked Choccy's,United States,Alabama,Mobile,36608,4,3,691.3,691.3,691.3,0,4,0,0,0
-Wicked Choccy's,United States,Alabama,Florence,35630,4,3,681.79,681.79,681.79,0,4,0,0,0
+Lot's O' Nuts,United States,California,Oxnard,93030,4,3,701.14,701.14,701.14,0,3,0,0,0
+Wicked Choccy's,United States,Virginia,Newport News,23602,4,3,698.91,698.91,698.91,0,3,0,0,0
+Lot's O' Nuts,United States,California,Camarillo,93010,4,3,691.63,691.63,691.63,0,3,0,0,0
+Wicked Choccy's,United States,Alabama,Mobile,36608,4,3,691.3,691.3,691.3,0,3,0,0,0
+Wicked Choccy's,United States,Alabama,Florence,35630,4,3,681.79,681.79,681.79,0,3,0,0,0
 Wicked Choccy's,United States,Florida,Fort Lauderdale,33311,4,4,668.37,668.37,668.37,0,4,0,0,0
 Secret Factory,United States,Ohio,Columbus,43229,4,4,657.36,657.36,657.36,0,4,0,0,0
 Lot's O' Nuts,United States,California,Oceanside,92054,4,4,522.13,522.13,522.13,0,4,0,0,0
 Wicked Choccy's,United States,North Carolina,Greenville,27834,4,4,519.66,519.66,519.66,0,4,0,0,0
-Lot's O' Nuts,United States,California,Encinitas,92024,4,2,513.53,513.53,513.53,0,4,0,0,0
-Wicked Choccy's,United States,Alabama,Montgomery,36116,4,3,483.3,483.3,483.3,0,4,0,0,0
+Lot's O' Nuts,United States,California,Encinitas,92024,4,2,513.53,513.53,513.53,0,2,0,0,0
+Wicked Choccy's,United States,Alabama,Montgomery,36116,4,3,483.3,483.3,483.3,0,3,0,0,0
 Wicked Choccy's,United States,Georgia,Marietta,30062,4,4,384.28,384.28,384.28,0,4,0,0,0
 Wicked Choccy's,United States,North Carolina,Wilmington,28403,4,4,382.22,382.22,382.22,0,4,0,0,0
 Wicked Choccy's,United States,Florida,Deltona,32725,4,4,353.16,353.16,353.16,0,4,0,0,0
@@ -597,24 +597,24 @@ Wicked Choccy's,United States,North Carolina,Monroe,28110,4,4,331.0,331.0,331.0,
 Wicked Choccy's,United States,Georgia,Athens,30605,4,4,294.07,294.07,294.07,0,4,0,0,0
 Secret Factory,United States,Illinois,Chicago,60610,4,4,248.59,248.59,248.59,0,4,0,0,0
 Lot's O' Nuts,United States,Maine,Bangor,4401,3,3,3900.38,3900.38,3900.38,0,3,0,0,0
-Wicked Choccy's,United States,Washington,Des Moines,98198,3,2,3856.78,3856.78,3856.78,0,3,0,0,0
+Wicked Choccy's,United States,Washington,Des Moines,98198,3,2,3856.78,3856.78,3856.78,0,2,0,0,0
 Wicked Choccy's,United States,Washington,Vancouver,98661,3,3,3847.42,3847.42,3847.42,0,3,0,0,0
-Lot's O' Nuts,United States,Maine,Lewiston,4240,3,2,3779.41,3779.41,3779.41,0,3,0,0,0
-Wicked Choccy's,United States,California,Santa Clara,95051,3,2,3754.24,3754.24,3754.24,0,3,0,0,0
+Lot's O' Nuts,United States,Maine,Lewiston,4240,3,2,3779.41,3779.41,3779.41,0,2,0,0,0
+Wicked Choccy's,United States,California,Santa Clara,95051,3,2,3754.24,3754.24,3754.24,0,2,0,0,0
 Wicked Choccy's,United States,California,Concord,94521,3,3,3750.84,3750.84,3750.84,0,3,0,0,0
 Wicked Choccy's,United States,California,Chico,95928,3,3,3733.64,3733.64,3733.64,0,3,0,0,0
-Wicked Choccy's,United States,California,Morgan Hill,95037,3,2,3727.71,3727.71,3727.71,0,3,0,0,0
-Wicked Choccy's,United States,California,Salinas,93905,3,2,3726.41,3726.41,3726.41,0,3,0,0,0
-Lot's O' Nuts,United States,Massachusetts,New Bedford,2740,3,2,3705.34,3705.34,3705.34,0,3,0,0,0
+Wicked Choccy's,United States,California,Morgan Hill,95037,3,2,3727.71,3727.71,3727.71,0,2,0,0,0
+Wicked Choccy's,United States,California,Salinas,93905,3,2,3726.41,3726.41,3726.41,0,2,0,0,0
+Lot's O' Nuts,United States,Massachusetts,New Bedford,2740,3,2,3705.34,3705.34,3705.34,0,2,0,0,0
 Lot's O' Nuts,United States,Massachusetts,Cambridge,2138,3,3,3694.62,3694.62,3694.62,0,3,0,0,0
-Lot's O' Nuts,United States,Massachusetts,Andover,1810,3,2,3693.4,3693.4,3693.4,0,3,0,0,0
+Lot's O' Nuts,United States,Massachusetts,Andover,1810,3,2,3693.4,3693.4,3693.4,0,2,0,0,0
 Wicked Choccy's,United States,California,Stockton,95207,3,3,3689.22,3689.22,3689.22,0,3,0,0,0
 Lot's O' Nuts,United States,Rhode Island,Woonsocket,2895,3,3,3658.83,3658.83,3658.83,0,3,0,0,0
 Wicked Choccy's,United States,Washington,Pasco,99301,3,3,3591.73,3591.73,3591.73,0,3,0,0,0
-Lot's O' Nuts,United States,New Jersey,Passaic,7055,3,2,3435.12,3435.12,3435.12,0,3,0,0,0
+Lot's O' Nuts,United States,New Jersey,Passaic,7055,3,2,3435.12,3435.12,3435.12,0,2,0,0,0
 Lot's O' Nuts,United States,New Jersey,Orange,7050,3,3,3426.45,3426.45,3426.45,0,3,0,0,0
-Wicked Choccy's,United States,California,Lake Forest,92630,3,2,3405.33,3405.33,3405.33,0,3,0,0,0
-Wicked Choccy's,United States,California,Mission Viejo,92691,3,2,3403.49,3403.49,3403.49,0,3,0,0,0
+Wicked Choccy's,United States,California,Lake Forest,92630,3,2,3405.33,3405.33,3405.33,0,2,0,0,0
+Wicked Choccy's,United States,California,Mission Viejo,92691,3,2,3403.49,3403.49,3403.49,0,2,0,0,0
 Wicked Choccy's,United States,California,Rancho Cucamonga,91730,3,3,3389.99,3389.99,3389.99,0,3,0,0,0
 Wicked Choccy's,United States,California,Hesperia,92345,3,3,3361.18,3361.18,3361.18,0,3,0,0,0
 Wicked Choccy's,United States,California,Moreno Valley,92553,3,3,3360.54,3360.54,3360.54,0,3,0,0,0
@@ -624,7 +624,7 @@ Lot's O' Nuts,United States,Delaware,Dover,19901,3,3,3311.33,3311.33,3311.33,0,3
 Lot's O' Nuts,United States,Pennsylvania,Reading,19601,3,3,3279.53,3279.53,3279.53,0,3,0,0,0
 Wicked Choccy's,United States,Nevada,Las Vegas,89115,3,3,3151.85,3151.85,3151.85,0,3,0,0,0
 Lot's O' Nuts,United States,Virginia,Waynesboro,22980,3,3,3013.71,3013.71,3013.71,0,3,0,0,0
-The Other Factory,United States,Washington,Seattle,98103,3,2,3009.63,3009.63,3009.63,0,3,0,0,0
+The Other Factory,United States,Washington,Seattle,98103,3,2,3009.63,3009.63,3009.63,0,2,0,0,0
 Wicked Choccy's,United States,Idaho,Pocatello,83201,3,3,2993.04,2993.04,2993.04,0,3,0,0,0
 Wicked Choccy's,United States,Arizona,Avondale,85323,3,3,2913.52,2913.52,2913.52,0,3,0,0,0
 Lot's O' Nuts,United States,North Carolina,Thomasville,27360,3,3,2913.22,2913.22,2913.22,0,3,0,0,0
@@ -632,48 +632,48 @@ Wicked Choccy's,United States,Utah,Pleasant Grove,84062,3,3,2883.35,2883.35,2883
 Lot's O' Nuts,United States,North Carolina,Concord,28027,3,3,2864.14,2864.14,2864.14,0,3,0,0,0
 Lot's O' Nuts,United States,Ohio,Kent,44240,3,3,2835.12,2835.12,2835.12,0,3,0,0,0
 Lot's O' Nuts,United States,Ohio,Cuyahoga Falls,44221,3,3,2824.87,2824.87,2824.87,0,3,0,0,0
-Lot's O' Nuts,United States,North Carolina,Gastonia,28052,3,2,2815.95,2815.95,2815.95,0,3,0,0,0
+Lot's O' Nuts,United States,North Carolina,Gastonia,28052,3,2,2815.95,2815.95,2815.95,0,2,0,0,0
 Lot's O' Nuts,United States,Michigan,Taylor,48180,3,3,2703.33,2703.33,2703.33,0,3,0,0,0
-Lot's O' Nuts,United States,Michigan,Ann Arbor,48104,3,2,2666.82,2666.82,2666.82,0,3,0,0,0
+Lot's O' Nuts,United States,Michigan,Ann Arbor,48104,3,2,2666.82,2666.82,2666.82,0,2,0,0,0
 Lot's O' Nuts,United States,Georgia,Macon,31204,3,3,2616.09,2616.09,2616.09,0,3,0,0,0
 Secret Factory,United States,Washington,Seattle,98103,3,3,2591.02,2591.02,2591.02,0,3,0,0,0
 Lot's O' Nuts,United States,Kentucky,Georgetown,40324,3,3,2523.23,2523.23,2523.23,0,3,0,0,0
-Lot's O' Nuts,United States,Georgia,Marietta,30062,3,2,2521.62,2521.62,2521.62,0,3,0,0,0
-Lot's O' Nuts,United States,Indiana,South Bend,46614,3,2,2447.49,2447.49,2447.49,0,3,0,0,0
+Lot's O' Nuts,United States,Georgia,Marietta,30062,3,2,2521.62,2521.62,2521.62,0,2,0,0,0
+Lot's O' Nuts,United States,Indiana,South Bend,46614,3,2,2447.49,2447.49,2447.49,0,2,0,0,0
 Lot's O' Nuts,United States,Illinois,Park Ridge,60068,3,3,2333.1,2333.1,2333.1,0,3,0,0,0
 Lot's O' Nuts,United States,Wisconsin,Wausau,54401,3,3,2322.98,2322.98,2322.98,0,3,0,0,0
 Lot's O' Nuts,United States,Illinois,Carol Stream,60188,3,3,2306.42,2306.42,2306.42,0,3,0,0,0
-Wicked Choccy's,United States,Colorado,Parker,80134,3,2,2283.14,2283.14,2283.14,0,3,0,0,0
+Wicked Choccy's,United States,Colorado,Parker,80134,3,2,2283.14,2283.14,2283.14,0,2,0,0,0
 Lot's O' Nuts,United States,Illinois,Oswego,60543,3,3,2283.02,2283.02,2283.02,0,3,0,0,0
-Lot's O' Nuts,United States,Wisconsin,Superior,54880,3,2,2265.65,2265.65,2265.65,0,3,0,0,0
+Lot's O' Nuts,United States,Wisconsin,Superior,54880,3,2,2265.65,2265.65,2265.65,0,2,0,0,0
 Lot's O' Nuts,United States,Tennessee,Clarksville,37042,3,3,2257.04,2257.04,2257.04,0,3,0,0,0
 Wicked Choccy's,United States,Colorado,Pueblo,81001,3,3,2235.49,2235.49,2235.49,0,3,0,0,0
 Lot's O' Nuts,United States,Illinois,Freeport,61032,3,3,2204.08,2204.08,2204.08,0,3,0,0,0
 Lot's O' Nuts,United States,Minnesota,Eagan,55122,3,3,2075.56,2075.56,2075.56,0,3,0,0,0
-Lot's O' Nuts,United States,Minnesota,Saint Cloud,56301,3,2,2058.7,2058.7,2058.7,0,3,0,0,0
+Lot's O' Nuts,United States,Minnesota,Saint Cloud,56301,3,2,2058.7,2058.7,2058.7,0,2,0,0,0
 Lot's O' Nuts,United States,Missouri,Saint Charles,63301,3,3,2021.74,2021.74,2021.74,0,3,0,0,0
 Wicked Choccy's,United States,Texas,Lubbock,79424,3,3,1951.17,1951.17,1951.17,0,3,0,0,0
 Wicked Choccy's,United States,Kansas,Garden City,67846,3,3,1909.88,1909.88,1909.88,0,3,0,0,0
 Lot's O' Nuts,United States,Washington,Kent,98031,3,3,1838.26,1838.26,1838.26,0,3,0,0,0
 Lot's O' Nuts,United States,Washington,Olympia,98502,3,3,1836.02,1836.02,1836.02,0,0,0,0,3
 Lot's O' Nuts,United States,Arkansas,Hot Springs,71901,3,3,1741.32,1741.32,1741.32,0,3,0,0,0
-Wicked Choccy's,United States,Texas,Brownsville,78521,3,2,1730.12,1730.12,1730.12,0,3,0,0,0
+Wicked Choccy's,United States,Texas,Brownsville,78521,3,2,1730.12,1730.12,1730.12,0,2,0,0,0
 Wicked Choccy's,United States,Nebraska,Fremont,68025,3,3,1718.06,1718.06,1718.06,0,3,0,0,0
 Lot's O' Nuts,United States,Washington,Spokane,99207,3,3,1713.32,1713.32,1713.32,0,3,0,0,0
 Lot's O' Nuts,United States,Texas,Beaumont,77705,3,3,1698.01,1698.01,1698.01,0,3,0,0,0
-Lot's O' Nuts,United States,Oregon,Hillsboro,97123,3,2,1697.78,1697.78,1697.78,0,3,0,0,0
+Lot's O' Nuts,United States,Oregon,Hillsboro,97123,3,2,1697.78,1697.78,1697.78,0,2,0,0,0
 Lot's O' Nuts,United States,Kansas,Overland Park,66212,3,3,1676.53,1676.53,1676.53,0,3,0,0,0
 Lot's O' Nuts,United States,Oregon,Gresham,97030,3,3,1674.5,1674.5,1674.5,0,3,0,0,0
 Lot's O' Nuts,United States,Kansas,Olathe,66062,3,3,1666.31,1666.31,1666.31,0,3,0,0,0
 Wicked Choccy's,United States,Oklahoma,Lawton,73505,3,3,1636.24,1636.24,1636.24,0,3,0,0,0
-Lot's O' Nuts,United States,Montana,Great Falls,59405,3,2,1625.55,1625.55,1625.55,0,3,0,0,0
+Lot's O' Nuts,United States,Montana,Great Falls,59405,3,2,1625.55,1625.55,1625.55,0,2,0,0,0
 Lot's O' Nuts,United States,Washington,Pasco,99301,3,3,1611.38,1611.38,1611.38,0,3,0,0,0
 Wicked Choccy's,United States,Wisconsin,La Crosse,54601,3,3,1574.6,1574.6,1574.6,0,3,0,0,0
 Lot's O' Nuts,United States,Texas,Harlingen,78550,3,3,1548.69,1548.69,1548.69,0,3,0,0,0
 Lot's O' Nuts,United States,Texas,Tyler,75701,3,3,1542.76,1542.76,1542.76,0,3,0,0,0
 The Other Factory,United States,New York,New York City,10035,3,3,1538.18,1538.18,1538.18,0,0,0,0,3
 The Other Factory,United States,New York,New York City,10009,3,3,1531.96,1531.96,1531.96,0,3,0,0,0
-Wicked Choccy's,United States,Texas,Bedford,76021,3,2,1506.27,1506.27,1506.27,0,3,0,0,0
+Wicked Choccy's,United States,Texas,Bedford,76021,3,2,1506.27,1506.27,1506.27,0,2,0,0,0
 Lot's O' Nuts,United States,Oklahoma,Broken Arrow,74012,3,3,1502.97,1502.97,1502.97,0,3,0,0,0
 Lot's O' Nuts,United States,Texas,Corpus Christi,78415,3,3,1490.38,1490.38,1490.38,0,3,0,0,0
 Wicked Choccy's,United States,Texas,Allen,75002,3,3,1462.96,1462.96,1462.96,0,0,0,3,0
@@ -682,56 +682,56 @@ Wicked Choccy's,United States,Massachusetts,Cambridge,2138,3,3,1443.66,1443.66,1
 Wicked Choccy's,United States,Massachusetts,Quincy,2169,3,3,1439.49,1439.49,1439.49,0,3,0,0,0
 Lot's O' Nuts,United States,Oregon,Medford,97504,3,3,1431.66,1431.66,1431.66,0,3,0,0,0
 Wicked Choccy's,United States,Wisconsin,Madison,53711,3,3,1423.12,1423.12,1423.12,0,3,0,0,0
-Wicked Choccy's,United States,Massachusetts,Leominster,1453,3,2,1423.1,1423.1,1423.1,0,3,0,0,0
+Wicked Choccy's,United States,Massachusetts,Leominster,1453,3,2,1423.1,1423.1,1423.1,0,2,0,0,0
 The Other Factory,United States,Pennsylvania,Philadelphia,19134,3,3,1415.41,1415.41,1415.41,0,3,0,0,0
-Lot's O' Nuts,United States,Texas,Garland,75043,3,2,1414.97,1414.97,1414.97,0,3,0,0,0
+Lot's O' Nuts,United States,Texas,Garland,75043,3,2,1414.97,1414.97,1414.97,0,2,0,0,0
 Secret Factory,United States,Texas,Houston,77036,3,3,1380.27,1380.27,1380.27,0,3,0,0,0
 Lot's O' Nuts,United States,Texas,Coppell,75019,3,3,1378.08,1378.08,1378.08,0,3,0,0,0
 Wicked Choccy's,United States,Oklahoma,Muskogee,74403,3,3,1375.26,1375.26,1375.26,0,3,0,0,0
 Secret Factory,United States,Texas,Pasadena,77506,3,3,1370.92,1370.92,1370.92,0,3,0,0,0
 Secret Factory,United States,Texas,Houston,77041,3,3,1369.57,1369.57,1369.57,0,0,0,0,3
-Lot's O' Nuts,United States,Texas,San Marcos,78666,3,1,1352.51,1352.51,1352.51,0,3,0,0,0
-Wicked Choccy's,United States,New York,Utica,13501,3,2,1327.6,1327.6,1327.6,0,3,0,0,0
-Wicked Choccy's,United States,Wisconsin,Kenosha,53142,3,2,1311.84,1311.84,1311.84,0,3,0,0,0
+Lot's O' Nuts,United States,Texas,San Marcos,78666,3,1,1352.51,1352.51,1352.51,0,1,0,0,0
+Wicked Choccy's,United States,New York,Utica,13501,3,2,1327.6,1327.6,1327.6,0,2,0,0,0
+Wicked Choccy's,United States,Wisconsin,Kenosha,53142,3,2,1311.84,1311.84,1311.84,0,2,0,0,0
 Wicked Choccy's,United States,Connecticut,Meriden,6450,3,3,1283.54,1283.54,1283.54,0,3,0,0,0
 Wicked Choccy's,United States,Illinois,Quincy,62301,3,3,1270.61,1270.61,1270.61,0,3,0,0,0
-Lot's O' Nuts,United States,Idaho,Meridian,83642,3,2,1256.45,1256.45,1256.45,0,3,0,0,0
+Lot's O' Nuts,United States,Idaho,Meridian,83642,3,2,1256.45,1256.45,1256.45,0,2,0,0,0
 Wicked Choccy's,United States,Illinois,Naperville,60540,3,3,1246.53,1246.53,1246.53,0,3,0,0,0
-Wicked Choccy's,United States,Illinois,Peoria,61604,3,2,1226.13,1226.13,1226.13,0,3,0,0,0
-Wicked Choccy's,United States,New York,Buffalo,14215,3,2,1223.78,1223.78,1223.78,0,3,0,0,0
-Wicked Choccy's,United States,Michigan,Lansing,48911,3,2,1217.74,1217.74,1217.74,0,3,0,0,0
+Wicked Choccy's,United States,Illinois,Peoria,61604,3,2,1226.13,1226.13,1226.13,0,2,0,0,0
+Wicked Choccy's,United States,New York,Buffalo,14215,3,2,1223.78,1223.78,1223.78,0,2,0,0,0
+Wicked Choccy's,United States,Michigan,Lansing,48911,3,2,1217.74,1217.74,1217.74,0,2,0,0,0
 The Other Factory,United States,Virginia,Springfield,22153,3,3,1205.24,1205.24,1205.24,0,0,0,0,3
-Wicked Choccy's,United States,Louisiana,Bossier City,71111,3,2,1186.01,1186.01,1186.01,0,3,0,0,0
+Wicked Choccy's,United States,Louisiana,Bossier City,71111,3,2,1186.01,1186.01,1186.01,0,2,0,0,0
 Secret Factory,United States,Virginia,Springfield,22153,3,3,1177.82,1177.82,1177.82,0,0,0,0,3
-Wicked Choccy's,United States,New York,Mount Vernon,10550,3,2,1175.6,1175.6,1175.6,0,3,0,0,0
+Wicked Choccy's,United States,New York,Mount Vernon,10550,3,2,1175.6,1175.6,1175.6,0,2,0,0,0
 Wicked Choccy's,United States,Illinois,Bloomington,61701,3,3,1171.58,1171.58,1171.58,0,3,0,0,0
-Wicked Choccy's,United States,Indiana,South Bend,46614,3,2,1156.99,1156.99,1156.99,0,3,0,0,0
-Wicked Choccy's,United States,New Jersey,Passaic,7055,3,2,1156.9,1156.9,1156.9,0,3,0,0,0
+Wicked Choccy's,United States,Indiana,South Bend,46614,3,2,1156.99,1156.99,1156.99,0,2,0,0,0
+Wicked Choccy's,United States,New Jersey,Passaic,7055,3,2,1156.9,1156.9,1156.9,0,2,0,0,0
 Wicked Choccy's,United States,New Jersey,Orange,7050,3,3,1144.38,1144.38,1144.38,0,3,0,0,0
 Wicked Choccy's,United States,New Jersey,Plainfield,7060,3,3,1121.22,1121.22,1121.22,0,3,0,0,0
-Wicked Choccy's,United States,Pennsylvania,Allentown,18103,3,1,1070.23,1070.23,1070.23,0,3,0,0,0
-Lot's O' Nuts,United States,California,Sunnyvale,94086,3,2,1056.95,1056.95,1056.95,0,3,0,0,0
+Wicked Choccy's,United States,Pennsylvania,Allentown,18103,3,1,1070.23,1070.23,1070.23,0,1,0,0,0
+Lot's O' Nuts,United States,California,Sunnyvale,94086,3,2,1056.95,1056.95,1056.95,0,2,0,0,0
 Lot's O' Nuts,United States,California,Santa Clara,95051,3,3,1052.73,1052.73,1052.73,0,3,0,0,0
 Wicked Choccy's,United States,New Jersey,Westfield,7090,3,3,1031.36,1031.36,1031.36,0,0,0,0,3
 Lot's O' Nuts,United States,California,Stockton,95207,3,3,1028.64,1028.64,1028.64,0,3,0,0,0
 Wicked Choccy's,United States,Ohio,Hamilton,45011,3,3,1028.05,1028.05,1028.05,0,0,0,0,3
-Lot's O' Nuts,United States,Nevada,Reno,89502,3,2,1027.49,1027.49,1027.49,0,3,0,0,0
-Lot's O' Nuts,United States,Colorado,Thornton,80229,3,2,985.15,985.15,985.15,0,3,0,0,0
-Lot's O' Nuts,United States,Utah,Logan,84321,3,2,984.74,984.74,984.74,0,3,0,0,0
-Lot's O' Nuts,United States,Colorado,Arvada,80004,3,2,973.76,973.76,973.76,0,3,0,0,0
+Lot's O' Nuts,United States,Nevada,Reno,89502,3,2,1027.49,1027.49,1027.49,0,2,0,0,0
+Lot's O' Nuts,United States,Colorado,Thornton,80229,3,2,985.15,985.15,985.15,0,2,0,0,0
+Lot's O' Nuts,United States,Utah,Logan,84321,3,2,984.74,984.74,984.74,0,2,0,0,0
+Lot's O' Nuts,United States,Colorado,Arvada,80004,3,2,973.76,973.76,973.76,0,2,0,0,0
 Wicked Choccy's,United States,Indiana,Lawrence,46226,3,3,970.39,970.39,970.39,0,3,0,0,0
-Wicked Choccy's,United States,Pennsylvania,York,17403,3,2,957.91,957.91,957.91,0,3,0,0,0
-Lot's O' Nuts,United States,Texas,Lubbock,79424,3,2,917.94,917.94,917.94,0,3,0,0,0
-Wicked Choccy's,United States,Ohio,Dublin,43017,3,2,910.46,910.46,910.46,0,3,0,0,0
+Wicked Choccy's,United States,Pennsylvania,York,17403,3,2,957.91,957.91,957.91,0,2,0,0,0
+Lot's O' Nuts,United States,Texas,Lubbock,79424,3,2,917.94,917.94,917.94,0,2,0,0,0
+Wicked Choccy's,United States,Ohio,Dublin,43017,3,2,910.46,910.46,910.46,0,2,0,0,0
 Wicked Choccy's,United States,Tennessee,Jackson,38301,3,3,814.63,814.63,814.63,0,3,0,0,0
 The Other Factory,United States,Texas,Houston,77041,3,3,781.7,781.7,781.7,0,0,0,0,3
 Lot's O' Nuts,United States,California,Santa Barbara,93101,3,3,754.35,754.35,754.35,0,3,0,0,0
 Wicked Choccy's,United States,Virginia,Harrisonburg,22801,3,3,734.42,734.42,734.42,0,3,0,0,0
 Wicked Choccy's,United States,Tennessee,Hendersonville,37075,3,3,692.55,692.55,692.55,0,3,0,0,0
-Wicked Choccy's,United States,Florida,Pompano Beach,33068,3,2,655.89,655.89,655.89,0,3,0,0,0
+Wicked Choccy's,United States,Florida,Pompano Beach,33068,3,2,655.89,655.89,655.89,0,2,0,0,0
 Wicked Choccy's,United States,Florida,Coral Springs,33065,3,3,649.79,649.79,649.79,0,3,0,0,0
 Wicked Choccy's,United States,Tennessee,Murfreesboro,37130,3,3,642.88,642.88,642.88,0,3,0,0,0
-Lot's O' Nuts,United States,California,Burbank,91505,3,1,625.9,625.9,625.9,0,3,0,0,0
+Lot's O' Nuts,United States,California,Burbank,91505,3,1,625.9,625.9,625.9,0,1,0,0,0
 Wicked Choccy's,United States,Florida,Boynton Beach,33437,3,3,624.85,624.85,624.85,0,0,0,3,0
 Lot's O' Nuts,United States,California,Lancaster,93534,3,3,622.22,622.22,622.22,0,3,0,0,0
 Lot's O' Nuts,United States,California,Torrance,90503,3,3,621.22,621.22,621.22,0,3,0,0,0
@@ -742,12 +742,12 @@ Lot's O' Nuts,United States,California,Laguna Niguel,92677,3,3,556.62,556.62,556
 Lot's O' Nuts,United States,California,Apple Valley,92307,3,3,537.16,537.16,537.16,0,3,0,0,0
 Secret Factory,United States,Michigan,Jackson,49201,3,3,521.53,521.53,521.53,0,3,0,0,0
 Wicked Choccy's,United States,Tennessee,Bristol,37620,3,3,509.42,509.42,509.42,0,3,0,0,0
-Lot's O' Nuts,United States,California,Temecula,92592,3,2,498.39,498.39,498.39,0,3,0,0,0
+Lot's O' Nuts,United States,California,Temecula,92592,3,2,498.39,498.39,498.39,0,2,0,0,0
 Lot's O' Nuts,United States,California,Escondido,92025,3,3,494.96,494.96,494.96,0,3,0,0,0
 Wicked Choccy's,United States,North Carolina,Durham,27707,3,3,474.98,474.98,474.98,0,3,0,0,0
-Wicked Choccy's,United States,Florida,Orlando,32839,3,2,393.96,393.96,393.96,0,3,0,0,0
+Wicked Choccy's,United States,Florida,Orlando,32839,3,2,393.96,393.96,393.96,0,2,0,0,0
 Wicked Choccy's,United States,Georgia,Roswell,30076,3,3,371.04,371.04,371.04,0,3,0,0,0
-Wicked Choccy's,United States,Florida,Daytona Beach,32114,3,2,319.56,319.56,319.56,0,3,0,0,0
+Wicked Choccy's,United States,Florida,Daytona Beach,32114,3,2,319.56,319.56,319.56,0,2,0,0,0
 Secret Factory,United States,Wisconsin,Milwaukee,53209,3,3,284.52,284.52,284.52,0,3,0,0,0
 Lot's O' Nuts,United States,Arizona,Yuma,85364,3,3,268.84,268.84,268.84,0,3,0,0,0
 Wicked Choccy's,United States,Georgia,Macon,31204,3,3,257.22,257.22,257.22,0,3,0,0,0
@@ -766,16 +766,16 @@ Wicked Choccy's,United States,Washington,Renton,98059,2,2,3846.13,3846.13,3846.1
 Wicked Choccy's,United States,Washington,Covington,98042,2,2,3841.61,3841.61,3841.61,0,2,0,0,0
 Wicked Choccy's,United States,Oregon,Gresham,97030,2,2,3830.3,3830.3,3830.3,0,2,0,0,0
 Wicked Choccy's,United States,California,Danville,94526,2,2,3752.06,3752.06,3752.06,0,2,0,0,0
-Lot's O' Nuts,United States,Massachusetts,Beverly,1915,2,1,3714.18,3714.18,3714.18,0,2,0,0,0
+Lot's O' Nuts,United States,Massachusetts,Beverly,1915,2,1,3714.18,3714.18,3714.18,0,1,0,0,0
 Wicked Choccy's,United States,Oregon,Redmond,97756,2,2,3713.52,3713.52,3713.52,0,2,0,0,0
 Wicked Choccy's,United States,California,Modesto,95351,2,2,3666.67,3666.67,3666.67,0,2,0,0,0
 Lot's O' Nuts,United States,Massachusetts,Leominster,1453,2,2,3641.79,3641.79,3641.79,0,2,0,0,0
 Lot's O' Nuts,United States,Connecticut,Norwich,6360,2,2,3610.0,3610.0,3610.0,0,2,0,0,0
 Lot's O' Nuts,Canada,Quebec,Montreal,H1B,2,2,3537.06,3537.06,3537.06,0,2,0,0,0
-Wicked Choccy's,United States,California,Visalia,93277,2,1,3526.24,3526.24,3526.24,0,2,0,0,0
+Wicked Choccy's,United States,California,Visalia,93277,2,1,3526.24,3526.24,3526.24,0,1,0,0,0
 Wicked Choccy's,United States,California,Thousand Oaks,91360,2,2,3506.52,3506.52,3506.52,0,2,0,0,0
 Wicked Choccy's,Canada,Alberta,Edmonton,T5A,2,2,3505.63,3505.63,3505.63,0,0,2,0,0
-Wicked Choccy's,United States,California,Redondo Beach,90278,2,1,3465.1,3465.1,3465.1,0,2,0,0,0
+Wicked Choccy's,United States,California,Redondo Beach,90278,2,1,3465.1,3465.1,3465.1,0,1,0,0,0
 Lot's O' Nuts,United States,New York,New Rochelle,10801,2,2,3464.46,3464.46,3464.46,0,2,0,0,0
 Wicked Choccy's,United States,California,Lakewood,90712,2,2,3444.12,3444.12,3444.12,0,2,0,0,0
 Wicked Choccy's,United States,California,Lancaster,93534,2,2,3433.33,3433.33,3433.33,0,2,0,0,0
@@ -784,7 +784,7 @@ Lot's O' Nuts,United States,New Jersey,Perth Amboy,8861,2,2,3421.35,3421.35,3421
 Wicked Choccy's,Canada,Alberta,Calgary,T1Y,2,2,3407.77,3407.77,3407.77,0,0,2,0,0
 Lot's O' Nuts,United States,New Jersey,New Brunswick,8901,2,2,3406.8,3406.8,3406.8,0,2,0,0,0
 Wicked Choccy's,United States,California,Chula Vista,91911,2,2,3362.48,3362.48,3362.48,0,2,0,0,0
-Wicked Choccy's,United States,Idaho,Caldwell,83605,2,1,3346.54,3346.54,3346.54,0,2,0,0,0
+Wicked Choccy's,United States,Idaho,Caldwell,83605,2,1,3346.54,3346.54,3346.54,0,1,0,0,0
 Lot's O' Nuts,United States,Pennsylvania,York,17403,2,2,3211.64,3211.64,3211.64,0,2,0,0,0
 Lot's O' Nuts,United States,Florida,Hollywood,33021,2,2,3138.72,3138.72,3138.72,0,2,0,0,0
 Lot's O' Nuts,United States,Florida,Port Saint Lucie,34952,2,2,3079.07,3079.07,3079.07,0,2,0,0,0
@@ -807,29 +807,29 @@ Lot's O' Nuts,United States,Georgia,Warner Robins,31088,2,2,2625.88,2625.88,2625
 The Other Factory,United States,California,Los Angeles,90045,2,2,2598.13,2598.13,2598.13,0,2,0,0,0
 Secret Factory,United States,Washington,Seattle,98115,2,2,2587.81,2587.81,2587.81,0,2,0,0,0
 Secret Factory,United States,California,Los Angeles,90032,2,2,2549.0,2549.0,2549.0,0,2,0,0,0
-Lot's O' Nuts,United States,Georgia,East Point,30344,2,1,2533.1,2533.1,2533.1,0,2,0,0,0
+Lot's O' Nuts,United States,Georgia,East Point,30344,2,1,2533.1,2533.1,2533.1,0,1,0,0,0
 Lot's O' Nuts,United States,Michigan,Holland,49423,2,2,2494.32,2494.32,2494.32,0,2,0,0,0
 Lot's O' Nuts,United States,Indiana,Elkhart,46514,2,2,2471.9,2471.9,2471.9,0,2,0,0,0
-Lot's O' Nuts,United States,Indiana,Noblesville,46060,2,1,2428.79,2428.79,2428.79,0,2,0,0,0
+Lot's O' Nuts,United States,Indiana,Noblesville,46060,2,1,2428.79,2428.79,2428.79,0,1,0,0,0
 Lot's O' Nuts,United States,Wisconsin,Green Bay,54302,2,2,2422.17,2422.17,2422.17,0,2,0,0,0
 Wicked Choccy's,Canada,Manitoba,Winnipeg,R3R,2,2,2388.31,2388.31,2388.31,0,0,2,0,0
 Wicked Choccy's,United States,New Mexico,Rio Rancho,87124,2,2,2387.15,2387.15,2387.15,0,2,0,0,0
 Lot's O' Nuts,United States,Tennessee,Lebanon,37087,2,2,2355.57,2355.57,2355.57,0,0,0,0,2
 Lot's O' Nuts,United States,Illinois,Evanston,60201,2,2,2345.35,2345.35,2345.35,0,2,0,0,0
-Wicked Choccy's,United States,South Dakota,Rapid City,57701,2,1,2339.94,2339.94,2339.94,0,2,0,0,0
+Wicked Choccy's,United States,South Dakota,Rapid City,57701,2,1,2339.94,2339.94,2339.94,0,1,0,0,0
 Sugar Shack,United States,Florida,Jacksonville,32216,2,2,2339.54,2339.54,2339.54,0,2,0,0,0
 Lot's O' Nuts,United States,Alabama,Huntsville,35810,2,2,2327.76,2327.76,2327.76,0,2,0,0,0
 Lot's O' Nuts,United States,Tennessee,Hendersonville,37075,2,2,2327.46,2327.46,2327.46,0,2,0,0,0
 Lot's O' Nuts,United States,Illinois,Elmhurst,60126,2,2,2320.57,2320.57,2320.57,0,2,0,0,0
 Lot's O' Nuts,United States,Illinois,Frankfort,60423,2,2,2314.0,2314.0,2314.0,0,2,0,0,0
-Wicked Choccy's,United States,Colorado,Englewood,80112,2,1,2303.64,2303.64,2303.64,0,0,0,2,0
+Wicked Choccy's,United States,Colorado,Englewood,80112,2,1,2303.64,2303.64,2303.64,0,0,0,1,0
 Lot's O' Nuts,United States,Illinois,Woodstock,60098,2,2,2297.48,2297.48,2297.48,0,2,0,0,0
 Lot's O' Nuts,United States,Kentucky,Owensboro,42301,2,2,2291.41,2291.41,2291.41,0,2,0,0,0
 Lot's O' Nuts,United States,Alabama,Tuscaloosa,35401,2,2,2251.35,2251.35,2251.35,0,2,0,0,0
 Lot's O' Nuts,Canada,Manitoba,Winnipeg,R3R,2,2,2232.25,2232.25,2232.25,0,0,2,0,0
 Lot's O' Nuts,United States,Iowa,Dubuque,52001,2,2,2133.62,2133.62,2133.62,0,2,0,0,0
 Lot's O' Nuts,United States,Mississippi,Hattiesburg,39401,2,2,2119.81,2119.81,2119.81,0,2,0,0,0
-Wicked Choccy's,United States,North Dakota,Fargo,58103,2,1,2119.36,2119.36,2119.36,0,2,0,0,0
+Wicked Choccy's,United States,North Dakota,Fargo,58103,2,1,2119.36,2119.36,2119.36,0,1,0,0,0
 Wicked Choccy's,United States,Minnesota,Moorhead,56560,2,2,2113.84,2113.84,2113.84,0,2,0,0,0
 Lot's O' Nuts,United States,Minnesota,Woodbury,55125,2,2,2098.6,2098.6,2098.6,0,2,0,0,0
 Lot's O' Nuts,United States,Minnesota,Saint Paul,55106,2,2,2094.46,2094.46,2094.46,0,2,0,0,0
@@ -840,7 +840,7 @@ Secret Factory,United States,Arizona,Gilbert,85234,2,2,2067.48,2067.48,2067.48,0
 Lot's O' Nuts,United States,Louisiana,Kenner,70065,2,2,2061.66,2061.66,2061.66,0,2,0,0,0
 Lot's O' Nuts,Canada,British Columbia,Vancouver,V5K,2,2,2048.48,2048.48,2048.48,0,0,2,0,0
 Lot's O' Nuts,United States,Iowa,Burlington,52601,2,2,2031.29,2031.29,2031.29,0,2,0,0,0
-Secret Factory,United States,Florida,Miramar,33023,2,1,1963.84,1963.84,1963.84,0,2,0,0,0
+Secret Factory,United States,Florida,Miramar,33023,2,1,1963.84,1963.84,1963.84,0,1,0,0,0
 Sugar Shack,United States,New York,New York City,10024,2,2,1932.81,1932.81,1932.81,0,2,0,0,0
 Sugar Shack,United States,Pennsylvania,Philadelphia,19143,2,2,1897.44,1897.44,1897.44,0,2,0,0,0
 Lot's O' Nuts,United States,Washington,Redmond,98052,2,2,1860.84,1860.84,1860.84,0,2,0,0,0
@@ -871,8 +871,8 @@ Wicked Choccy's,United States,Texas,College Station,77840,2,2,1456.47,1456.47,14
 Wicked Choccy's,United States,Massachusetts,Revere,2151,2,2,1452.21,1452.21,1452.21,0,2,0,0,0
 Wicked Choccy's,United States,Missouri,Gladstone,64118,2,2,1452.04,1452.04,1452.04,0,2,0,0,0
 Wicked Choccy's,United States,Massachusetts,Malden,2148,2,2,1450.73,1450.73,1450.73,0,2,0,0,0
-Wicked Choccy's,United States,Kansas,Olathe,66062,2,1,1448.89,1448.89,1448.89,0,2,0,0,0
-Wicked Choccy's,United States,Iowa,Marion,52302,2,1,1445.7,1445.7,1445.7,0,2,0,0,0
+Wicked Choccy's,United States,Kansas,Olathe,66062,2,1,1448.89,1448.89,1448.89,0,1,0,0,0
+Wicked Choccy's,United States,Iowa,Marion,52302,2,1,1445.7,1445.7,1445.7,0,1,0,0,0
 Secret Factory,Canada,Quebec,Montreal,H1A,2,2,1440.42,1440.42,1440.42,0,2,0,0,0
 Lot's O' Nuts,United States,Montana,Bozeman,59715,2,2,1424.94,1424.94,1424.94,0,2,0,0,0
 Wicked Choccy's,United States,Oklahoma,Broken Arrow,74012,2,2,1424.26,1424.26,1424.26,0,2,0,0,0
@@ -880,13 +880,13 @@ The Other Factory,United States,Colorado,Denver,80219,2,2,1422.41,1422.41,1422.4
 Wicked Choccy's,United States,Wisconsin,Sheboygan,53081,2,2,1420.37,1420.37,1420.37,0,2,0,0,0
 The Other Factory,United States,Pennsylvania,Philadelphia,19120,2,2,1415.77,1415.77,1415.77,0,2,0,0,0
 Wicked Choccy's,United States,Massachusetts,New Bedford,2740,2,2,1392.97,1392.97,1392.97,0,2,0,0,0
-Lot's O' Nuts,United States,Texas,The Colony,75056,2,1,1387.37,1387.37,1387.37,0,2,0,0,0
+Lot's O' Nuts,United States,Texas,The Colony,75056,2,1,1387.37,1387.37,1387.37,0,1,0,0,0
 Lot's O' Nuts,United States,Texas,Cedar Hill,75104,2,2,1385.61,1385.61,1385.61,0,2,0,0,0
 Wicked Choccy's,United States,Rhode Island,Warwick,2886,2,2,1372.87,1372.87,1372.87,0,0,0,0,2
 Secret Factory,United States,Texas,Houston,77095,2,2,1369.57,1369.57,1369.57,0,0,0,0,2
 Lot's O' Nuts,United States,Texas,Grapevine,76051,2,2,1369.41,1369.41,1369.41,0,2,0,0,0
 Lot's O' Nuts,United States,Texas,Mansfield,76063,2,2,1368.99,1368.99,1368.99,0,2,0,0,0
-Lot's O' Nuts,United States,Texas,Bedford,76021,2,1,1365.79,1365.79,1365.79,0,2,0,0,0
+Lot's O' Nuts,United States,Texas,Bedford,76021,2,1,1365.79,1365.79,1365.79,0,1,0,0,0
 The Other Factory,United States,Delaware,Newark,19711,2,2,1353.86,1353.86,1353.86,0,2,0,0,0
 Lot's O' Nuts,United States,Oklahoma,Edmond,73034,2,2,1350.55,1350.55,1350.55,0,2,0,0,0
 Wicked Choccy's,United States,Texas,Tyler,75701,2,2,1336.1,1336.1,1336.1,0,2,0,0,0
@@ -899,32 +899,32 @@ Wicked Choccy's,United States,Illinois,Wheeling,60090,2,2,1271.4,1271.4,1271.4,0
 Wicked Choccy's,United States,Texas,Beaumont,77705,2,2,1265.08,1265.08,1265.08,0,2,0,0,0
 Wicked Choccy's,United States,Illinois,Des Plaines,60016,2,2,1261.26,1261.26,1261.26,0,2,0,0,0
 Wicked Choccy's,United States,Illinois,Carol Stream,60188,2,2,1259.66,1259.66,1259.66,0,2,0,0,0
-Wicked Choccy's,United States,Illinois,Evanston,60201,2,1,1254.34,1254.34,1254.34,0,2,0,0,0
+Wicked Choccy's,United States,Illinois,Evanston,60201,2,1,1254.34,1254.34,1254.34,0,1,0,0,0
 Secret Factory,United States,Maryland,Columbia,21044,2,2,1186.73,1186.73,1186.73,0,2,0,0,0
 Wicked Choccy's,United States,Indiana,La Porte,46350,2,2,1172.08,1172.08,1172.08,0,2,0,0,0
 Wicked Choccy's,United States,Louisiana,Lake Charles,70601,2,2,1170.66,1170.66,1170.66,0,2,0,0,0
 Wicked Choccy's,United States,New York,Freeport,11520,2,2,1165.4,1165.4,1165.4,0,2,0,0,0
 Wicked Choccy's,United States,Michigan,Dearborn Heights,48127,2,2,1156.94,1156.94,1156.94,0,2,0,0,0
 Wicked Choccy's,United States,Michigan,Ann Arbor,48104,2,2,1156.79,1156.79,1156.79,0,2,0,0,0
-Wicked Choccy's,United States,New Jersey,Bayonne,7002,2,1,1140.47,1140.47,1140.47,0,2,0,0,0
+Wicked Choccy's,United States,New Jersey,Bayonne,7002,2,1,1140.47,1140.47,1140.47,0,1,0,0,0
 Lot's O' Nuts,United States,Kansas,Garden City,67846,2,2,1140.29,1140.29,1140.29,0,2,0,0,0
 Sugar Shack,United States,Michigan,Jackson,49201,2,2,1132.64,1132.64,1132.64,0,2,0,0,0
 Secret Factory,United States,Alabama,Montgomery,36116,2,2,1085.76,1085.76,1085.76,0,2,0,0,0
-Wicked Choccy's,United States,Pennsylvania,Bethlehem,18018,2,1,1078.03,1078.03,1078.03,0,2,0,0,0
+Wicked Choccy's,United States,Pennsylvania,Bethlehem,18018,2,1,1078.03,1078.03,1078.03,0,1,0,0,0
 Lot's O' Nuts,United States,Texas,San Angelo,76903,2,2,1077.46,1077.46,1077.46,0,2,0,0,0
 Lot's O' Nuts,United States,California,Danville,94526,2,2,1076.3,1076.3,1076.3,0,2,0,0,0
-Wicked Choccy's,United States,Ohio,Mentor,44060,2,1,1068.68,1068.68,1068.68,0,2,0,0,0
+Wicked Choccy's,United States,Ohio,Mentor,44060,2,1,1068.68,1068.68,1068.68,0,1,0,0,0
 Lot's O' Nuts,United States,Colorado,Greeley,80634,2,2,1044.49,1044.49,1044.49,0,2,0,0,0
 Lot's O' Nuts,United States,Nevada,Sparks,89431,2,2,1029.67,1029.67,1029.67,0,2,0,0,0
 Wicked Choccy's,United States,Pennsylvania,Reading,19601,2,2,1029.01,1029.01,1029.01,0,2,0,0,0
 Lot's O' Nuts,United States,Colorado,Loveland,80538,2,2,1028.68,1028.68,1028.68,0,2,0,0,0
-Lot's O' Nuts,United States,California,Manteca,95336,2,1,1018.8,1018.8,1018.8,0,2,0,0,0
+Lot's O' Nuts,United States,California,Manteca,95336,2,1,1018.8,1018.8,1018.8,0,1,0,0,0
 Wicked Choccy's,United States,Ohio,Kent,44240,2,2,1008.51,1008.51,1008.51,0,2,0,0,0
 Lot's O' Nuts,United States,Colorado,Longmont,80501,2,2,1005.9,1005.9,1005.9,0,2,0,0,0
 Wicked Choccy's,United States,Pennsylvania,Lancaster,17602,2,2,984.96,984.96,984.96,0,2,0,0,0
 Wicked Choccy's,United States,New Jersey,Bridgeton,8302,2,2,972.69,972.69,972.69,0,2,0,0,0
-Wicked Choccy's,United States,Pennsylvania,Altoona,16602,2,1,969.19,969.19,969.19,0,2,0,0,0
-Wicked Choccy's,United States,Indiana,Greenwood,46142,2,1,952.1,952.1,952.1,0,0,0,0,2
+Wicked Choccy's,United States,Pennsylvania,Altoona,16602,2,1,969.19,969.19,969.19,0,1,0,0,0
+Wicked Choccy's,United States,Indiana,Greenwood,46142,2,1,952.1,952.1,952.1,0,0,0,0,1
 Wicked Choccy's,United States,West Virginia,Wheeling,26003,2,2,889.39,889.39,889.39,0,2,0,0,0
 Wicked Choccy's,United States,Mississippi,Southaven,38671,2,2,884.84,884.84,884.84,0,2,0,0,0
 Lot's O' Nuts,United States,Utah,Murray,84107,2,2,864.4,864.4,864.4,0,2,0,0,0
@@ -940,15 +940,15 @@ Wicked Choccy's,United States,Tennessee,Smyrna,37167,2,2,662.51,662.51,662.51,0,
 Wicked Choccy's,United States,Florida,Boca Raton,33433,2,2,643.19,643.19,643.19,0,2,0,0,0
 Wicked Choccy's,United States,Florida,Delray Beach,33445,2,2,632.13,632.13,632.13,0,2,0,0,0
 Lot's O' Nuts,United States,New Mexico,Santa Fe,87505,2,2,616.82,616.82,616.82,0,2,0,0,0
-Lot's O' Nuts,United States,California,San Gabriel,91776,2,1,601.81,601.81,601.81,0,2,0,0,0
+Lot's O' Nuts,United States,California,San Gabriel,91776,2,1,601.81,601.81,601.81,0,1,0,0,0
 Wicked Choccy's,United States,Florida,West Palm Beach,33407,2,2,600.84,600.84,600.84,0,2,0,0,0
-Secret Factory,United States,Ohio,Toledo,43615,2,1,585.11,585.11,585.11,0,2,0,0,0
+Secret Factory,United States,Ohio,Toledo,43615,2,1,585.11,585.11,585.11,0,1,0,0,0
 Secret Factory,United States,Ohio,Cincinnati,45231,2,2,575.73,575.73,575.73,0,2,0,0,0
-Lot's O' Nuts,United States,California,Mission Viejo,92691,2,1,554.34,554.34,554.34,0,2,0,0,0
-Lot's O' Nuts,United States,California,San Clemente,92672,2,1,547.45,547.45,547.45,0,2,0,0,0
+Lot's O' Nuts,United States,California,Mission Viejo,92691,2,1,554.34,554.34,554.34,0,1,0,0,0
+Lot's O' Nuts,United States,California,San Clemente,92672,2,1,547.45,547.45,547.45,0,1,0,0,0
 Lot's O' Nuts,United States,New Mexico,Farmington,87401,2,2,539.18,539.18,539.18,0,2,0,0,0
 Wicked Choccy's,United States,Tennessee,Chattanooga,37421,2,2,499.09,499.09,499.09,0,2,0,0,0
-Wicked Choccy's,United States,North Carolina,Wilson,27893,2,1,495.9,495.9,495.9,0,2,0,0,0
+Wicked Choccy's,United States,North Carolina,Wilson,27893,2,1,495.9,495.9,495.9,0,1,0,0,0
 Lot's O' Nuts,United States,California,La Mesa,91941,2,2,489.69,489.69,489.69,0,2,0,0,0
 Lot's O' Nuts,United States,California,El Cajon,92020,2,2,486.26,486.26,486.26,0,2,0,0,0
 Lot's O' Nuts,United States,New Mexico,Las Cruces,88001,2,2,474.26,474.26,474.26,0,2,0,0,0
